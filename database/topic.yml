@@ -6,8 +6,8 @@
   "Defense": '"Defense"'
   
 "Adversarial":
-  "Adversarial": '"Adversarial"'
-  "Attacks": '"Attacks"'
+  "Adversarial": '"Adversarial"OR"Adversary"'
+  "Attack": '"Attack"'
   "backdoor": '"backdoor"'
   "Trojan": '"Trojan"'
   
