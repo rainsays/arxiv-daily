@@ -1,15 +1,16 @@
+"security":
+  "Malicious": '"Malicious"'
+  "Malware": '"Malware"'
+  "Activation": '"Activation"'
+  "security": '"security"'
+  "Defense": '"Defense"'
+  
 "Adversarial":
   "Adversarial": '"Adversarial"'
   "Attacks": '"Attacks"'
   "backdoor": '"backdoor"'
   "Trojan": '"Trojan"'
   
-"security":
-  "Malicious": '"Malicious"'
-  "Malware": '"Malware"'
-  "Activation": '"Activation"'
-  "security": '"security"'
-  "privacy": '"privacy"'
-  "Defense": '"Defense"'
+
 
 
