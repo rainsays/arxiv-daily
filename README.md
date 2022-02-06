@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-02-06 09:34:32 Asia/Shanghai
+ Automated deployment @ 2022-02-06 20:39:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -215,40 +215,6 @@
 |**2022-02-02**|**Quantum Remote Entanglement for Medium-Free Secure Communication?**|Wesley Joon-Wie Tann et.al.|[2202.00830v1](http://arxiv.org/abs/2202.00830v1)|null|
 |**2022-02-01**|**Gromov-Wasserstein Discrepancy with Local Differential Privacy for Distributed Structural Graphs**|Hongwei Jin et.al.|[2202.00808v1](http://arxiv.org/abs/2202.00808v1)|null|
 
-### Malware
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-30**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|[link](https://github.com/shijiansj/deepcatra)|
-|**2022-01-28**|**Agent-based modeling and simulation for malware spreading in D2D networks**|Ziyad Benomar et.al.|[2201.12230v1](http://arxiv.org/abs/2201.12230v1)|null|
-|**2022-01-27**|**A TOCTOU Attack on DICE Attestation**|Stefan Hristozov et.al.|[2201.11764v1](http://arxiv.org/abs/2201.11764v1)|null|
-|**2022-01-26**|**Autonomous Cyber Defense Introduces Risk: Can We Manage the Risk?**|Alexandre K. Ligo et.al.|[2201.11148v1](http://arxiv.org/abs/2201.11148v1)|null|
-|**2022-01-23**|**Efficient and Robust Classification for Sparse Attacks**|Mark Beliaev et.al.|[2201.09369v1](http://arxiv.org/abs/2201.09369v1)|null|
-|**2022-01-20**|**Assembling a Cyber Range to Evaluate Artificial Intelligence / Machine Learning (AI/ML) Security Tools**|Jeffrey A. Nichols et.al.|[2201.08473v1](http://arxiv.org/abs/2201.08473v1)|null|
-|**2022-01-20**|**RoboMal: Malware Detection for Robot Network Systems**|Upinder Kaur et.al.|[2201.08470v1](http://arxiv.org/abs/2201.08470v1)|null|
-|**2022-01-20**|**Android Malware Detection using Feature Ranking of Permissions**|Muhammad Suleman Saleem et.al.|[2201.08468v1](http://arxiv.org/abs/2201.08468v1)|null|
-|**2022-01-19**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v3](http://arxiv.org/abs/2201.07537v3)|null|
-|**2022-01-19**|**Cross-Language Binary-Source Code Matching with Intermediate Representations**|Yi Gui et.al.|[2201.07420v1](http://arxiv.org/abs/2201.07420v1)|[link](https://github.com/CGCL-codes/naturalcc)|
-|**2022-01-14**|**Security Orchestration, Automation, and Response Engine for Deployment of Behavioural Honeypots**|Upendra Bartwal et.al.|[2201.05326v1](http://arxiv.org/abs/2201.05326v1)|null|
-|**2022-01-05**|**Comprehensive Efficiency Analysis of Machine Learning Algorithms for Developing Hardware-Based Cybersecurity Countermeasures**|Darren Cobian et.al.|[2201.07654v1](http://arxiv.org/abs/2201.07654v1)|null|
-|**2022-01-03**|**A Survey on DNS Encryption: Current Development, Malware Misuse, and Inference Techniques**|Minzhao Lyu et.al.|[2201.00900v1](http://arxiv.org/abs/2201.00900v1)|null|
-|**2021-12-27**|**PORTFILER: Port-Level Network Profiling for Self-Propagating Malware Detection**|Talha Ongun et.al.|[2112.13798v1](http://arxiv.org/abs/2112.13798v1)|null|
-|**2021-12-25**|**An Ensemble of Pre-trained Transformer Models For Imbalanced Multiclass Malware Classification**|Ferhat Demirkıran et.al.|[2112.13236v2](http://arxiv.org/abs/2112.13236v2)|[link](https://github.com/Ferhat94/Random-Transformer-Forest)|
-|**2021-12-23**|**Adversarial Attacks against Windows PE Malware Detection: A Survey of the State-of-the-Art**|Xiang Ling et.al.|[2112.12310v1](http://arxiv.org/abs/2112.12310v1)|[link](https://github.com/ryderling/adversarial-attacks-and-defenses-for-windows-pe-malware-detection)|
-|**2021-12-22**|**Semantics-Recovering Decompilation through Neural Machine Translation**|Ruigang Liang et.al.|[2112.15491v1](http://arxiv.org/abs/2112.15491v1)|null|
-|**2021-12-21**|**Longitudinal Study of the Prevalence of Malware Evasive Techniques**|Lorenzo Maffia et.al.|[2112.11289v1](http://arxiv.org/abs/2112.11289v1)|null|
-|**2021-12-20**|**Forensic Issues and Techniques to Improve Security in SSD with Flex Capacity Feature**|Na Young Ahn et.al.|[2112.13923v1](http://arxiv.org/abs/2112.13923v1)|null|
-|**2021-12-20**|**JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis**|Jordan Samhi et.al.|[2112.10469v2](http://arxiv.org/abs/2112.10469v2)|null|
-|**2021-12-19**|**Android-COCO: Android Malware Detection with Graph Neural Network for Byte- and Native-Code**|Peng Xu et.al.|[2112.10038v2](http://arxiv.org/abs/2112.10038v2)|null|
-|**2021-12-19**|**hybrid-Falcon: Hybrid Pattern Malware Detection and Categorization with Network Traffic and Program Code**|Peng Xu et.al.|[2112.10035v2](http://arxiv.org/abs/2112.10035v2)|null|
-|**2021-12-13**|**$μ$Dep: Mutation-based Dependency Generation for Precise Taint Analysis on Android Native Code**|Cong Sun et.al.|[2112.06702v1](http://arxiv.org/abs/2112.06702v1)|[link](https://github.com/suncongxd/mudep)|
-|**2021-12-13**|**FirmwareDroid: Security Analysis of the Android Firmware EcoSystem**|Thomas Sutter et.al.|[2112.08520v1](http://arxiv.org/abs/2112.08520v1)|null|
-|**2021-12-12**|**A new and simple condition for the global asymptotic stability of a malware spread model on WSNs**|Manh Tuan Hoang et.al.|[2112.06285v1](http://arxiv.org/abs/2112.06285v1)|null|
-|**2021-12-10**|**Malware Classification Using Static Disassembly and Machine Learning**|Zhenshuo Chen et.al.|[2201.07649v1](http://arxiv.org/abs/2201.07649v1)|[link](https://github.com/czs108/microsoft-malware-classification)|
-|**2021-12-07**|**Comparative Review of Malware Analysis Methodologies**|Ioannis G. Kiachidis et.al.|[2112.04006v1](http://arxiv.org/abs/2112.04006v1)|null|
-|**2021-12-05**|**Using Static and Dynamic Malware features to perform Malware Ascription**|Jashanpreet Singh Sraw et.al.|[2112.02639v1](http://arxiv.org/abs/2112.02639v1)|null|
-|**2021-12-05**|**On Impact of Semantically Similar Apps in Android Malware Datasets**|Roopak Surendran et.al.|[2112.02606v1](http://arxiv.org/abs/2112.02606v1)|null|
-|**2021-12-03**|**Two-stage Deep Stacked Autoencoder with Shallow Learning for Network Intrusion Detection System**|Nasreen Fathima et.al.|[2112.03704v1](http://arxiv.org/abs/2112.03704v1)|null|
-
 ### Defense
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -282,3 +248,37 @@
 |**2022-01-22**|**Sliding Window Challenge Process for Congestion Detection**|Ayelet Lotem et.al.|[2201.09009v1](http://arxiv.org/abs/2201.09009v1)|null|
 |**2022-01-21**|**FedComm: Federated Learning as a Medium for Covert Communication**|Dorjan Hitaj et.al.|[2201.08786v1](http://arxiv.org/abs/2201.08786v1)|null|
 |**2022-01-20**|**Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios**|Zhen Xiang et.al.|[2201.08474v1](http://arxiv.org/abs/2201.08474v1)|null|
+
+### Malware
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-30**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|[link](https://github.com/shijiansj/deepcatra)|
+|**2022-01-28**|**Agent-based modeling and simulation for malware spreading in D2D networks**|Ziyad Benomar et.al.|[2201.12230v1](http://arxiv.org/abs/2201.12230v1)|null|
+|**2022-01-27**|**A TOCTOU Attack on DICE Attestation**|Stefan Hristozov et.al.|[2201.11764v1](http://arxiv.org/abs/2201.11764v1)|null|
+|**2022-01-26**|**Autonomous Cyber Defense Introduces Risk: Can We Manage the Risk?**|Alexandre K. Ligo et.al.|[2201.11148v1](http://arxiv.org/abs/2201.11148v1)|null|
+|**2022-01-23**|**Efficient and Robust Classification for Sparse Attacks**|Mark Beliaev et.al.|[2201.09369v1](http://arxiv.org/abs/2201.09369v1)|null|
+|**2022-01-20**|**Assembling a Cyber Range to Evaluate Artificial Intelligence / Machine Learning (AI/ML) Security Tools**|Jeffrey A. Nichols et.al.|[2201.08473v1](http://arxiv.org/abs/2201.08473v1)|null|
+|**2022-01-20**|**RoboMal: Malware Detection for Robot Network Systems**|Upinder Kaur et.al.|[2201.08470v1](http://arxiv.org/abs/2201.08470v1)|null|
+|**2022-01-20**|**Android Malware Detection using Feature Ranking of Permissions**|Muhammad Suleman Saleem et.al.|[2201.08468v1](http://arxiv.org/abs/2201.08468v1)|null|
+|**2022-01-19**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v3](http://arxiv.org/abs/2201.07537v3)|null|
+|**2022-01-19**|**Cross-Language Binary-Source Code Matching with Intermediate Representations**|Yi Gui et.al.|[2201.07420v1](http://arxiv.org/abs/2201.07420v1)|[link](https://github.com/CGCL-codes/naturalcc)|
+|**2022-01-14**|**Security Orchestration, Automation, and Response Engine for Deployment of Behavioural Honeypots**|Upendra Bartwal et.al.|[2201.05326v1](http://arxiv.org/abs/2201.05326v1)|null|
+|**2022-01-05**|**Comprehensive Efficiency Analysis of Machine Learning Algorithms for Developing Hardware-Based Cybersecurity Countermeasures**|Darren Cobian et.al.|[2201.07654v1](http://arxiv.org/abs/2201.07654v1)|null|
+|**2022-01-03**|**A Survey on DNS Encryption: Current Development, Malware Misuse, and Inference Techniques**|Minzhao Lyu et.al.|[2201.00900v1](http://arxiv.org/abs/2201.00900v1)|null|
+|**2021-12-27**|**PORTFILER: Port-Level Network Profiling for Self-Propagating Malware Detection**|Talha Ongun et.al.|[2112.13798v1](http://arxiv.org/abs/2112.13798v1)|null|
+|**2021-12-25**|**An Ensemble of Pre-trained Transformer Models For Imbalanced Multiclass Malware Classification**|Ferhat Demirkıran et.al.|[2112.13236v2](http://arxiv.org/abs/2112.13236v2)|[link](https://github.com/Ferhat94/Random-Transformer-Forest)|
+|**2021-12-23**|**Adversarial Attacks against Windows PE Malware Detection: A Survey of the State-of-the-Art**|Xiang Ling et.al.|[2112.12310v1](http://arxiv.org/abs/2112.12310v1)|[link](https://github.com/ryderling/adversarial-attacks-and-defenses-for-windows-pe-malware-detection)|
+|**2021-12-22**|**Semantics-Recovering Decompilation through Neural Machine Translation**|Ruigang Liang et.al.|[2112.15491v1](http://arxiv.org/abs/2112.15491v1)|null|
+|**2021-12-21**|**Longitudinal Study of the Prevalence of Malware Evasive Techniques**|Lorenzo Maffia et.al.|[2112.11289v1](http://arxiv.org/abs/2112.11289v1)|null|
+|**2021-12-20**|**Forensic Issues and Techniques to Improve Security in SSD with Flex Capacity Feature**|Na Young Ahn et.al.|[2112.13923v1](http://arxiv.org/abs/2112.13923v1)|null|
+|**2021-12-20**|**JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis**|Jordan Samhi et.al.|[2112.10469v2](http://arxiv.org/abs/2112.10469v2)|null|
+|**2021-12-19**|**Android-COCO: Android Malware Detection with Graph Neural Network for Byte- and Native-Code**|Peng Xu et.al.|[2112.10038v2](http://arxiv.org/abs/2112.10038v2)|null|
+|**2021-12-19**|**hybrid-Falcon: Hybrid Pattern Malware Detection and Categorization with Network Traffic and Program Code**|Peng Xu et.al.|[2112.10035v2](http://arxiv.org/abs/2112.10035v2)|null|
+|**2021-12-13**|**$μ$Dep: Mutation-based Dependency Generation for Precise Taint Analysis on Android Native Code**|Cong Sun et.al.|[2112.06702v1](http://arxiv.org/abs/2112.06702v1)|[link](https://github.com/suncongxd/mudep)|
+|**2021-12-13**|**FirmwareDroid: Security Analysis of the Android Firmware EcoSystem**|Thomas Sutter et.al.|[2112.08520v1](http://arxiv.org/abs/2112.08520v1)|null|
+|**2021-12-12**|**A new and simple condition for the global asymptotic stability of a malware spread model on WSNs**|Manh Tuan Hoang et.al.|[2112.06285v1](http://arxiv.org/abs/2112.06285v1)|null|
+|**2021-12-10**|**Malware Classification Using Static Disassembly and Machine Learning**|Zhenshuo Chen et.al.|[2201.07649v1](http://arxiv.org/abs/2201.07649v1)|[link](https://github.com/czs108/microsoft-malware-classification)|
+|**2021-12-07**|**Comparative Review of Malware Analysis Methodologies**|Ioannis G. Kiachidis et.al.|[2112.04006v1](http://arxiv.org/abs/2112.04006v1)|null|
+|**2021-12-05**|**Using Static and Dynamic Malware features to perform Malware Ascription**|Jashanpreet Singh Sraw et.al.|[2112.02639v1](http://arxiv.org/abs/2112.02639v1)|null|
+|**2021-12-05**|**On Impact of Semantically Similar Apps in Android Malware Datasets**|Roopak Surendran et.al.|[2112.02606v1](http://arxiv.org/abs/2112.02606v1)|null|
+|**2021-12-03**|**Two-stage Deep Stacked Autoencoder with Shallow Learning for Network Intrusion Detection System**|Nasreen Fathima et.al.|[2112.03704v1](http://arxiv.org/abs/2112.03704v1)|null|
