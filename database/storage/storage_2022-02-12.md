@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-02-12 09:32:59 Asia/Shanghai
+ Automated deployment @ 2022-02-12 20:39:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### Adversarial
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### backdoor
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-09**|**False Memory Formation in Continual Learners Through Imperceptible Backdoor Trigger**|Muhammad Umer et.al.|[2202.04479v1](http://arxiv.org/abs/2202.04479v1)|null|
+|**2022-02-09**|**ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning**|Yuxi Mi et.al.|[2202.04311v1](http://arxiv.org/abs/2202.04311v1)|null|
+|**2022-02-08**|**Backdoor Detection in Reinforcement Learning**|Junfeng Guo et.al.|[2202.03609v1](http://arxiv.org/abs/2202.03609v1)|null|
+|**2022-02-07**|**More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks**|Jing Xu et.al.|[2202.03195v1](http://arxiv.org/abs/2202.03195v1)|null|
+|**2022-02-06**|**BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning**|Arup Mondal et.al.|[2202.02817v1](http://arxiv.org/abs/2202.02817v1)|[link](https://github.com/harpreetvirkk/beas)|
+|**2022-02-05**|**Backdoor Defense via Decoupling the Training Process**|Kunzhe Huang et.al.|[2202.03423v1](http://arxiv.org/abs/2202.03423v1)|null|
+|**2022-01-31**|**AntidoteRT: Run-time Detection and Correction of Poison Attacks on Neural Networks**|Muhammad Usman et.al.|[2202.01179v1](http://arxiv.org/abs/2202.01179v1)|[link](https://github.com/antidotert/antidotert)|
+|**2022-01-31**|**Few-Shot Backdoor Attacks on Visual Object Tracking**|Yiming Li et.al.|[2201.13178v1](http://arxiv.org/abs/2201.13178v1)|[link](https://github.com/hxzhong1997/fsba)|
+|**2022-01-31**|**Imperceptible and Multi-channel Backdoor Attack against Deep Neural Networks**|Mingfu Xue et.al.|[2201.13164v1](http://arxiv.org/abs/2201.13164v1)|null|
+|**2022-01-31**|**A new idea for RSA backdoors**|Marco Cesati et.al.|[2201.13153v1](http://arxiv.org/abs/2201.13153v1)|[link](https://gitlab.com/cesati/ssb-and-tsb-backdoors)|
+|**2022-01-28**|**Backdoors Stuck At The Frontdoor: Multi-Agent Backdoor Attacks That Backfire**|Siddhartha Datta et.al.|[2201.12211v1](http://arxiv.org/abs/2201.12211v1)|null|
+|**2022-01-25**|**Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation**|Zayd Hammoudeh et.al.|[2201.10055v1](http://arxiv.org/abs/2201.10055v1)|[link](https://github.com/zaydh/target_identification)|
+|**2022-01-24**|**Hiding Behind Backdoors: Self-Obfuscation Against Generative Models**|Siddhartha Datta et.al.|[2201.09774v1](http://arxiv.org/abs/2201.09774v1)|null|
+|**2022-01-24**|**Backdoor Defense with Machine Unlearning**|Yang Liu et.al.|[2201.09538v1](http://arxiv.org/abs/2201.09538v1)|null|
+|**2022-01-24**|**Federated Unlearning with Knowledge Distillation**|Chen Wu et.al.|[2201.09441v1](http://arxiv.org/abs/2201.09441v1)|null|
+|**2022-01-21**|**On the Satisfaction Probability of $k$-CNF Formulas**|Till Tantau et.al.|[2201.08895v1](http://arxiv.org/abs/2201.08895v1)|null|
+|**2022-01-21**|**Dangerous Cloaking: Natural Trigger based Backdoor Attacks on Object Detectors in the Physical World**|Hua Ma et.al.|[2201.08619v1](http://arxiv.org/abs/2201.08619v1)|null|
+|**2022-01-21**|**Blockchain-based Collaborated Federated Learning for Improved Security, Privacy and Reliability**|Amir Afaq et.al.|[2201.08551v1](http://arxiv.org/abs/2201.08551v1)|null|
+|**2022-01-20**|**Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios**|Zhen Xiang et.al.|[2201.08474v1](http://arxiv.org/abs/2201.08474v1)|null|
+|**2022-01-20**|**Watermarking Pre-trained Encoders in Contrastive Learning**|Yutong Wu et.al.|[2201.08217v1](http://arxiv.org/abs/2201.08217v1)|null|
+|**2022-01-18**|**Model Transferring Attacks to Backdoor HyperNetwork in Personalized Federated Learning**|Phung Lai et.al.|[2201.07063v2](http://arxiv.org/abs/2201.07063v2)|null|
+|**2022-01-17**|**Neighboring Backdoor Attacks on Graph Convolutional Network**|Liang Chen et.al.|[2201.06202v1](http://arxiv.org/abs/2201.06202v1)|null|
+|**2022-01-11**|**RFLBAT: A Robust Federated Learning Algorithm against Backdoor Attack**|Yongkang Wang et.al.|[2201.03772v1](http://arxiv.org/abs/2201.03772v1)|null|
+|**2022-01-09**|**Rethink Stealthy Backdoor Attacks in Natural Language Processing**|Lingfeng Shen et.al.|[2201.02993v1](http://arxiv.org/abs/2201.02993v1)|null|
+|**2022-01-03**|**DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection**|Phillip Rieger et.al.|[2201.00763v1](http://arxiv.org/abs/2201.00763v1)|null|
+|**2022-01-03**|**Compression-Resistant Backdoor Attack against Deep Neural Networks**|Mingfu Xue et.al.|[2201.00672v1](http://arxiv.org/abs/2201.00672v1)|null|
+|**2021-12-30**|**Deconfounded Training for Graph Neural Networks**|Yongduo Sui et.al.|[2112.15089v1](http://arxiv.org/abs/2112.15089v1)|null|
+|**2021-12-30**|**Few-shot Backdoor Defense Using Shapley Estimation**|Jiyang Guan et.al.|[2112.14889v1](http://arxiv.org/abs/2112.14889v1)|null|
+|**2021-12-24**|**CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing**|Haibo Jin et.al.|[2112.13064v1](http://arxiv.org/abs/2112.13064v1)|null|
+|**2021-12-14**|**Dual-Key Multimodal Backdoors for Visual Question Answering**|Matthew Walmer et.al.|[2112.07668v2](http://arxiv.org/abs/2112.07668v2)|[link](https://github.com/SRI-CSL/TrinityMultimodalTrojAI)|
 
 ### Trojan
 |Publish Date|Title|Authors|PDF|Code|
@@ -49,7 +83,7 @@
 |**2022-02-10**|**A New Fusion Strategy for Spoofing Aware Speaker Verification**|You Zhang et.al.|[2202.05253v1](http://arxiv.org/abs/2202.05253v1)|null|
 |**2022-02-10**|**Towards Assessing and Characterizing the Semantic Robustness of Face Recognition**|Juan C. Pérez et.al.|[2202.04978v1](http://arxiv.org/abs/2202.04978v1)|null|
 |**2022-02-10**|**FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling**|Chuhan Wu et.al.|[2202.04975v1](http://arxiv.org/abs/2202.04975v1)|null|
-|**2022-02-10**|**Faulty isogenies: a new kind of leakage**|Gora Adj et.al.|[2202.04896v1](http://arxiv.org/abs/2202.04896v1)|null|
+|**2022-02-10**|**Faulty isogenies: a new kind of leakage**|Gora Adj et.al.|[2202.04896v1](http://arxiv.org/abs/2202.04896v1)|[link](https://github.com/faultyisogenies/faulty-isogeny-code)|
 |**2022-02-10**|**A Note on the Misinterpretation of the US Census Re-identification Attack**|Paul Francis et.al.|[2202.04872v1](http://arxiv.org/abs/2202.04872v1)|null|
 |**2022-02-10**|**PPA: Preference Profiling Attack Against Federated Learning**|Chunyi Zhou et.al.|[2202.04856v1](http://arxiv.org/abs/2202.04856v1)|null|
 |**2022-02-10**|**Adversarial Attack and Defense of YOLO Detectors in Autonomous Driving Scenarios**|Jung Im Choi et.al.|[2202.04781v1](http://arxiv.org/abs/2202.04781v1)|null|
@@ -76,40 +110,6 @@
 |**2022-02-08**|**The role of Blockchain in DDoS attacks mitigation: techniques, open challenges and future directions**|Rajasekhar Chaganti et.al.|[2202.03617v1](http://arxiv.org/abs/2202.03617v1)|null|
 |**2022-02-08**|**Multiple Correlated Jammers Nullification using LSTM-based Deep Dueling Neural Network**|Linh Manh Hoang et.al.|[2202.03600v1](http://arxiv.org/abs/2202.03600v1)|null|
 |**2022-02-07**|**Evaluating Robustness of Cooperative MARL: A Model-based Approach**|Nhan H. Pham et.al.|[2202.03558v1](http://arxiv.org/abs/2202.03558v1)|null|
-
-### backdoor
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-09**|**False Memory Formation in Continual Learners Through Imperceptible Backdoor Trigger**|Muhammad Umer et.al.|[2202.04479v1](http://arxiv.org/abs/2202.04479v1)|null|
-|**2022-02-09**|**ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning**|Yuxi Mi et.al.|[2202.04311v1](http://arxiv.org/abs/2202.04311v1)|null|
-|**2022-02-08**|**Backdoor Detection in Reinforcement Learning**|Junfeng Guo et.al.|[2202.03609v1](http://arxiv.org/abs/2202.03609v1)|null|
-|**2022-02-07**|**More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks**|Jing Xu et.al.|[2202.03195v1](http://arxiv.org/abs/2202.03195v1)|null|
-|**2022-02-06**|**BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning**|Arup Mondal et.al.|[2202.02817v1](http://arxiv.org/abs/2202.02817v1)|[link](https://github.com/harpreetvirkk/beas)|
-|**2022-02-05**|**Backdoor Defense via Decoupling the Training Process**|Kunzhe Huang et.al.|[2202.03423v1](http://arxiv.org/abs/2202.03423v1)|null|
-|**2022-01-31**|**AntidoteRT: Run-time Detection and Correction of Poison Attacks on Neural Networks**|Muhammad Usman et.al.|[2202.01179v1](http://arxiv.org/abs/2202.01179v1)|[link](https://github.com/antidotert/antidotert)|
-|**2022-01-31**|**Few-Shot Backdoor Attacks on Visual Object Tracking**|Yiming Li et.al.|[2201.13178v1](http://arxiv.org/abs/2201.13178v1)|[link](https://github.com/hxzhong1997/fsba)|
-|**2022-01-31**|**Imperceptible and Multi-channel Backdoor Attack against Deep Neural Networks**|Mingfu Xue et.al.|[2201.13164v1](http://arxiv.org/abs/2201.13164v1)|null|
-|**2022-01-31**|**A new idea for RSA backdoors**|Marco Cesati et.al.|[2201.13153v1](http://arxiv.org/abs/2201.13153v1)|[link](https://gitlab.com/cesati/ssb-and-tsb-backdoors)|
-|**2022-01-28**|**Backdoors Stuck At The Frontdoor: Multi-Agent Backdoor Attacks That Backfire**|Siddhartha Datta et.al.|[2201.12211v1](http://arxiv.org/abs/2201.12211v1)|null|
-|**2022-01-25**|**Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation**|Zayd Hammoudeh et.al.|[2201.10055v1](http://arxiv.org/abs/2201.10055v1)|[link](https://github.com/zaydh/target_identification)|
-|**2022-01-24**|**Hiding Behind Backdoors: Self-Obfuscation Against Generative Models**|Siddhartha Datta et.al.|[2201.09774v1](http://arxiv.org/abs/2201.09774v1)|null|
-|**2022-01-24**|**Backdoor Defense with Machine Unlearning**|Yang Liu et.al.|[2201.09538v1](http://arxiv.org/abs/2201.09538v1)|null|
-|**2022-01-24**|**Federated Unlearning with Knowledge Distillation**|Chen Wu et.al.|[2201.09441v1](http://arxiv.org/abs/2201.09441v1)|null|
-|**2022-01-21**|**On the Satisfaction Probability of $k$-CNF Formulas**|Till Tantau et.al.|[2201.08895v1](http://arxiv.org/abs/2201.08895v1)|null|
-|**2022-01-21**|**Dangerous Cloaking: Natural Trigger based Backdoor Attacks on Object Detectors in the Physical World**|Hua Ma et.al.|[2201.08619v1](http://arxiv.org/abs/2201.08619v1)|null|
-|**2022-01-21**|**Blockchain-based Collaborated Federated Learning for Improved Security, Privacy and Reliability**|Amir Afaq et.al.|[2201.08551v1](http://arxiv.org/abs/2201.08551v1)|null|
-|**2022-01-20**|**Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios**|Zhen Xiang et.al.|[2201.08474v1](http://arxiv.org/abs/2201.08474v1)|null|
-|**2022-01-20**|**Watermarking Pre-trained Encoders in Contrastive Learning**|Yutong Wu et.al.|[2201.08217v1](http://arxiv.org/abs/2201.08217v1)|null|
-|**2022-01-18**|**Model Transferring Attacks to Backdoor HyperNetwork in Personalized Federated Learning**|Phung Lai et.al.|[2201.07063v2](http://arxiv.org/abs/2201.07063v2)|null|
-|**2022-01-17**|**Neighboring Backdoor Attacks on Graph Convolutional Network**|Liang Chen et.al.|[2201.06202v1](http://arxiv.org/abs/2201.06202v1)|null|
-|**2022-01-11**|**RFLBAT: A Robust Federated Learning Algorithm against Backdoor Attack**|Yongkang Wang et.al.|[2201.03772v1](http://arxiv.org/abs/2201.03772v1)|null|
-|**2022-01-09**|**Rethink Stealthy Backdoor Attacks in Natural Language Processing**|Lingfeng Shen et.al.|[2201.02993v1](http://arxiv.org/abs/2201.02993v1)|null|
-|**2022-01-03**|**DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection**|Phillip Rieger et.al.|[2201.00763v1](http://arxiv.org/abs/2201.00763v1)|null|
-|**2022-01-03**|**Compression-Resistant Backdoor Attack against Deep Neural Networks**|Mingfu Xue et.al.|[2201.00672v1](http://arxiv.org/abs/2201.00672v1)|null|
-|**2021-12-30**|**Deconfounded Training for Graph Neural Networks**|Yongduo Sui et.al.|[2112.15089v1](http://arxiv.org/abs/2112.15089v1)|null|
-|**2021-12-30**|**Few-shot Backdoor Defense Using Shapley Estimation**|Jiyang Guan et.al.|[2112.14889v1](http://arxiv.org/abs/2112.14889v1)|null|
-|**2021-12-24**|**CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing**|Haibo Jin et.al.|[2112.13064v1](http://arxiv.org/abs/2112.13064v1)|null|
-|**2021-12-14**|**Dual-Key Multimodal Backdoors for Visual Question Answering**|Matthew Walmer et.al.|[2112.07668v2](http://arxiv.org/abs/2112.07668v2)|[link](https://github.com/SRI-CSL/TrinityMultimodalTrojAI)|
 
 ## security
 
@@ -146,40 +146,6 @@
 |**2022-01-31**|**Architectures for Protecting Cloud Data Planes**|Grant Dasher et.al.|[2201.13010v1](http://arxiv.org/abs/2201.13010v1)|null|
 |**2022-01-30**|**GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks**|Chenhui Deng et.al.|[2201.12741v2](http://arxiv.org/abs/2201.12741v2)|null|
 |**2022-01-30**|**Coordinated Attacks against Contextual Bandits: Fundamental Limits and Defense Mechanisms**|Jeongyeol Kwon et.al.|[2201.12700v1](http://arxiv.org/abs/2201.12700v1)|null|
-
-### Activation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-10**|**Locating and Editing Factual Knowledge in GPT**|Kevin Meng et.al.|[2202.05262v1](http://arxiv.org/abs/2202.05262v1)|null|
-|**2022-02-10**|**F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization**|Qing Jin et.al.|[2202.05239v1](http://arxiv.org/abs/2202.05239v1)|[link](https://github.com/snap-research/f8net)|
-|**2022-02-10**|**Reliabuild: Searching for High-Fidelity Builds Using Active Learning**|Harshitha Menon et.al.|[2202.05223v1](http://arxiv.org/abs/2202.05223v1)|null|
-|**2022-02-10**|**Cold gas removal from the centre of a galaxy by a low-luminosity jet**|Suma Murthy et.al.|[2202.05222v1](http://arxiv.org/abs/2202.05222v1)|null|
-|**2022-02-10**|**Towards Predicting Fine Finger Motions from Ultrasound Images via Kinematic Representation**|Dean Zadok et.al.|[2202.05204v1](http://arxiv.org/abs/2202.05204v1)|null|
-|**2022-02-10**|**A candidate short-period sub-Earth orbiting Proxima Centauri**|J. P. Faria et.al.|[2202.05188v1](http://arxiv.org/abs/2202.05188v1)|null|
-|**2022-02-10**|**Feature-level augmentation to improve robustness of deep neural networks to affine transformations**|Adrian Sandru et.al.|[2202.05152v1](http://arxiv.org/abs/2202.05152v1)|null|
-|**2022-02-10**|**Renewable energy communities: do they have a business case in Flanders?**|Alex Felice et.al.|[2202.05151v1](http://arxiv.org/abs/2202.05151v1)|null|
-|**2022-02-10**|**An observational synthesis of the Taurid meteor complex**|A. Egal et.al.|[2202.05141v1](http://arxiv.org/abs/2202.05141v1)|null|
-|**2022-02-10**|**R&D Towards Cryogenic Optical Links**|Mark Christiansen et.al.|[2202.05110v1](http://arxiv.org/abs/2202.05110v1)|null|
-|**2022-02-10**|**Who Funds Misinformation? A Systematic Analysis of the Ad-related Profit Routines of Fake News sites**|Emmanouil Papadogiannakis et.al.|[2202.05079v1](http://arxiv.org/abs/2202.05079v1)|null|
-|**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
-|**2022-02-10**|**Cybersecurity Challenges Of IoT-enabled Smart Cities: A Survey**|Jiani Fan et.al.|[2202.05023v1](http://arxiv.org/abs/2202.05023v1)|null|
-|**2022-02-10**|**Coverage Probability and Spectral Efficiency Analysis of Multi-Gateway Downlink LoRa Networks**|Lam-Thanh Tu et.al.|[2202.05014v1](http://arxiv.org/abs/2202.05014v1)|null|
-|**2022-02-10**|**Experimental study of the relative probability of high-spin isomeric states population in ($α$,n)-reactions**|T. V. Chuvilskaya et.al.|[2202.05000v1](http://arxiv.org/abs/2202.05000v1)|null|
-|**2022-02-10**|**Mixture-of-Rookies: Saving DNN Computations by Predicting ReLU Outputs**|Dennis Pinto et.al.|[2202.04990v1](http://arxiv.org/abs/2202.04990v1)|null|
-|**2022-02-10**|**Improving performance of aircraft detection in satellite imagery while limiting the labelling effort: Hybrid active learning**|Julie Imbert et.al.|[2202.04890v1](http://arxiv.org/abs/2202.04890v1)|null|
-|**2022-02-10**|**The USTC-Ximalaya system for the ICASSP 2022 multi-channel multi-party meeting transcription (M2MeT) challenge**|Maokui He et.al.|[2202.04855v1](http://arxiv.org/abs/2202.04855v1)|null|
-|**2022-02-10**|**SkyMapper colours of Seyfert galaxies and Changing-look AGN-II. Newly discovered Changing-look AGN**|Wei Jeat Hon et.al.|[2202.04851v1](http://arxiv.org/abs/2202.04851v1)|null|
-|**2022-02-10**|**Robophysical modeling of spacetime dynamics**|Shengkai Li et.al.|[2202.04835v1](http://arxiv.org/abs/2202.04835v1)|null|
-|**2022-02-10**|**Target-aware Molecular Graph Generation**|Cheng Tan et.al.|[2202.04829v1](http://arxiv.org/abs/2202.04829v1)|null|
-|**2022-02-10**|**Decreasing Annotation Burden of Pairwise Comparisons with Human-in-the-Loop Sorting: Application in Medical Image Artifact Rating**|Ikbeom Jang et.al.|[2202.04823v1](http://arxiv.org/abs/2202.04823v1)|null|
-|**2022-02-10**|**Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling**|Lixiang Ru et.al.|[2202.04812v1](http://arxiv.org/abs/2202.04812v1)|null|
-|**2022-02-10**|**Spatial active noise control based on individual kernel interpolation of primary and secondary sound fields**|Kazuyuki Arikawa et.al.|[2202.04807v1](http://arxiv.org/abs/2202.04807v1)|null|
-|**2022-02-10**|**Mechanical feedback controls the emergence of dynamical memory in growing tissue monolayers**|Sumit Sinha et.al.|[2202.04806v1](http://arxiv.org/abs/2202.04806v1)|null|
-|**2022-02-10**|**Extracting High-Resolution, Multi-Mode Surface Wave Dispersion Data from Distributed Acoustic Sensing Measurements using the Multichannel Analysis of Surface Waves**|Joseph P. Vantassel et.al.|[2202.04779v1](http://arxiv.org/abs/2202.04779v1)|null|
-|**2022-02-09**|**A Neural Network Model of Continual Learning with Cognitive Control**|Jacob Russin et.al.|[2202.04773v1](http://arxiv.org/abs/2202.04773v1)|null|
-|**2022-02-09**|**Sampling Strategy for Fine-Tuning Segmentation Models to Crisis Area under Scarcity of Data**|Adrianna Janik et.al.|[2202.04766v1](http://arxiv.org/abs/2202.04766v1)|null|
-|**2022-02-09**|**MAGIS-100 Environmental Characterization and Noise Analysis**|Jeremiah Mitchell et.al.|[2202.04763v1](http://arxiv.org/abs/2202.04763v1)|null|
-|**2022-02-09**|**Consideration of the Intricacies Inherent in Molecular Beam Epitaxy of the NaCl/GaAs System**|Brelon J. May et.al.|[2202.04758v1](http://arxiv.org/abs/2202.04758v1)|null|
 
 ### Malware
 |Publish Date|Title|Authors|PDF|Code|
@@ -218,7 +184,7 @@
 ### Malicious
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-02-10**|**Characterizing, Detecting, and Predicting Online Ban Evasion**|Manoj Niverthi et.al.|[2202.05257v1](http://arxiv.org/abs/2202.05257v1)|null|
+|**2022-02-10**|**Characterizing, Detecting, and Predicting Online Ban Evasion**|Manoj Niverthi et.al.|[2202.05257v1](http://arxiv.org/abs/2202.05257v1)|[link](https://github.com/srijankr/ban_evasion)|
 |**2022-02-10**|**FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling**|Chuhan Wu et.al.|[2202.04975v1](http://arxiv.org/abs/2202.04975v1)|null|
 |**2022-02-09**|**IoTMonitor: A Hidden Markov Model-based Security System to Identify Crucial Attack Nodes in Trigger-action IoT Platforms**|Md Morshed Alam et.al.|[2202.04620v1](http://arxiv.org/abs/2202.04620v1)|null|
 |**2022-02-08**|**Real-time disease prediction with local differential privacy in Internet of Medical Things**|Guanhong Miao et.al.|[2202.03652v2](http://arxiv.org/abs/2202.03652v2)|null|
@@ -255,7 +221,7 @@
 |**2022-02-10**|**SA-HMTS: A Secure and Adaptive Hierarchical Multi-timescale Framework for Resilient Load Restoration Using A Community Microgrid**|Ashwin Shirsat et.al.|[2202.05252v1](http://arxiv.org/abs/2202.05252v1)|null|
 |**2022-02-10**|**Semidirect Product Key Exchange: the State of Play**|Christopher Battarbee et.al.|[2202.05178v1](http://arxiv.org/abs/2202.05178v1)|null|
 |**2022-02-10**|**Cybersecurity Challenges Of IoT-enabled Smart Cities: A Survey**|Jiani Fan et.al.|[2202.05023v1](http://arxiv.org/abs/2202.05023v1)|null|
-|**2022-02-10**|**Faulty isogenies: a new kind of leakage**|Gora Adj et.al.|[2202.04896v1](http://arxiv.org/abs/2202.04896v1)|null|
+|**2022-02-10**|**Faulty isogenies: a new kind of leakage**|Gora Adj et.al.|[2202.04896v1](http://arxiv.org/abs/2202.04896v1)|[link](https://github.com/faultyisogenies/faulty-isogeny-code)|
 |**2022-02-10**|**A Note on the Misinterpretation of the US Census Re-identification Attack**|Paul Francis et.al.|[2202.04872v1](http://arxiv.org/abs/2202.04872v1)|null|
 |**2022-02-10**|**PPA: Preference Profiling Attack Against Federated Learning**|Chunyi Zhou et.al.|[2202.04856v1](http://arxiv.org/abs/2202.04856v1)|null|
 |**2022-02-10**|**Collaborative analysis of genomic data: vision and challenges**|Sara Jafarbeiki et.al.|[2202.04841v1](http://arxiv.org/abs/2202.04841v1)|null|
@@ -282,3 +248,37 @@
 |**2022-02-08**|**PrivFair: a Library for Privacy-Preserving Fairness Auditing**|Sikha Pentyala et.al.|[2202.04058v2](http://arxiv.org/abs/2202.04058v2)|null|
 |**2022-02-08**|**Ontology-based Attack Graph Enrichment**|Kéren Saint-Hilaire et.al.|[2202.04016v1](http://arxiv.org/abs/2202.04016v1)|null|
 |**2022-02-08**|**Topological Authentication Technique In Topologically Asymmetric Cryptosystem**|Bing Yao et.al.|[2202.03993v1](http://arxiv.org/abs/2202.03993v1)|null|
+
+### Activation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-10**|**Locating and Editing Factual Knowledge in GPT**|Kevin Meng et.al.|[2202.05262v1](http://arxiv.org/abs/2202.05262v1)|null|
+|**2022-02-10**|**F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization**|Qing Jin et.al.|[2202.05239v1](http://arxiv.org/abs/2202.05239v1)|[link](https://github.com/snap-research/f8net)|
+|**2022-02-10**|**Reliabuild: Searching for High-Fidelity Builds Using Active Learning**|Harshitha Menon et.al.|[2202.05223v1](http://arxiv.org/abs/2202.05223v1)|null|
+|**2022-02-10**|**Cold gas removal from the centre of a galaxy by a low-luminosity jet**|Suma Murthy et.al.|[2202.05222v1](http://arxiv.org/abs/2202.05222v1)|null|
+|**2022-02-10**|**Towards Predicting Fine Finger Motions from Ultrasound Images via Kinematic Representation**|Dean Zadok et.al.|[2202.05204v1](http://arxiv.org/abs/2202.05204v1)|null|
+|**2022-02-10**|**A candidate short-period sub-Earth orbiting Proxima Centauri**|J. P. Faria et.al.|[2202.05188v1](http://arxiv.org/abs/2202.05188v1)|null|
+|**2022-02-10**|**Feature-level augmentation to improve robustness of deep neural networks to affine transformations**|Adrian Sandru et.al.|[2202.05152v1](http://arxiv.org/abs/2202.05152v1)|null|
+|**2022-02-10**|**Renewable energy communities: do they have a business case in Flanders?**|Alex Felice et.al.|[2202.05151v1](http://arxiv.org/abs/2202.05151v1)|null|
+|**2022-02-10**|**An observational synthesis of the Taurid meteor complex**|A. Egal et.al.|[2202.05141v1](http://arxiv.org/abs/2202.05141v1)|null|
+|**2022-02-10**|**R&D Towards Cryogenic Optical Links**|Mark Christiansen et.al.|[2202.05110v1](http://arxiv.org/abs/2202.05110v1)|null|
+|**2022-02-10**|**Who Funds Misinformation? A Systematic Analysis of the Ad-related Profit Routines of Fake News sites**|Emmanouil Papadogiannakis et.al.|[2202.05079v1](http://arxiv.org/abs/2202.05079v1)|null|
+|**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
+|**2022-02-10**|**Cybersecurity Challenges Of IoT-enabled Smart Cities: A Survey**|Jiani Fan et.al.|[2202.05023v1](http://arxiv.org/abs/2202.05023v1)|null|
+|**2022-02-10**|**Coverage Probability and Spectral Efficiency Analysis of Multi-Gateway Downlink LoRa Networks**|Lam-Thanh Tu et.al.|[2202.05014v1](http://arxiv.org/abs/2202.05014v1)|null|
+|**2022-02-10**|**Experimental study of the relative probability of high-spin isomeric states population in ($α$,n)-reactions**|T. V. Chuvilskaya et.al.|[2202.05000v1](http://arxiv.org/abs/2202.05000v1)|null|
+|**2022-02-10**|**Mixture-of-Rookies: Saving DNN Computations by Predicting ReLU Outputs**|Dennis Pinto et.al.|[2202.04990v1](http://arxiv.org/abs/2202.04990v1)|null|
+|**2022-02-10**|**Improving performance of aircraft detection in satellite imagery while limiting the labelling effort: Hybrid active learning**|Julie Imbert et.al.|[2202.04890v1](http://arxiv.org/abs/2202.04890v1)|null|
+|**2022-02-10**|**The USTC-Ximalaya system for the ICASSP 2022 multi-channel multi-party meeting transcription (M2MeT) challenge**|Maokui He et.al.|[2202.04855v1](http://arxiv.org/abs/2202.04855v1)|null|
+|**2022-02-10**|**SkyMapper colours of Seyfert galaxies and Changing-look AGN-II. Newly discovered Changing-look AGN**|Wei Jeat Hon et.al.|[2202.04851v1](http://arxiv.org/abs/2202.04851v1)|[link](https://github.com/jackhon55/pyqsofit_sbl)|
+|**2022-02-10**|**Robophysical modeling of spacetime dynamics**|Shengkai Li et.al.|[2202.04835v1](http://arxiv.org/abs/2202.04835v1)|null|
+|**2022-02-10**|**Target-aware Molecular Graph Generation**|Cheng Tan et.al.|[2202.04829v1](http://arxiv.org/abs/2202.04829v1)|null|
+|**2022-02-10**|**Decreasing Annotation Burden of Pairwise Comparisons with Human-in-the-Loop Sorting: Application in Medical Image Artifact Rating**|Ikbeom Jang et.al.|[2202.04823v1](http://arxiv.org/abs/2202.04823v1)|null|
+|**2022-02-10**|**Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling**|Lixiang Ru et.al.|[2202.04812v1](http://arxiv.org/abs/2202.04812v1)|null|
+|**2022-02-10**|**Spatial active noise control based on individual kernel interpolation of primary and secondary sound fields**|Kazuyuki Arikawa et.al.|[2202.04807v1](http://arxiv.org/abs/2202.04807v1)|null|
+|**2022-02-10**|**Mechanical feedback controls the emergence of dynamical memory in growing tissue monolayers**|Sumit Sinha et.al.|[2202.04806v1](http://arxiv.org/abs/2202.04806v1)|null|
+|**2022-02-10**|**Extracting High-Resolution, Multi-Mode Surface Wave Dispersion Data from Distributed Acoustic Sensing Measurements using the Multichannel Analysis of Surface Waves**|Joseph P. Vantassel et.al.|[2202.04779v1](http://arxiv.org/abs/2202.04779v1)|null|
+|**2022-02-09**|**A Neural Network Model of Continual Learning with Cognitive Control**|Jacob Russin et.al.|[2202.04773v1](http://arxiv.org/abs/2202.04773v1)|null|
+|**2022-02-09**|**Sampling Strategy for Fine-Tuning Segmentation Models to Crisis Area under Scarcity of Data**|Adrianna Janik et.al.|[2202.04766v1](http://arxiv.org/abs/2202.04766v1)|null|
+|**2022-02-09**|**MAGIS-100 Environmental Characterization and Noise Analysis**|Jeremiah Mitchell et.al.|[2202.04763v1](http://arxiv.org/abs/2202.04763v1)|null|
+|**2022-02-09**|**Consideration of the Intricacies Inherent in Molecular Beam Epitaxy of the NaCl/GaAs System**|Brelon J. May et.al.|[2202.04758v1](http://arxiv.org/abs/2202.04758v1)|null|
