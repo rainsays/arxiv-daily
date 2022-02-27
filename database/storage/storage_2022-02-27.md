@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-02-27 09:36:33 Asia/Shanghai
+ Automated deployment @ 2022-02-27 20:41:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -113,6 +113,40 @@
 
 ## security
 
+### security
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-24**|**Towards Effective and Robust Neural Trojan Defenses via Input Filtering**|Kien Do et.al.|[2202.12154v1](http://arxiv.org/abs/2202.12154v1)|null|
+|**2022-02-24**|**How reparametrization trick broke differentially-private text representation leaning**|Ivan Habernal et.al.|[2202.12138v1](http://arxiv.org/abs/2202.12138v1)|[link](https://github.com/trusthlt/acl2022-reparametrization-trick-broke-differential-privacy)|
+|**2022-02-24**|**pHGen: A pH-Based Key Generation Mechanism Using ISFETs**|Elmira Moussavi et.al.|[2202.12085v1](http://arxiv.org/abs/2202.12085v1)|null|
+|**2022-02-24**|**Deep learning-based UAV detection in the low altitude clutter background**|Zeyang Wu et.al.|[2202.12053v1](http://arxiv.org/abs/2202.12053v1)|null|
+|**2022-02-24**|**Systematic Prevention of On-Core Timing Channels by Full Temporal Partitioning**|Nils Wistoff et.al.|[2202.12029v1](http://arxiv.org/abs/2202.12029v1)|null|
+|**2022-02-24**|**A Holistic View on Data Protection for Sharing, Communicating, and Computing Environments: Taxonomy and Future Directions**|Ishu Gupta et.al.|[2202.11965v1](http://arxiv.org/abs/2202.11965v1)|null|
+|**2022-02-24**|**Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations**|Muhammad Azmi Umer et.al.|[2202.11917v1](http://arxiv.org/abs/2202.11917v1)|null|
+|**2022-02-24**|**Noncoherent Massive MIMO with Embedded One-Way Function Physical Layer Security**|Yuma Katsuki et.al.|[2202.11893v1](http://arxiv.org/abs/2202.11893v1)|null|
+|**2022-02-24**|**Robust Transmission Design for RIS-assisted Secure Multiuser Communication Systems in the Presence of Hardware Impairments**|Zhangjie Peng et.al.|[2202.11860v1](http://arxiv.org/abs/2202.11860v1)|null|
+|**2022-02-23**|**Using Deep Learning to Detect Digitally Encoded DNA Trigger for Trojan Malware in Bio-Cyber Attacks**|Mohd Siblee Islam et.al.|[2202.11824v1](http://arxiv.org/abs/2202.11824v1)|null|
+|**2022-02-23**|**AirGuard -- Protecting Android Users From Stalking Attacks By Apple Find My Devices**|Alexander Heinrich et.al.|[2202.11813v1](http://arxiv.org/abs/2202.11813v1)|null|
+|**2022-02-23**|**ML-based Anomaly Detection in Optical Fiber Monitoring**|Khouloud Abdelli et.al.|[2202.11756v1](http://arxiv.org/abs/2202.11756v1)|null|
+|**2022-02-23**|**TEE-based decentralized recommender systems: The raw data sharing redemption**|Akash Dhasade et.al.|[2202.11655v1](http://arxiv.org/abs/2202.11655v1)|[link](https://github.com/rafaelppires/rex)|
+|**2022-02-23**|**IOTLB-SC: An Accelerator-Independent Leakage Source in Modern Cloud Systems**|Thore Tiemann et.al.|[2202.11623v1](http://arxiv.org/abs/2202.11623v1)|null|
+|**2022-02-23**|**Optimal Second-Order Rates for Quantum Soft Covering and Privacy Amplification**|Yu-Chen Shen et.al.|[2202.11590v1](http://arxiv.org/abs/2202.11590v1)|null|
+|**2022-02-23**|**A comparative study of in-air trajectories at short and long distances in online handwriting**|Carlos Alonso-Martinez et.al.|[2202.12237v1](http://arxiv.org/abs/2202.12237v1)|null|
+|**2022-02-23**|**On-line signature verification system with failure to enroll managing**|Joan Fabregas et.al.|[2202.12242v1](http://arxiv.org/abs/2202.12242v1)|null|
+|**2022-02-23**|**BYOD Security: A Study of Human Dimensions**|Kathleen Downer et.al.|[2202.11498v1](http://arxiv.org/abs/2202.11498v1)|null|
+|**2022-02-23**|**High-precision Hardware Oscillators Ensemble for GNSS Attack Detection**|M. Spanghero et.al.|[2202.11483v2](http://arxiv.org/abs/2202.11483v2)|null|
+|**2022-02-23**|**Cybersecurity Challenges in the Offshore Oil and Gas Industry: An Industrial Cyber-Physical Systems (ICPS) Perspective**|Abubakar Sadiq Mohammed et.al.|[2202.12179v1](http://arxiv.org/abs/2202.12179v1)|null|
+|**2022-02-23**|**Residual Bootstrap Exploration for Stochastic Linear Bandit**|Shuang Wu et.al.|[2202.11474v1](http://arxiv.org/abs/2202.11474v1)|null|
+|**2022-02-23**|**Thermal hand image segmentation for biometric recognition**|Xavier Font-Aragones et.al.|[2202.11462v1](http://arxiv.org/abs/2202.11462v1)|null|
+|**2022-02-23**|**Biometric security technology**|Marcos Faundez-Zanuy et.al.|[2202.11459v1](http://arxiv.org/abs/2202.11459v1)|null|
+|**2022-02-23**|**Privacy issues on biometric systems**|Marcos Faundez-Zanuy et.al.|[2202.11415v1](http://arxiv.org/abs/2202.11415v1)|null|
+|**2022-02-23**|**ScrawlD: A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities**|Chavhan Sujeet Yashavant et.al.|[2202.11409v2](http://arxiv.org/abs/2202.11409v2)|[link](https://github.com/sujeetc/ScrawlD)|
+|**2022-02-23**|**Differential privacy for symmetric log-concave mechanisms**|Staal A. Vinterbo et.al.|[2202.11393v1](http://arxiv.org/abs/2202.11393v1)|[link](https://github.com/laats/subbotinmechanism)|
+|**2022-02-23**|**Deep Graph Learning for Anomalous Citation Detection**|Jiaying Liu et.al.|[2202.11360v1](http://arxiv.org/abs/2202.11360v1)|null|
+|**2022-02-23**|**Deepfake Detection for Facial Images with Facemasks**|Donggeun Ko et.al.|[2202.11359v1](http://arxiv.org/abs/2202.11359v1)|null|
+|**2022-02-23**|**Distributed and Mobile Message Level Relaying/Replaying of GNSS Signals**|M. Lenhart et.al.|[2202.11341v1](http://arxiv.org/abs/2202.11341v1)|null|
+|**2022-02-23**|**Absolute Zero-Shot Learning**|Rui Gao et.al.|[2202.11319v1](http://arxiv.org/abs/2202.11319v1)|null|
+
 ### Malicious
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,40 +180,6 @@
 |**2022-02-12**|**TATTOOED: A Robust Deep Neural Network Watermarking Scheme based on Spread-Spectrum Channel Coding**|Giulio Pagnotta et.al.|[2202.06091v2](http://arxiv.org/abs/2202.06091v2)|null|
 |**2022-02-11**|**Incentive Compatible Queues Without Money**|Isaac Grosof et.al.|[2202.05747v1](http://arxiv.org/abs/2202.05747v1)|null|
 |**2022-02-11**|**Infrastructure-enabled GPS Spoofing Detection and Correction**|Feilong Wang et.al.|[2202.05463v1](http://arxiv.org/abs/2202.05463v1)|null|
-
-### Malware
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-23**|**Using Deep Learning to Detect Digitally Encoded DNA Trigger for Trojan Malware in Bio-Cyber Attacks**|Mohd Siblee Islam et.al.|[2202.11824v1](http://arxiv.org/abs/2202.11824v1)|null|
-|**2022-02-21**|**Improving Radioactive Material Localization by Leveraging Cyber-Security Model Optimizations**|Ryan Sheatsley et.al.|[2202.10387v1](http://arxiv.org/abs/2202.10387v1)|null|
-|**2022-02-20**|**Multi-dimensional Network Security Game: How do attacker and defender battle on parallel targets?**|Yuedong Xu et.al.|[2202.09755v1](http://arxiv.org/abs/2202.09755v1)|null|
-|**2022-02-18**|**Out of Distribution Data Detection Using Dropout Bayesian Neural Networks**|Andre T. Nguyen et.al.|[2202.08985v1](http://arxiv.org/abs/2202.08985v1)|null|
-|**2022-02-15**|**StratDef: a strategic defense against adversarial attacks in malware detection**|Aqib Rashid et.al.|[2202.07568v1](http://arxiv.org/abs/2202.07568v1)|null|
-|**2022-02-11**|**Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers**|Limin Yang et.al.|[2202.05470v1](http://arxiv.org/abs/2202.05470v1)|null|
-|**2022-02-08**|**IoT Malware Detection Architecture using a Novel Channel Boosted and Squeezed CNN**|Muhammad Asam et.al.|[2202.04121v1](http://arxiv.org/abs/2202.04121v1)|null|
-|**2022-02-07**|**On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks**|Salijona Dyrmishi et.al.|[2202.03277v1](http://arxiv.org/abs/2202.03277v1)|null|
-|**2022-02-07**|**Ransomware: Analysing the Impact on Windows Active Directory Domain Services**|Grant McDonald et.al.|[2202.03276v1](http://arxiv.org/abs/2202.03276v1)|null|
-|**2022-01-30**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|[link](https://github.com/shijiansj/deepcatra)|
-|**2022-01-28**|**Agent-based modeling and simulation for malware spreading in D2D networks**|Ziyad Benomar et.al.|[2201.12230v1](http://arxiv.org/abs/2201.12230v1)|null|
-|**2022-01-27**|**A TOCTOU Attack on DICE Attestation**|Stefan Hristozov et.al.|[2201.11764v1](http://arxiv.org/abs/2201.11764v1)|null|
-|**2022-01-26**|**Autonomous Cyber Defense Introduces Risk: Can We Manage the Risk?**|Alexandre K. Ligo et.al.|[2201.11148v1](http://arxiv.org/abs/2201.11148v1)|null|
-|**2022-01-23**|**Efficient and Robust Classification for Sparse Attacks**|Mark Beliaev et.al.|[2201.09369v1](http://arxiv.org/abs/2201.09369v1)|null|
-|**2022-01-20**|**Assembling a Cyber Range to Evaluate Artificial Intelligence / Machine Learning (AI/ML) Security Tools**|Jeffrey A. Nichols et.al.|[2201.08473v1](http://arxiv.org/abs/2201.08473v1)|null|
-|**2022-01-20**|**RoboMal: Malware Detection for Robot Network Systems**|Upinder Kaur et.al.|[2201.08470v1](http://arxiv.org/abs/2201.08470v1)|null|
-|**2022-01-20**|**Android Malware Detection using Feature Ranking of Permissions**|Muhammad Suleman Saleem et.al.|[2201.08468v1](http://arxiv.org/abs/2201.08468v1)|null|
-|**2022-01-19**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v4](http://arxiv.org/abs/2201.07537v4)|null|
-|**2022-01-19**|**Cross-Language Binary-Source Code Matching with Intermediate Representations**|Yi Gui et.al.|[2201.07420v1](http://arxiv.org/abs/2201.07420v1)|[link](https://github.com/CGCL-codes/naturalcc)|
-|**2022-01-14**|**Security Orchestration, Automation, and Response Engine for Deployment of Behavioural Honeypots**|Upendra Bartwal et.al.|[2201.05326v1](http://arxiv.org/abs/2201.05326v1)|null|
-|**2022-01-05**|**Comprehensive Efficiency Analysis of Machine Learning Algorithms for Developing Hardware-Based Cybersecurity Countermeasures**|Darren Cobian et.al.|[2201.07654v1](http://arxiv.org/abs/2201.07654v1)|null|
-|**2022-01-03**|**A Survey on DNS Encryption: Current Development, Malware Misuse, and Inference Techniques**|Minzhao Lyu et.al.|[2201.00900v1](http://arxiv.org/abs/2201.00900v1)|null|
-|**2021-12-27**|**PORTFILER: Port-Level Network Profiling for Self-Propagating Malware Detection**|Talha Ongun et.al.|[2112.13798v1](http://arxiv.org/abs/2112.13798v1)|null|
-|**2021-12-25**|**An Ensemble of Pre-trained Transformer Models For Imbalanced Multiclass Malware Classification**|Ferhat Demirkıran et.al.|[2112.13236v2](http://arxiv.org/abs/2112.13236v2)|[link](https://github.com/Ferhat94/Random-Transformer-Forest)|
-|**2021-12-23**|**Adversarial Attacks against Windows PE Malware Detection: A Survey of the State-of-the-Art**|Xiang Ling et.al.|[2112.12310v1](http://arxiv.org/abs/2112.12310v1)|[link](https://github.com/ryderling/adversarial-attacks-and-defenses-for-windows-pe-malware-detection)|
-|**2021-12-22**|**Semantics-Recovering Decompilation through Neural Machine Translation**|Ruigang Liang et.al.|[2112.15491v1](http://arxiv.org/abs/2112.15491v1)|null|
-|**2021-12-21**|**Longitudinal Study of the Prevalence of Malware Evasive Techniques**|Lorenzo Maffia et.al.|[2112.11289v1](http://arxiv.org/abs/2112.11289v1)|null|
-|**2021-12-20**|**Forensic Issues and Techniques to Improve Security in SSD with Flex Capacity Feature**|Na Young Ahn et.al.|[2112.13923v1](http://arxiv.org/abs/2112.13923v1)|null|
-|**2021-12-20**|**JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis**|Jordan Samhi et.al.|[2112.10469v2](http://arxiv.org/abs/2112.10469v2)|null|
-|**2021-12-19**|**Android-COCO: Android Malware Detection with Graph Neural Network for Byte- and Native-Code**|Peng Xu et.al.|[2112.10038v2](http://arxiv.org/abs/2112.10038v2)|null|
 
 ### Activation
 |Publish Date|Title|Authors|PDF|Code|
@@ -215,6 +215,40 @@
 |**2022-02-23**|**Comparative analysis of machine learning methods for active flow control**|Fabio Pino et.al.|[2202.11664v1](http://arxiv.org/abs/2202.11664v1)|null|
 |**2022-02-23**|**Fast Reconfiguration for Programmable Matter**|Irina Kostitsyna et.al.|[2202.11663v1](http://arxiv.org/abs/2202.11663v1)|null|
 
+### Malware
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-23**|**Using Deep Learning to Detect Digitally Encoded DNA Trigger for Trojan Malware in Bio-Cyber Attacks**|Mohd Siblee Islam et.al.|[2202.11824v1](http://arxiv.org/abs/2202.11824v1)|null|
+|**2022-02-21**|**Improving Radioactive Material Localization by Leveraging Cyber-Security Model Optimizations**|Ryan Sheatsley et.al.|[2202.10387v1](http://arxiv.org/abs/2202.10387v1)|null|
+|**2022-02-20**|**Multi-dimensional Network Security Game: How do attacker and defender battle on parallel targets?**|Yuedong Xu et.al.|[2202.09755v1](http://arxiv.org/abs/2202.09755v1)|null|
+|**2022-02-18**|**Out of Distribution Data Detection Using Dropout Bayesian Neural Networks**|Andre T. Nguyen et.al.|[2202.08985v1](http://arxiv.org/abs/2202.08985v1)|null|
+|**2022-02-15**|**StratDef: a strategic defense against adversarial attacks in malware detection**|Aqib Rashid et.al.|[2202.07568v1](http://arxiv.org/abs/2202.07568v1)|null|
+|**2022-02-11**|**Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers**|Limin Yang et.al.|[2202.05470v1](http://arxiv.org/abs/2202.05470v1)|null|
+|**2022-02-08**|**IoT Malware Detection Architecture using a Novel Channel Boosted and Squeezed CNN**|Muhammad Asam et.al.|[2202.04121v1](http://arxiv.org/abs/2202.04121v1)|null|
+|**2022-02-07**|**On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks**|Salijona Dyrmishi et.al.|[2202.03277v1](http://arxiv.org/abs/2202.03277v1)|null|
+|**2022-02-07**|**Ransomware: Analysing the Impact on Windows Active Directory Domain Services**|Grant McDonald et.al.|[2202.03276v1](http://arxiv.org/abs/2202.03276v1)|null|
+|**2022-01-30**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|[link](https://github.com/shijiansj/deepcatra)|
+|**2022-01-28**|**Agent-based modeling and simulation for malware spreading in D2D networks**|Ziyad Benomar et.al.|[2201.12230v1](http://arxiv.org/abs/2201.12230v1)|null|
+|**2022-01-27**|**A TOCTOU Attack on DICE Attestation**|Stefan Hristozov et.al.|[2201.11764v1](http://arxiv.org/abs/2201.11764v1)|null|
+|**2022-01-26**|**Autonomous Cyber Defense Introduces Risk: Can We Manage the Risk?**|Alexandre K. Ligo et.al.|[2201.11148v1](http://arxiv.org/abs/2201.11148v1)|null|
+|**2022-01-23**|**Efficient and Robust Classification for Sparse Attacks**|Mark Beliaev et.al.|[2201.09369v1](http://arxiv.org/abs/2201.09369v1)|null|
+|**2022-01-20**|**Assembling a Cyber Range to Evaluate Artificial Intelligence / Machine Learning (AI/ML) Security Tools**|Jeffrey A. Nichols et.al.|[2201.08473v1](http://arxiv.org/abs/2201.08473v1)|null|
+|**2022-01-20**|**RoboMal: Malware Detection for Robot Network Systems**|Upinder Kaur et.al.|[2201.08470v1](http://arxiv.org/abs/2201.08470v1)|null|
+|**2022-01-20**|**Android Malware Detection using Feature Ranking of Permissions**|Muhammad Suleman Saleem et.al.|[2201.08468v1](http://arxiv.org/abs/2201.08468v1)|null|
+|**2022-01-19**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v4](http://arxiv.org/abs/2201.07537v4)|null|
+|**2022-01-19**|**Cross-Language Binary-Source Code Matching with Intermediate Representations**|Yi Gui et.al.|[2201.07420v1](http://arxiv.org/abs/2201.07420v1)|[link](https://github.com/CGCL-codes/naturalcc)|
+|**2022-01-14**|**Security Orchestration, Automation, and Response Engine for Deployment of Behavioural Honeypots**|Upendra Bartwal et.al.|[2201.05326v1](http://arxiv.org/abs/2201.05326v1)|null|
+|**2022-01-05**|**Comprehensive Efficiency Analysis of Machine Learning Algorithms for Developing Hardware-Based Cybersecurity Countermeasures**|Darren Cobian et.al.|[2201.07654v1](http://arxiv.org/abs/2201.07654v1)|null|
+|**2022-01-03**|**A Survey on DNS Encryption: Current Development, Malware Misuse, and Inference Techniques**|Minzhao Lyu et.al.|[2201.00900v1](http://arxiv.org/abs/2201.00900v1)|null|
+|**2021-12-27**|**PORTFILER: Port-Level Network Profiling for Self-Propagating Malware Detection**|Talha Ongun et.al.|[2112.13798v1](http://arxiv.org/abs/2112.13798v1)|null|
+|**2021-12-25**|**An Ensemble of Pre-trained Transformer Models For Imbalanced Multiclass Malware Classification**|Ferhat Demirkıran et.al.|[2112.13236v2](http://arxiv.org/abs/2112.13236v2)|[link](https://github.com/Ferhat94/Random-Transformer-Forest)|
+|**2021-12-23**|**Adversarial Attacks against Windows PE Malware Detection: A Survey of the State-of-the-Art**|Xiang Ling et.al.|[2112.12310v1](http://arxiv.org/abs/2112.12310v1)|[link](https://github.com/ryderling/adversarial-attacks-and-defenses-for-windows-pe-malware-detection)|
+|**2021-12-22**|**Semantics-Recovering Decompilation through Neural Machine Translation**|Ruigang Liang et.al.|[2112.15491v1](http://arxiv.org/abs/2112.15491v1)|null|
+|**2021-12-21**|**Longitudinal Study of the Prevalence of Malware Evasive Techniques**|Lorenzo Maffia et.al.|[2112.11289v1](http://arxiv.org/abs/2112.11289v1)|null|
+|**2021-12-20**|**Forensic Issues and Techniques to Improve Security in SSD with Flex Capacity Feature**|Na Young Ahn et.al.|[2112.13923v1](http://arxiv.org/abs/2112.13923v1)|null|
+|**2021-12-20**|**JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis**|Jordan Samhi et.al.|[2112.10469v2](http://arxiv.org/abs/2112.10469v2)|null|
+|**2021-12-19**|**Android-COCO: Android Malware Detection with Graph Neural Network for Byte- and Native-Code**|Peng Xu et.al.|[2112.10038v2](http://arxiv.org/abs/2112.10038v2)|null|
+
 ### Defense
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -248,37 +282,3 @@
 |**2022-02-16**|**Can Deep Learning be Applied to Model-Based Multi-Object Tracking?**|Juliano Pinto et.al.|[2202.07909v1](http://arxiv.org/abs/2202.07909v1)|null|
 |**2022-02-15**|**StratDef: a strategic defense against adversarial attacks in malware detection**|Aqib Rashid et.al.|[2202.07568v1](http://arxiv.org/abs/2202.07568v1)|null|
 |**2022-02-15**|**Holistic Adversarial Robustness of Deep Learning Models**|Pin-Yu Chen et.al.|[2202.07201v1](http://arxiv.org/abs/2202.07201v1)|null|
-
-### security
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-24**|**Towards Effective and Robust Neural Trojan Defenses via Input Filtering**|Kien Do et.al.|[2202.12154v1](http://arxiv.org/abs/2202.12154v1)|null|
-|**2022-02-24**|**How reparametrization trick broke differentially-private text representation leaning**|Ivan Habernal et.al.|[2202.12138v1](http://arxiv.org/abs/2202.12138v1)|[link](https://github.com/trusthlt/acl2022-reparametrization-trick-broke-differential-privacy)|
-|**2022-02-24**|**pHGen: A pH-Based Key Generation Mechanism Using ISFETs**|Elmira Moussavi et.al.|[2202.12085v1](http://arxiv.org/abs/2202.12085v1)|null|
-|**2022-02-24**|**Deep learning-based UAV detection in the low altitude clutter background**|Zeyang Wu et.al.|[2202.12053v1](http://arxiv.org/abs/2202.12053v1)|null|
-|**2022-02-24**|**Systematic Prevention of On-Core Timing Channels by Full Temporal Partitioning**|Nils Wistoff et.al.|[2202.12029v1](http://arxiv.org/abs/2202.12029v1)|null|
-|**2022-02-24**|**A Holistic View on Data Protection for Sharing, Communicating, and Computing Environments: Taxonomy and Future Directions**|Ishu Gupta et.al.|[2202.11965v1](http://arxiv.org/abs/2202.11965v1)|null|
-|**2022-02-24**|**Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations**|Muhammad Azmi Umer et.al.|[2202.11917v1](http://arxiv.org/abs/2202.11917v1)|null|
-|**2022-02-24**|**Noncoherent Massive MIMO with Embedded One-Way Function Physical Layer Security**|Yuma Katsuki et.al.|[2202.11893v1](http://arxiv.org/abs/2202.11893v1)|null|
-|**2022-02-24**|**Robust Transmission Design for RIS-assisted Secure Multiuser Communication Systems in the Presence of Hardware Impairments**|Zhangjie Peng et.al.|[2202.11860v1](http://arxiv.org/abs/2202.11860v1)|null|
-|**2022-02-23**|**Using Deep Learning to Detect Digitally Encoded DNA Trigger for Trojan Malware in Bio-Cyber Attacks**|Mohd Siblee Islam et.al.|[2202.11824v1](http://arxiv.org/abs/2202.11824v1)|null|
-|**2022-02-23**|**AirGuard -- Protecting Android Users From Stalking Attacks By Apple Find My Devices**|Alexander Heinrich et.al.|[2202.11813v1](http://arxiv.org/abs/2202.11813v1)|null|
-|**2022-02-23**|**ML-based Anomaly Detection in Optical Fiber Monitoring**|Khouloud Abdelli et.al.|[2202.11756v1](http://arxiv.org/abs/2202.11756v1)|null|
-|**2022-02-23**|**TEE-based decentralized recommender systems: The raw data sharing redemption**|Akash Dhasade et.al.|[2202.11655v1](http://arxiv.org/abs/2202.11655v1)|[link](https://github.com/rafaelppires/rex)|
-|**2022-02-23**|**IOTLB-SC: An Accelerator-Independent Leakage Source in Modern Cloud Systems**|Thore Tiemann et.al.|[2202.11623v1](http://arxiv.org/abs/2202.11623v1)|null|
-|**2022-02-23**|**Optimal Second-Order Rates for Quantum Soft Covering and Privacy Amplification**|Yu-Chen Shen et.al.|[2202.11590v1](http://arxiv.org/abs/2202.11590v1)|null|
-|**2022-02-23**|**A comparative study of in-air trajectories at short and long distances in online handwriting**|Carlos Alonso-Martinez et.al.|[2202.12237v1](http://arxiv.org/abs/2202.12237v1)|null|
-|**2022-02-23**|**On-line signature verification system with failure to enroll managing**|Joan Fabregas et.al.|[2202.12242v1](http://arxiv.org/abs/2202.12242v1)|null|
-|**2022-02-23**|**BYOD Security: A Study of Human Dimensions**|Kathleen Downer et.al.|[2202.11498v1](http://arxiv.org/abs/2202.11498v1)|null|
-|**2022-02-23**|**High-precision Hardware Oscillators Ensemble for GNSS Attack Detection**|M. Spanghero et.al.|[2202.11483v2](http://arxiv.org/abs/2202.11483v2)|null|
-|**2022-02-23**|**Cybersecurity Challenges in the Offshore Oil and Gas Industry: An Industrial Cyber-Physical Systems (ICPS) Perspective**|Abubakar Sadiq Mohammed et.al.|[2202.12179v1](http://arxiv.org/abs/2202.12179v1)|null|
-|**2022-02-23**|**Residual Bootstrap Exploration for Stochastic Linear Bandit**|Shuang Wu et.al.|[2202.11474v1](http://arxiv.org/abs/2202.11474v1)|null|
-|**2022-02-23**|**Thermal hand image segmentation for biometric recognition**|Xavier Font-Aragones et.al.|[2202.11462v1](http://arxiv.org/abs/2202.11462v1)|null|
-|**2022-02-23**|**Biometric security technology**|Marcos Faundez-Zanuy et.al.|[2202.11459v1](http://arxiv.org/abs/2202.11459v1)|null|
-|**2022-02-23**|**Privacy issues on biometric systems**|Marcos Faundez-Zanuy et.al.|[2202.11415v1](http://arxiv.org/abs/2202.11415v1)|null|
-|**2022-02-23**|**ScrawlD: A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities**|Chavhan Sujeet Yashavant et.al.|[2202.11409v2](http://arxiv.org/abs/2202.11409v2)|[link](https://github.com/sujeetc/ScrawlD)|
-|**2022-02-23**|**Differential privacy for symmetric log-concave mechanisms**|Staal A. Vinterbo et.al.|[2202.11393v1](http://arxiv.org/abs/2202.11393v1)|[link](https://github.com/laats/subbotinmechanism)|
-|**2022-02-23**|**Deep Graph Learning for Anomalous Citation Detection**|Jiaying Liu et.al.|[2202.11360v1](http://arxiv.org/abs/2202.11360v1)|null|
-|**2022-02-23**|**Deepfake Detection for Facial Images with Facemasks**|Donggeun Ko et.al.|[2202.11359v1](http://arxiv.org/abs/2202.11359v1)|null|
-|**2022-02-23**|**Distributed and Mobile Message Level Relaying/Replaying of GNSS Signals**|M. Lenhart et.al.|[2202.11341v1](http://arxiv.org/abs/2202.11341v1)|null|
-|**2022-02-23**|**Absolute Zero-Shot Learning**|Rui Gao et.al.|[2202.11319v1](http://arxiv.org/abs/2202.11319v1)|null|
