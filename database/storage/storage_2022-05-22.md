@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-22 10:15:01 Asia/Shanghai
+ Automated deployment @ 2022-05-22 20:49:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,74 +8,6 @@
 ### Adversarial
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Trojan
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-13**|**Information leakage resistant quantum dialogue with single photons in both polarization and spatial-mode degrees of freedom**|Tian-Yu Ye et.al.|[2205.06930v1](http://arxiv.org/abs/2205.06930v1)|null|
-|**2022-05-13**|**A Study of the Attention Abnormality in Trojaned BERTs**|Weimin Lyu et.al.|[2205.08305v1](http://arxiv.org/abs/2205.08305v1)|[link](https://github.com/weimin17/attention_abnormality_in_trojaned_berts)|
-|**2022-05-13**|**Semi-quantum key distribution with single photons in both polarization and spatial-mode degrees of freedom**|Tian-Yu Ye et.al.|[2205.06813v1](http://arxiv.org/abs/2205.06813v1)|null|
-|**2022-05-05**|**Fault tolerant authenticated quantum dialogue using logical Bell states**|Tian-Yu Ye et.al.|[2205.02419v1](http://arxiv.org/abs/2205.02419v1)|null|
-|**2022-05-05**|**Information leakage resistant quantum dialogue against collective noise**|Tian-Yu Ye et.al.|[2205.02401v1](http://arxiv.org/abs/2205.02401v1)|null|
-|**2022-04-29**|**Hardware Trojan Detection Using Unsupervised Deep Learning on Quantum Diamond Microscope Magnetic Field Images**|Maitreyi Ashok et.al.|[2204.14228v1](http://arxiv.org/abs/2204.14228v1)|null|
-|**2022-04-25**|**Hardware Trojan Detection using Graph Neural Networks**|Rozhin Yasaei et.al.|[2204.11431v1](http://arxiv.org/abs/2204.11431v1)|null|
-|**2022-04-21**|**A Collision Mechanism for the Removal of Earth's Trojan Asteroids**|Kevin J. Napier et.al.|[2204.10316v1](http://arxiv.org/abs/2204.10316v1)|null|
-|**2022-04-21**|**A novel two-party semiquantum key distribution protocol based on GHZ-like states**|Tian-Jie Xu et.al.|[2204.10088v1](http://arxiv.org/abs/2204.10088v1)|null|
-|**2022-04-19**|**Size Distribution of Small Jupiter Trojans in the L5 Swarm**|Kotomi Uehata et.al.|[2204.08617v1](http://arxiv.org/abs/2204.08617v1)|null|
-|**2022-04-18**|**Automatic Hardware Trojan Insertion using Machine Learning**|Jonathan Cruz et.al.|[2204.08580v1](http://arxiv.org/abs/2204.08580v1)|null|
-|**2022-04-12**|**AdaTest:Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection**|Huili Chen et.al.|[2204.06117v1](http://arxiv.org/abs/2204.06117v1)|null|
-|**2022-04-09**|**Hardware Trojan Insertion Using Reinforcement Learning**|Amin Sarihi et.al.|[2204.04350v1](http://arxiv.org/abs/2204.04350v1)|null|
-|**2022-04-08**|**An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks**|Xinqiao Zhang et.al.|[2204.04329v1](http://arxiv.org/abs/2204.04329v1)|[link](https://github.com/xinqiaozhang/adatrojan)|
-|**2022-03-25**|**Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning**|Arezoo Rajabi et.al.|[2203.15506v1](http://arxiv.org/abs/2203.15506v1)|null|
-|**2022-03-08**|**Status of deep subbarrier $\mathbf{{}^{12}{\rm C}+{}^{12}{\rm C}}$ fusion and advancing the Trojan horse method**|A. M. Mukhamedzhanov et.al.|[2203.04094v3](http://arxiv.org/abs/2203.04094v3)|null|
-|**2022-03-04**|**Contrastive Graph Convolutional Networks for Hardware Trojan Detection in Third Party IP Cores**|Nikhil Muralidhar et.al.|[2203.02095v1](http://arxiv.org/abs/2203.02095v1)|null|
-|**2022-02-24**|**Towards Effective and Robust Neural Trojan Defenses via Input Filtering**|Kien Do et.al.|[2202.12154v3](http://arxiv.org/abs/2202.12154v3)|null|
-|**2022-02-23**|**Using Deep Learning to Detect Digitally Encoded DNA Trigger for Trojan Malware in Bio-Cyber Attacks**|Mohd Siblee Islam et.al.|[2202.11824v1](http://arxiv.org/abs/2202.11824v1)|null|
-|**2022-02-15**|**A Survey of Neural Trojan Attacks and Defenses in Deep Learning**|Jie Wang et.al.|[2202.07183v1](http://arxiv.org/abs/2202.07183v1)|null|
-|**2022-02-14**|**An ALMA search for high albedo objects among the mid-sized Jupiter Trojan population**|Anna M. Simpson et.al.|[2202.07066v1](http://arxiv.org/abs/2202.07066v1)|null|
-|**2022-02-14**|**Improved Finite-Key Security Analysis of Quantum Key Distribution Against Trojan-Horse Attacks**|Álvaro Navarrete et.al.|[2202.06630v1](http://arxiv.org/abs/2202.06630v1)|null|
-|**2022-02-13**|**Neural Network Trojans Analysis and Mitigation from the Input Domain**|Zhenting Wang et.al.|[2202.06382v2](http://arxiv.org/abs/2202.06382v2)|null|
-|**2022-02-08**|**Targeted Trojan-Horse Attacks on Language-based Image Retrieval**|Fan Hu et.al.|[2202.03861v2](http://arxiv.org/abs/2202.03861v2)|[link](https://github.com/fly-dragon211/tth)|
-|**2022-02-08**|**Backdoor Detection in Reinforcement Learning**|Junfeng Guo et.al.|[2202.03609v2](http://arxiv.org/abs/2202.03609v2)|null|
-|**2022-01-16**|**Protecting fiber-optic quantum key distribution sources against light-injection attacks**|Anastasiya Ponosova et.al.|[2201.06114v1](http://arxiv.org/abs/2201.06114v1)|null|
-|**2022-01-16**|**Variability aware Golden Reference Free methodology for Hardware Trojan Detection Using Robust Delay Analysis**|Ramakrishna Vaikuntapu et.al.|[2201.09668v1](http://arxiv.org/abs/2201.09668v1)|null|
-|**2022-01-05**|**128383 (2004 JW52) is an Ordinary Jupiter Trojan Asteroid**|Tom Seccull et.al.|[2201.01785v1](http://arxiv.org/abs/2201.01785v1)|null|
-|**2022-01-04**|**Reusing Verification Assertions as Security Checkers for Hardware Trojan Detection**|Mohammad Eslami et.al.|[2201.01130v1](http://arxiv.org/abs/2201.01130v1)|null|
-|**2021-12-24**|**CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing**|Haibo Jin et.al.|[2112.13064v1](http://arxiv.org/abs/2112.13064v1)|null|
-
-### Attack
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-19**|**Dissemination Control in Dynamic Data Clustering For Dense IIoT Against False Data Injection Attack**|Carlos Pedroso et.al.|[2205.09730v1](http://arxiv.org/abs/2205.09730v1)|null|
-|**2022-05-19**|**Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency**|Zihan Li et.al.|[2205.09669v1](http://arxiv.org/abs/2205.09669v1)|[link](https://github.com/huanglizi/wtc)|
-|**2022-05-19**|**Focused Adversarial Attacks**|Thomas Cilloni et.al.|[2205.09624v1](http://arxiv.org/abs/2205.09624v1)|null|
-|**2022-05-19**|**Improving Robustness against Real-World and Worst-Case Distribution Shifts through Decision Region Quantification**|Leo Schwinn et.al.|[2205.09619v1](http://arxiv.org/abs/2205.09619v1)|null|
-|**2022-05-19**|**Transferable Physical Attack against Object Detection with Separable Attention**|Yu Zhang et.al.|[2205.09592v1](http://arxiv.org/abs/2205.09592v1)|null|
-|**2022-05-19**|**Breathing Life into Models: The Next Generation of Enterprise Modeling**|Peter Fettke et.al.|[2205.09591v1](http://arxiv.org/abs/2205.09591v1)|null|
-|**2022-05-19**|**On Trace of PGD-Like Adversarial Attacks**|Mo Zhou et.al.|[2205.09586v1](http://arxiv.org/abs/2205.09586v1)|null|
-|**2022-05-19**|**IFTT-PIN: A PIN-Entry Method Leveraging the Self-Calibration Paradigm**|Jonathan Grizou et.al.|[2205.09534v1](http://arxiv.org/abs/2205.09534v1)|null|
-|**2022-05-19**|**Security Analysis of DeFi: Vulnerabilities, Attacks and Advances**|Wenkai Li et.al.|[2205.09524v1](http://arxiv.org/abs/2205.09524v1)|null|
-|**2022-05-19**|**Defending Against Adversarial Attacks by Energy Storage Facility**|Jiawei Li et.al.|[2205.09522v1](http://arxiv.org/abs/2205.09522v1)|null|
-|**2022-05-19**|**Enhancing the Transferability of Adversarial Examples via a Few Queries**|Xiangyuan Yang et.al.|[2205.09518v1](http://arxiv.org/abs/2205.09518v1)|null|
-|**2022-05-19**|**Dockerized Android: a container-based platform to build mobile Android scenarios for Cyber Ranges**|Daniele Capone et.al.|[2205.09493v1](http://arxiv.org/abs/2205.09493v1)|null|
-|**2022-05-19**|**Machine learning applications for noisy intermediate-scale quantum computers**|Brian Coyle et.al.|[2205.09414v1](http://arxiv.org/abs/2205.09414v1)|null|
-|**2022-05-19**|**Sparse Adversarial Attack in Multi-agent Reinforcement Learning**|Yizheng Hu et.al.|[2205.09362v1](http://arxiv.org/abs/2205.09362v1)|null|
-|**2022-05-19**|**A Simple Yet Effective SVD-GCN for Directed Graphs**|Chunya Zou et.al.|[2205.09335v1](http://arxiv.org/abs/2205.09335v1)|null|
-|**2022-05-18**|**ExploitWP2Docker: a Platform for Automating the Generation of Vulnerable WordPress Environments for Cyber Ranges**|Francesco Caturano et.al.|[2205.09230v1](http://arxiv.org/abs/2205.09230v1)|null|
-|**2022-05-18**|**On the multi-stage shortest path problem under distributional uncertainty**|Sergey S. Ketkov et.al.|[2205.09200v1](http://arxiv.org/abs/2205.09200v1)|null|
-|**2022-05-18**|**A False Sense of Security? Revisiting the State of Machine Learning-Based Industrial Intrusion Detection**|Dominik Kus et.al.|[2205.09199v1](http://arxiv.org/abs/2205.09199v1)|[link](https://github.com/comsys/ml-iids-generalizability)|
-|**2022-05-18**|**Adaptive Hybrid Heterogeneous IDS for 6LoWPAN**|Aryan Mohammadi Pasikhani et.al.|[2205.09170v1](http://arxiv.org/abs/2205.09170v1)|null|
-|**2022-05-18**|**Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution**|Zhixin Pan et.al.|[2205.09167v1](http://arxiv.org/abs/2205.09167v1)|null|
-|**2022-05-18**|**Network structural perturbation against interlayer link prediction**|Rui Tang et.al.|[2205.09079v1](http://arxiv.org/abs/2205.09079v1)|[link](https://github.com/mollyshuu/nsp-kbs2022)|
-|**2022-05-18**|**VLC Physical Layer Security through RIS-aided Jamming Receiver for 6G Wireless Networks**|Simone Soderi et.al.|[2205.09026v1](http://arxiv.org/abs/2205.09026v1)|null|
-|**2022-05-18**|**Toward Timed-Release Encryption in Web3 An Efficient Dual-Propose Proof-of-Work Consensus**|Fanghao Yang et.al.|[2205.09020v1](http://arxiv.org/abs/2205.09020v1)|null|
-|**2022-05-18**|**Resilience Enhancement at Edge Cloud Systems**|Jose Moura et.al.|[2205.08997v1](http://arxiv.org/abs/2205.08997v1)|null|
-|**2022-05-18**|**Constraining the Attack Space of Machine Learning Models with Distribution Clamping Preprocessing**|Ryan Feng et.al.|[2205.08989v1](http://arxiv.org/abs/2205.08989v1)|null|
-|**2022-05-18**|**Monitoring Security of Enterprise Hosts via DNS Data Analysis**|Jawad Ahmed et.al.|[2205.08968v1](http://arxiv.org/abs/2205.08968v1)|null|
-|**2022-05-18**|**Analysing and strengthening OpenWPM's reliability**|Benjamin Krumnow et.al.|[2205.08890v1](http://arxiv.org/abs/2205.08890v1)|null|
-|**2022-05-18**|**Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)**|Marco Spaziani Brunella et.al.|[2205.08882v1](http://arxiv.org/abs/2205.08882v1)|null|
-|**2022-05-18**|**Property Unlearning: A Defense Strategy Against Property Inference Attacks**|Joshua Stock et.al.|[2205.08821v1](http://arxiv.org/abs/2205.08821v1)|null|
-|**2022-05-18**|**Passive Defense Against 3D Adversarial Point Clouds Through the Lens of 3D Steganalysis**|Jiahao Zhu et.al.|[2205.08738v1](http://arxiv.org/abs/2205.08738v1)|null|
 
 ### backdoor
 |Publish Date|Title|Authors|PDF|Code|
@@ -111,75 +43,75 @@
 |**2022-03-07**|**Low-Loss Subspace Compression for Clean Gains against Multi-Agent Backdoor Attacks**|Siddhartha Datta et.al.|[2203.03692v1](http://arxiv.org/abs/2203.03692v1)|null|
 |**2022-03-04**|**Dynamic Backdoors with Global Average Pooling**|Stefanos Koffas et.al.|[2203.02079v1](http://arxiv.org/abs/2203.02079v1)|null|
 
-## security
-
-### Malicious
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-19**|**Detect Professional Malicious User with Metric Learning in Recommender Systems**|Yuanbo Xu et.al.|[2205.09673v1](http://arxiv.org/abs/2205.09673v1)|null|
-|**2022-05-19**|**A Boosting Algorithm for Positive-Unlabeled Learning**|Yawen Zhao et.al.|[2205.09485v1](http://arxiv.org/abs/2205.09485v1)|null|
-|**2022-05-18**|**Adaptive Hybrid Heterogeneous IDS for 6LoWPAN**|Aryan Mohammadi Pasikhani et.al.|[2205.09170v1](http://arxiv.org/abs/2205.09170v1)|null|
-|**2022-05-18**|**Monitoring Security of Enterprise Hosts via DNS Data Analysis**|Jawad Ahmed et.al.|[2205.08968v1](http://arxiv.org/abs/2205.08968v1)|null|
-|**2022-05-18**|**Passive Defense Against 3D Adversarial Point Clouds Through the Lens of 3D Steganalysis**|Jiahao Zhu et.al.|[2205.08738v1](http://arxiv.org/abs/2205.08738v1)|null|
-|**2022-05-16**|**Prisma: A Tierless Language for Enforcing Contract-Client Protocols in Decentralized Applications (Extended Version)**|David Richter et.al.|[2205.07780v1](http://arxiv.org/abs/2205.07780v1)|null|
-|**2022-05-14**|**Unsupervised Abnormal Traffic Detection through Topological Flow Analysis**|Paul Irofti et.al.|[2205.07109v1](http://arxiv.org/abs/2205.07109v1)|null|
-|**2022-05-14**|**CDEdit: A Highly Applicable Redactable Blockchain with Controllable Editing Privilege and Diversified Editing Types**|Xiaofeng Chen et.al.|[2205.07054v1](http://arxiv.org/abs/2205.07054v1)|[link](https://github.com/cryptocxf/cdedit)|
-|**2022-05-13**|**The Effectiveness of Temporal Dependency in Deepfake Video Detection**|Will Rowan et.al.|[2205.06684v1](http://arxiv.org/abs/2205.06684v1)|null|
-|**2022-05-13**|**Kronecker Decomposition for Knowledge Graph Embeddings**|Caglar Demir et.al.|[2205.06560v1](http://arxiv.org/abs/2205.06560v1)|[link](https://github.com/dice-group/dice-embeddings)|
-|**2022-05-12**|**Building A Trusted Execution Environment for In-Storage Computing**|Yuqi Xue et.al.|[2205.06361v1](http://arxiv.org/abs/2205.06361v1)|null|
-|**2022-05-12**|**Consensus Capacity of Noisy Broadcast Channels**|Neha Sangwan et.al.|[2205.06073v1](http://arxiv.org/abs/2205.06073v1)|null|
-|**2022-05-12**|**Stalloris: RPKI Downgrade Attack**|Tomas Hlavacek et.al.|[2205.06064v1](http://arxiv.org/abs/2205.06064v1)|null|
-|**2022-05-11**|**Trusted Container Extensions for Container-based Confidential Computing**|Ferdinand Brasser et.al.|[2205.05747v1](http://arxiv.org/abs/2205.05747v1)|null|
-|**2022-05-11**|**A Longitudinal Study of Cryptographic API -- a Decade of Android Malware**|Adam Janovsky et.al.|[2205.05573v2](http://arxiv.org/abs/2205.05573v2)|null|
-|**2022-05-11**|**Injection Attacks Reloaded: Tunnelling Malicious Payloads over DNS**|Philipp Jeitner et.al.|[2205.05439v1](http://arxiv.org/abs/2205.05439v1)|null|
-|**2022-05-10**|**DNS based In-Browser Cryptojacking Detection**|Rohit Kumar Sachan et.al.|[2205.04685v1](http://arxiv.org/abs/2205.04685v1)|null|
-|**2022-05-09**|**Model-Contrastive Learning for Backdoor Defense**|Zhihao Yue et.al.|[2205.04411v2](http://arxiv.org/abs/2205.04411v2)|[link](https://github.com/wecanshow/mcl)|
-|**2022-05-09**|**Applying consensus and replication securely with FLAQR**|Priyanka Mondal et.al.|[2205.04384v1](http://arxiv.org/abs/2205.04384v1)|null|
-|**2022-05-09**|**A Hybrid Approach: Utilising Kmeans Clustering and Naive Bayes for IoT Anomaly Detection**|Lincoln Best et.al.|[2205.04005v1](http://arxiv.org/abs/2205.04005v1)|null|
-|**2022-05-06**|**Unlimited Lives: Secure In-Process Rollback with Isolated Domains**|Merve Turhan et.al.|[2205.03205v1](http://arxiv.org/abs/2205.03205v1)|null|
-|**2022-05-06**|**Imperceptible Backdoor Attack: From Input Space to Feature Representation**|Nan Zhong et.al.|[2205.03190v1](http://arxiv.org/abs/2205.03190v1)|[link](https://github.com/ekko-zn/ijcai2022-backdoor)|
-|**2022-05-06**|**Fusion: Efficient and Secure Inference Resilient to Malicious Server and Curious Clients**|Caiqin Dong et.al.|[2205.03040v1](http://arxiv.org/abs/2205.03040v1)|null|
-|**2022-05-05**|**Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA**|Ivan De Oliveira Nunes et.al.|[2205.02963v1](http://arxiv.org/abs/2205.02963v1)|[link](https://github.com/sprout-uci/pfb)|
-|**2022-05-05**|**A Temporal-Pattern Backdoor Attack to Deep Reinforcement Learning**|Yinbo Yu et.al.|[2205.02589v1](http://arxiv.org/abs/2205.02589v1)|null|
-|**2022-05-05**|**The Race to the Vulnerable: Measuring the Log4j Shell Incident**|Raphael Hiesgen et.al.|[2205.02544v1](http://arxiv.org/abs/2205.02544v1)|null|
-|**2022-05-05**|**Subverting Fair Image Search with Generative Adversarial Perturbations**|Avijit Ghosh et.al.|[2205.02414v2](http://arxiv.org/abs/2205.02414v2)|null|
-|**2022-05-04**|**Zero Day Threat Detection Using Graph and Flow Based Security Telemetry**|Christopher Redino et.al.|[2205.02298v1](http://arxiv.org/abs/2205.02298v1)|null|
-|**2022-05-04**|**Early Detection of Spam Domains with Passive DNS and SPF**|Simon Fernandez et.al.|[2205.01932v1](http://arxiv.org/abs/2205.01932v1)|null|
-|**2022-05-02**|**Performance Weighting for Robust Federated Learning Against Corrupted Sources**|Dimitris Stripelis et.al.|[2205.01184v1](http://arxiv.org/abs/2205.01184v1)|null|
-
-### security
+### Attack
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-05-19**|**Dissemination Control in Dynamic Data Clustering For Dense IIoT Against False Data Injection Attack**|Carlos Pedroso et.al.|[2205.09730v1](http://arxiv.org/abs/2205.09730v1)|null|
 |**2022-05-19**|**Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency**|Zihan Li et.al.|[2205.09669v1](http://arxiv.org/abs/2205.09669v1)|[link](https://github.com/huanglizi/wtc)|
-|**2022-05-19**|**BP-MAC: Fast Authentication for Short Messages**|Eric Wagner et.al.|[2205.09635v1](http://arxiv.org/abs/2205.09635v1)|[link](https://github.com/fkie-cad/bpmac)|
+|**2022-05-19**|**Focused Adversarial Attacks**|Thomas Cilloni et.al.|[2205.09624v1](http://arxiv.org/abs/2205.09624v1)|null|
+|**2022-05-19**|**Improving Robustness against Real-World and Worst-Case Distribution Shifts through Decision Region Quantification**|Leo Schwinn et.al.|[2205.09619v1](http://arxiv.org/abs/2205.09619v1)|null|
+|**2022-05-19**|**Transferable Physical Attack against Object Detection with Separable Attention**|Yu Zhang et.al.|[2205.09592v1](http://arxiv.org/abs/2205.09592v1)|null|
+|**2022-05-19**|**Breathing Life into Models: The Next Generation of Enterprise Modeling**|Peter Fettke et.al.|[2205.09591v1](http://arxiv.org/abs/2205.09591v1)|null|
 |**2022-05-19**|**On Trace of PGD-Like Adversarial Attacks**|Mo Zhou et.al.|[2205.09586v1](http://arxiv.org/abs/2205.09586v1)|null|
 |**2022-05-19**|**IFTT-PIN: A PIN-Entry Method Leveraging the Self-Calibration Paradigm**|Jonathan Grizou et.al.|[2205.09534v1](http://arxiv.org/abs/2205.09534v1)|null|
 |**2022-05-19**|**Security Analysis of DeFi: Vulnerabilities, Attacks and Advances**|Wenkai Li et.al.|[2205.09524v1](http://arxiv.org/abs/2205.09524v1)|null|
 |**2022-05-19**|**Defending Against Adversarial Attacks by Energy Storage Facility**|Jiawei Li et.al.|[2205.09522v1](http://arxiv.org/abs/2205.09522v1)|null|
-|**2022-05-19**|**Differentially private Riemannian optimization**|Andi Han et.al.|[2205.09494v1](http://arxiv.org/abs/2205.09494v1)|null|
+|**2022-05-19**|**Enhancing the Transferability of Adversarial Examples via a Few Queries**|Xiangyuan Yang et.al.|[2205.09518v1](http://arxiv.org/abs/2205.09518v1)|null|
 |**2022-05-19**|**Dockerized Android: a container-based platform to build mobile Android scenarios for Cyber Ranges**|Daniele Capone et.al.|[2205.09493v1](http://arxiv.org/abs/2205.09493v1)|null|
-|**2022-05-19**|**A Boosting Algorithm for Positive-Unlabeled Learning**|Yawen Zhao et.al.|[2205.09485v1](http://arxiv.org/abs/2205.09485v1)|null|
-|**2022-05-19**|**Nebula-I: A General Framework for Collaboratively Training Deep Learning Models on Low-Bandwidth Cloud Clusters**|Yang Xiang et.al.|[2205.09470v1](http://arxiv.org/abs/2205.09470v1)|null|
-|**2022-05-19**|**Differential Privacy: What is all the noise about?**|Roxana Danger et.al.|[2205.09453v1](http://arxiv.org/abs/2205.09453v1)|[link](https://github.com/tensorflow/privacy)|
-|**2022-05-19**|**Which bugs are missed in code reviews: An empirical study on SmartSHARK dataset**|F. Khoshnoud et.al.|[2205.09428v1](http://arxiv.org/abs/2205.09428v1)|null|
-|**2022-05-19**|**Quantum Money Generated by Multiple Untrustworthy Banks**|Yuichi Sano et.al.|[2205.09303v1](http://arxiv.org/abs/2205.09303v1)|null|
+|**2022-05-19**|**Machine learning applications for noisy intermediate-scale quantum computers**|Brian Coyle et.al.|[2205.09414v1](http://arxiv.org/abs/2205.09414v1)|null|
+|**2022-05-19**|**Sparse Adversarial Attack in Multi-agent Reinforcement Learning**|Yizheng Hu et.al.|[2205.09362v1](http://arxiv.org/abs/2205.09362v1)|null|
+|**2022-05-19**|**A Simple Yet Effective SVD-GCN for Directed Graphs**|Chunya Zou et.al.|[2205.09335v1](http://arxiv.org/abs/2205.09335v1)|null|
 |**2022-05-18**|**ExploitWP2Docker: a Platform for Automating the Generation of Vulnerable WordPress Environments for Cyber Ranges**|Francesco Caturano et.al.|[2205.09230v1](http://arxiv.org/abs/2205.09230v1)|null|
+|**2022-05-18**|**On the multi-stage shortest path problem under distributional uncertainty**|Sergey S. Ketkov et.al.|[2205.09200v1](http://arxiv.org/abs/2205.09200v1)|null|
 |**2022-05-18**|**A False Sense of Security? Revisiting the State of Machine Learning-Based Industrial Intrusion Detection**|Dominik Kus et.al.|[2205.09199v1](http://arxiv.org/abs/2205.09199v1)|[link](https://github.com/comsys/ml-iids-generalizability)|
 |**2022-05-18**|**Adaptive Hybrid Heterogeneous IDS for 6LoWPAN**|Aryan Mohammadi Pasikhani et.al.|[2205.09170v1](http://arxiv.org/abs/2205.09170v1)|null|
-|**2022-05-18**|**Anonymous conference key agreement in linear quantum networks**|Jarn de Jong et.al.|[2205.09169v1](http://arxiv.org/abs/2205.09169v1)|null|
 |**2022-05-18**|**Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution**|Zhixin Pan et.al.|[2205.09167v1](http://arxiv.org/abs/2205.09167v1)|null|
-|**2022-05-18**|**The security strength of Blockchain technology : A Survey Report**|Md Arquam et.al.|[2205.09097v1](http://arxiv.org/abs/2205.09097v1)|null|
-|**2022-05-18**|**Stop the Spread: A Contextual Integrity Perspective on the Appropriateness of COVID-19 Vaccination Certificates**|Shikun Zhang et.al.|[2205.09036v2](http://arxiv.org/abs/2205.09036v2)|null|
+|**2022-05-18**|**Network structural perturbation against interlayer link prediction**|Rui Tang et.al.|[2205.09079v1](http://arxiv.org/abs/2205.09079v1)|[link](https://github.com/mollyshuu/nsp-kbs2022)|
 |**2022-05-18**|**VLC Physical Layer Security through RIS-aided Jamming Receiver for 6G Wireless Networks**|Simone Soderi et.al.|[2205.09026v1](http://arxiv.org/abs/2205.09026v1)|null|
 |**2022-05-18**|**Toward Timed-Release Encryption in Web3 An Efficient Dual-Propose Proof-of-Work Consensus**|Fanghao Yang et.al.|[2205.09020v1](http://arxiv.org/abs/2205.09020v1)|null|
-|**2022-05-18**|**Confidential Machine Learning within Graphcore IPUs**|Kapil Vaswani et.al.|[2205.09005v1](http://arxiv.org/abs/2205.09005v1)|null|
+|**2022-05-18**|**Resilience Enhancement at Edge Cloud Systems**|Jose Moura et.al.|[2205.08997v1](http://arxiv.org/abs/2205.08997v1)|null|
 |**2022-05-18**|**Constraining the Attack Space of Machine Learning Models with Distribution Clamping Preprocessing**|Ryan Feng et.al.|[2205.08989v1](http://arxiv.org/abs/2205.08989v1)|null|
 |**2022-05-18**|**Monitoring Security of Enterprise Hosts via DNS Data Analysis**|Jawad Ahmed et.al.|[2205.08968v1](http://arxiv.org/abs/2205.08968v1)|null|
-|**2022-05-18**|**SoK: The Impact of Unlabelled Data in Cyberthreat Detection**|Giovanni Apruzzese et.al.|[2205.08944v1](http://arxiv.org/abs/2205.08944v1)|[link](https://github.com/hihey54/cef-ssl)|
-|**2022-05-18**|**Sensing Time Effectiveness for Fitness to Drive Evaluation in Neurological Patients**|Nadica Miljković et.al.|[2205.08942v1](http://arxiv.org/abs/2205.08942v1)|null|
 |**2022-05-18**|**Analysing and strengthening OpenWPM's reliability**|Benjamin Krumnow et.al.|[2205.08890v1](http://arxiv.org/abs/2205.08890v1)|null|
-|**2022-05-18**|**GeoPointGAN: Synthetic Spatial Data with Local Label Differential Privacy**|Teddy Cunningham et.al.|[2205.08886v1](http://arxiv.org/abs/2205.08886v1)|null|
+|**2022-05-18**|**Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)**|Marco Spaziani Brunella et.al.|[2205.08882v1](http://arxiv.org/abs/2205.08882v1)|null|
+|**2022-05-18**|**Property Unlearning: A Defense Strategy Against Property Inference Attacks**|Joshua Stock et.al.|[2205.08821v1](http://arxiv.org/abs/2205.08821v1)|null|
+|**2022-05-18**|**Passive Defense Against 3D Adversarial Point Clouds Through the Lens of 3D Steganalysis**|Jiahao Zhu et.al.|[2205.08738v1](http://arxiv.org/abs/2205.08738v1)|null|
+
+### Trojan
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-13**|**Information leakage resistant quantum dialogue with single photons in both polarization and spatial-mode degrees of freedom**|Tian-Yu Ye et.al.|[2205.06930v1](http://arxiv.org/abs/2205.06930v1)|null|
+|**2022-05-13**|**A Study of the Attention Abnormality in Trojaned BERTs**|Weimin Lyu et.al.|[2205.08305v1](http://arxiv.org/abs/2205.08305v1)|[link](https://github.com/weimin17/attention_abnormality_in_trojaned_berts)|
+|**2022-05-13**|**Semi-quantum key distribution with single photons in both polarization and spatial-mode degrees of freedom**|Tian-Yu Ye et.al.|[2205.06813v1](http://arxiv.org/abs/2205.06813v1)|null|
+|**2022-05-05**|**Fault tolerant authenticated quantum dialogue using logical Bell states**|Tian-Yu Ye et.al.|[2205.02419v1](http://arxiv.org/abs/2205.02419v1)|null|
+|**2022-05-05**|**Information leakage resistant quantum dialogue against collective noise**|Tian-Yu Ye et.al.|[2205.02401v1](http://arxiv.org/abs/2205.02401v1)|null|
+|**2022-04-29**|**Hardware Trojan Detection Using Unsupervised Deep Learning on Quantum Diamond Microscope Magnetic Field Images**|Maitreyi Ashok et.al.|[2204.14228v1](http://arxiv.org/abs/2204.14228v1)|null|
+|**2022-04-25**|**Hardware Trojan Detection using Graph Neural Networks**|Rozhin Yasaei et.al.|[2204.11431v1](http://arxiv.org/abs/2204.11431v1)|null|
+|**2022-04-21**|**A Collision Mechanism for the Removal of Earth's Trojan Asteroids**|Kevin J. Napier et.al.|[2204.10316v1](http://arxiv.org/abs/2204.10316v1)|null|
+|**2022-04-21**|**A novel two-party semiquantum key distribution protocol based on GHZ-like states**|Tian-Jie Xu et.al.|[2204.10088v1](http://arxiv.org/abs/2204.10088v1)|null|
+|**2022-04-19**|**Size Distribution of Small Jupiter Trojans in the L5 Swarm**|Kotomi Uehata et.al.|[2204.08617v1](http://arxiv.org/abs/2204.08617v1)|null|
+|**2022-04-18**|**Automatic Hardware Trojan Insertion using Machine Learning**|Jonathan Cruz et.al.|[2204.08580v1](http://arxiv.org/abs/2204.08580v1)|null|
+|**2022-04-12**|**AdaTest:Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection**|Huili Chen et.al.|[2204.06117v1](http://arxiv.org/abs/2204.06117v1)|null|
+|**2022-04-09**|**Hardware Trojan Insertion Using Reinforcement Learning**|Amin Sarihi et.al.|[2204.04350v1](http://arxiv.org/abs/2204.04350v1)|null|
+|**2022-04-08**|**An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks**|Xinqiao Zhang et.al.|[2204.04329v1](http://arxiv.org/abs/2204.04329v1)|[link](https://github.com/xinqiaozhang/adatrojan)|
+|**2022-03-25**|**Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning**|Arezoo Rajabi et.al.|[2203.15506v1](http://arxiv.org/abs/2203.15506v1)|null|
+|**2022-03-08**|**Status of deep subbarrier $\mathbf{{}^{12}{\rm C}+{}^{12}{\rm C}}$ fusion and advancing the Trojan horse method**|A. M. Mukhamedzhanov et.al.|[2203.04094v3](http://arxiv.org/abs/2203.04094v3)|null|
+|**2022-03-04**|**Contrastive Graph Convolutional Networks for Hardware Trojan Detection in Third Party IP Cores**|Nikhil Muralidhar et.al.|[2203.02095v1](http://arxiv.org/abs/2203.02095v1)|null|
+|**2022-02-24**|**Towards Effective and Robust Neural Trojan Defenses via Input Filtering**|Kien Do et.al.|[2202.12154v3](http://arxiv.org/abs/2202.12154v3)|null|
+|**2022-02-23**|**Using Deep Learning to Detect Digitally Encoded DNA Trigger for Trojan Malware in Bio-Cyber Attacks**|Mohd Siblee Islam et.al.|[2202.11824v1](http://arxiv.org/abs/2202.11824v1)|null|
+|**2022-02-15**|**A Survey of Neural Trojan Attacks and Defenses in Deep Learning**|Jie Wang et.al.|[2202.07183v1](http://arxiv.org/abs/2202.07183v1)|null|
+|**2022-02-14**|**An ALMA search for high albedo objects among the mid-sized Jupiter Trojan population**|Anna M. Simpson et.al.|[2202.07066v1](http://arxiv.org/abs/2202.07066v1)|null|
+|**2022-02-14**|**Improved Finite-Key Security Analysis of Quantum Key Distribution Against Trojan-Horse Attacks**|Álvaro Navarrete et.al.|[2202.06630v1](http://arxiv.org/abs/2202.06630v1)|null|
+|**2022-02-13**|**Neural Network Trojans Analysis and Mitigation from the Input Domain**|Zhenting Wang et.al.|[2202.06382v2](http://arxiv.org/abs/2202.06382v2)|null|
+|**2022-02-08**|**Targeted Trojan-Horse Attacks on Language-based Image Retrieval**|Fan Hu et.al.|[2202.03861v2](http://arxiv.org/abs/2202.03861v2)|[link](https://github.com/fly-dragon211/tth)|
+|**2022-02-08**|**Backdoor Detection in Reinforcement Learning**|Junfeng Guo et.al.|[2202.03609v2](http://arxiv.org/abs/2202.03609v2)|null|
+|**2022-01-16**|**Protecting fiber-optic quantum key distribution sources against light-injection attacks**|Anastasiya Ponosova et.al.|[2201.06114v1](http://arxiv.org/abs/2201.06114v1)|null|
+|**2022-01-16**|**Variability aware Golden Reference Free methodology for Hardware Trojan Detection Using Robust Delay Analysis**|Ramakrishna Vaikuntapu et.al.|[2201.09668v1](http://arxiv.org/abs/2201.09668v1)|null|
+|**2022-01-05**|**128383 (2004 JW52) is an Ordinary Jupiter Trojan Asteroid**|Tom Seccull et.al.|[2201.01785v1](http://arxiv.org/abs/2201.01785v1)|null|
+|**2022-01-04**|**Reusing Verification Assertions as Security Checkers for Hardware Trojan Detection**|Mohammad Eslami et.al.|[2201.01130v1](http://arxiv.org/abs/2201.01130v1)|null|
+|**2021-12-24**|**CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing**|Haibo Jin et.al.|[2112.13064v1](http://arxiv.org/abs/2112.13064v1)|null|
+
+## security
 
 ### Defense
 |Publish Date|Title|Authors|PDF|Code|
@@ -215,6 +147,40 @@
 |**2022-05-08**|**FOLPETTI: A Novel Multi-Armed Bandit Smart Attack for Wireless Networks**|Bout Emilie et.al.|[2205.03915v1](http://arxiv.org/abs/2205.03915v1)|null|
 |**2022-05-07**|**Muon Detector for Underground Tomography**|Yan Benhammou et.al.|[2205.03722v1](http://arxiv.org/abs/2205.03722v1)|null|
 
+### Malicious
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-19**|**Detect Professional Malicious User with Metric Learning in Recommender Systems**|Yuanbo Xu et.al.|[2205.09673v1](http://arxiv.org/abs/2205.09673v1)|null|
+|**2022-05-19**|**A Boosting Algorithm for Positive-Unlabeled Learning**|Yawen Zhao et.al.|[2205.09485v1](http://arxiv.org/abs/2205.09485v1)|null|
+|**2022-05-18**|**Adaptive Hybrid Heterogeneous IDS for 6LoWPAN**|Aryan Mohammadi Pasikhani et.al.|[2205.09170v1](http://arxiv.org/abs/2205.09170v1)|null|
+|**2022-05-18**|**Monitoring Security of Enterprise Hosts via DNS Data Analysis**|Jawad Ahmed et.al.|[2205.08968v1](http://arxiv.org/abs/2205.08968v1)|null|
+|**2022-05-18**|**Passive Defense Against 3D Adversarial Point Clouds Through the Lens of 3D Steganalysis**|Jiahao Zhu et.al.|[2205.08738v1](http://arxiv.org/abs/2205.08738v1)|null|
+|**2022-05-16**|**Prisma: A Tierless Language for Enforcing Contract-Client Protocols in Decentralized Applications (Extended Version)**|David Richter et.al.|[2205.07780v1](http://arxiv.org/abs/2205.07780v1)|null|
+|**2022-05-14**|**Unsupervised Abnormal Traffic Detection through Topological Flow Analysis**|Paul Irofti et.al.|[2205.07109v1](http://arxiv.org/abs/2205.07109v1)|null|
+|**2022-05-14**|**CDEdit: A Highly Applicable Redactable Blockchain with Controllable Editing Privilege and Diversified Editing Types**|Xiaofeng Chen et.al.|[2205.07054v1](http://arxiv.org/abs/2205.07054v1)|[link](https://github.com/cryptocxf/cdedit)|
+|**2022-05-13**|**The Effectiveness of Temporal Dependency in Deepfake Video Detection**|Will Rowan et.al.|[2205.06684v1](http://arxiv.org/abs/2205.06684v1)|null|
+|**2022-05-13**|**Kronecker Decomposition for Knowledge Graph Embeddings**|Caglar Demir et.al.|[2205.06560v1](http://arxiv.org/abs/2205.06560v1)|[link](https://github.com/dice-group/dice-embeddings)|
+|**2022-05-12**|**Building A Trusted Execution Environment for In-Storage Computing**|Yuqi Xue et.al.|[2205.06361v1](http://arxiv.org/abs/2205.06361v1)|null|
+|**2022-05-12**|**Consensus Capacity of Noisy Broadcast Channels**|Neha Sangwan et.al.|[2205.06073v1](http://arxiv.org/abs/2205.06073v1)|null|
+|**2022-05-12**|**Stalloris: RPKI Downgrade Attack**|Tomas Hlavacek et.al.|[2205.06064v1](http://arxiv.org/abs/2205.06064v1)|null|
+|**2022-05-11**|**Trusted Container Extensions for Container-based Confidential Computing**|Ferdinand Brasser et.al.|[2205.05747v1](http://arxiv.org/abs/2205.05747v1)|null|
+|**2022-05-11**|**A Longitudinal Study of Cryptographic API -- a Decade of Android Malware**|Adam Janovsky et.al.|[2205.05573v2](http://arxiv.org/abs/2205.05573v2)|null|
+|**2022-05-11**|**Injection Attacks Reloaded: Tunnelling Malicious Payloads over DNS**|Philipp Jeitner et.al.|[2205.05439v1](http://arxiv.org/abs/2205.05439v1)|null|
+|**2022-05-10**|**DNS based In-Browser Cryptojacking Detection**|Rohit Kumar Sachan et.al.|[2205.04685v1](http://arxiv.org/abs/2205.04685v1)|null|
+|**2022-05-09**|**Model-Contrastive Learning for Backdoor Defense**|Zhihao Yue et.al.|[2205.04411v2](http://arxiv.org/abs/2205.04411v2)|[link](https://github.com/wecanshow/mcl)|
+|**2022-05-09**|**Applying consensus and replication securely with FLAQR**|Priyanka Mondal et.al.|[2205.04384v1](http://arxiv.org/abs/2205.04384v1)|null|
+|**2022-05-09**|**A Hybrid Approach: Utilising Kmeans Clustering and Naive Bayes for IoT Anomaly Detection**|Lincoln Best et.al.|[2205.04005v1](http://arxiv.org/abs/2205.04005v1)|null|
+|**2022-05-06**|**Unlimited Lives: Secure In-Process Rollback with Isolated Domains**|Merve Turhan et.al.|[2205.03205v1](http://arxiv.org/abs/2205.03205v1)|null|
+|**2022-05-06**|**Imperceptible Backdoor Attack: From Input Space to Feature Representation**|Nan Zhong et.al.|[2205.03190v1](http://arxiv.org/abs/2205.03190v1)|[link](https://github.com/ekko-zn/ijcai2022-backdoor)|
+|**2022-05-06**|**Fusion: Efficient and Secure Inference Resilient to Malicious Server and Curious Clients**|Caiqin Dong et.al.|[2205.03040v1](http://arxiv.org/abs/2205.03040v1)|null|
+|**2022-05-05**|**Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA**|Ivan De Oliveira Nunes et.al.|[2205.02963v1](http://arxiv.org/abs/2205.02963v1)|[link](https://github.com/sprout-uci/pfb)|
+|**2022-05-05**|**A Temporal-Pattern Backdoor Attack to Deep Reinforcement Learning**|Yinbo Yu et.al.|[2205.02589v1](http://arxiv.org/abs/2205.02589v1)|null|
+|**2022-05-05**|**The Race to the Vulnerable: Measuring the Log4j Shell Incident**|Raphael Hiesgen et.al.|[2205.02544v1](http://arxiv.org/abs/2205.02544v1)|null|
+|**2022-05-05**|**Subverting Fair Image Search with Generative Adversarial Perturbations**|Avijit Ghosh et.al.|[2205.02414v2](http://arxiv.org/abs/2205.02414v2)|null|
+|**2022-05-04**|**Zero Day Threat Detection Using Graph and Flow Based Security Telemetry**|Christopher Redino et.al.|[2205.02298v1](http://arxiv.org/abs/2205.02298v1)|null|
+|**2022-05-04**|**Early Detection of Spam Domains with Passive DNS and SPF**|Simon Fernandez et.al.|[2205.01932v1](http://arxiv.org/abs/2205.01932v1)|null|
+|**2022-05-02**|**Performance Weighting for Robust Federated Learning Against Corrupted Sources**|Dimitris Stripelis et.al.|[2205.01184v1](http://arxiv.org/abs/2205.01184v1)|null|
+
 ### Malware
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -248,6 +214,40 @@
 |**2022-03-16**|**Understanding motivations and characteristics of financially-motivated cybercriminals**|Claudia Peersman et.al.|[2203.08642v2](http://arxiv.org/abs/2203.08642v2)|null|
 |**2022-03-15**|**Zero Trust Architecture for 6G Security**|Xu Chen et.al.|[2203.07716v1](http://arxiv.org/abs/2203.07716v1)|null|
 |**2022-03-14**|**Toward the Detection of Polyglot Files**|Luke Koch et.al.|[2203.07561v4](http://arxiv.org/abs/2203.07561v4)|null|
+
+### security
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-19**|**Dissemination Control in Dynamic Data Clustering For Dense IIoT Against False Data Injection Attack**|Carlos Pedroso et.al.|[2205.09730v1](http://arxiv.org/abs/2205.09730v1)|null|
+|**2022-05-19**|**Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency**|Zihan Li et.al.|[2205.09669v1](http://arxiv.org/abs/2205.09669v1)|[link](https://github.com/huanglizi/wtc)|
+|**2022-05-19**|**BP-MAC: Fast Authentication for Short Messages**|Eric Wagner et.al.|[2205.09635v1](http://arxiv.org/abs/2205.09635v1)|[link](https://github.com/fkie-cad/bpmac)|
+|**2022-05-19**|**Focused Adversarial Attacks**|Thomas Cilloni et.al.|[2205.09624v1](http://arxiv.org/abs/2205.09624v1)|null|
+|**2022-05-19**|**On Trace of PGD-Like Adversarial Attacks**|Mo Zhou et.al.|[2205.09586v1](http://arxiv.org/abs/2205.09586v1)|null|
+|**2022-05-19**|**IFTT-PIN: A PIN-Entry Method Leveraging the Self-Calibration Paradigm**|Jonathan Grizou et.al.|[2205.09534v1](http://arxiv.org/abs/2205.09534v1)|null|
+|**2022-05-19**|**Security Analysis of DeFi: Vulnerabilities, Attacks and Advances**|Wenkai Li et.al.|[2205.09524v1](http://arxiv.org/abs/2205.09524v1)|null|
+|**2022-05-19**|**Defending Against Adversarial Attacks by Energy Storage Facility**|Jiawei Li et.al.|[2205.09522v1](http://arxiv.org/abs/2205.09522v1)|null|
+|**2022-05-19**|**Differentially private Riemannian optimization**|Andi Han et.al.|[2205.09494v1](http://arxiv.org/abs/2205.09494v1)|null|
+|**2022-05-19**|**Dockerized Android: a container-based platform to build mobile Android scenarios for Cyber Ranges**|Daniele Capone et.al.|[2205.09493v1](http://arxiv.org/abs/2205.09493v1)|null|
+|**2022-05-19**|**A Boosting Algorithm for Positive-Unlabeled Learning**|Yawen Zhao et.al.|[2205.09485v1](http://arxiv.org/abs/2205.09485v1)|null|
+|**2022-05-19**|**Nebula-I: A General Framework for Collaboratively Training Deep Learning Models on Low-Bandwidth Cloud Clusters**|Yang Xiang et.al.|[2205.09470v1](http://arxiv.org/abs/2205.09470v1)|null|
+|**2022-05-19**|**Differential Privacy: What is all the noise about?**|Roxana Danger et.al.|[2205.09453v1](http://arxiv.org/abs/2205.09453v1)|[link](https://github.com/tensorflow/privacy)|
+|**2022-05-19**|**Which bugs are missed in code reviews: An empirical study on SmartSHARK dataset**|F. Khoshnoud et.al.|[2205.09428v1](http://arxiv.org/abs/2205.09428v1)|null|
+|**2022-05-19**|**Quantum Money Generated by Multiple Untrustworthy Banks**|Yuichi Sano et.al.|[2205.09303v1](http://arxiv.org/abs/2205.09303v1)|null|
+|**2022-05-18**|**ExploitWP2Docker: a Platform for Automating the Generation of Vulnerable WordPress Environments for Cyber Ranges**|Francesco Caturano et.al.|[2205.09230v1](http://arxiv.org/abs/2205.09230v1)|null|
+|**2022-05-18**|**A False Sense of Security? Revisiting the State of Machine Learning-Based Industrial Intrusion Detection**|Dominik Kus et.al.|[2205.09199v1](http://arxiv.org/abs/2205.09199v1)|[link](https://github.com/comsys/ml-iids-generalizability)|
+|**2022-05-18**|**Adaptive Hybrid Heterogeneous IDS for 6LoWPAN**|Aryan Mohammadi Pasikhani et.al.|[2205.09170v1](http://arxiv.org/abs/2205.09170v1)|null|
+|**2022-05-18**|**Anonymous conference key agreement in linear quantum networks**|Jarn de Jong et.al.|[2205.09169v1](http://arxiv.org/abs/2205.09169v1)|null|
+|**2022-05-18**|**Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution**|Zhixin Pan et.al.|[2205.09167v1](http://arxiv.org/abs/2205.09167v1)|null|
+|**2022-05-18**|**The security strength of Blockchain technology : A Survey Report**|Md Arquam et.al.|[2205.09097v1](http://arxiv.org/abs/2205.09097v1)|null|
+|**2022-05-18**|**Stop the Spread: A Contextual Integrity Perspective on the Appropriateness of COVID-19 Vaccination Certificates**|Shikun Zhang et.al.|[2205.09036v2](http://arxiv.org/abs/2205.09036v2)|null|
+|**2022-05-18**|**VLC Physical Layer Security through RIS-aided Jamming Receiver for 6G Wireless Networks**|Simone Soderi et.al.|[2205.09026v1](http://arxiv.org/abs/2205.09026v1)|null|
+|**2022-05-18**|**Toward Timed-Release Encryption in Web3 An Efficient Dual-Propose Proof-of-Work Consensus**|Fanghao Yang et.al.|[2205.09020v1](http://arxiv.org/abs/2205.09020v1)|null|
+|**2022-05-18**|**Confidential Machine Learning within Graphcore IPUs**|Kapil Vaswani et.al.|[2205.09005v1](http://arxiv.org/abs/2205.09005v1)|null|
+|**2022-05-18**|**Constraining the Attack Space of Machine Learning Models with Distribution Clamping Preprocessing**|Ryan Feng et.al.|[2205.08989v1](http://arxiv.org/abs/2205.08989v1)|null|
+|**2022-05-18**|**Monitoring Security of Enterprise Hosts via DNS Data Analysis**|Jawad Ahmed et.al.|[2205.08968v1](http://arxiv.org/abs/2205.08968v1)|null|
+|**2022-05-18**|**SoK: The Impact of Unlabelled Data in Cyberthreat Detection**|Giovanni Apruzzese et.al.|[2205.08944v1](http://arxiv.org/abs/2205.08944v1)|[link](https://github.com/hihey54/cef-ssl)|
+|**2022-05-18**|**Sensing Time Effectiveness for Fitness to Drive Evaluation in Neurological Patients**|Nadica Miljković et.al.|[2205.08942v1](http://arxiv.org/abs/2205.08942v1)|null|
+|**2022-05-18**|**Analysing and strengthening OpenWPM's reliability**|Benjamin Krumnow et.al.|[2205.08890v1](http://arxiv.org/abs/2205.08890v1)|null|
 
 ### Activation
 |Publish Date|Title|Authors|PDF|Code|
