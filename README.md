@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-25 10:35:36 Asia/Shanghai
+ Automated deployment @ 2022-07-25 20:58:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -19,7 +19,7 @@
 |**2022-07-22**|**On Higher Adversarial Susceptibility of Contrastive Self-Supervised Learning**|Rohit Gupta et.al.|[2207.10862v1](http://arxiv.org/abs/2207.10862v1)|null|
 |**2022-07-22**|**Quantum-inspired variational algorithms for partial differential equations: Application to financial derivative pricing**|Tianchen Zhao et.al.|[2207.10838v1](http://arxiv.org/abs/2207.10838v1)|null|
 |**2022-07-22**|**Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation**|Tong Wu et.al.|[2207.10825v1](http://arxiv.org/abs/2207.10825v1)|null|
-|**2022-07-21**|**Synthetic Dataset Generation for Adversarial Machine Learning Research**|Xiruo Liu et.al.|[2207.10719v1](http://arxiv.org/abs/2207.10719v1)|null|
+|**2022-07-21**|**Synthetic Dataset Generation for Adversarial Machine Learning Research**|Xiruo Liu et.al.|[2207.10719v1](http://arxiv.org/abs/2207.10719v1)|[link](https://github.com/carla-simulator/carla)|
 |**2022-07-21**|**Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It**|Sílvia Casacuberta et.al.|[2207.10635v1](http://arxiv.org/abs/2207.10635v1)|[link](https://github.com/xbqg846z/underestimate-sensitivity)|
 |**2022-07-21**|**Careful What You Wish For: on the Extraction of Adversarially Trained Models**|Kacem Khaled et.al.|[2207.10561v1](http://arxiv.org/abs/2207.10561v1)|null|
 |**2022-07-21**|**High-Level Approaches to Hardware Security: A Tutorial**|Hammond Pearce et.al.|[2207.10466v1](http://arxiv.org/abs/2207.10466v1)|[link](https://github.com/learn-hardware-security/py-des-scan)|
@@ -113,73 +113,39 @@
 
 ## security
 
-### security
+### Defense
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-07-22**|**Secure and Lightweight Strong PUF Challenge Obfuscation with Keyed Non-linear FSR**|Kleber Stangherlin et.al.|[2207.11181v1](http://arxiv.org/abs/2207.11181v1)|null|
-|**2022-07-22**|**Silent Spring: Prototype Pollution Leads to Remote Code Execution in Node.js**|Mikhail Shcherbakov et.al.|[2207.11171v1](http://arxiv.org/abs/2207.11171v1)|null|
-|**2022-07-22**|**Ten Lessons for Data Sharing With a Data Commons**|Robert L. Grossman et.al.|[2207.11167v1](http://arxiv.org/abs/2207.11167v1)|null|
-|**2022-07-22**|**Multi-Level Fine-Tuning, Data Augmentation, and Few-Shot Learning for Specialized Cyber Threat Intelligence**|Markus Bayer et.al.|[2207.11076v1](http://arxiv.org/abs/2207.11076v1)|null|
-|**2022-07-22**|**GesSure -- A Robust Face-Authentication enabled Dynamic Gesture Recognition GUI Application**|Ankit Jha et.al.|[2207.11033v1](http://arxiv.org/abs/2207.11033v1)|null|
-|**2022-07-22**|**Learning from what we know: How to perform vulnerability prediction using noisy historical data**|Aayush Garg et.al.|[2207.11018v1](http://arxiv.org/abs/2207.11018v1)|null|
-|**2022-07-22**|**Applying Machine Learning on RSRP-based Features for False Base Station Detection**|Prajwol Kumar Nakarmi et.al.|[2207.10999v1](http://arxiv.org/abs/2207.10999v1)|null|
-|**2022-07-22**|**Taguchi based Design of Sequential Convolution Neural Network for Classification of Defective Fasteners**|Manjeet Kaur et.al.|[2207.10992v1](http://arxiv.org/abs/2207.10992v1)|null|
-|**2022-07-22**|**Cryptanalysis of a system based on Twisted Dihedral Group Algebras**|Simran Tinani et.al.|[2207.10979v1](http://arxiv.org/abs/2207.10979v1)|null|
-|**2022-07-22**|**Privacy and Transparency in Graph Machine Learning: A Unified Perspective**|Megha Khosla et.al.|[2207.10896v1](http://arxiv.org/abs/2207.10896v1)|null|
+|**2022-07-22**|**Development of monitoring systems for anomaly detection using ASTD specifications**|El Jabri Chaymae et.al.|[2207.11134v1](http://arxiv.org/abs/2207.11134v1)|null|
 |**2022-07-22**|**Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation**|Tong Wu et.al.|[2207.10825v1](http://arxiv.org/abs/2207.10825v1)|null|
-|**2022-07-22**|**A Sealed-bid Auction with Fund Binding: Preventing Maximum Bidding Price Leakage**|Kota Chin et.al.|[2207.10823v1](http://arxiv.org/abs/2207.10823v1)|null|
-|**2022-07-21**|**Data-Driven Stochastic AC-OPF using Gaussian Processes**|Mile Mitrovic et.al.|[2207.10781v1](http://arxiv.org/abs/2207.10781v1)|null|
-|**2022-07-21**|**Cryptographic and Financial Fairness**|Daniele Friolo et.al.|[2207.10780v1](http://arxiv.org/abs/2207.10780v1)|null|
-|**2022-07-21**|**Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It**|Sílvia Casacuberta et.al.|[2207.10635v1](http://arxiv.org/abs/2207.10635v1)|[link](https://github.com/xbqg846z/underestimate-sensitivity)|
-|**2022-07-21**|**Careful What You Wish For: on the Extraction of Adversarially Trained Models**|Kacem Khaled et.al.|[2207.10561v1](http://arxiv.org/abs/2207.10561v1)|null|
-|**2022-07-21**|**PA-PUF: A Novel Priority Arbiter PUF**|Simranjeet Singh et.al.|[2207.10526v1](http://arxiv.org/abs/2207.10526v1)|null|
-|**2022-07-21**|**Autonomous Vehicles in 5G and Beyond: A Survey**|Saqib Hakak et.al.|[2207.10510v1](http://arxiv.org/abs/2207.10510v1)|null|
-|**2022-07-21**|**LPYOLO: Low Precision YOLO for Face Detection on FPGA**|Bestami Günay et.al.|[2207.10482v1](http://arxiv.org/abs/2207.10482v1)|null|
-|**2022-07-21**|**High-Level Approaches to Hardware Security: A Tutorial**|Hammond Pearce et.al.|[2207.10466v1](http://arxiv.org/abs/2207.10466v1)|[link](https://github.com/learn-hardware-security/py-des-scan)|
-|**2022-07-21**|**Sensitivities and Hedging of the Collateral Choice Option**|Griselda Deelstra et.al.|[2207.10373v1](http://arxiv.org/abs/2207.10373v1)|null|
-|**2022-07-21**|**Secure Lightweight Authentication for Multi User IoT Environment**|Chintan Patel et.al.|[2207.10353v1](http://arxiv.org/abs/2207.10353v1)|null|
-|**2022-07-21**|**UniFed: A Benchmark for Federated Learning Frameworks**|Xiaoyuan Liu et.al.|[2207.10308v1](http://arxiv.org/abs/2207.10308v1)|[link](https://github.com/ai-secure/flbenchmark-toolkit)|
-|**2022-07-21**|**Knowledge-enhanced Black-box Attacks for Recommendations**|Jingfan Chen et.al.|[2207.10307v1](http://arxiv.org/abs/2207.10307v1)|null|
-|**2022-07-21**|**Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network**|Yongqi Dong et.al.|[2207.10286v1](http://arxiv.org/abs/2207.10286v1)|null|
-|**2022-07-21**|**An Evolutionary Game based Secure Clustering Protocol with Fuzzy Trust Evaluation and Outlier Detection for Wireless Sensor Networks**|Liu Yang et.al.|[2207.10282v1](http://arxiv.org/abs/2207.10282v1)|null|
-|**2022-07-21**|**FOCUS: Fairness via Agent-Awareness for Federated Learning on Heterogeneous Data**|Wenda Chu et.al.|[2207.10265v1](http://arxiv.org/abs/2207.10265v1)|null|
-|**2022-07-21**|**A Ransomware Triage Approach using a Task Memory based on Meta-Transfer Learning Framework**|Jinting Zhu et.al.|[2207.10242v1](http://arxiv.org/abs/2207.10242v1)|null|
-|**2022-07-21**|**Differentially Private Partial Set Cover with Applications to Facility Location**|George Z. Li et.al.|[2207.10240v1](http://arxiv.org/abs/2207.10240v1)|null|
-|**2022-07-20**|**Improving Privacy-Preserving Vertical Federated Learning by Efficient Communication with ADMM**|Chulin Xie et.al.|[2207.10226v2](http://arxiv.org/abs/2207.10226v2)|null|
-
-### Malicious
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-22**|**Applying Machine Learning on RSRP-based Features for False Base Station Detection**|Prajwol Kumar Nakarmi et.al.|[2207.10999v1](http://arxiv.org/abs/2207.10999v1)|null|
-|**2022-07-21**|**Careful What You Wish For: on the Extraction of Adversarially Trained Models**|Kacem Khaled et.al.|[2207.10561v1](http://arxiv.org/abs/2207.10561v1)|null|
-|**2022-07-21**|**High-Level Approaches to Hardware Security: A Tutorial**|Hammond Pearce et.al.|[2207.10466v1](http://arxiv.org/abs/2207.10466v1)|[link](https://github.com/learn-hardware-security/py-des-scan)|
-|**2022-07-21**|**Knowledge-enhanced Black-box Attacks for Recommendations**|Jingfan Chen et.al.|[2207.10307v1](http://arxiv.org/abs/2207.10307v1)|null|
-|**2022-07-21**|**Image Generation Network for Covert Transmission in Online Social Network**|Zhengxin You et.al.|[2207.10292v1](http://arxiv.org/abs/2207.10292v1)|null|
-|**2022-07-21**|**FOCUS: Fairness via Agent-Awareness for Federated Learning on Heterogeneous Data**|Wenda Chu et.al.|[2207.10265v1](http://arxiv.org/abs/2207.10265v1)|null|
-|**2022-07-20**|**A Secure Clustering Protocol with Fuzzy Trust Evaluation and Outlier Detection for Industrial Wireless Sensor Networks**|Liu Yang et.al.|[2207.09936v1](http://arxiv.org/abs/2207.09936v1)|null|
+|**2022-07-21**|**In Defense of Online Models for Video Instance Segmentation**|Junfeng Wu et.al.|[2207.10661v1](http://arxiv.org/abs/2207.10661v1)|[link](https://github.com/wjf5203/vnext)|
+|**2022-07-20**|**Digital Twin-based Intrusion Detection for Industrial Control Systems**|Seba Anna Varghese et.al.|[2207.09999v1](http://arxiv.org/abs/2207.09999v1)|[link](https://github.com/sebavarghese/dt-based-ids-framework)|
+|**2022-07-20**|**Design of a High-Resolution Multifocal LIDAR: Enabling higher resolution beyond the laser pulse rise time**|Koray Ürkmen et.al.|[2207.09801v1](http://arxiv.org/abs/2207.09801v1)|null|
 |**2022-07-20**|**EVHA: Explainable Vision System for Hardware Testing and Assurance -- An Overview**|Md Mahfuz Al Hasan et.al.|[2207.09627v1](http://arxiv.org/abs/2207.09627v1)|null|
-|**2022-07-19**|**Blindfold: Keeping Private Keys in PKIs and CDNs out of Sight**|Hisham Galal et.al.|[2207.09335v1](http://arxiv.org/abs/2207.09335v1)|null|
-|**2022-07-19**|**Exploring the Online Micro-targeting Practices of Small, Medium, and Large Businesses**|Salim Chouaki et.al.|[2207.09286v1](http://arxiv.org/abs/2207.09286v1)|null|
+|**2022-07-19**|**Towards Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms**|Linbo Liu et.al.|[2207.09572v1](http://arxiv.org/abs/2207.09572v1)|null|
 |**2022-07-19**|**FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients**|Zaixi Zhang et.al.|[2207.09209v2](http://arxiv.org/abs/2207.09209v2)|[link](https://github.com/zaixizhang/fldetector)|
-|**2022-07-19**|**IDPS Signature Classification with a Reject Option and the Incorporation of Expert Knowledge**|Hidetoshi Kawaguchi et.al.|[2207.10797v1](http://arxiv.org/abs/2207.10797v1)|null|
-|**2022-07-19**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics**|Wai Weng Lo et.al.|[2207.09088v1](http://arxiv.org/abs/2207.09088v1)|null|
-|**2022-07-19**|**MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning**|Hua Ma et.al.|[2207.09080v1](http://arxiv.org/abs/2207.09080v1)|null|
-|**2022-07-19**|**An Intelligent Trust Cloud Management Method for Secure Clustering in 5G enabled Internet of Medical Things**|Liu Yang et.al.|[2207.09057v1](http://arxiv.org/abs/2207.09057v1)|null|
-|**2022-07-18**|**Detection of Poisoning Attacks with Anomaly Detection in Federated Learning for Healthcare Applications: A Machine Learning Approach**|Ali Raza et.al.|[2207.08486v1](http://arxiv.org/abs/2207.08486v1)|null|
-|**2022-07-17**|**Finite Time Privacy Preserving Quantized Average Consensus with Transmission Stopping**|Apostolos I. Rikos et.al.|[2207.08244v1](http://arxiv.org/abs/2207.08244v1)|null|
+|**2022-07-19**|**Nonlinear Model Predictive Control Framework For Cooperative Three-Agent Target Defense Game**|Amith Manoharan et.al.|[2207.09136v1](http://arxiv.org/abs/2207.09136v1)|null|
+|**2022-07-19**|**Is Vertical Logistic Regression Privacy-Preserving? A Comprehensive Privacy Analysis and Beyond**|Yuzheng Hu et.al.|[2207.09087v1](http://arxiv.org/abs/2207.09087v1)|null|
+|**2022-07-19**|**Decorrelative Network Architecture for Robust Electrocardiogram Classification**|Christopher Wiedeman et.al.|[2207.09031v1](http://arxiv.org/abs/2207.09031v1)|null|
+|**2022-07-19**|**Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders**|Zhenrui Yue et.al.|[2207.11237v1](http://arxiv.org/abs/2207.11237v1)|null|
+|**2022-07-18**|**Development of Massively Parallel Near Peak Performance Solvers for Three-Dimensional Geodynamic Modelling**|Samuel Omlin et.al.|[2207.08716v1](http://arxiv.org/abs/2207.08716v1)|null|
+|**2022-07-18**|**A Certifiable Security Patch for Object Tracking in Self-Driving Systems via Historical Deviation Modeling**|Xudong Pan et.al.|[2207.08556v1](http://arxiv.org/abs/2207.08556v1)|null|
+|**2022-07-17**|**Expectation-Maximization Based Defense Mechanism for Distributed Model Predictive Control**|Rafael Accácio Nogueira et.al.|[2207.08194v1](http://arxiv.org/abs/2207.08194v1)|null|
 |**2022-07-17**|**Threat Model-Agnostic Adversarial Defense using Diffusion Models**|Tsachi Blau et.al.|[2207.08089v1](http://arxiv.org/abs/2207.08089v1)|[link](https://github.com/tsachiblau/Threat-Model-Agnostic-Adversarial-Defense-using-Diffusion-Models)|
-|**2022-07-15**|**ERIC: An Efficient and Practical Software Obfuscation Framework**|Alperen Bolat et.al.|[2207.07407v1](http://arxiv.org/abs/2207.07407v1)|[link](https://github.com/kasirgalabs/eric)|
-|**2022-07-15**|**DuetFace: Collaborative Privacy-Preserving Face Recognition via Channel Splitting in the Frequency Domain**|Yuxi Mi et.al.|[2207.07340v1](http://arxiv.org/abs/2207.07340v1)|[link](https://github.com/Tencent/TFace)|
-|**2022-07-15**|**Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain**|Jiazhen Ji et.al.|[2207.07316v3](http://arxiv.org/abs/2207.07316v3)|[link](https://github.com/Tencent/TFace)|
-|**2022-07-15**|**Suppressing Poisoning Attacks on Federated Learning for Medical Imaging**|Naif Alkhunaizi et.al.|[2207.10804v1](http://arxiv.org/abs/2207.10804v1)|null|
-|**2022-07-14**|**Multi: a Formal Playground for Multi-Smart Contract Interaction**|Martán Ceresa et.al.|[2207.06681v1](http://arxiv.org/abs/2207.06681v1)|null|
-|**2022-07-14**|**Golden Reference-Free Hardware Trojan Localization using Graph Convolutional Network**|Rozhin Yasaei et.al.|[2207.06664v1](http://arxiv.org/abs/2207.06664v1)|null|
+|**2022-07-16**|**A Survey of Decision Making in Adversarial Games**|Xiuxian Li et.al.|[2207.07971v1](http://arxiv.org/abs/2207.07971v1)|null|
+|**2022-07-16**|**Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders**|Jiahao Qi et.al.|[2207.07803v1](http://arxiv.org/abs/2207.07803v1)|null|
+|**2022-07-16**|**Towards the Desirable Decision Boundary by Moderate-Margin Adversarial Training**|Xiaoyu Liang et.al.|[2207.07793v1](http://arxiv.org/abs/2207.07793v1)|null|
+|**2022-07-15**|**SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables**|Mordechai Guri et.al.|[2207.07413v1](http://arxiv.org/abs/2207.07413v1)|null|
+|**2022-07-15**|**PASS: Parameters Audit-based Secure and Fair Federated Learning Scheme against Free Rider**|Jianhua Wang et.al.|[2207.07292v1](http://arxiv.org/abs/2207.07292v1)|null|
+|**2022-07-14**|**RSD-GAN: Regularized Sobolev Defense GAN Against Speech-to-Text Adversarial Attacks**|Mohammad Esmaeilpour et.al.|[2207.06858v1](http://arxiv.org/abs/2207.06858v1)|null|
+|**2022-07-14**|**Active Data Pattern Extraction Attacks on Generative Language Models**|Bargav Jayaraman et.al.|[2207.10802v1](http://arxiv.org/abs/2207.10802v1)|null|
+|**2022-07-14**|**PIAT: Physics Informed Adversarial Training for Solving Partial Differential Equations**|Simin Shekarpaz et.al.|[2207.06647v1](http://arxiv.org/abs/2207.06647v1)|[link](https://github.com/rohban-lab/piat)|
 |**2022-07-13**|**Explainable Intrusion Detection Systems (X-IDS): A Survey of Current Methods, Challenges, and Opportunities**|Subash Neupane et.al.|[2207.06236v1](http://arxiv.org/abs/2207.06236v1)|null|
-|**2022-07-13**|**G-SINC: Global Synchronization Infrastructure for Network Clocks**|Marc Frei et.al.|[2207.06116v1](http://arxiv.org/abs/2207.06116v1)|null|
+|**2022-07-13**|**Interactive Machine Learning: A State of the Art Review**|Natnael A. Wondimu et.al.|[2207.06196v1](http://arxiv.org/abs/2207.06196v1)|null|
+|**2022-07-13**|**Perturbation Inactivation Based Adversarial Defense for Face Recognition**|Min Ren et.al.|[2207.06035v1](http://arxiv.org/abs/2207.06035v1)|[link](https://github.com/renmin1991/perturbation-inactivate)|
 |**2022-07-13**|**Enhanced Security and Privacy via Fragmented Federated Learning**|Najeeb Moharram Jebreel et.al.|[2207.05978v1](http://arxiv.org/abs/2207.05978v1)|[link](https://github.com/anonymized30/ffl)|
-|**2022-07-12**|**Exploring Adversarial Examples and Adversarial Robustness of Convolutional Neural Networks by Mutual Information**|Jiebao Zhang et.al.|[2207.05756v1](http://arxiv.org/abs/2207.05756v1)|[link](https://github.com/wowotou1998/exploring_adv_by_mutual_info)|
-|**2022-07-12**|**A Security-aware and LUT-based CAD Flow for the Physical Synthesis of eASICs**|Zain UlAbideen et.al.|[2207.05413v1](http://arxiv.org/abs/2207.05413v1)|null|
-|**2022-07-11**|**MPC for Tech Giants (GMPC): Enabling Gulliver and the Lilliputians to Cooperate Amicably**|Bar Alon et.al.|[2207.05047v1](http://arxiv.org/abs/2207.05047v1)|null|
+|**2022-07-12**|**NEC: Speaker Selective Cancellation via Neural Enhanced Ultrasound Shadowing**|Hanqing Guo et.al.|[2207.05848v1](http://arxiv.org/abs/2207.05848v1)|null|
+|**2022-07-12**|**RelaxLoss: Defending Membership Inference Attacks without Losing Utility**|Dingfan Chen et.al.|[2207.05801v1](http://arxiv.org/abs/2207.05801v1)|[link](https://github.com/DingfanChen/RelaxLoss)|
 
 ### Malware
 |Publish Date|Title|Authors|PDF|Code|
@@ -233,7 +199,7 @@
 |**2022-07-22**|**The Cygnus Allscale Survey of Chemistry and Dynamical Environments: CASCADE: Overview and first results toward DR20 from the Max Planck IRAM Observatory program (MIOP)**|H. Beuther et.al.|[2207.10964v1](http://arxiv.org/abs/2207.10964v1)|null|
 |**2022-07-22**|**A photometric study of V608 Cam: apparent period changes as a result of surface activity**|F. Šebek et.al.|[2207.10938v1](http://arxiv.org/abs/2207.10938v1)|null|
 |**2022-07-22**|**Production of the artificial 51Cr neutrino source in the BEST project**|S. N. Danshin et.al.|[2207.10928v1](http://arxiv.org/abs/2207.10928v1)|null|
-|**2022-07-22**|**Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness**|Chaoning Zhang et.al.|[2207.10899v1](http://arxiv.org/abs/2207.10899v1)|null|
+|**2022-07-22**|**Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness**|Chaoning Zhang et.al.|[2207.10899v1](http://arxiv.org/abs/2207.10899v1)|[link](https://github.com/pantheon5100/deacl)|
 |**2022-07-22**|**What are Your Pronouns? Examining Gender Pronoun Usage on Twitter**|Julie Jiang et.al.|[2207.10894v1](http://arxiv.org/abs/2207.10894v1)|null|
 |**2022-07-22**|**Correlation Clustering with Sherali-Adams**|Vincent Cohen-Addad et.al.|[2207.10889v1](http://arxiv.org/abs/2207.10889v1)|null|
 |**2022-07-21**|**Reticula: A temporal network and hypergraph analysis software package**|Arash Badie-Modiri et.al.|[2207.10771v1](http://arxiv.org/abs/2207.10771v1)|null|
@@ -249,36 +215,70 @@
 |**2022-07-21**|**Towards Efficient Adversarial Training on Vision Transformers**|Boxi Wu et.al.|[2207.10498v1](http://arxiv.org/abs/2207.10498v1)|null|
 |**2022-07-21**|**LPYOLO: Low Precision YOLO for Face Detection on FPGA**|Bestami Günay et.al.|[2207.10482v1](http://arxiv.org/abs/2207.10482v1)|null|
 
-### Defense
+### Malicious
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-07-22**|**Development of monitoring systems for anomaly detection using ASTD specifications**|El Jabri Chaymae et.al.|[2207.11134v1](http://arxiv.org/abs/2207.11134v1)|null|
-|**2022-07-22**|**Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation**|Tong Wu et.al.|[2207.10825v1](http://arxiv.org/abs/2207.10825v1)|null|
-|**2022-07-21**|**In Defense of Online Models for Video Instance Segmentation**|Junfeng Wu et.al.|[2207.10661v1](http://arxiv.org/abs/2207.10661v1)|[link](https://github.com/wjf5203/vnext)|
-|**2022-07-20**|**Digital Twin-based Intrusion Detection for Industrial Control Systems**|Seba Anna Varghese et.al.|[2207.09999v1](http://arxiv.org/abs/2207.09999v1)|[link](https://github.com/sebavarghese/dt-based-ids-framework)|
-|**2022-07-20**|**Design of a High-Resolution Multifocal LIDAR: Enabling higher resolution beyond the laser pulse rise time**|Koray Ürkmen et.al.|[2207.09801v1](http://arxiv.org/abs/2207.09801v1)|null|
+|**2022-07-22**|**Applying Machine Learning on RSRP-based Features for False Base Station Detection**|Prajwol Kumar Nakarmi et.al.|[2207.10999v1](http://arxiv.org/abs/2207.10999v1)|null|
+|**2022-07-21**|**Careful What You Wish For: on the Extraction of Adversarially Trained Models**|Kacem Khaled et.al.|[2207.10561v1](http://arxiv.org/abs/2207.10561v1)|null|
+|**2022-07-21**|**High-Level Approaches to Hardware Security: A Tutorial**|Hammond Pearce et.al.|[2207.10466v1](http://arxiv.org/abs/2207.10466v1)|[link](https://github.com/learn-hardware-security/py-des-scan)|
+|**2022-07-21**|**Knowledge-enhanced Black-box Attacks for Recommendations**|Jingfan Chen et.al.|[2207.10307v1](http://arxiv.org/abs/2207.10307v1)|null|
+|**2022-07-21**|**Image Generation Network for Covert Transmission in Online Social Network**|Zhengxin You et.al.|[2207.10292v1](http://arxiv.org/abs/2207.10292v1)|null|
+|**2022-07-21**|**FOCUS: Fairness via Agent-Awareness for Federated Learning on Heterogeneous Data**|Wenda Chu et.al.|[2207.10265v1](http://arxiv.org/abs/2207.10265v1)|null|
+|**2022-07-20**|**A Secure Clustering Protocol with Fuzzy Trust Evaluation and Outlier Detection for Industrial Wireless Sensor Networks**|Liu Yang et.al.|[2207.09936v1](http://arxiv.org/abs/2207.09936v1)|null|
 |**2022-07-20**|**EVHA: Explainable Vision System for Hardware Testing and Assurance -- An Overview**|Md Mahfuz Al Hasan et.al.|[2207.09627v1](http://arxiv.org/abs/2207.09627v1)|null|
-|**2022-07-19**|**Towards Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms**|Linbo Liu et.al.|[2207.09572v1](http://arxiv.org/abs/2207.09572v1)|null|
+|**2022-07-19**|**Blindfold: Keeping Private Keys in PKIs and CDNs out of Sight**|Hisham Galal et.al.|[2207.09335v1](http://arxiv.org/abs/2207.09335v1)|null|
+|**2022-07-19**|**Exploring the Online Micro-targeting Practices of Small, Medium, and Large Businesses**|Salim Chouaki et.al.|[2207.09286v1](http://arxiv.org/abs/2207.09286v1)|null|
 |**2022-07-19**|**FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients**|Zaixi Zhang et.al.|[2207.09209v2](http://arxiv.org/abs/2207.09209v2)|[link](https://github.com/zaixizhang/fldetector)|
-|**2022-07-19**|**Nonlinear Model Predictive Control Framework For Cooperative Three-Agent Target Defense Game**|Amith Manoharan et.al.|[2207.09136v1](http://arxiv.org/abs/2207.09136v1)|null|
-|**2022-07-19**|**Is Vertical Logistic Regression Privacy-Preserving? A Comprehensive Privacy Analysis and Beyond**|Yuzheng Hu et.al.|[2207.09087v1](http://arxiv.org/abs/2207.09087v1)|null|
-|**2022-07-19**|**Decorrelative Network Architecture for Robust Electrocardiogram Classification**|Christopher Wiedeman et.al.|[2207.09031v1](http://arxiv.org/abs/2207.09031v1)|null|
-|**2022-07-19**|**Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders**|Zhenrui Yue et.al.|[2207.11237v1](http://arxiv.org/abs/2207.11237v1)|null|
-|**2022-07-18**|**Development of Massively Parallel Near Peak Performance Solvers for Three-Dimensional Geodynamic Modelling**|Samuel Omlin et.al.|[2207.08716v1](http://arxiv.org/abs/2207.08716v1)|null|
-|**2022-07-18**|**A Certifiable Security Patch for Object Tracking in Self-Driving Systems via Historical Deviation Modeling**|Xudong Pan et.al.|[2207.08556v1](http://arxiv.org/abs/2207.08556v1)|null|
-|**2022-07-17**|**Expectation-Maximization Based Defense Mechanism for Distributed Model Predictive Control**|Rafael Accácio Nogueira et.al.|[2207.08194v1](http://arxiv.org/abs/2207.08194v1)|null|
+|**2022-07-19**|**IDPS Signature Classification with a Reject Option and the Incorporation of Expert Knowledge**|Hidetoshi Kawaguchi et.al.|[2207.10797v1](http://arxiv.org/abs/2207.10797v1)|null|
+|**2022-07-19**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics**|Wai Weng Lo et.al.|[2207.09088v1](http://arxiv.org/abs/2207.09088v1)|null|
+|**2022-07-19**|**MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning**|Hua Ma et.al.|[2207.09080v1](http://arxiv.org/abs/2207.09080v1)|null|
+|**2022-07-19**|**An Intelligent Trust Cloud Management Method for Secure Clustering in 5G enabled Internet of Medical Things**|Liu Yang et.al.|[2207.09057v1](http://arxiv.org/abs/2207.09057v1)|null|
+|**2022-07-18**|**Detection of Poisoning Attacks with Anomaly Detection in Federated Learning for Healthcare Applications: A Machine Learning Approach**|Ali Raza et.al.|[2207.08486v1](http://arxiv.org/abs/2207.08486v1)|null|
+|**2022-07-17**|**Finite Time Privacy Preserving Quantized Average Consensus with Transmission Stopping**|Apostolos I. Rikos et.al.|[2207.08244v1](http://arxiv.org/abs/2207.08244v1)|null|
 |**2022-07-17**|**Threat Model-Agnostic Adversarial Defense using Diffusion Models**|Tsachi Blau et.al.|[2207.08089v1](http://arxiv.org/abs/2207.08089v1)|[link](https://github.com/tsachiblau/Threat-Model-Agnostic-Adversarial-Defense-using-Diffusion-Models)|
-|**2022-07-16**|**A Survey of Decision Making in Adversarial Games**|Xiuxian Li et.al.|[2207.07971v1](http://arxiv.org/abs/2207.07971v1)|null|
-|**2022-07-16**|**Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders**|Jiahao Qi et.al.|[2207.07803v1](http://arxiv.org/abs/2207.07803v1)|null|
-|**2022-07-16**|**Towards the Desirable Decision Boundary by Moderate-Margin Adversarial Training**|Xiaoyu Liang et.al.|[2207.07793v1](http://arxiv.org/abs/2207.07793v1)|null|
-|**2022-07-15**|**SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables**|Mordechai Guri et.al.|[2207.07413v1](http://arxiv.org/abs/2207.07413v1)|null|
-|**2022-07-15**|**PASS: Parameters Audit-based Secure and Fair Federated Learning Scheme against Free Rider**|Jianhua Wang et.al.|[2207.07292v1](http://arxiv.org/abs/2207.07292v1)|null|
-|**2022-07-14**|**RSD-GAN: Regularized Sobolev Defense GAN Against Speech-to-Text Adversarial Attacks**|Mohammad Esmaeilpour et.al.|[2207.06858v1](http://arxiv.org/abs/2207.06858v1)|null|
-|**2022-07-14**|**Active Data Pattern Extraction Attacks on Generative Language Models**|Bargav Jayaraman et.al.|[2207.10802v1](http://arxiv.org/abs/2207.10802v1)|null|
-|**2022-07-14**|**PIAT: Physics Informed Adversarial Training for Solving Partial Differential Equations**|Simin Shekarpaz et.al.|[2207.06647v1](http://arxiv.org/abs/2207.06647v1)|[link](https://github.com/rohban-lab/piat)|
+|**2022-07-15**|**ERIC: An Efficient and Practical Software Obfuscation Framework**|Alperen Bolat et.al.|[2207.07407v1](http://arxiv.org/abs/2207.07407v1)|[link](https://github.com/kasirgalabs/eric)|
+|**2022-07-15**|**DuetFace: Collaborative Privacy-Preserving Face Recognition via Channel Splitting in the Frequency Domain**|Yuxi Mi et.al.|[2207.07340v1](http://arxiv.org/abs/2207.07340v1)|[link](https://github.com/Tencent/TFace)|
+|**2022-07-15**|**Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain**|Jiazhen Ji et.al.|[2207.07316v3](http://arxiv.org/abs/2207.07316v3)|[link](https://github.com/Tencent/TFace)|
+|**2022-07-15**|**Suppressing Poisoning Attacks on Federated Learning for Medical Imaging**|Naif Alkhunaizi et.al.|[2207.10804v1](http://arxiv.org/abs/2207.10804v1)|null|
+|**2022-07-14**|**Multi: a Formal Playground for Multi-Smart Contract Interaction**|Martán Ceresa et.al.|[2207.06681v1](http://arxiv.org/abs/2207.06681v1)|null|
+|**2022-07-14**|**Golden Reference-Free Hardware Trojan Localization using Graph Convolutional Network**|Rozhin Yasaei et.al.|[2207.06664v1](http://arxiv.org/abs/2207.06664v1)|null|
 |**2022-07-13**|**Explainable Intrusion Detection Systems (X-IDS): A Survey of Current Methods, Challenges, and Opportunities**|Subash Neupane et.al.|[2207.06236v1](http://arxiv.org/abs/2207.06236v1)|null|
-|**2022-07-13**|**Interactive Machine Learning: A State of the Art Review**|Natnael A. Wondimu et.al.|[2207.06196v1](http://arxiv.org/abs/2207.06196v1)|null|
-|**2022-07-13**|**Perturbation Inactivation Based Adversarial Defense for Face Recognition**|Min Ren et.al.|[2207.06035v1](http://arxiv.org/abs/2207.06035v1)|[link](https://github.com/renmin1991/perturbation-inactivate)|
+|**2022-07-13**|**G-SINC: Global Synchronization Infrastructure for Network Clocks**|Marc Frei et.al.|[2207.06116v1](http://arxiv.org/abs/2207.06116v1)|null|
 |**2022-07-13**|**Enhanced Security and Privacy via Fragmented Federated Learning**|Najeeb Moharram Jebreel et.al.|[2207.05978v1](http://arxiv.org/abs/2207.05978v1)|[link](https://github.com/anonymized30/ffl)|
-|**2022-07-12**|**NEC: Speaker Selective Cancellation via Neural Enhanced Ultrasound Shadowing**|Hanqing Guo et.al.|[2207.05848v1](http://arxiv.org/abs/2207.05848v1)|null|
-|**2022-07-12**|**RelaxLoss: Defending Membership Inference Attacks without Losing Utility**|Dingfan Chen et.al.|[2207.05801v1](http://arxiv.org/abs/2207.05801v1)|[link](https://github.com/DingfanChen/RelaxLoss)|
+|**2022-07-12**|**Exploring Adversarial Examples and Adversarial Robustness of Convolutional Neural Networks by Mutual Information**|Jiebao Zhang et.al.|[2207.05756v1](http://arxiv.org/abs/2207.05756v1)|[link](https://github.com/wowotou1998/exploring_adv_by_mutual_info)|
+|**2022-07-12**|**A Security-aware and LUT-based CAD Flow for the Physical Synthesis of eASICs**|Zain UlAbideen et.al.|[2207.05413v1](http://arxiv.org/abs/2207.05413v1)|null|
+|**2022-07-11**|**MPC for Tech Giants (GMPC): Enabling Gulliver and the Lilliputians to Cooperate Amicably**|Bar Alon et.al.|[2207.05047v1](http://arxiv.org/abs/2207.05047v1)|null|
+
+### security
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-22**|**Secure and Lightweight Strong PUF Challenge Obfuscation with Keyed Non-linear FSR**|Kleber Stangherlin et.al.|[2207.11181v1](http://arxiv.org/abs/2207.11181v1)|null|
+|**2022-07-22**|**Silent Spring: Prototype Pollution Leads to Remote Code Execution in Node.js**|Mikhail Shcherbakov et.al.|[2207.11171v1](http://arxiv.org/abs/2207.11171v1)|null|
+|**2022-07-22**|**Ten Lessons for Data Sharing With a Data Commons**|Robert L. Grossman et.al.|[2207.11167v1](http://arxiv.org/abs/2207.11167v1)|null|
+|**2022-07-22**|**Multi-Level Fine-Tuning, Data Augmentation, and Few-Shot Learning for Specialized Cyber Threat Intelligence**|Markus Bayer et.al.|[2207.11076v1](http://arxiv.org/abs/2207.11076v1)|null|
+|**2022-07-22**|**GesSure -- A Robust Face-Authentication enabled Dynamic Gesture Recognition GUI Application**|Ankit Jha et.al.|[2207.11033v1](http://arxiv.org/abs/2207.11033v1)|null|
+|**2022-07-22**|**Learning from what we know: How to perform vulnerability prediction using noisy historical data**|Aayush Garg et.al.|[2207.11018v1](http://arxiv.org/abs/2207.11018v1)|null|
+|**2022-07-22**|**Applying Machine Learning on RSRP-based Features for False Base Station Detection**|Prajwol Kumar Nakarmi et.al.|[2207.10999v1](http://arxiv.org/abs/2207.10999v1)|null|
+|**2022-07-22**|**Taguchi based Design of Sequential Convolution Neural Network for Classification of Defective Fasteners**|Manjeet Kaur et.al.|[2207.10992v1](http://arxiv.org/abs/2207.10992v1)|null|
+|**2022-07-22**|**Cryptanalysis of a system based on Twisted Dihedral Group Algebras**|Simran Tinani et.al.|[2207.10979v1](http://arxiv.org/abs/2207.10979v1)|null|
+|**2022-07-22**|**Privacy and Transparency in Graph Machine Learning: A Unified Perspective**|Megha Khosla et.al.|[2207.10896v1](http://arxiv.org/abs/2207.10896v1)|null|
+|**2022-07-22**|**Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation**|Tong Wu et.al.|[2207.10825v1](http://arxiv.org/abs/2207.10825v1)|null|
+|**2022-07-22**|**A Sealed-bid Auction with Fund Binding: Preventing Maximum Bidding Price Leakage**|Kota Chin et.al.|[2207.10823v1](http://arxiv.org/abs/2207.10823v1)|null|
+|**2022-07-21**|**Data-Driven Stochastic AC-OPF using Gaussian Processes**|Mile Mitrovic et.al.|[2207.10781v1](http://arxiv.org/abs/2207.10781v1)|null|
+|**2022-07-21**|**Cryptographic and Financial Fairness**|Daniele Friolo et.al.|[2207.10780v1](http://arxiv.org/abs/2207.10780v1)|null|
+|**2022-07-21**|**Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It**|Sílvia Casacuberta et.al.|[2207.10635v1](http://arxiv.org/abs/2207.10635v1)|[link](https://github.com/xbqg846z/underestimate-sensitivity)|
+|**2022-07-21**|**Careful What You Wish For: on the Extraction of Adversarially Trained Models**|Kacem Khaled et.al.|[2207.10561v1](http://arxiv.org/abs/2207.10561v1)|null|
+|**2022-07-21**|**PA-PUF: A Novel Priority Arbiter PUF**|Simranjeet Singh et.al.|[2207.10526v1](http://arxiv.org/abs/2207.10526v1)|null|
+|**2022-07-21**|**Autonomous Vehicles in 5G and Beyond: A Survey**|Saqib Hakak et.al.|[2207.10510v1](http://arxiv.org/abs/2207.10510v1)|null|
+|**2022-07-21**|**LPYOLO: Low Precision YOLO for Face Detection on FPGA**|Bestami Günay et.al.|[2207.10482v1](http://arxiv.org/abs/2207.10482v1)|null|
+|**2022-07-21**|**High-Level Approaches to Hardware Security: A Tutorial**|Hammond Pearce et.al.|[2207.10466v1](http://arxiv.org/abs/2207.10466v1)|[link](https://github.com/learn-hardware-security/py-des-scan)|
+|**2022-07-21**|**Sensitivities and Hedging of the Collateral Choice Option**|Griselda Deelstra et.al.|[2207.10373v1](http://arxiv.org/abs/2207.10373v1)|null|
+|**2022-07-21**|**Secure Lightweight Authentication for Multi User IoT Environment**|Chintan Patel et.al.|[2207.10353v1](http://arxiv.org/abs/2207.10353v1)|null|
+|**2022-07-21**|**UniFed: A Benchmark for Federated Learning Frameworks**|Xiaoyuan Liu et.al.|[2207.10308v1](http://arxiv.org/abs/2207.10308v1)|[link](https://github.com/ai-secure/flbenchmark-toolkit)|
+|**2022-07-21**|**Knowledge-enhanced Black-box Attacks for Recommendations**|Jingfan Chen et.al.|[2207.10307v1](http://arxiv.org/abs/2207.10307v1)|null|
+|**2022-07-21**|**Comparative Study on Supervised versus Semi-supervised Machine Learning for Anomaly Detection of In-vehicle CAN Network**|Yongqi Dong et.al.|[2207.10286v1](http://arxiv.org/abs/2207.10286v1)|null|
+|**2022-07-21**|**An Evolutionary Game based Secure Clustering Protocol with Fuzzy Trust Evaluation and Outlier Detection for Wireless Sensor Networks**|Liu Yang et.al.|[2207.10282v1](http://arxiv.org/abs/2207.10282v1)|null|
+|**2022-07-21**|**FOCUS: Fairness via Agent-Awareness for Federated Learning on Heterogeneous Data**|Wenda Chu et.al.|[2207.10265v1](http://arxiv.org/abs/2207.10265v1)|null|
+|**2022-07-21**|**A Ransomware Triage Approach using a Task Memory based on Meta-Transfer Learning Framework**|Jinting Zhu et.al.|[2207.10242v1](http://arxiv.org/abs/2207.10242v1)|null|
+|**2022-07-21**|**Differentially Private Partial Set Cover with Applications to Facility Location**|George Z. Li et.al.|[2207.10240v1](http://arxiv.org/abs/2207.10240v1)|null|
+|**2022-07-20**|**Improving Privacy-Preserving Vertical Federated Learning by Efficient Communication with ADMM**|Chulin Xie et.al.|[2207.10226v2](http://arxiv.org/abs/2207.10226v2)|null|
