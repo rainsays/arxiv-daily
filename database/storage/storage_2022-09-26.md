@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-26 11:13:48 Asia/Shanghai
+ Automated deployment @ 2022-09-26 21:05:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Adversarial
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Trojan
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-22**|**Talking Trojan: Analyzing an Industry-Wide Disclosure**|Nicholas Boucher et.al.|[2209.10717v1](http://arxiv.org/abs/2209.10717v1)|null|
-|**2022-09-21**|**3-Body Problems, Hidden Constants, Trojans and WIMPs**|Aubrey Truman et.al.|[2209.10600v1](http://arxiv.org/abs/2209.10600v1)|null|
-|**2022-09-09**|**Logic and Reduction Operation based Hardware Trojans in Digital Design**|Mayukhmali Das et.al.|[2209.04484v1](http://arxiv.org/abs/2209.04484v1)|null|
-|**2022-09-07**|**Defending Against Backdoor Attack on Graph Nerual Network by Explainability**|Bingchen Jiang et.al.|[2209.02902v1](http://arxiv.org/abs/2209.02902v1)|null|
-|**2022-09-05**|**An Adaptive Black-box Defense against Trojan Attacks (TrojDef)**|Guanxiong Liu et.al.|[2209.01721v1](http://arxiv.org/abs/2209.01721v1)|null|
-|**2022-08-29**|**Reinforcement Learning for Hardware Security: Opportunities, Developments, and Challenges**|Satwik Patnaik et.al.|[2208.13885v1](http://arxiv.org/abs/2208.13885v1)|null|
-|**2022-08-27**|**TrojViT: Trojan Insertion in Vision Transformers**|Mengxin Zheng et.al.|[2208.13049v1](http://arxiv.org/abs/2208.13049v1)|null|
-|**2022-08-26**|**ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning**|Vasudev Gohil et.al.|[2208.12897v1](http://arxiv.org/abs/2208.12897v1)|null|
-|**2022-08-26**|**DETERRENT: Detecting Trojans using Reinforcement Learning**|Vasudev Gohil et.al.|[2208.12878v1](http://arxiv.org/abs/2208.12878v1)|null|
-|**2022-08-22**|**Implications for the collisional strength of Jupiter Trojans from the Eurybates family**|Raphael Marschall et.al.|[2208.10505v1](http://arxiv.org/abs/2208.10505v1)|null|
-|**2022-08-19**|**Dispersed Pixel Perturbation-based Imperceptible Backdoor Trigger for Image Classifier Models**|Yulong Wang et.al.|[2208.09336v1](http://arxiv.org/abs/2208.09336v1)|null|
-|**2022-08-19**|**A Pragmatic Methodology for Blind Hardware Trojan Insertion in Finalized Layouts**|Alexander Hepp et.al.|[2208.09235v1](http://arxiv.org/abs/2208.09235v1)|null|
-|**2022-08-18**|**Electronic, Wireless, and Photonic Network-on-Chip Security: Challenges and Countermeasures**|Sudeep Pasricha et.al.|[2208.09070v1](http://arxiv.org/abs/2208.09070v1)|null|
-|**2022-08-17**|**Embracing Graph Neural Networks for Hardware Security (Invited Paper)**|Lilas Alrahis et.al.|[2208.08554v1](http://arxiv.org/abs/2208.08554v1)|null|
-|**2022-08-16**|**Quantum Machine Learning for Material Synthesis and Hardware Security**|Collin Beaudoin et.al.|[2208.08273v1](http://arxiv.org/abs/2208.08273v1)|null|
-|**2022-08-09**|**Attention Hijacking in Trojan Transformers**|Weimin Lyu et.al.|[2208.04946v1](http://arxiv.org/abs/2208.04946v1)|null|
-|**2022-08-08**|**PerD: Perturbation Sensitivity-based Neural Trojan Detection Framework on NLP Applications**|Diego Garcia-soto et.al.|[2208.04943v1](http://arxiv.org/abs/2208.04943v1)|null|
-|**2022-07-27**|**Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips**|Jiawang Bai et.al.|[2207.13417v1](http://arxiv.org/abs/2207.13417v1)|[link](https://github.com/jiawangbai/hpt)|
-|**2022-07-23**|**Ultraviolet Spectroscopy of Lucy Mission Targets with the Hubble Space Telescope**|Oriel A. Humes et.al.|[2207.11390v1](http://arxiv.org/abs/2207.11390v1)|null|
-|**2022-07-20**|**EVHA: Explainable Vision System for Hardware Testing and Assurance -- An Overview**|Md Mahfuz Al Hasan et.al.|[2207.09627v1](http://arxiv.org/abs/2207.09627v1)|null|
-|**2022-07-17**|**Review of Peer-to-Peer Botnets and Detection Mechanisms**|Khoh Choon Hwa et.al.|[2207.12937v1](http://arxiv.org/abs/2207.12937v1)|null|
-|**2022-07-14**|**Golden Reference-Free Hardware Trojan Localization using Graph Convolutional Network**|Rozhin Yasaei et.al.|[2207.06664v1](http://arxiv.org/abs/2207.06664v1)|null|
-|**2022-07-13**|**Game of Trojans: A Submodular Byzantine Approach**|Dinuka Sahabandu et.al.|[2207.05937v1](http://arxiv.org/abs/2207.05937v1)|null|
-|**2022-07-08**|**Defense Against Multi-target Trojan Attacks**|Haripriya Harikumar et.al.|[2207.03895v1](http://arxiv.org/abs/2207.03895v1)|null|
-|**2022-06-23**|**Probing the surface environment of large T-type asteroids**|Yuna G. Kwon et.al.|[2206.11672v1](http://arxiv.org/abs/2206.11672v1)|null|
-|**2022-06-14**|**Do Tides Destabilize Trojan Exoplanets?**|Anthony R. Dobrovolskis et.al.|[2206.07097v1](http://arxiv.org/abs/2206.07097v1)|null|
-|**2022-06-13**|**Trojan asteroids and co-orbital dust ring of Venus**|Yang-Bo Xu et.al.|[2206.06114v1](http://arxiv.org/abs/2206.06114v1)|null|
-|**2022-06-04**|**Leveraging Machine Learning for Ransomware Detection**|Nanda Rani et.al.|[2206.01919v1](http://arxiv.org/abs/2206.01919v1)|null|
-|**2022-06-03**|**MEGASIM: Lifetimes and Resonances of Earth Trojan Asteroids -- The Death of Primordial ETAs?**|Travis Yeager et.al.|[2206.01837v1](http://arxiv.org/abs/2206.01837v1)|null|
-|**2022-05-27**|**R-HTDetector: Robust Hardware-Trojan Detection Based on Adversarial Training**|Kento Hasegawa et.al.|[2205.13702v1](http://arxiv.org/abs/2205.13702v1)|null|
 
 ### Attack
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2022-09-20**|**CANflict: Exploiting Peripheral Conflicts for Data-Link Layer Attacks on Automotive Networks**|Alvise de Faveri Tron et.al.|[2209.09557v1](http://arxiv.org/abs/2209.09557v1)|[link](https://github.com/necst/canflict)|
 |**2022-09-20**|**GAMA: Generative Adversarial Multi-Object Scene Attacks**|Abhishek Aich et.al.|[2209.09502v1](http://arxiv.org/abs/2209.09502v1)|null|
 |**2022-09-19**|**Guarding a Non-Maneuverable Translating Line with an Attached Defender**|Goutam Das et.al.|[2209.09318v1](http://arxiv.org/abs/2209.09318v1)|null|
+
+### Trojan
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Talking Trojan: Analyzing an Industry-Wide Disclosure**|Nicholas Boucher et.al.|[2209.10717v1](http://arxiv.org/abs/2209.10717v1)|null|
+|**2022-09-21**|**3-Body Problems, Hidden Constants, Trojans and WIMPs**|Aubrey Truman et.al.|[2209.10600v1](http://arxiv.org/abs/2209.10600v1)|null|
+|**2022-09-09**|**Logic and Reduction Operation based Hardware Trojans in Digital Design**|Mayukhmali Das et.al.|[2209.04484v1](http://arxiv.org/abs/2209.04484v1)|null|
+|**2022-09-07**|**Defending Against Backdoor Attack on Graph Nerual Network by Explainability**|Bingchen Jiang et.al.|[2209.02902v1](http://arxiv.org/abs/2209.02902v1)|null|
+|**2022-09-05**|**An Adaptive Black-box Defense against Trojan Attacks (TrojDef)**|Guanxiong Liu et.al.|[2209.01721v1](http://arxiv.org/abs/2209.01721v1)|null|
+|**2022-08-29**|**Reinforcement Learning for Hardware Security: Opportunities, Developments, and Challenges**|Satwik Patnaik et.al.|[2208.13885v1](http://arxiv.org/abs/2208.13885v1)|null|
+|**2022-08-27**|**TrojViT: Trojan Insertion in Vision Transformers**|Mengxin Zheng et.al.|[2208.13049v1](http://arxiv.org/abs/2208.13049v1)|null|
+|**2022-08-26**|**ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning**|Vasudev Gohil et.al.|[2208.12897v1](http://arxiv.org/abs/2208.12897v1)|null|
+|**2022-08-26**|**DETERRENT: Detecting Trojans using Reinforcement Learning**|Vasudev Gohil et.al.|[2208.12878v1](http://arxiv.org/abs/2208.12878v1)|null|
+|**2022-08-22**|**Implications for the collisional strength of Jupiter Trojans from the Eurybates family**|Raphael Marschall et.al.|[2208.10505v1](http://arxiv.org/abs/2208.10505v1)|null|
+|**2022-08-19**|**Dispersed Pixel Perturbation-based Imperceptible Backdoor Trigger for Image Classifier Models**|Yulong Wang et.al.|[2208.09336v1](http://arxiv.org/abs/2208.09336v1)|null|
+|**2022-08-19**|**A Pragmatic Methodology for Blind Hardware Trojan Insertion in Finalized Layouts**|Alexander Hepp et.al.|[2208.09235v1](http://arxiv.org/abs/2208.09235v1)|null|
+|**2022-08-18**|**Electronic, Wireless, and Photonic Network-on-Chip Security: Challenges and Countermeasures**|Sudeep Pasricha et.al.|[2208.09070v1](http://arxiv.org/abs/2208.09070v1)|null|
+|**2022-08-17**|**Embracing Graph Neural Networks for Hardware Security (Invited Paper)**|Lilas Alrahis et.al.|[2208.08554v1](http://arxiv.org/abs/2208.08554v1)|null|
+|**2022-08-16**|**Quantum Machine Learning for Material Synthesis and Hardware Security**|Collin Beaudoin et.al.|[2208.08273v1](http://arxiv.org/abs/2208.08273v1)|null|
+|**2022-08-09**|**Attention Hijacking in Trojan Transformers**|Weimin Lyu et.al.|[2208.04946v1](http://arxiv.org/abs/2208.04946v1)|null|
+|**2022-08-08**|**PerD: Perturbation Sensitivity-based Neural Trojan Detection Framework on NLP Applications**|Diego Garcia-soto et.al.|[2208.04943v1](http://arxiv.org/abs/2208.04943v1)|null|
+|**2022-07-27**|**Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips**|Jiawang Bai et.al.|[2207.13417v1](http://arxiv.org/abs/2207.13417v1)|[link](https://github.com/jiawangbai/hpt)|
+|**2022-07-23**|**Ultraviolet Spectroscopy of Lucy Mission Targets with the Hubble Space Telescope**|Oriel A. Humes et.al.|[2207.11390v1](http://arxiv.org/abs/2207.11390v1)|null|
+|**2022-07-20**|**EVHA: Explainable Vision System for Hardware Testing and Assurance -- An Overview**|Md Mahfuz Al Hasan et.al.|[2207.09627v1](http://arxiv.org/abs/2207.09627v1)|null|
+|**2022-07-17**|**Review of Peer-to-Peer Botnets and Detection Mechanisms**|Khoh Choon Hwa et.al.|[2207.12937v1](http://arxiv.org/abs/2207.12937v1)|null|
+|**2022-07-14**|**Golden Reference-Free Hardware Trojan Localization using Graph Convolutional Network**|Rozhin Yasaei et.al.|[2207.06664v1](http://arxiv.org/abs/2207.06664v1)|null|
+|**2022-07-13**|**Game of Trojans: A Submodular Byzantine Approach**|Dinuka Sahabandu et.al.|[2207.05937v1](http://arxiv.org/abs/2207.05937v1)|null|
+|**2022-07-08**|**Defense Against Multi-target Trojan Attacks**|Haripriya Harikumar et.al.|[2207.03895v1](http://arxiv.org/abs/2207.03895v1)|null|
+|**2022-06-23**|**Probing the surface environment of large T-type asteroids**|Yuna G. Kwon et.al.|[2206.11672v1](http://arxiv.org/abs/2206.11672v1)|null|
+|**2022-06-14**|**Do Tides Destabilize Trojan Exoplanets?**|Anthony R. Dobrovolskis et.al.|[2206.07097v1](http://arxiv.org/abs/2206.07097v1)|null|
+|**2022-06-13**|**Trojan asteroids and co-orbital dust ring of Venus**|Yang-Bo Xu et.al.|[2206.06114v1](http://arxiv.org/abs/2206.06114v1)|null|
+|**2022-06-04**|**Leveraging Machine Learning for Ransomware Detection**|Nanda Rani et.al.|[2206.01919v1](http://arxiv.org/abs/2206.01919v1)|null|
+|**2022-06-03**|**MEGASIM: Lifetimes and Resonances of Earth Trojan Asteroids -- The Death of Primordial ETAs?**|Travis Yeager et.al.|[2206.01837v1](http://arxiv.org/abs/2206.01837v1)|null|
+|**2022-05-27**|**R-HTDetector: Robust Hardware-Trojan Detection Based on Adversarial Training**|Kento Hasegawa et.al.|[2205.13702v1](http://arxiv.org/abs/2205.13702v1)|null|
 
 ### backdoor
 |Publish Date|Title|Authors|PDF|Code|
@@ -133,7 +133,7 @@
 |**2022-09-23**|**Kinetic instabilities in a dense mirror-confined plasma of a continuous ECR discharge**|Mikhail Viktorov et.al.|[2209.11512v1](http://arxiv.org/abs/2209.11512v1)|null|
 |**2022-09-23**|**Active Few-Shot Classification: a New Paradigm for Data-Scarce Learning Settings**|Aymane Abdali et.al.|[2209.11481v1](http://arxiv.org/abs/2209.11481v1)|null|
 |**2022-09-23**|**Smart Active Sampling to enhance Quality Assurance Efficiency**|Clemens Heistracher et.al.|[2209.11464v1](http://arxiv.org/abs/2209.11464v1)|null|
-|**2022-09-23**|**Rethinking Performance Gains in Image Dehazing Networks**|Yuda Song et.al.|[2209.11448v1](http://arxiv.org/abs/2209.11448v1)|null|
+|**2022-09-23**|**Rethinking Performance Gains in Image Dehazing Networks**|Yuda Song et.al.|[2209.11448v1](http://arxiv.org/abs/2209.11448v1)|[link](https://github.com/idkiro/gunet)|
 |**2022-09-23**|**The Kriston AI System for the VoxCeleb Speaker Recognition Challenge 2022**|Qutang Cai et.al.|[2209.11433v1](http://arxiv.org/abs/2209.11433v1)|null|
 |**2022-09-23**|**Achieve the Minimum Width of Neural Networks for Universal Approximation**|Yongqiang Cai et.al.|[2209.11395v1](http://arxiv.org/abs/2209.11395v1)|null|
 |**2022-09-22**|**A Depth-Progressive Initialization Strategy for Quantum Approximate Optimization Algorithm**|Xinwei Lee et.al.|[2209.11348v1](http://arxiv.org/abs/2209.11348v1)|null|
