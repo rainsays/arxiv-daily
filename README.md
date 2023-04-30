@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-30 09:44:20 Asia/Shanghai
+ Automated deployment @ 2023-04-30 20:37:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -113,6 +113,40 @@
 
 ## security
 
+### Activation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang et.al.|[2304.14377v1](http://arxiv.org/abs/2304.14377v1)|null|
+|**2023-04-27**|**Modeling diffusion in ionic, crystalline solids with internal stress gradients**|Benjamin L. Hess et.al.|[2304.14330v1](http://arxiv.org/abs/2304.14330v1)|null|
+|**2023-04-27**|**Empirical Individual State Observability**|Benjamin Cellini et.al.|[2304.14313v1](http://arxiv.org/abs/2304.14313v1)|null|
+|**2023-04-27**|**X-ray flares in long-term light curve of low luminosity AGN - M81***|Gunjan Tomar et.al.|[2304.14265v1](http://arxiv.org/abs/2304.14265v1)|null|
+|**2023-04-27**|**The Intended Uses of Automated Fact-Checking Artefacts: Why, How and Who**|Michael Schlichtkrull et.al.|[2304.14238v1](http://arxiv.org/abs/2304.14238v1)|null|
+|**2023-04-27**|**Does Spontaneous Symmetry Breaking Occur in Periodically Driven Low-Dimensional Non-Equilibrium Classical Systems?**|Harukuni Ikeda et.al.|[2304.14235v1](http://arxiv.org/abs/2304.14235v1)|null|
+|**2023-04-27**|**Once and for All: Scheduling Multiple Users Using Statistical CSI under Fixed Wireless Access**|Xin Guan et.al.|[2304.14225v1](http://arxiv.org/abs/2304.14225v1)|null|
+|**2023-04-27**|**Probing AGN variability with the Cherenkov Telescope Array**|F. Cangemi et.al.|[2304.14208v1](http://arxiv.org/abs/2304.14208v1)|null|
+|**2023-04-27**|**Design of a multimodal device to improve well-being of autistic workers interacting with collaborative robots**|Carla Dei et.al.|[2304.14191v1](http://arxiv.org/abs/2304.14191v1)|null|
+|**2023-04-27**|**Tidal Forcing on the Sun and the 11-year Solar Activity Cycle**|Rodolfo G. Cionco et.al.|[2304.14168v1](http://arxiv.org/abs/2304.14168v1)|null|
+|**2023-04-27**|**Bursts from Space: MeerKAT - The first citizen science project dedicated to commensal radio transients**|Alex Andersson et.al.|[2304.14157v1](http://arxiv.org/abs/2304.14157v1)|null|
+|**2023-04-27**|**Spectropolarimetric investigation of magnetohydrodynamic wave modes in the photosphere: First results from PHI on board Solar Orbiter**|D. Calchetti et.al.|[2304.14155v1](http://arxiv.org/abs/2304.14155v1)|null|
+|**2023-04-27**|**The CRAM Cognitive Architecture for Robot Manipulation in Everyday Activities**|Michael Beetz et.al.|[2304.14119v1](http://arxiv.org/abs/2304.14119v1)|null|
+|**2023-04-27**|**Droplet dynamics in a two-dimensional rarefied gas under Kawasaki dynamics**|Simone Baldassarri et.al.|[2304.14099v1](http://arxiv.org/abs/2304.14099v1)|null|
+|**2023-04-27**|**Spherical Inducing Features for Orthogonally-Decoupled Gaussian Processes**|Louis C. Tiao et.al.|[2304.14034v1](http://arxiv.org/abs/2304.14034v1)|null|
+|**2023-04-27**|**The impact of hydrostatic pressure, nonstoichiometry, and doping on trimeron lattice excitations in magnetite during axis switching**|T. Kołodziej et.al.|[2304.14032v1](http://arxiv.org/abs/2304.14032v1)|null|
+|**2023-04-27**|**High-frequency Anticipatory Trading and Its Influences: Small Informed Trader vs. Front-runner**|Ziyi Xu et.al.|[2304.13985v1](http://arxiv.org/abs/2304.13985v1)|null|
+|**2023-04-27**|**Both electrical and metabolic coupling shape the collective multimodal activity and functional connectivity patterns in beta cell collectives**|Marko Šterk et.al.|[2304.13961v1](http://arxiv.org/abs/2304.13961v1)|null|
+|**2023-04-27**|**$\mathcal{PT}$-activated non-Hermitian skin modes**|Zhoutao Lei et.al.|[2304.13955v1](http://arxiv.org/abs/2304.13955v1)|null|
+|**2023-04-27**|**Automatic Localization and Detection Applicable to Robust Image Watermarking Resisting against Camera Shooting**|Ming Liu et.al.|[2304.13953v1](http://arxiv.org/abs/2304.13953v1)|null|
+|**2023-04-27**|**Provably Stabilizing Global-Position Tracking Control for Hybrid Models of Multi-Domain Bipedal Walking via Multiple Lyapunov Analysis**|Yuan Gao et.al.|[2304.13943v1](http://arxiv.org/abs/2304.13943v1)|null|
+|**2023-04-27**|**Detecting inner-LAN anomalies using hierarchical forecasting**|Sevvandi Kandanaarachchi et.al.|[2304.13941v1](http://arxiv.org/abs/2304.13941v1)|null|
+|**2023-04-27**|**Evidence for Band Renormalizations in Strong-coupling Superconducting Alkali-fulleride Films**|J. S. Zhou et.al.|[2304.13914v1](http://arxiv.org/abs/2304.13914v1)|null|
+|**2023-04-27**|**Data-driven Balanced Truncation for Predictive Model Order Reduction of Aeroacoustic Response**|Elnaz Rezaian et.al.|[2304.13900v1](http://arxiv.org/abs/2304.13900v1)|null|
+|**2023-04-26**|**Elucidating the active phases of CoOx films on Au(111) in the CO Oxidation Reaction**|Hao Chen et.al.|[2304.13859v1](http://arxiv.org/abs/2304.13859v1)|null|
+|**2023-04-26**|**Kinetic temperature and pressure of an active Tonks gas**|Elijah Schiltz-Rouse et.al.|[2304.13858v1](http://arxiv.org/abs/2304.13858v1)|null|
+|**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854v1](http://arxiv.org/abs/2304.13854v1)|null|
+|**2023-04-26**|**Phagocytosis Unveiled: A Scalable and Interpretable Deep learning Framework for Neurodegenerative Disease Analysis**|Mehdi Ounissi et.al.|[2304.13764v1](http://arxiv.org/abs/2304.13764v1)|[link](https://github.com/ounissimehdi/phagostat)|
+|**2023-04-26**|**Probing the Timescale of the 1.4 GHz Radio emissions as a Star formation tracer**|R. C. Arango-Toro et.al.|[2304.13758v1](http://arxiv.org/abs/2304.13758v1)|null|
+|**2023-04-26**|**Large-scale clustering of buried X-ray AGN: Trends in AGN obscuration and redshift evolution**|Akke Viitanen et.al.|[2304.13745v1](http://arxiv.org/abs/2304.13745v1)|null|
+
 ### Malicious
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,40 +180,6 @@
 |**2023-04-17**|**Collaborative Feature Learning for Fine-grained Facial Forgery Detection and Segmentation**|Weinan Guan et.al.|[2304.08078v1](http://arxiv.org/abs/2304.08078v1)|null|
 |**2023-04-17**|**Attributing Image Generative Models using Latent Fingerprints**|Guangyu Nie et.al.|[2304.09752v1](http://arxiv.org/abs/2304.09752v1)|[link](https://github.com/guangyunie/watermarking-through-style-space-edition)|
 |**2023-04-15**|**Certifying Zero-Knowledge Circuits with Refinement Types**|Junrui Liu et.al.|[2304.07648v2](http://arxiv.org/abs/2304.07648v2)|null|
-
-### security
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397v1](http://arxiv.org/abs/2304.14397v1)|null|
-|**2023-04-27**|**Proceedings of the 3rd International Workshop on Autonomous Systems Safety**|Christoph Thieme et.al.|[2304.14335v1](http://arxiv.org/abs/2304.14335v1)|null|
-|**2023-04-27**|**Molecular Outgassing in Centaur 29P/Schwassmann-Wachmann 1 During Its Exceptional 2021 Outburst: Coordinated Multi-Wavelength Observations Using nFLASH at APEX and iSHELL at the NASA-IRTF**|Nathan X. Roth et.al.|[2304.14324v1](http://arxiv.org/abs/2304.14324v1)|null|
-|**2023-04-27**|**Developing Distributed High-performance Computing Capabilities of an Open Science Platform for Robust Epidemic Analysis**|Nicholson Collier et.al.|[2304.14244v1](http://arxiv.org/abs/2304.14244v1)|null|
-|**2023-04-27**|**Holo-Block Chain: A Hybrid Approach for Secured IoT Healthcare Ecosystem**|Asad Aftab et.al.|[2304.14175v1](http://arxiv.org/abs/2304.14175v1)|null|
-|**2023-04-27**|**On the Discrete Logarithm Problem for elliptic curves over local fields**|Giuseppe Filippone et.al.|[2304.14150v1](http://arxiv.org/abs/2304.14150v1)|null|
-|**2023-04-27**|**Securing Autonomous Air Traffic Management: Blockchain Networks Driven by Explainable AI**|Louise Axon et.al.|[2304.14095v1](http://arxiv.org/abs/2304.14095v1)|null|
-|**2023-04-27**|**Boosting Big Brother: Attacking Search Engines with Encodings**|Nicholas Boucher et.al.|[2304.14031v1](http://arxiv.org/abs/2304.14031v1)|[link](https://github.com/nickboucher/search-engine-attacks)|
-|**2023-04-27**|**Attacks on Robust Distributed Learning Schemes via Sensitivity Curve Maximization**|Christian A. Schroth et.al.|[2304.14024v1](http://arxiv.org/abs/2304.14024v1)|null|
-|**2023-04-27**|**You Can't Always Check What You Wanted: Selective Checking and Trusted Execution to Prevent False Actuations in Cyber-Physical Systems**|Monowar Hasan et.al.|[2304.13956v1](http://arxiv.org/abs/2304.13956v1)|null|
-|**2023-04-27**|**Optimal Transmission Switching with Uncertainties from both Renewable Energy and N-k Contingencies**|Tong Han et.al.|[2304.13944v1](http://arxiv.org/abs/2304.13944v1)|null|
-|**2023-04-27**|**Detecting inner-LAN anomalies using hierarchical forecasting**|Sevvandi Kandanaarachchi et.al.|[2304.13941v1](http://arxiv.org/abs/2304.13941v1)|null|
-|**2023-04-27**|**Bitcoin Double-Spending Attack Detection using Graph Neural Network**|Changhoon Kang et.al.|[2304.13935v1](http://arxiv.org/abs/2304.13935v1)|null|
-|**2023-04-27**|**Detection of Adversarial Physical Attacks in Time-Series Image Data**|Ramneet Kaur et.al.|[2304.13919v1](http://arxiv.org/abs/2304.13919v1)|null|
-|**2023-04-27**|**Improved Stabilizer Estimation via Bell Difference Sampling**|Sabee Grewal et.al.|[2304.13915v1](http://arxiv.org/abs/2304.13915v1)|null|
-|**2023-04-27**|**LSTM based IoT Device Identification**|Kahraman Kostas et.al.|[2304.13905v1](http://arxiv.org/abs/2304.13905v1)|[link](https://github.com/kahramankostas/lstm-based-iot-device-identification)|
-|**2023-04-27**|**CNN based IoT Device Identification**|Kahraman Kostas et.al.|[2304.13894v1](http://arxiv.org/abs/2304.13894v1)|[link](https://github.com/kahramankostas/cnn-based-iot-device-identification)|
-|**2023-04-27**|**Improving the Utility of Differentially Private Clustering through Dynamical Processing**|Junyoung Byun et.al.|[2304.13886v1](http://arxiv.org/abs/2304.13886v1)|null|
-|**2023-04-26**|**Do SSL Models Have Déjà Vu? A Case of Unintended Memorization in Self-supervised Learning**|Chuan Guo et.al.|[2304.13850v1](http://arxiv.org/abs/2304.13850v1)|[link](https://github.com/facebookresearch/dejavu)|
-|**2023-04-26**|**AI-based Predictive Analytic Approaches for safeguarding the Future of Electric/Hybrid Vehicles**|Ishan Shivansh Bangroo et.al.|[2304.13841v1](http://arxiv.org/abs/2304.13841v1)|null|
-|**2023-04-26**|**Time-Interleaving Enabled Co-propagation of QKD and Classical Channels over 100-km Fiber with 10-dBm Classical Launch Power**|Jing Wang et.al.|[2304.13828v1](http://arxiv.org/abs/2304.13828v1)|null|
-|**2023-04-26**|**Composable Security of Distributed Symmetric Key Exchange Protocol**|Jie Lin et.al.|[2304.13789v1](http://arxiv.org/abs/2304.13789v1)|null|
-|**2023-04-26**|**Security Constrained Optimal Power Shutoff**|Noah Rhodes et.al.|[2304.13778v1](http://arxiv.org/abs/2304.13778v1)|null|
-|**2023-04-26**|**Scalable, Distributed AI Frameworks: Leveraging Cloud Computing for Enhanced Deep Learning Performance and Efficiency**|Neelesh Mungoli et.al.|[2304.13738v1](http://arxiv.org/abs/2304.13738v1)|null|
-|**2023-04-26**|**Maximum Implied Variance Slope -- Practical Aspects**|Fabien Le Floc'h et.al.|[2304.13610v1](http://arxiv.org/abs/2304.13610v1)|null|
-|**2023-04-26**|**Killing Two Birds with One Stone: Quantization Achieves Privacy in Distributed Learning**|Guangfeng Yan et.al.|[2304.13545v1](http://arxiv.org/abs/2304.13545v1)|null|
-|**2023-04-26**|**Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar**|Simranjeet Singh et.al.|[2304.13531v1](http://arxiv.org/abs/2304.13531v1)|null|
-|**2023-04-26**|**Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems**|Rodothea Myrsini Tsoupidi et.al.|[2304.13458v1](http://arxiv.org/abs/2304.13458v1)|null|
-|**2023-04-26**|**Secure Communication Model For Quantum Federated Learning: A Post Quantum Cryptography (PQC) Framework**|Dev Gurung et.al.|[2304.13413v1](http://arxiv.org/abs/2304.13413v1)|[link](https://github.com/s222416822/pqc-qfl-model)|
-|**2023-04-26**|**Improving Adversarial Transferability by Intermediate-level Perturbation Decay**|Qizhang Li et.al.|[2304.13410v1](http://arxiv.org/abs/2304.13410v1)|null|
 
 ### Malware
 |Publish Date|Title|Authors|PDF|Code|
@@ -215,40 +215,6 @@
 |**2023-02-18**|**Experimental Toolkit for Manipulating Executable Packing**|Alexandre D'Hondt et.al.|[2302.09286v1](http://arxiv.org/abs/2302.09286v1)|null|
 |**2023-02-16**|**Generative Adversarial Networks for Malware Detection: a Survey**|Aeryn Dunmore et.al.|[2302.08558v2](http://arxiv.org/abs/2302.08558v2)|null|
 
-### Activation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang et.al.|[2304.14377v1](http://arxiv.org/abs/2304.14377v1)|null|
-|**2023-04-27**|**Modeling diffusion in ionic, crystalline solids with internal stress gradients**|Benjamin L. Hess et.al.|[2304.14330v1](http://arxiv.org/abs/2304.14330v1)|null|
-|**2023-04-27**|**Empirical Individual State Observability**|Benjamin Cellini et.al.|[2304.14313v1](http://arxiv.org/abs/2304.14313v1)|null|
-|**2023-04-27**|**X-ray flares in long-term light curve of low luminosity AGN - M81***|Gunjan Tomar et.al.|[2304.14265v1](http://arxiv.org/abs/2304.14265v1)|null|
-|**2023-04-27**|**The Intended Uses of Automated Fact-Checking Artefacts: Why, How and Who**|Michael Schlichtkrull et.al.|[2304.14238v1](http://arxiv.org/abs/2304.14238v1)|null|
-|**2023-04-27**|**Does Spontaneous Symmetry Breaking Occur in Periodically Driven Low-Dimensional Non-Equilibrium Classical Systems?**|Harukuni Ikeda et.al.|[2304.14235v1](http://arxiv.org/abs/2304.14235v1)|null|
-|**2023-04-27**|**Once and for All: Scheduling Multiple Users Using Statistical CSI under Fixed Wireless Access**|Xin Guan et.al.|[2304.14225v1](http://arxiv.org/abs/2304.14225v1)|null|
-|**2023-04-27**|**Probing AGN variability with the Cherenkov Telescope Array**|F. Cangemi et.al.|[2304.14208v1](http://arxiv.org/abs/2304.14208v1)|null|
-|**2023-04-27**|**Design of a multimodal device to improve well-being of autistic workers interacting with collaborative robots**|Carla Dei et.al.|[2304.14191v1](http://arxiv.org/abs/2304.14191v1)|null|
-|**2023-04-27**|**Tidal Forcing on the Sun and the 11-year Solar Activity Cycle**|Rodolfo G. Cionco et.al.|[2304.14168v1](http://arxiv.org/abs/2304.14168v1)|null|
-|**2023-04-27**|**Bursts from Space: MeerKAT - The first citizen science project dedicated to commensal radio transients**|Alex Andersson et.al.|[2304.14157v1](http://arxiv.org/abs/2304.14157v1)|null|
-|**2023-04-27**|**Spectropolarimetric investigation of magnetohydrodynamic wave modes in the photosphere: First results from PHI on board Solar Orbiter**|D. Calchetti et.al.|[2304.14155v1](http://arxiv.org/abs/2304.14155v1)|null|
-|**2023-04-27**|**The CRAM Cognitive Architecture for Robot Manipulation in Everyday Activities**|Michael Beetz et.al.|[2304.14119v1](http://arxiv.org/abs/2304.14119v1)|null|
-|**2023-04-27**|**Droplet dynamics in a two-dimensional rarefied gas under Kawasaki dynamics**|Simone Baldassarri et.al.|[2304.14099v1](http://arxiv.org/abs/2304.14099v1)|null|
-|**2023-04-27**|**Spherical Inducing Features for Orthogonally-Decoupled Gaussian Processes**|Louis C. Tiao et.al.|[2304.14034v1](http://arxiv.org/abs/2304.14034v1)|null|
-|**2023-04-27**|**The impact of hydrostatic pressure, nonstoichiometry, and doping on trimeron lattice excitations in magnetite during axis switching**|T. Kołodziej et.al.|[2304.14032v1](http://arxiv.org/abs/2304.14032v1)|null|
-|**2023-04-27**|**High-frequency Anticipatory Trading and Its Influences: Small Informed Trader vs. Front-runner**|Ziyi Xu et.al.|[2304.13985v1](http://arxiv.org/abs/2304.13985v1)|null|
-|**2023-04-27**|**Both electrical and metabolic coupling shape the collective multimodal activity and functional connectivity patterns in beta cell collectives**|Marko Šterk et.al.|[2304.13961v1](http://arxiv.org/abs/2304.13961v1)|null|
-|**2023-04-27**|**$\mathcal{PT}$-activated non-Hermitian skin modes**|Zhoutao Lei et.al.|[2304.13955v1](http://arxiv.org/abs/2304.13955v1)|null|
-|**2023-04-27**|**Automatic Localization and Detection Applicable to Robust Image Watermarking Resisting against Camera Shooting**|Ming Liu et.al.|[2304.13953v1](http://arxiv.org/abs/2304.13953v1)|null|
-|**2023-04-27**|**Provably Stabilizing Global-Position Tracking Control for Hybrid Models of Multi-Domain Bipedal Walking via Multiple Lyapunov Analysis**|Yuan Gao et.al.|[2304.13943v1](http://arxiv.org/abs/2304.13943v1)|null|
-|**2023-04-27**|**Detecting inner-LAN anomalies using hierarchical forecasting**|Sevvandi Kandanaarachchi et.al.|[2304.13941v1](http://arxiv.org/abs/2304.13941v1)|null|
-|**2023-04-27**|**Evidence for Band Renormalizations in Strong-coupling Superconducting Alkali-fulleride Films**|J. S. Zhou et.al.|[2304.13914v1](http://arxiv.org/abs/2304.13914v1)|null|
-|**2023-04-27**|**Data-driven Balanced Truncation for Predictive Model Order Reduction of Aeroacoustic Response**|Elnaz Rezaian et.al.|[2304.13900v1](http://arxiv.org/abs/2304.13900v1)|null|
-|**2023-04-26**|**Elucidating the active phases of CoOx films on Au(111) in the CO Oxidation Reaction**|Hao Chen et.al.|[2304.13859v1](http://arxiv.org/abs/2304.13859v1)|null|
-|**2023-04-26**|**Kinetic temperature and pressure of an active Tonks gas**|Elijah Schiltz-Rouse et.al.|[2304.13858v1](http://arxiv.org/abs/2304.13858v1)|null|
-|**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854v1](http://arxiv.org/abs/2304.13854v1)|null|
-|**2023-04-26**|**Phagocytosis Unveiled: A Scalable and Interpretable Deep learning Framework for Neurodegenerative Disease Analysis**|Mehdi Ounissi et.al.|[2304.13764v1](http://arxiv.org/abs/2304.13764v1)|[link](https://github.com/ounissimehdi/phagostat)|
-|**2023-04-26**|**Probing the Timescale of the 1.4 GHz Radio emissions as a Star formation tracer**|R. C. Arango-Toro et.al.|[2304.13758v1](http://arxiv.org/abs/2304.13758v1)|null|
-|**2023-04-26**|**Large-scale clustering of buried X-ray AGN: Trends in AGN obscuration and redshift evolution**|Akke Viitanen et.al.|[2304.13745v1](http://arxiv.org/abs/2304.13745v1)|null|
-
 ### Defense
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -282,3 +248,37 @@
 |**2023-04-17**|**GrOVe: Ownership Verification of Graph Neural Networks using Embeddings**|Asim Waheed et.al.|[2304.08566v1](http://arxiv.org/abs/2304.08566v1)|null|
 |**2023-04-17**|**Evil from Within: Machine Learning Backdoors through Hardware Trojans**|Alexander Warnecke et.al.|[2304.08411v2](http://arxiv.org/abs/2304.08411v2)|null|
 |**2023-04-17**|**Training Automated Defense Strategies Using Graph-based Cyber Attack Simulations**|Jakob Nyberg et.al.|[2304.11084v1](http://arxiv.org/abs/2304.11084v1)|null|
+
+### security
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397v1](http://arxiv.org/abs/2304.14397v1)|null|
+|**2023-04-27**|**Proceedings of the 3rd International Workshop on Autonomous Systems Safety**|Christoph Thieme et.al.|[2304.14335v1](http://arxiv.org/abs/2304.14335v1)|null|
+|**2023-04-27**|**Molecular Outgassing in Centaur 29P/Schwassmann-Wachmann 1 During Its Exceptional 2021 Outburst: Coordinated Multi-Wavelength Observations Using nFLASH at APEX and iSHELL at the NASA-IRTF**|Nathan X. Roth et.al.|[2304.14324v1](http://arxiv.org/abs/2304.14324v1)|null|
+|**2023-04-27**|**Developing Distributed High-performance Computing Capabilities of an Open Science Platform for Robust Epidemic Analysis**|Nicholson Collier et.al.|[2304.14244v1](http://arxiv.org/abs/2304.14244v1)|null|
+|**2023-04-27**|**Holo-Block Chain: A Hybrid Approach for Secured IoT Healthcare Ecosystem**|Asad Aftab et.al.|[2304.14175v1](http://arxiv.org/abs/2304.14175v1)|null|
+|**2023-04-27**|**On the Discrete Logarithm Problem for elliptic curves over local fields**|Giuseppe Filippone et.al.|[2304.14150v1](http://arxiv.org/abs/2304.14150v1)|null|
+|**2023-04-27**|**Securing Autonomous Air Traffic Management: Blockchain Networks Driven by Explainable AI**|Louise Axon et.al.|[2304.14095v1](http://arxiv.org/abs/2304.14095v1)|null|
+|**2023-04-27**|**Boosting Big Brother: Attacking Search Engines with Encodings**|Nicholas Boucher et.al.|[2304.14031v1](http://arxiv.org/abs/2304.14031v1)|[link](https://github.com/nickboucher/search-engine-attacks)|
+|**2023-04-27**|**Attacks on Robust Distributed Learning Schemes via Sensitivity Curve Maximization**|Christian A. Schroth et.al.|[2304.14024v1](http://arxiv.org/abs/2304.14024v1)|null|
+|**2023-04-27**|**You Can't Always Check What You Wanted: Selective Checking and Trusted Execution to Prevent False Actuations in Cyber-Physical Systems**|Monowar Hasan et.al.|[2304.13956v1](http://arxiv.org/abs/2304.13956v1)|null|
+|**2023-04-27**|**Optimal Transmission Switching with Uncertainties from both Renewable Energy and N-k Contingencies**|Tong Han et.al.|[2304.13944v1](http://arxiv.org/abs/2304.13944v1)|null|
+|**2023-04-27**|**Detecting inner-LAN anomalies using hierarchical forecasting**|Sevvandi Kandanaarachchi et.al.|[2304.13941v1](http://arxiv.org/abs/2304.13941v1)|null|
+|**2023-04-27**|**Bitcoin Double-Spending Attack Detection using Graph Neural Network**|Changhoon Kang et.al.|[2304.13935v1](http://arxiv.org/abs/2304.13935v1)|null|
+|**2023-04-27**|**Detection of Adversarial Physical Attacks in Time-Series Image Data**|Ramneet Kaur et.al.|[2304.13919v1](http://arxiv.org/abs/2304.13919v1)|null|
+|**2023-04-27**|**Improved Stabilizer Estimation via Bell Difference Sampling**|Sabee Grewal et.al.|[2304.13915v1](http://arxiv.org/abs/2304.13915v1)|null|
+|**2023-04-27**|**LSTM based IoT Device Identification**|Kahraman Kostas et.al.|[2304.13905v1](http://arxiv.org/abs/2304.13905v1)|[link](https://github.com/kahramankostas/lstm-based-iot-device-identification)|
+|**2023-04-27**|**CNN based IoT Device Identification**|Kahraman Kostas et.al.|[2304.13894v1](http://arxiv.org/abs/2304.13894v1)|[link](https://github.com/kahramankostas/cnn-based-iot-device-identification)|
+|**2023-04-27**|**Improving the Utility of Differentially Private Clustering through Dynamical Processing**|Junyoung Byun et.al.|[2304.13886v1](http://arxiv.org/abs/2304.13886v1)|null|
+|**2023-04-26**|**Do SSL Models Have Déjà Vu? A Case of Unintended Memorization in Self-supervised Learning**|Chuan Guo et.al.|[2304.13850v1](http://arxiv.org/abs/2304.13850v1)|[link](https://github.com/facebookresearch/dejavu)|
+|**2023-04-26**|**AI-based Predictive Analytic Approaches for safeguarding the Future of Electric/Hybrid Vehicles**|Ishan Shivansh Bangroo et.al.|[2304.13841v1](http://arxiv.org/abs/2304.13841v1)|null|
+|**2023-04-26**|**Time-Interleaving Enabled Co-propagation of QKD and Classical Channels over 100-km Fiber with 10-dBm Classical Launch Power**|Jing Wang et.al.|[2304.13828v1](http://arxiv.org/abs/2304.13828v1)|null|
+|**2023-04-26**|**Composable Security of Distributed Symmetric Key Exchange Protocol**|Jie Lin et.al.|[2304.13789v1](http://arxiv.org/abs/2304.13789v1)|null|
+|**2023-04-26**|**Security Constrained Optimal Power Shutoff**|Noah Rhodes et.al.|[2304.13778v1](http://arxiv.org/abs/2304.13778v1)|null|
+|**2023-04-26**|**Scalable, Distributed AI Frameworks: Leveraging Cloud Computing for Enhanced Deep Learning Performance and Efficiency**|Neelesh Mungoli et.al.|[2304.13738v1](http://arxiv.org/abs/2304.13738v1)|null|
+|**2023-04-26**|**Maximum Implied Variance Slope -- Practical Aspects**|Fabien Le Floc'h et.al.|[2304.13610v1](http://arxiv.org/abs/2304.13610v1)|null|
+|**2023-04-26**|**Killing Two Birds with One Stone: Quantization Achieves Privacy in Distributed Learning**|Guangfeng Yan et.al.|[2304.13545v1](http://arxiv.org/abs/2304.13545v1)|null|
+|**2023-04-26**|**Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar**|Simranjeet Singh et.al.|[2304.13531v1](http://arxiv.org/abs/2304.13531v1)|null|
+|**2023-04-26**|**Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems**|Rodothea Myrsini Tsoupidi et.al.|[2304.13458v1](http://arxiv.org/abs/2304.13458v1)|null|
+|**2023-04-26**|**Secure Communication Model For Quantum Federated Learning: A Post Quantum Cryptography (PQC) Framework**|Dev Gurung et.al.|[2304.13413v1](http://arxiv.org/abs/2304.13413v1)|[link](https://github.com/s222416822/pqc-qfl-model)|
+|**2023-04-26**|**Improving Adversarial Transferability by Intermediate-level Perturbation Decay**|Qizhang Li et.al.|[2304.13410v1](http://arxiv.org/abs/2304.13410v1)|null|
