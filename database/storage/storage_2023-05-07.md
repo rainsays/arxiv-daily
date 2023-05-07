@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-07 09:47:17 Asia/Shanghai
+ Automated deployment @ 2023-05-07 20:37:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Adversarial
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Trojan
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-04**|**A Primer on Security of Quantum Computing**|Swaroop Ghosh et.al.|[2305.02505v1](http://arxiv.org/abs/2305.02505v1)|null|
-|**2023-04-26**|**The invasion of a free floating planet and the number asymmetry of Jupiter Trojans**|Jian Li et.al.|[2304.13598v1](http://arxiv.org/abs/2304.13598v1)|null|
-|**2023-04-26**|**Multi-criteria Hardware Trojan Detection: A Reinforcement Learning Approach**|Amin Sarihi et.al.|[2304.13232v1](http://arxiv.org/abs/2304.13232v1)|null|
-|**2023-04-17**|**Evil from Within: Machine Learning Backdoors through Hardware Trojans**|Alexander Warnecke et.al.|[2304.08411v2](http://arxiv.org/abs/2304.08411v2)|null|
-|**2023-04-13**|**Neutrino signals from Neutron Star implosions to Black Holes**|Yossef Zenati et.al.|[2304.06746v1](http://arxiv.org/abs/2304.06746v1)|null|
-|**2023-04-12**|**Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators**|Hongye Xu et.al.|[2304.06017v2](http://arxiv.org/abs/2304.06017v2)|null|
-|**2023-04-02**|**Instance-level Trojan Attacks on Visual Question Answering via Adversarial Learning in Neuron Activation Space**|Yuwei Sun et.al.|[2304.00436v1](http://arxiv.org/abs/2304.00436v1)|null|
-|**2023-03-29**|**Graph Neural Networks for Hardware Vulnerability Analysis -- Can you Trust your GNN?**|Lilas Alrahis et.al.|[2303.16690v1](http://arxiv.org/abs/2303.16690v1)|null|
-|**2023-03-24**|**PoisonedGNN: Backdoor Attack on Graph Neural Networks-based Hardware Security Systems**|Lilas Alrahis et.al.|[2303.14009v1](http://arxiv.org/abs/2303.14009v1)|null|
-|**2023-03-23**|**Detecting Backdoors in Pre-trained Encoders**|Shiwei Feng et.al.|[2303.15180v1](http://arxiv.org/abs/2303.15180v1)|[link](https://github.com/giantseaweed/decree)|
-|**2023-03-21**|**STDLens: Model Hijacking-Resilient Federated Learning for Object Detection**|Ka-Ho Chow et.al.|[2303.11511v2](http://arxiv.org/abs/2303.11511v2)|[link](https://github.com/git-disl/stdlens)|
-|**2023-03-16**|**SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning**|Mengxin Zheng et.al.|[2303.09079v1](http://arxiv.org/abs/2303.09079v1)|null|
-|**2023-03-13**|**GPU-based framework for detecting small Solar System bodies in targeted exoplanet surveys**|Artem Burdanov et.al.|[2303.07293v1](http://arxiv.org/abs/2303.07293v1)|null|
-|**2023-03-10**|**Characterisation of the new target of the NASA Lucy mission: asteroid 152830 Dinkinesh (1999 VD57)**|J. de León et.al.|[2303.05918v1](http://arxiv.org/abs/2303.05918v1)|null|
-|**2023-03-10**|**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets**|Weixin Chen et.al.|[2303.05762v1](http://arxiv.org/abs/2303.05762v1)|[link](https://github.com/chenweixin107/trojdiff)|
-|**2023-03-09**|**Learning the Wrong Lessons: Inserting Trojans During Knowledge Distillation**|Leonard Tang et.al.|[2303.05593v1](http://arxiv.org/abs/2303.05593v1)|null|
-|**2023-03-05**|**Infra-Red, In-Situ (IRIS) Inspection of Silicon**|Andrew 'bunnie' Huang et.al.|[2303.07406v1](http://arxiv.org/abs/2303.07406v1)|null|
-|**2023-03-03**|**TrojText: Test-time Invisible Textual Trojan Insertion**|Yepeng Liu et.al.|[2303.02242v1](http://arxiv.org/abs/2303.02242v1)|[link](https://github.com/ucf-ml-research/trojtext)|
-|**2023-02-28**|**FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases**|Chong Fu et.al.|[2302.14500v1](http://arxiv.org/abs/2302.14500v1)|null|
-|**2023-02-22**|**Experimental Demonstration of Sequential Multiparty Quantum Secret Sharing and Quantum Conference Key Agreement**|Shuaishuai Liu et.al.|[2302.11133v1](http://arxiv.org/abs/2302.11133v1)|null|
-|**2023-02-22**|**MEGASIM: Distribution and Detection of Earth Trojan Asteroids**|Travis Yeager et.al.|[2302.11086v1](http://arxiv.org/abs/2302.11086v1)|null|
-|**2023-02-17**|**DETER: Design for Trust utilizing Rareness Reduction**|Aruna Jayasena et.al.|[2302.08984v1](http://arxiv.org/abs/2302.08984v1)|null|
-|**2023-02-17**|**Near-Ultraviolet Absorption Distribution of Primitive Asteroids from Spectrophotometric Surveys**|Eri Tatsumi et.al.|[2302.08863v1](http://arxiv.org/abs/2302.08863v1)|null|
-|**2023-02-08**|**Keck, Gemini, and Palomar 200-inch visible photometry of red and very-red Neptunian Trojans**|B. T. Bolin et.al.|[2302.04280v1](http://arxiv.org/abs/2302.04280v1)|null|
-|**2023-02-08**|**Benchmarking Interpretability Tools for Deep Neural Networks**|Stephen Casper et.al.|[2302.10894v1](http://arxiv.org/abs/2302.10894v1)|[link](https://github.com/thestephencasper/benchmarking_interpretability)|
-|**2023-02-03**|**Newtonion Quantum Gravity, WIMPs and Celestial Mechanics -- Summary of Results**|Richard Durran et.al.|[2302.01992v1](http://arxiv.org/abs/2302.01992v1)|null|
-|**2023-02-02**|**The Solar System Notification Alert Processing System (SNAPS): Design, Architecture, and First Data Release (SNAPShot1)**|David E. Trilling et.al.|[2302.01239v1](http://arxiv.org/abs/2302.01239v1)|null|
-|**2023-01-31**|**Salient Conditional Diffusion for Defending Against Backdoor Attacks**|Brandon B. May et.al.|[2301.13862v1](http://arxiv.org/abs/2301.13862v1)|null|
-|**2023-01-29**|**Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering**|Rui Zhu et.al.|[2301.12318v1](http://arxiv.org/abs/2301.12318v1)|null|
-|**2023-01-27**|**TrojanSAINT: Gate-Level Netlist Sampling-Based Inductive Learning for Hardware Trojan Detection**|Hazem Lashen et.al.|[2301.11804v1](http://arxiv.org/abs/2301.11804v1)|null|
 
 ### backdoor
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +76,40 @@
 |**2023-05-02**|**TangleSim: An Agent-based, Modular Simulator for DAG-based Distributed Ledger Technologies**|Bing-Yang Lin et.al.|[2305.01232v1](http://arxiv.org/abs/2305.01232v1)|[link](https://github.com/iotaledger/tanglesim)|
 |**2023-05-02**|**Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models**|Shuai Zhao et.al.|[2305.01219v2](http://arxiv.org/abs/2305.01219v2)|[link](https://github.com/shuaizhao95/prompt_attack)|
 |**2023-05-02**|**Mitigation of liveness attacks in DAG-based ledgers**|Darcy Camargo et.al.|[2305.01207v1](http://arxiv.org/abs/2305.01207v1)|null|
+
+### Trojan
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-04**|**A Primer on Security of Quantum Computing**|Swaroop Ghosh et.al.|[2305.02505v1](http://arxiv.org/abs/2305.02505v1)|null|
+|**2023-04-26**|**The invasion of a free floating planet and the number asymmetry of Jupiter Trojans**|Jian Li et.al.|[2304.13598v1](http://arxiv.org/abs/2304.13598v1)|null|
+|**2023-04-26**|**Multi-criteria Hardware Trojan Detection: A Reinforcement Learning Approach**|Amin Sarihi et.al.|[2304.13232v1](http://arxiv.org/abs/2304.13232v1)|null|
+|**2023-04-17**|**Evil from Within: Machine Learning Backdoors through Hardware Trojans**|Alexander Warnecke et.al.|[2304.08411v2](http://arxiv.org/abs/2304.08411v2)|null|
+|**2023-04-13**|**Neutrino signals from Neutron Star implosions to Black Holes**|Yossef Zenati et.al.|[2304.06746v1](http://arxiv.org/abs/2304.06746v1)|null|
+|**2023-04-12**|**Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators**|Hongye Xu et.al.|[2304.06017v2](http://arxiv.org/abs/2304.06017v2)|null|
+|**2023-04-02**|**Instance-level Trojan Attacks on Visual Question Answering via Adversarial Learning in Neuron Activation Space**|Yuwei Sun et.al.|[2304.00436v1](http://arxiv.org/abs/2304.00436v1)|null|
+|**2023-03-29**|**Graph Neural Networks for Hardware Vulnerability Analysis -- Can you Trust your GNN?**|Lilas Alrahis et.al.|[2303.16690v1](http://arxiv.org/abs/2303.16690v1)|null|
+|**2023-03-24**|**PoisonedGNN: Backdoor Attack on Graph Neural Networks-based Hardware Security Systems**|Lilas Alrahis et.al.|[2303.14009v1](http://arxiv.org/abs/2303.14009v1)|null|
+|**2023-03-23**|**Detecting Backdoors in Pre-trained Encoders**|Shiwei Feng et.al.|[2303.15180v1](http://arxiv.org/abs/2303.15180v1)|[link](https://github.com/giantseaweed/decree)|
+|**2023-03-21**|**STDLens: Model Hijacking-Resilient Federated Learning for Object Detection**|Ka-Ho Chow et.al.|[2303.11511v2](http://arxiv.org/abs/2303.11511v2)|[link](https://github.com/git-disl/stdlens)|
+|**2023-03-16**|**SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning**|Mengxin Zheng et.al.|[2303.09079v1](http://arxiv.org/abs/2303.09079v1)|null|
+|**2023-03-13**|**GPU-based framework for detecting small Solar System bodies in targeted exoplanet surveys**|Artem Burdanov et.al.|[2303.07293v1](http://arxiv.org/abs/2303.07293v1)|null|
+|**2023-03-10**|**Characterisation of the new target of the NASA Lucy mission: asteroid 152830 Dinkinesh (1999 VD57)**|J. de León et.al.|[2303.05918v1](http://arxiv.org/abs/2303.05918v1)|null|
+|**2023-03-10**|**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets**|Weixin Chen et.al.|[2303.05762v1](http://arxiv.org/abs/2303.05762v1)|[link](https://github.com/chenweixin107/trojdiff)|
+|**2023-03-09**|**Learning the Wrong Lessons: Inserting Trojans During Knowledge Distillation**|Leonard Tang et.al.|[2303.05593v1](http://arxiv.org/abs/2303.05593v1)|null|
+|**2023-03-05**|**Infra-Red, In-Situ (IRIS) Inspection of Silicon**|Andrew 'bunnie' Huang et.al.|[2303.07406v1](http://arxiv.org/abs/2303.07406v1)|null|
+|**2023-03-03**|**TrojText: Test-time Invisible Textual Trojan Insertion**|Yepeng Liu et.al.|[2303.02242v1](http://arxiv.org/abs/2303.02242v1)|[link](https://github.com/ucf-ml-research/trojtext)|
+|**2023-02-28**|**FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases**|Chong Fu et.al.|[2302.14500v1](http://arxiv.org/abs/2302.14500v1)|null|
+|**2023-02-22**|**Experimental Demonstration of Sequential Multiparty Quantum Secret Sharing and Quantum Conference Key Agreement**|Shuaishuai Liu et.al.|[2302.11133v1](http://arxiv.org/abs/2302.11133v1)|null|
+|**2023-02-22**|**MEGASIM: Distribution and Detection of Earth Trojan Asteroids**|Travis Yeager et.al.|[2302.11086v1](http://arxiv.org/abs/2302.11086v1)|null|
+|**2023-02-17**|**DETER: Design for Trust utilizing Rareness Reduction**|Aruna Jayasena et.al.|[2302.08984v1](http://arxiv.org/abs/2302.08984v1)|null|
+|**2023-02-17**|**Near-Ultraviolet Absorption Distribution of Primitive Asteroids from Spectrophotometric Surveys**|Eri Tatsumi et.al.|[2302.08863v1](http://arxiv.org/abs/2302.08863v1)|null|
+|**2023-02-08**|**Keck, Gemini, and Palomar 200-inch visible photometry of red and very-red Neptunian Trojans**|B. T. Bolin et.al.|[2302.04280v1](http://arxiv.org/abs/2302.04280v1)|null|
+|**2023-02-08**|**Benchmarking Interpretability Tools for Deep Neural Networks**|Stephen Casper et.al.|[2302.10894v1](http://arxiv.org/abs/2302.10894v1)|[link](https://github.com/thestephencasper/benchmarking_interpretability)|
+|**2023-02-03**|**Newtonion Quantum Gravity, WIMPs and Celestial Mechanics -- Summary of Results**|Richard Durran et.al.|[2302.01992v1](http://arxiv.org/abs/2302.01992v1)|null|
+|**2023-02-02**|**The Solar System Notification Alert Processing System (SNAPS): Design, Architecture, and First Data Release (SNAPShot1)**|David E. Trilling et.al.|[2302.01239v1](http://arxiv.org/abs/2302.01239v1)|null|
+|**2023-01-31**|**Salient Conditional Diffusion for Defending Against Backdoor Attacks**|Brandon B. May et.al.|[2301.13862v1](http://arxiv.org/abs/2301.13862v1)|null|
+|**2023-01-29**|**Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering**|Rui Zhu et.al.|[2301.12318v1](http://arxiv.org/abs/2301.12318v1)|null|
+|**2023-01-27**|**TrojanSAINT: Gate-Level Netlist Sampling-Based Inductive Learning for Hardware Trojan Detection**|Hazem Lashen et.al.|[2301.11804v1](http://arxiv.org/abs/2301.11804v1)|null|
 
 ## security
 
