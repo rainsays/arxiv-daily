@@ -1,16 +1,10 @@
-"security":
-  "Malicious": '"Malicious"'
-  "Malware": '"Malware"'
-  "Activation": '"Activation"'
-  "security": '"security"'
-  "Defense": '"Defense"'
-  
-"Adversarial":
-  "Adversarial": '"Adversarial"OR"Adversary"'
-  "Attack": '"Attack"'
-  "backdoor": '"backdoor"'
-  "Trojan": '"Trojan"'
-  
+"NIDS":
+  "NIDS": '"NIDS"OR"Intrusion Detection"'
+  "Traffic": '"network Traffic"OR"malicious traffic" '
+  "Flows": '"Flows"'
+  "Outlier": '"Outlier"'
+  "encrypted": '"encrypted"AND"traffic"'
+  "webshell": '"webshell"' 
 
 
 
