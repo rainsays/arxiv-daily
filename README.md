@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-24 15:20:03 Asia/Shanghai
+ Automated deployment @ 2023-05-24 20:41:23 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-23**|**Siamese Masked Autoencoders**|Agrim Gupta et.al.|[2305.14344v1](http://arxiv.org/abs/2305.14344v1)|null|
+|**2023-05-23**|**A model of replicating coupled oscillators generates naturally occurring cell networks**|Matthew Smart et.al.|[2305.14338v1](http://arxiv.org/abs/2305.14338v1)|null|
+|**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334v1](http://arxiv.org/abs/2305.14334v1)|null|
+|**2023-05-23**|**Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria**|Fivos Kalogiannis et.al.|[2305.14329v1](http://arxiv.org/abs/2305.14329v1)|null|
+|**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321v1](http://arxiv.org/abs/2305.14321v1)|[link](https://github.com/wwbrannon/congrat)|
+|**2023-05-23**|**A Laplacian Pyramid Based Generative H&E Stain Augmentation Network**|Fangda Li et.al.|[2305.14301v1](http://arxiv.org/abs/2305.14301v1)|[link](https://github.com/lifangda01/gsan-demo)|
+|**2023-05-23**|**Distributed CONGEST Algorithms against Mobile Adversaries**|Orr Fischer et.al.|[2305.14300v1](http://arxiv.org/abs/2305.14300v1)|null|
+|**2023-05-23**|**MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking**|En Yu et.al.|[2305.14298v1](http://arxiv.org/abs/2305.14298v1)|null|
+|**2023-05-23**|**Equivariant Neural Simulators for Stochastic Spatiotemporal Dynamics**|Koen Minartz et.al.|[2305.14286v1](http://arxiv.org/abs/2305.14286v1)|null|
+|**2023-05-23**|**Pretty good state transfer among large sets of vertices**|Ada Chan et.al.|[2305.14276v1](http://arxiv.org/abs/2305.14276v1)|null|
+|**2023-05-23**|**Fast and energy-efficient non-volatile III-V-on-silicon photonic phase shifter based on memristors**|Zhuoran Fang et.al.|[2305.14271v1](http://arxiv.org/abs/2305.14271v1)|null|
+|**2023-05-23**|**Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery**|Qingyun Wang et.al.|[2305.14259v1](http://arxiv.org/abs/2305.14259v1)|[link](https://github.com/eaglew/clbd)|
+|**2023-05-23**|**Language Models with Rationality**|Nora Kassner et.al.|[2305.14250v1](http://arxiv.org/abs/2305.14250v1)|null|
+|**2023-05-23**|**Optimal resetting strategies for search processes in heterogeneous environments**|Gregorio García-Valladares et.al.|[2305.14245v1](http://arxiv.org/abs/2305.14245v1)|null|
+|**2023-05-23**|**Training Transitive and Commutative Multimodal Transformers with LoReTTa**|Manuel Tran et.al.|[2305.14243v1](http://arxiv.org/abs/2305.14243v1)|null|
+|**2023-05-23**|**Triggering Boundary Phase Transitions through Bulk Measurements in 2D Cluster States**|Yuchen Guo et.al.|[2305.14231v1](http://arxiv.org/abs/2305.14231v1)|null|
+|**2023-05-23**|**DUBLIN -- Document Understanding By Language-Image Network**|Kriti Aggarwal et.al.|[2305.14218v1](http://arxiv.org/abs/2305.14218v1)|null|
+|**2023-05-23**|**Basis Pursuit Denoising via Recurrent Neural Network Applied to Super-resolving SAR Tomography**|Kun Qian et.al.|[2305.14209v1](http://arxiv.org/abs/2305.14209v1)|null|
+|**2023-05-23**|**Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation**|Di Wu et.al.|[2305.14189v1](http://arxiv.org/abs/2305.14189v1)|null|
+|**2023-05-23**|**The Best Defense is a Good Offense: Adversarial Augmentation against Adversarial Attacks**|Iuri Frosio et.al.|[2305.14188v1](http://arxiv.org/abs/2305.14188v1)|null|
+|**2023-05-23**|**High-Temperature Superconductor Quantum Flux Parametron for Energy-Efficient Logic**|Han Cai et.al.|[2305.14184v1](http://arxiv.org/abs/2305.14184v1)|null|
+|**2023-05-23**|**A Distributed Conductance Tester Without Global Information Collection**|Tugkan Batu et.al.|[2305.14178v1](http://arxiv.org/abs/2305.14178v1)|null|
+|**2023-05-23**|**Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**|Dongcheng Zhao et.al.|[2305.14174v1](http://arxiv.org/abs/2305.14174v1)|null|
+|**2023-05-23**|**Impact of Light and Shadow on Robustness of Deep Neural Networks**|Chengyin Hu et.al.|[2305.14165v1](http://arxiv.org/abs/2305.14165v1)|null|
+|**2023-05-23**|**Quantifying Collection Lag in European Modern and Contemporary Art Museums**|Mar Canet Solà et.al.|[2305.14159v1](http://arxiv.org/abs/2305.14159v1)|null|
+|**2023-05-23**|**Solving Stabilize-Avoid Optimal Control via Epigraph Form and Deep Reinforcement Learning**|Oswin So et.al.|[2305.14154v1](http://arxiv.org/abs/2305.14154v1)|null|
+|**2023-05-23**|**Distributing circuits over heterogeneous, modular quantum computing network architectures**|Pablo Andres-Martinez et.al.|[2305.14148v1](http://arxiv.org/abs/2305.14148v1)|null|
+|**2023-05-23**|**Accelerating FPGA-Based Wi-Fi Transceiver Design and Prototyping by High-Level Synthesis**|Thijs Havinga et.al.|[2305.13351v1](http://arxiv.org/abs/2305.13351v1)|null|
+|**2023-05-23**|**A multimodal method based on cross-attention and convolution for postoperative infection diagnosis**|Xianjie Liu et.al.|[2305.14142v1](http://arxiv.org/abs/2305.14142v1)|null|
+|**2023-05-23**|**Reparo: Loss-Resilient Generative Codec for Video Conferencing**|Tianhong Li et.al.|[2305.14135v1](http://arxiv.org/abs/2305.14135v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,37 +110,3 @@
 |**2023-05-23**|**Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph**|Kaihua Qin et.al.|[2305.14046v1](http://arxiv.org/abs/2305.14046v1)|null|
 |**2023-05-23**|**Why semantics matters: A deep study on semantic particle-filtering localization in a LiDAR semantic pole-map**|Yuming Huang et.al.|[2305.14038v1](http://arxiv.org/abs/2305.14038v1)|null|
 |**2023-05-23**|**Can Self-Supervised Neural Networks Pre-Trained on Human Speech distinguish Animal Callers?**|Eklavya Sarkar et.al.|[2305.14035v1](http://arxiv.org/abs/2305.14035v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-23**|**Siamese Masked Autoencoders**|Agrim Gupta et.al.|[2305.14344v1](http://arxiv.org/abs/2305.14344v1)|null|
-|**2023-05-23**|**A model of replicating coupled oscillators generates naturally occurring cell networks**|Matthew Smart et.al.|[2305.14338v1](http://arxiv.org/abs/2305.14338v1)|null|
-|**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334v1](http://arxiv.org/abs/2305.14334v1)|null|
-|**2023-05-23**|**Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria**|Fivos Kalogiannis et.al.|[2305.14329v1](http://arxiv.org/abs/2305.14329v1)|null|
-|**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321v1](http://arxiv.org/abs/2305.14321v1)|[link](https://github.com/wwbrannon/congrat)|
-|**2023-05-23**|**A Laplacian Pyramid Based Generative H&E Stain Augmentation Network**|Fangda Li et.al.|[2305.14301v1](http://arxiv.org/abs/2305.14301v1)|[link](https://github.com/lifangda01/gsan-demo)|
-|**2023-05-23**|**Distributed CONGEST Algorithms against Mobile Adversaries**|Orr Fischer et.al.|[2305.14300v1](http://arxiv.org/abs/2305.14300v1)|null|
-|**2023-05-23**|**MOTRv3: Release-Fetch Supervision for End-to-End Multi-Object Tracking**|En Yu et.al.|[2305.14298v1](http://arxiv.org/abs/2305.14298v1)|null|
-|**2023-05-23**|**Equivariant Neural Simulators for Stochastic Spatiotemporal Dynamics**|Koen Minartz et.al.|[2305.14286v1](http://arxiv.org/abs/2305.14286v1)|null|
-|**2023-05-23**|**Pretty good state transfer among large sets of vertices**|Ada Chan et.al.|[2305.14276v1](http://arxiv.org/abs/2305.14276v1)|null|
-|**2023-05-23**|**Fast and energy-efficient non-volatile III-V-on-silicon photonic phase shifter based on memristors**|Zhuoran Fang et.al.|[2305.14271v1](http://arxiv.org/abs/2305.14271v1)|null|
-|**2023-05-23**|**Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery**|Qingyun Wang et.al.|[2305.14259v1](http://arxiv.org/abs/2305.14259v1)|[link](https://github.com/eaglew/clbd)|
-|**2023-05-23**|**Language Models with Rationality**|Nora Kassner et.al.|[2305.14250v1](http://arxiv.org/abs/2305.14250v1)|null|
-|**2023-05-23**|**Optimal resetting strategies for search processes in heterogeneous environments**|Gregorio García-Valladares et.al.|[2305.14245v1](http://arxiv.org/abs/2305.14245v1)|null|
-|**2023-05-23**|**Training Transitive and Commutative Multimodal Transformers with LoReTTa**|Manuel Tran et.al.|[2305.14243v1](http://arxiv.org/abs/2305.14243v1)|null|
-|**2023-05-23**|**Triggering Boundary Phase Transitions through Bulk Measurements in 2D Cluster States**|Yuchen Guo et.al.|[2305.14231v1](http://arxiv.org/abs/2305.14231v1)|null|
-|**2023-05-23**|**DUBLIN -- Document Understanding By Language-Image Network**|Kriti Aggarwal et.al.|[2305.14218v1](http://arxiv.org/abs/2305.14218v1)|null|
-|**2023-05-23**|**Basis Pursuit Denoising via Recurrent Neural Network Applied to Super-resolving SAR Tomography**|Kun Qian et.al.|[2305.14209v1](http://arxiv.org/abs/2305.14209v1)|null|
-|**2023-05-23**|**Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation**|Di Wu et.al.|[2305.14189v1](http://arxiv.org/abs/2305.14189v1)|null|
-|**2023-05-23**|**The Best Defense is a Good Offense: Adversarial Augmentation against Adversarial Attacks**|Iuri Frosio et.al.|[2305.14188v1](http://arxiv.org/abs/2305.14188v1)|null|
-|**2023-05-23**|**High-Temperature Superconductor Quantum Flux Parametron for Energy-Efficient Logic**|Han Cai et.al.|[2305.14184v1](http://arxiv.org/abs/2305.14184v1)|null|
-|**2023-05-23**|**A Distributed Conductance Tester Without Global Information Collection**|Tugkan Batu et.al.|[2305.14178v1](http://arxiv.org/abs/2305.14178v1)|null|
-|**2023-05-23**|**Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**|Dongcheng Zhao et.al.|[2305.14174v1](http://arxiv.org/abs/2305.14174v1)|null|
-|**2023-05-23**|**Impact of Light and Shadow on Robustness of Deep Neural Networks**|Chengyin Hu et.al.|[2305.14165v1](http://arxiv.org/abs/2305.14165v1)|null|
-|**2023-05-23**|**Quantifying Collection Lag in European Modern and Contemporary Art Museums**|Mar Canet Solà et.al.|[2305.14159v1](http://arxiv.org/abs/2305.14159v1)|null|
-|**2023-05-23**|**Solving Stabilize-Avoid Optimal Control via Epigraph Form and Deep Reinforcement Learning**|Oswin So et.al.|[2305.14154v1](http://arxiv.org/abs/2305.14154v1)|null|
-|**2023-05-23**|**Distributing circuits over heterogeneous, modular quantum computing network architectures**|Pablo Andres-Martinez et.al.|[2305.14148v1](http://arxiv.org/abs/2305.14148v1)|null|
-|**2023-05-23**|**Accelerating FPGA-Based Wi-Fi Transceiver Design and Prototyping by High-Level Synthesis**|Thijs Havinga et.al.|[2305.13351v1](http://arxiv.org/abs/2305.13351v1)|null|
-|**2023-05-23**|**A multimodal method based on cross-attention and convolution for postoperative infection diagnosis**|Xianjie Liu et.al.|[2305.14142v1](http://arxiv.org/abs/2305.14142v1)|null|
-|**2023-05-23**|**Reparo: Loss-Resilient Generative Codec for Video Conferencing**|Tianhong Li et.al.|[2305.14135v1](http://arxiv.org/abs/2305.14135v1)|null|
