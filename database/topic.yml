@@ -1,7 +1,6 @@
 "NIDS":
   "NIDS": '"NIDS"OR"Intrusion Detection"'
   "Traffic": '"network Traffic"OR"malicious traffic" '
-  "Flows": '"Flows"'
   "Outlier": '"Outlier"'
   "encrypted": '"encrypted"AND"traffic"'
   "webshell": '"webshell"' 
