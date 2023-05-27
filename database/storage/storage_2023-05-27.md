@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-27 09:41:57 Asia/Shanghai
+ Automated deployment @ 2023-05-27 20:38:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-25**|**Energy-based Detection of Adverse Weather Effects in LiDAR Data**|Aldi Piroli et.al.|[2305.16129v1](http://arxiv.org/abs/2305.16129v1)|null|
-|**2023-05-25**|**Anomalous Sound Detection Based on Sound Separation**|Kanta Shimonishi et.al.|[2305.15859v1](http://arxiv.org/abs/2305.15859v1)|null|
-|**2023-05-24**|**Generative Modeling through the Semi-dual Formulation of Unbalanced Optimal Transport**|Jaemoo Choi et.al.|[2305.14777v1](http://arxiv.org/abs/2305.14777v1)|null|
-|**2023-05-24**|**Block Coordinate Descent on Smooth Manifolds**|Liangzu Peng et.al.|[2305.14744v1](http://arxiv.org/abs/2305.14744v1)|null|
-|**2023-05-24**|**Centering the Margins: Outlier-Based Identification of Harmed Populations in Toxicity Detection**|Vyoma Raman et.al.|[2305.14735v1](http://arxiv.org/abs/2305.14735v1)|null|
-|**2023-05-23**|**Online Open-set Semi-supervised Object Detection via Semi-supervised Outlier Filtering**|Zerun Wang et.al.|[2305.13802v1](http://arxiv.org/abs/2305.13802v1)|null|
-|**2023-05-22**|**Robust heavy-tailed versions of generalized linear models with applications in actuarial science**|Philippe Gagnon et.al.|[2305.13462v1](http://arxiv.org/abs/2305.13462v1)|null|
-|**2023-05-22**|**Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching**|Yang Liu et.al.|[2305.13310v1](http://arxiv.org/abs/2305.13310v1)|[link](https://github.com/aim-uofa/matcher)|
-|**2023-05-22**|**TSPTQ-ViT: Two-scaled post-training quantization for vision transformer**|Yu-Shan Tai et.al.|[2305.12901v1](http://arxiv.org/abs/2305.12901v1)|null|
-|**2023-05-20**|**LightESD: Fully-Automated and Lightweight Anomaly Detection Framework for Edge Computing**|Ronit Das et.al.|[2305.12266v1](http://arxiv.org/abs/2305.12266v1)|null|
-|**2023-05-20**|**A Novel Framework for Improving the Breakdown Point of Robust Regression Algorithms**|Zheyi Fan et.al.|[2305.12220v1](http://arxiv.org/abs/2305.12220v1)|null|
-|**2023-05-20**|**GFDC: A Granule Fusion Density-Based Clustering with Evidential Reasoning**|Mingjie Cai et.al.|[2305.12114v1](http://arxiv.org/abs/2305.12114v1)|null|
-|**2023-05-20**|**Technical outlier detection via convolutional variational autoencoder for the ADMANI breast mammogram dataset**|Hui Li et.al.|[2305.12068v1](http://arxiv.org/abs/2305.12068v1)|null|
-|**2023-05-19**|**Efficient and Deterministic Search Strategy Based on Residual Projections for Point Cloud Registration**|Xinyi Li et.al.|[2305.11716v1](http://arxiv.org/abs/2305.11716v1)|null|
-|**2023-05-18**|**Non-parametric cumulants approach for outlier detection of multivariate financial data**|Francesco Cesarone et.al.|[2305.10911v1](http://arxiv.org/abs/2305.10911v1)|null|
-|**2023-05-18**|**Uncertainty Quantification in Deep Neural Networks through Statistical Inference on Latent Space**|Luigi Sbailò et.al.|[2305.10840v1](http://arxiv.org/abs/2305.10840v1)|null|
-|**2023-05-17**|**Separability and Scatteredness (S&S) Ratio-Based Efficient SVM Regularization Parameter, Kernel, and Kernel Parameter Selection**|Mahdi Shamsi et.al.|[2305.10219v1](http://arxiv.org/abs/2305.10219v1)|null|
-|**2023-05-17**|**Towards Robust Probabilistic Modeling on SO(3) via Rotation Laplace Distribution**|Yingda Yin et.al.|[2305.10465v1](http://arxiv.org/abs/2305.10465v1)|null|
-|**2023-05-17**|**Time Series Clustering With Random Convolutional Kernels**|Jorge Marco-Blanco et.al.|[2305.10457v1](http://arxiv.org/abs/2305.10457v1)|null|
-|**2023-05-17**|**Incremental Outlier Detection Modelling Using Streaming Analytics in Finance & Health Care**|Ch Priyanka et.al.|[2305.09907v1](http://arxiv.org/abs/2305.09907v1)|null|
-|**2023-05-16**|**Probabilistic Distance-Based Outlier Detection**|David Muhr et.al.|[2305.09446v1](http://arxiv.org/abs/2305.09446v1)|null|
-|**2023-05-15**|**FiMReSt: Finite Mixture of Multivariate Regulated Skew-t Kernels -- A Flexible Probabilistic Model for Multi-Clustered Data with Asymmetrically-Scattered Non-Gaussian Kernels**|Sarmad Mehrdad et.al.|[2305.09071v1](http://arxiv.org/abs/2305.09071v1)|null|
-|**2023-05-15**|**Scalable and Robust Tensor Ring Decomposition for Large-scale Data**|Yicong He et.al.|[2305.09044v1](http://arxiv.org/abs/2305.09044v1)|null|
-|**2023-05-15**|**A Hybrid Semantic-Geometric Approach for Clutter-Resistant Floorplan Generation from Building Point Clouds**|Seongyong Kim et.al.|[2305.15420v1](http://arxiv.org/abs/2305.15420v1)|null|
-|**2023-05-15**|**Variability of Known Exoplanet Host Stars Observed by TESS**|Emilie R. Simpson et.al.|[2305.09687v1](http://arxiv.org/abs/2305.09687v1)|null|
-|**2023-05-14**|**A Fast and Robust Camera-IMU Online Calibration Method For Localization System**|Xiaowen Tao et.al.|[2305.08247v1](http://arxiv.org/abs/2305.08247v1)|null|
-|**2023-05-13**|**Fast robust location and scatter estimation: a depth-based method**|Maoyu Zhang et.al.|[2305.07813v1](http://arxiv.org/abs/2305.07813v1)|null|
-|**2023-05-12**|**Efficient Neural Network based Classification and Outlier Detection for Image Moderation using Compressed Sensing and Group Testing**|Sabyasachi Ghosh et.al.|[2305.07639v1](http://arxiv.org/abs/2305.07639v1)|null|
-|**2023-05-12**|**Robustness of Bayesian ordinal response model against outliers via divergence approach**|Tomotaka Momozaki et.al.|[2305.07553v1](http://arxiv.org/abs/2305.07553v1)|[link](https://github.com/t-momozaki/rborm)|
-|**2023-05-12**|**Gallery Sampling for Robust and Fast Face Identification**|Myung-cheol Roh et.al.|[2305.07495v1](http://arxiv.org/abs/2305.07495v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957v1](http://arxiv.org/abs/2305.15957v1)|null|
 |**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956v1](http://arxiv.org/abs/2305.15956v1)|[link](https://github.com/arimousa/DDAD)|
 |**2023-05-25**|**Detector induced anisotropies on the angular distribution of gravitational wave sources and opportunities of constraining horizon scale anisotropies**|Mingzheng Li et.al.|[2305.15946v1](http://arxiv.org/abs/2305.15946v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-25**|**Energy-based Detection of Adverse Weather Effects in LiDAR Data**|Aldi Piroli et.al.|[2305.16129v1](http://arxiv.org/abs/2305.16129v1)|null|
+|**2023-05-25**|**Anomalous Sound Detection Based on Sound Separation**|Kanta Shimonishi et.al.|[2305.15859v1](http://arxiv.org/abs/2305.15859v1)|null|
+|**2023-05-24**|**Generative Modeling through the Semi-dual Formulation of Unbalanced Optimal Transport**|Jaemoo Choi et.al.|[2305.14777v1](http://arxiv.org/abs/2305.14777v1)|null|
+|**2023-05-24**|**Block Coordinate Descent on Smooth Manifolds**|Liangzu Peng et.al.|[2305.14744v1](http://arxiv.org/abs/2305.14744v1)|null|
+|**2023-05-24**|**Centering the Margins: Outlier-Based Identification of Harmed Populations in Toxicity Detection**|Vyoma Raman et.al.|[2305.14735v1](http://arxiv.org/abs/2305.14735v1)|null|
+|**2023-05-23**|**Online Open-set Semi-supervised Object Detection via Semi-supervised Outlier Filtering**|Zerun Wang et.al.|[2305.13802v1](http://arxiv.org/abs/2305.13802v1)|null|
+|**2023-05-22**|**Robust heavy-tailed versions of generalized linear models with applications in actuarial science**|Philippe Gagnon et.al.|[2305.13462v1](http://arxiv.org/abs/2305.13462v1)|null|
+|**2023-05-22**|**Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching**|Yang Liu et.al.|[2305.13310v1](http://arxiv.org/abs/2305.13310v1)|[link](https://github.com/aim-uofa/matcher)|
+|**2023-05-22**|**TSPTQ-ViT: Two-scaled post-training quantization for vision transformer**|Yu-Shan Tai et.al.|[2305.12901v1](http://arxiv.org/abs/2305.12901v1)|null|
+|**2023-05-20**|**LightESD: Fully-Automated and Lightweight Anomaly Detection Framework for Edge Computing**|Ronit Das et.al.|[2305.12266v1](http://arxiv.org/abs/2305.12266v1)|null|
+|**2023-05-20**|**A Novel Framework for Improving the Breakdown Point of Robust Regression Algorithms**|Zheyi Fan et.al.|[2305.12220v1](http://arxiv.org/abs/2305.12220v1)|null|
+|**2023-05-20**|**GFDC: A Granule Fusion Density-Based Clustering with Evidential Reasoning**|Mingjie Cai et.al.|[2305.12114v1](http://arxiv.org/abs/2305.12114v1)|null|
+|**2023-05-20**|**Technical outlier detection via convolutional variational autoencoder for the ADMANI breast mammogram dataset**|Hui Li et.al.|[2305.12068v1](http://arxiv.org/abs/2305.12068v1)|null|
+|**2023-05-19**|**Efficient and Deterministic Search Strategy Based on Residual Projections for Point Cloud Registration**|Xinyi Li et.al.|[2305.11716v1](http://arxiv.org/abs/2305.11716v1)|null|
+|**2023-05-18**|**Non-parametric cumulants approach for outlier detection of multivariate financial data**|Francesco Cesarone et.al.|[2305.10911v1](http://arxiv.org/abs/2305.10911v1)|null|
+|**2023-05-18**|**Uncertainty Quantification in Deep Neural Networks through Statistical Inference on Latent Space**|Luigi Sbailò et.al.|[2305.10840v1](http://arxiv.org/abs/2305.10840v1)|null|
+|**2023-05-17**|**Separability and Scatteredness (S&S) Ratio-Based Efficient SVM Regularization Parameter, Kernel, and Kernel Parameter Selection**|Mahdi Shamsi et.al.|[2305.10219v1](http://arxiv.org/abs/2305.10219v1)|null|
+|**2023-05-17**|**Towards Robust Probabilistic Modeling on SO(3) via Rotation Laplace Distribution**|Yingda Yin et.al.|[2305.10465v1](http://arxiv.org/abs/2305.10465v1)|null|
+|**2023-05-17**|**Time Series Clustering With Random Convolutional Kernels**|Jorge Marco-Blanco et.al.|[2305.10457v1](http://arxiv.org/abs/2305.10457v1)|null|
+|**2023-05-17**|**Incremental Outlier Detection Modelling Using Streaming Analytics in Finance & Health Care**|Ch Priyanka et.al.|[2305.09907v1](http://arxiv.org/abs/2305.09907v1)|null|
+|**2023-05-16**|**Probabilistic Distance-Based Outlier Detection**|David Muhr et.al.|[2305.09446v1](http://arxiv.org/abs/2305.09446v1)|null|
+|**2023-05-15**|**FiMReSt: Finite Mixture of Multivariate Regulated Skew-t Kernels -- A Flexible Probabilistic Model for Multi-Clustered Data with Asymmetrically-Scattered Non-Gaussian Kernels**|Sarmad Mehrdad et.al.|[2305.09071v1](http://arxiv.org/abs/2305.09071v1)|null|
+|**2023-05-15**|**Scalable and Robust Tensor Ring Decomposition for Large-scale Data**|Yicong He et.al.|[2305.09044v1](http://arxiv.org/abs/2305.09044v1)|null|
+|**2023-05-15**|**A Hybrid Semantic-Geometric Approach for Clutter-Resistant Floorplan Generation from Building Point Clouds**|Seongyong Kim et.al.|[2305.15420v1](http://arxiv.org/abs/2305.15420v1)|null|
+|**2023-05-15**|**Variability of Known Exoplanet Host Stars Observed by TESS**|Emilie R. Simpson et.al.|[2305.09687v1](http://arxiv.org/abs/2305.09687v1)|null|
+|**2023-05-14**|**A Fast and Robust Camera-IMU Online Calibration Method For Localization System**|Xiaowen Tao et.al.|[2305.08247v1](http://arxiv.org/abs/2305.08247v1)|null|
+|**2023-05-13**|**Fast robust location and scatter estimation: a depth-based method**|Maoyu Zhang et.al.|[2305.07813v1](http://arxiv.org/abs/2305.07813v1)|null|
+|**2023-05-12**|**Efficient Neural Network based Classification and Outlier Detection for Image Moderation using Compressed Sensing and Group Testing**|Sabyasachi Ghosh et.al.|[2305.07639v1](http://arxiv.org/abs/2305.07639v1)|null|
+|**2023-05-12**|**Robustness of Bayesian ordinal response model against outliers via divergence approach**|Tomotaka Momozaki et.al.|[2305.07553v1](http://arxiv.org/abs/2305.07553v1)|[link](https://github.com/t-momozaki/rborm)|
+|**2023-05-12**|**Gallery Sampling for Robust and Fast Face Identification**|Myung-cheol Roh et.al.|[2305.07495v1](http://arxiv.org/abs/2305.07495v1)|null|
