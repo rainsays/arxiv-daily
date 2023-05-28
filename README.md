@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-28 09:54:46 Asia/Shanghai
+ Automated deployment @ 2023-05-28 20:37:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319v1](http://arxiv.org/abs/2305.16319v1)|null|
-|**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|[link](https://github.com/opengvlab/mutr)|
-|**2023-05-25**|**Making Vision Transformers Truly Shift-Equivariant**|Renan A. Rojas-Gomez et.al.|[2305.16316v1](http://arxiv.org/abs/2305.16316v1)|null|
-|**2023-05-25**|**NAP: Neural 3D Articulation Prior**|Jiahui Lei et.al.|[2305.16315v1](http://arxiv.org/abs/2305.16315v1)|null|
-|**2023-05-25**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng et.al.|[2305.16314v1](http://arxiv.org/abs/2305.16314v1)|null|
-|**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312v1](http://arxiv.org/abs/2305.16312v1)|null|
-|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304v1](http://arxiv.org/abs/2305.16304v1)|null|
-|**2023-05-25**|**Sharpness-Aware Minimization Leads to Low-Rank Features**|Maksym Andriushchenko et.al.|[2305.16292v1](http://arxiv.org/abs/2305.16292v1)|[link](https://github.com/tml-epfl/sam-low-rank-features)|
-|**2023-05-25**|**Phase-Based Breathing Rate Monitoring in Patient Rooms Using 6G Terahertz Technology**|Simon Haeger et.al.|[2305.16288v1](http://arxiv.org/abs/2305.16288v1)|null|
-|**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269v1](http://arxiv.org/abs/2305.16269v1)|null|
-|**2023-05-25**|**Understanding Idea Creation in Collaborative Discourse through Networks: The Joint Attention-Interaction-Creation (AIC) Framework**|Xinran Zhu et.al.|[2305.16262v1](http://arxiv.org/abs/2305.16262v1)|null|
-|**2023-05-25**|**Neural Natural Language Processing for Long Texts: A Survey of the State-of-the-Art**|Dimitrios Tsirmpas et.al.|[2305.16259v1](http://arxiv.org/abs/2305.16259v1)|null|
-|**2023-05-25**|**Hate Raids on Twitch: Understanding Real-Time Human-Bot Coordinated Attacks in Live Streaming Communities**|Jie Cai et.al.|[2305.16248v1](http://arxiv.org/abs/2305.16248v1)|null|
-|**2023-05-25**|**Spectroscopic survey of faint planetary-nebula nuclei. II. The subdwarf O central star of Fr 2-30**|Howard E. Bond et.al.|[2305.16247v1](http://arxiv.org/abs/2305.16247v1)|null|
-|**2023-05-25**|**Incomplete Multimodal Learning for Complex Brain Disorders Prediction**|Reza Shirkavand et.al.|[2305.16222v1](http://arxiv.org/abs/2305.16222v1)|null|
-|**2023-05-25**|**Cross-supervised Dual Classifiers for Semi-supervised Medical Image Segmentation**|Zhenxi Zhang et.al.|[2305.16216v1](http://arxiv.org/abs/2305.16216v1)|null|
-|**2023-05-25**|**Large Reconfigurable Quantum Circuits with SPAD Arrays and Multimode Fibers**|Adrian Makowski et.al.|[2305.16206v1](http://arxiv.org/abs/2305.16206v1)|null|
-|**2023-05-25**|**DP-SGD Without Clipping: The Lipschitz Neural Network Way**|Louis Bethune et.al.|[2305.16202v1](http://arxiv.org/abs/2305.16202v1)|null|
-|**2023-05-25**|**Optimization and Interpretability of Graph Attention Networks for Small Sparse Graph Structures in Automotive Applications**|Marion Neumeier et.al.|[2305.16196v1](http://arxiv.org/abs/2305.16196v1)|null|
-|**2023-05-25**|**Dropout Drops Double Descent**|Tian-Le Yang et.al.|[2305.16179v1](http://arxiv.org/abs/2305.16179v1)|null|
-|**2023-05-25**|**From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**|Claudio Battiloro et.al.|[2305.16174v1](http://arxiv.org/abs/2305.16174v1)|null|
-|**2023-05-25**|**Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration**|Blaise Delattre et.al.|[2305.16173v1](http://arxiv.org/abs/2305.16173v1)|null|
-|**2023-05-25**|**Masked and Permuted Implicit Context Learning for Scene Text Recognition**|Xiaomeng Yang et.al.|[2305.16172v1](http://arxiv.org/abs/2305.16172v1)|null|
-|**2023-05-25**|**Feature Collapse**|Thomas Laurent et.al.|[2305.16162v1](http://arxiv.org/abs/2305.16162v1)|[link](https://github.com/xbresson/feature_collapse)|
-|**2023-05-25**|**Unifying GANs and Score-Based Diffusion as Generative Particle Models**|Jean-Yves Franceschi et.al.|[2305.16150v1](http://arxiv.org/abs/2305.16150v1)|[link](https://github.com/white-link/gpm)|
-|**2023-05-25**|**Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement**|Jiawei Qin et.al.|[2305.16140v1](http://arxiv.org/abs/2305.16140v1)|null|
-|**2023-05-25**|**OVO: Open-Vocabulary Occupancy**|Zhiyu Tan et.al.|[2305.16133v1](http://arxiv.org/abs/2305.16133v1)|null|
-|**2023-05-25**|**Language Models Implement Simple Word2Vec-style Vector Arithmetic**|Jack Merullo et.al.|[2305.16130v1](http://arxiv.org/abs/2305.16130v1)|[link](https://github.com/jmerullo/lm_vector_arithmetic)|
-|**2023-05-25**|**Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning**|Hongzuo Xu et.al.|[2305.16114v1](http://arxiv.org/abs/2305.16114v1)|[link](https://github.com/xuhongzuo/scale-learning)|
-|**2023-05-25**|**Classifying Rhoticity of /r/ in Speech Sound Disorder using Age-and-Sex Normalized Formants**|Nina R Benway et.al.|[2305.16111v1](http://arxiv.org/abs/2305.16111v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957v1](http://arxiv.org/abs/2305.15957v1)|null|
 |**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956v1](http://arxiv.org/abs/2305.15956v1)|[link](https://github.com/arimousa/DDAD)|
 |**2023-05-25**|**Detector induced anisotropies on the angular distribution of gravitational wave sources and opportunities of constraining horizon scale anisotropies**|Mingzheng Li et.al.|[2305.15946v1](http://arxiv.org/abs/2305.15946v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319v1](http://arxiv.org/abs/2305.16319v1)|null|
+|**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|[link](https://github.com/opengvlab/mutr)|
+|**2023-05-25**|**Making Vision Transformers Truly Shift-Equivariant**|Renan A. Rojas-Gomez et.al.|[2305.16316v1](http://arxiv.org/abs/2305.16316v1)|null|
+|**2023-05-25**|**NAP: Neural 3D Articulation Prior**|Jiahui Lei et.al.|[2305.16315v1](http://arxiv.org/abs/2305.16315v1)|null|
+|**2023-05-25**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng et.al.|[2305.16314v1](http://arxiv.org/abs/2305.16314v1)|null|
+|**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312v1](http://arxiv.org/abs/2305.16312v1)|null|
+|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304v1](http://arxiv.org/abs/2305.16304v1)|null|
+|**2023-05-25**|**Sharpness-Aware Minimization Leads to Low-Rank Features**|Maksym Andriushchenko et.al.|[2305.16292v1](http://arxiv.org/abs/2305.16292v1)|[link](https://github.com/tml-epfl/sam-low-rank-features)|
+|**2023-05-25**|**Phase-Based Breathing Rate Monitoring in Patient Rooms Using 6G Terahertz Technology**|Simon Haeger et.al.|[2305.16288v1](http://arxiv.org/abs/2305.16288v1)|null|
+|**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269v1](http://arxiv.org/abs/2305.16269v1)|null|
+|**2023-05-25**|**Understanding Idea Creation in Collaborative Discourse through Networks: The Joint Attention-Interaction-Creation (AIC) Framework**|Xinran Zhu et.al.|[2305.16262v1](http://arxiv.org/abs/2305.16262v1)|null|
+|**2023-05-25**|**Neural Natural Language Processing for Long Texts: A Survey of the State-of-the-Art**|Dimitrios Tsirmpas et.al.|[2305.16259v1](http://arxiv.org/abs/2305.16259v1)|null|
+|**2023-05-25**|**Hate Raids on Twitch: Understanding Real-Time Human-Bot Coordinated Attacks in Live Streaming Communities**|Jie Cai et.al.|[2305.16248v1](http://arxiv.org/abs/2305.16248v1)|null|
+|**2023-05-25**|**Spectroscopic survey of faint planetary-nebula nuclei. II. The subdwarf O central star of Fr 2-30**|Howard E. Bond et.al.|[2305.16247v1](http://arxiv.org/abs/2305.16247v1)|null|
+|**2023-05-25**|**Incomplete Multimodal Learning for Complex Brain Disorders Prediction**|Reza Shirkavand et.al.|[2305.16222v1](http://arxiv.org/abs/2305.16222v1)|null|
+|**2023-05-25**|**Cross-supervised Dual Classifiers for Semi-supervised Medical Image Segmentation**|Zhenxi Zhang et.al.|[2305.16216v1](http://arxiv.org/abs/2305.16216v1)|null|
+|**2023-05-25**|**Large Reconfigurable Quantum Circuits with SPAD Arrays and Multimode Fibers**|Adrian Makowski et.al.|[2305.16206v1](http://arxiv.org/abs/2305.16206v1)|null|
+|**2023-05-25**|**DP-SGD Without Clipping: The Lipschitz Neural Network Way**|Louis Bethune et.al.|[2305.16202v1](http://arxiv.org/abs/2305.16202v1)|null|
+|**2023-05-25**|**Optimization and Interpretability of Graph Attention Networks for Small Sparse Graph Structures in Automotive Applications**|Marion Neumeier et.al.|[2305.16196v1](http://arxiv.org/abs/2305.16196v1)|null|
+|**2023-05-25**|**Dropout Drops Double Descent**|Tian-Le Yang et.al.|[2305.16179v1](http://arxiv.org/abs/2305.16179v1)|null|
+|**2023-05-25**|**From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**|Claudio Battiloro et.al.|[2305.16174v1](http://arxiv.org/abs/2305.16174v1)|null|
+|**2023-05-25**|**Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration**|Blaise Delattre et.al.|[2305.16173v1](http://arxiv.org/abs/2305.16173v1)|null|
+|**2023-05-25**|**Masked and Permuted Implicit Context Learning for Scene Text Recognition**|Xiaomeng Yang et.al.|[2305.16172v1](http://arxiv.org/abs/2305.16172v1)|null|
+|**2023-05-25**|**Feature Collapse**|Thomas Laurent et.al.|[2305.16162v1](http://arxiv.org/abs/2305.16162v1)|[link](https://github.com/xbresson/feature_collapse)|
+|**2023-05-25**|**Unifying GANs and Score-Based Diffusion as Generative Particle Models**|Jean-Yves Franceschi et.al.|[2305.16150v1](http://arxiv.org/abs/2305.16150v1)|[link](https://github.com/white-link/gpm)|
+|**2023-05-25**|**Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement**|Jiawei Qin et.al.|[2305.16140v1](http://arxiv.org/abs/2305.16140v1)|null|
+|**2023-05-25**|**OVO: Open-Vocabulary Occupancy**|Zhiyu Tan et.al.|[2305.16133v1](http://arxiv.org/abs/2305.16133v1)|null|
+|**2023-05-25**|**Language Models Implement Simple Word2Vec-style Vector Arithmetic**|Jack Merullo et.al.|[2305.16130v1](http://arxiv.org/abs/2305.16130v1)|[link](https://github.com/jmerullo/lm_vector_arithmetic)|
+|**2023-05-25**|**Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning**|Hongzuo Xu et.al.|[2305.16114v1](http://arxiv.org/abs/2305.16114v1)|[link](https://github.com/xuhongzuo/scale-learning)|
+|**2023-05-25**|**Classifying Rhoticity of /r/ in Speech Sound Disorder using Age-and-Sex Normalized Formants**|Nina R Benway et.al.|[2305.16111v1](http://arxiv.org/abs/2305.16111v1)|null|
