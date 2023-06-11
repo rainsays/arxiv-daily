@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-11 10:14:14 Asia/Shanghai
+ Automated deployment @ 2023-06-11 20:38:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,40 +43,6 @@
 |**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|null|
 |**2023-06-08**|**A review of UAV Visual Detection and Tracking Methods**|Raed Abu Zitar et.al.|[2306.05089v1](http://arxiv.org/abs/2306.05089v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-07**|**Robust-DefReg: A Robust Deformable Point Cloud Registration Method based on Graph Convolutional Neural Networks**|Sara Monji-Azad et.al.|[2306.04701v1](http://arxiv.org/abs/2306.04701v1)|null|
-|**2023-06-07**|**Classifying IGR J15038-6021 as a magnetic CV with a massive white dwarf**|John A. Tomsick et.al.|[2306.04691v1](http://arxiv.org/abs/2306.04691v1)|null|
-|**2023-06-07**|**Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal**|Anastasiia Sedova et.al.|[2306.04502v1](http://arxiv.org/abs/2306.04502v1)|null|
-|**2023-06-06**|**Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability**|Jianing Zhu et.al.|[2306.03715v1](http://arxiv.org/abs/2306.03715v1)|[link](https://github.com/tmlr-group/unleashing-mask)|
-|**2023-06-06**|**DEK-Forecaster: A Novel Deep Learning Model Integrated with EMD-KNN for Traffic Prediction**|Sajal Saha et.al.|[2306.03412v1](http://arxiv.org/abs/2306.03412v1)|null|
-|**2023-06-06**|**A Robust Likelihood Model for Novelty Detection**|Ranya Almohsen et.al.|[2306.03331v1](http://arxiv.org/abs/2306.03331v1)|null|
-|**2023-06-05**|**Stragglers of the thick disc**|Valeria Cerqui et.al.|[2306.03126v1](http://arxiv.org/abs/2306.03126v1)|[link](https://github.com/henrysky/astroNN)|
-|**2023-06-05**|**SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression**|Tim Dettmers et.al.|[2306.03078v1](http://arxiv.org/abs/2306.03078v1)|[link](https://github.com/vahe1994/spqr)|
-|**2023-06-05**|**A GALEX view of the DA White Dwarf Population**|Renae E. Wall et.al.|[2306.03063v1](http://arxiv.org/abs/2306.03063v1)|null|
-|**2023-06-04**|**The Cosmos in its Infancy: JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N**|Kevin N. Hainline et.al.|[2306.02468v1](http://arxiv.org/abs/2306.02468v1)|null|
-|**2023-06-04**|**OWQ: Lessons learned from activation outliers for weight quantization in large language models**|Changhun Lee et.al.|[2306.02272v1](http://arxiv.org/abs/2306.02272v1)|null|
-|**2023-06-03**|**Hierarchical Multiresolution Feature- and Prior-based Graphs for Classification**|Faezeh Fallah et.al.|[2306.02143v1](http://arxiv.org/abs/2306.02143v1)|null|
-|**2023-06-03**|**DOS: Diverse Outlier Sampling for Out-of-Distribution Detection**|Wenyu Jiang et.al.|[2306.02031v1](http://arxiv.org/abs/2306.02031v1)|null|
-|**2023-06-03**|**Exploring Global and Local Information for Anomaly Detection with Normal Samples**|Fan Xu et.al.|[2306.02025v1](http://arxiv.org/abs/2306.02025v1)|null|
-|**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena et.al.|[2306.01923v1](http://arxiv.org/abs/2306.01923v1)|null|
-|**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974v2](http://arxiv.org/abs/2306.00974v2)|[link](https://github.com/qihao067/sage)|
-|**2023-06-01**|**New and improved software for data processing at HartRAO**|Pfesesani V. van Zyl et.al.|[2306.00764v1](http://arxiv.org/abs/2306.00764v1)|null|
-|**2023-06-01**|**Robust T-Loss for Medical Image Segmentation**|Alvaro Gonzalez-Jimenez et.al.|[2306.00753v1](http://arxiv.org/abs/2306.00753v1)|null|
-|**2023-06-01**|**Robust covariance estimation with missing values and cell-wise contamination**|Karim Lounici et.al.|[2306.00752v1](http://arxiv.org/abs/2306.00752v1)|[link](https://github.com/gregoirepacreau/missing-values-experiments)|
-|**2023-06-01**|**Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity**|Katharina Hämmerl et.al.|[2306.00458v2](http://arxiv.org/abs/2306.00458v2)|[link](https://github.com/kathyhaem/outliers)|
-|**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044v1](http://arxiv.org/abs/2305.20044v1)|null|
-|**2023-05-31**|**Forecasting high-dimensional functional time series: Application to sub-national age-specific mortality**|Cristian F. Jiménez-Varón et.al.|[2305.19749v1](http://arxiv.org/abs/2305.19749v1)|null|
-|**2023-05-31**|**Unbalanced Low-rank Optimal Transport Solvers**|Meyer Scetbon et.al.|[2305.19727v1](http://arxiv.org/abs/2305.19727v1)|null|
-|**2023-05-31**|**DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model**|Zhixian Wang et.al.|[2306.01001v1](http://arxiv.org/abs/2306.01001v1)|null|
-|**2023-05-31**|**Self-Replicating Hierarchical Structures Emerge in a Binary Cellular Automaton**|Bo Yang et.al.|[2305.19504v1](http://arxiv.org/abs/2305.19504v1)|null|
-|**2023-05-30**|**Stable Anisotropic Regularization**|William Rudman et.al.|[2305.19358v1](http://arxiv.org/abs/2305.19358v1)|null|
-|**2023-05-30**|**The Merian Survey: Design, Construction, and Characterization of a Filter Set Optimized to Find Dwarf Galaxies and Measure their Dark Matter Halo Properties with Weak Lensing**|Yifei Luo et.al.|[2305.19310v1](http://arxiv.org/abs/2305.19310v1)|null|
-|**2023-05-30**|**Intriguing Properties of Quantization at Scale**|Arash Ahmadian et.al.|[2305.19268v1](http://arxiv.org/abs/2305.19268v1)|null|
-|**2023-05-30**|**AMatFormer: Efficient Feature Matching via Anchor Matching Transformer**|Bo Jiang et.al.|[2305.19205v1](http://arxiv.org/abs/2305.19205v1)|null|
-|**2023-05-30**|**Identifying the Complete Correlation Structure in Large-Scale High-Dimensional Data Sets with Local False Discovery Rates**|Martin Gölz et.al.|[2305.19121v2](http://arxiv.org/abs/2305.19121v2)|null|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -110,3 +76,37 @@
 |**2023-06-08**|**Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition**|Bo Jiang et.al.|[2306.05239v1](http://arxiv.org/abs/2306.05239v1)|null|
 |**2023-06-08**|**Solitons induced by an in-plane magnetic field in rhombohedral multilayer graphene**|Max Tymczyszyn et.al.|[2306.05237v1](http://arxiv.org/abs/2306.05237v1)|null|
 |**2023-06-08**|**Population-Based Evolutionary Gaming for Unsupervised Person Re-identification**|Yunpeng Zhai et.al.|[2306.05236v1](http://arxiv.org/abs/2306.05236v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-07**|**Robust-DefReg: A Robust Deformable Point Cloud Registration Method based on Graph Convolutional Neural Networks**|Sara Monji-Azad et.al.|[2306.04701v1](http://arxiv.org/abs/2306.04701v1)|null|
+|**2023-06-07**|**Classifying IGR J15038-6021 as a magnetic CV with a massive white dwarf**|John A. Tomsick et.al.|[2306.04691v1](http://arxiv.org/abs/2306.04691v1)|null|
+|**2023-06-07**|**Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal**|Anastasiia Sedova et.al.|[2306.04502v1](http://arxiv.org/abs/2306.04502v1)|null|
+|**2023-06-06**|**Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability**|Jianing Zhu et.al.|[2306.03715v1](http://arxiv.org/abs/2306.03715v1)|[link](https://github.com/tmlr-group/unleashing-mask)|
+|**2023-06-06**|**DEK-Forecaster: A Novel Deep Learning Model Integrated with EMD-KNN for Traffic Prediction**|Sajal Saha et.al.|[2306.03412v1](http://arxiv.org/abs/2306.03412v1)|null|
+|**2023-06-06**|**A Robust Likelihood Model for Novelty Detection**|Ranya Almohsen et.al.|[2306.03331v1](http://arxiv.org/abs/2306.03331v1)|null|
+|**2023-06-05**|**Stragglers of the thick disc**|Valeria Cerqui et.al.|[2306.03126v1](http://arxiv.org/abs/2306.03126v1)|[link](https://github.com/henrysky/astroNN)|
+|**2023-06-05**|**SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression**|Tim Dettmers et.al.|[2306.03078v1](http://arxiv.org/abs/2306.03078v1)|[link](https://github.com/vahe1994/spqr)|
+|**2023-06-05**|**A GALEX view of the DA White Dwarf Population**|Renae E. Wall et.al.|[2306.03063v1](http://arxiv.org/abs/2306.03063v1)|null|
+|**2023-06-04**|**The Cosmos in its Infancy: JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N**|Kevin N. Hainline et.al.|[2306.02468v1](http://arxiv.org/abs/2306.02468v1)|null|
+|**2023-06-04**|**OWQ: Lessons learned from activation outliers for weight quantization in large language models**|Changhun Lee et.al.|[2306.02272v1](http://arxiv.org/abs/2306.02272v1)|null|
+|**2023-06-03**|**Hierarchical Multiresolution Feature- and Prior-based Graphs for Classification**|Faezeh Fallah et.al.|[2306.02143v1](http://arxiv.org/abs/2306.02143v1)|null|
+|**2023-06-03**|**DOS: Diverse Outlier Sampling for Out-of-Distribution Detection**|Wenyu Jiang et.al.|[2306.02031v1](http://arxiv.org/abs/2306.02031v1)|null|
+|**2023-06-03**|**Exploring Global and Local Information for Anomaly Detection with Normal Samples**|Fan Xu et.al.|[2306.02025v1](http://arxiv.org/abs/2306.02025v1)|null|
+|**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena et.al.|[2306.01923v1](http://arxiv.org/abs/2306.01923v1)|null|
+|**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974v2](http://arxiv.org/abs/2306.00974v2)|[link](https://github.com/qihao067/sage)|
+|**2023-06-01**|**New and improved software for data processing at HartRAO**|Pfesesani V. van Zyl et.al.|[2306.00764v1](http://arxiv.org/abs/2306.00764v1)|null|
+|**2023-06-01**|**Robust T-Loss for Medical Image Segmentation**|Alvaro Gonzalez-Jimenez et.al.|[2306.00753v1](http://arxiv.org/abs/2306.00753v1)|null|
+|**2023-06-01**|**Robust covariance estimation with missing values and cell-wise contamination**|Karim Lounici et.al.|[2306.00752v1](http://arxiv.org/abs/2306.00752v1)|[link](https://github.com/gregoirepacreau/missing-values-experiments)|
+|**2023-06-01**|**Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity**|Katharina Hämmerl et.al.|[2306.00458v2](http://arxiv.org/abs/2306.00458v2)|[link](https://github.com/kathyhaem/outliers)|
+|**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044v1](http://arxiv.org/abs/2305.20044v1)|null|
+|**2023-05-31**|**Forecasting high-dimensional functional time series: Application to sub-national age-specific mortality**|Cristian F. Jiménez-Varón et.al.|[2305.19749v1](http://arxiv.org/abs/2305.19749v1)|null|
+|**2023-05-31**|**Unbalanced Low-rank Optimal Transport Solvers**|Meyer Scetbon et.al.|[2305.19727v1](http://arxiv.org/abs/2305.19727v1)|null|
+|**2023-05-31**|**DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model**|Zhixian Wang et.al.|[2306.01001v1](http://arxiv.org/abs/2306.01001v1)|null|
+|**2023-05-31**|**Self-Replicating Hierarchical Structures Emerge in a Binary Cellular Automaton**|Bo Yang et.al.|[2305.19504v1](http://arxiv.org/abs/2305.19504v1)|null|
+|**2023-05-30**|**Stable Anisotropic Regularization**|William Rudman et.al.|[2305.19358v1](http://arxiv.org/abs/2305.19358v1)|null|
+|**2023-05-30**|**The Merian Survey: Design, Construction, and Characterization of a Filter Set Optimized to Find Dwarf Galaxies and Measure their Dark Matter Halo Properties with Weak Lensing**|Yifei Luo et.al.|[2305.19310v1](http://arxiv.org/abs/2305.19310v1)|null|
+|**2023-05-30**|**Intriguing Properties of Quantization at Scale**|Arash Ahmadian et.al.|[2305.19268v1](http://arxiv.org/abs/2305.19268v1)|null|
+|**2023-05-30**|**AMatFormer: Efficient Feature Matching via Anchor Matching Transformer**|Bo Jiang et.al.|[2305.19205v1](http://arxiv.org/abs/2305.19205v1)|null|
+|**2023-05-30**|**Identifying the Complete Correlation Structure in Large-Scale High-Dimensional Data Sets with Local False Discovery Rates**|Martin Gölz et.al.|[2305.19121v2](http://arxiv.org/abs/2305.19121v2)|null|
