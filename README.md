@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-15 09:50:34 Asia/Shanghai
+ Automated deployment @ 2023-06-15 20:41:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,6 +43,40 @@
 |**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena et.al.|[2306.01923v1](http://arxiv.org/abs/2306.01923v1)|null|
 |**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974v2](http://arxiv.org/abs/2306.00974v2)|[link](https://github.com/qihao067/sage)|
 
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959v1](http://arxiv.org/abs/2306.07959v1)|null|
+|**2023-06-13**|**Topological Data Analysis for Directed Dependence Networks of Multivariate Time Series Data**|Anass B. El-Yaagoubi et.al.|[2306.07912v1](http://arxiv.org/abs/2306.07912v1)|null|
+|**2023-06-13**|**Linear Polycatenanes from Kinetoplast Edge Loops**|Josh Ragotskie et.al.|[2306.07907v1](http://arxiv.org/abs/2306.07907v1)|null|
+|**2023-06-13**|**Expanding the Scope of DAWN: A Novel Version for Weighted Shortest Path Problem**|Yelai Feng et.al.|[2306.07872v1](http://arxiv.org/abs/2306.07872v1)|null|
+|**2023-06-13**|**Modeling the performance and bandwidth of adiabatic quantum memories**|Takla Nateeboon et.al.|[2306.07855v1](http://arxiv.org/abs/2306.07855v1)|null|
+|**2023-06-13**|**Adversarial Capsule Networks for Romanian Satire Detection and Sentiment Analysis**|Sebastian-Vasile Echim et.al.|[2306.07845v1](http://arxiv.org/abs/2306.07845v1)|null|
+|**2023-06-13**|**Network-based kinetic models: Emergence of a statistical description of the graph topology**|Marco Nurisso et.al.|[2306.07843v1](http://arxiv.org/abs/2306.07843v1)|null|
+|**2023-06-13**|**PSSTRNet: Progressive Segmentation-guided Scene Text Removal Network**|Guangtao Lyu et.al.|[2306.07842v1](http://arxiv.org/abs/2306.07842v1)|[link](https://github.com/guangtaolyu/psstrnet)|
+|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v1](http://arxiv.org/abs/2306.07835v1)|[link](https://github.com/janmarcelkezmann/metadetect3d)|
+|**2023-06-13**|**The main role of fractal-like nature of conformational space in subdiffusion in protein**|Luca Maggi et.al.|[2306.07825v1](http://arxiv.org/abs/2306.07825v1)|null|
+|**2023-06-13**|**Inferring dynamic regulatory interaction graphs from time series data with perturbations**|Dhananjay Bhaskar et.al.|[2306.07803v1](http://arxiv.org/abs/2306.07803v1)|null|
+|**2023-06-13**|**Finite Gaussian Neurons: Defending against adversarial attacks by making neural networks say "I don't know"**|Felix Grezes et.al.|[2306.07796v1](http://arxiv.org/abs/2306.07796v1)|[link](https://github.com/grezesf/fgn---research)|
+|**2023-06-13**|**Quantum coherent feedback control of an N-level atom with multiple excitations**|Haijin Ding et.al.|[2306.07787v1](http://arxiv.org/abs/2306.07787v1)|null|
+|**2023-06-13**|**A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews**|Robert Lakatos et.al.|[2306.07786v1](http://arxiv.org/abs/2306.07786v1)|null|
+|**2023-06-13**|**NetGAP: A Graph-Grammar approach for concept design of networked platforms with extra-functional requirements**|Rodrigo Saar de Moraes et.al.|[2306.07778v1](http://arxiv.org/abs/2306.07778v1)|null|
+|**2023-06-13**|**The effect of screening on the relaxation dynamics in the Coulomb glass**|Preeti Bhandari et.al.|[2306.07771v1](http://arxiv.org/abs/2306.07771v1)|null|
+|**2023-06-13**|**Area is all you need: repeatable elements make stronger adversarial attacks**|Dillon Niederhut et.al.|[2306.07768v1](http://arxiv.org/abs/2306.07768v1)|null|
+|**2023-06-13**|**Multi-Target Localization in Multi-Static Integrated Sensing and Communication Deployments**|Maximilian Bauhofer et.al.|[2306.07740v1](http://arxiv.org/abs/2306.07740v1)|null|
+|**2023-06-13**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
+|**2023-06-13**|**An Inverse Approach to Windows' Resource-Based Permission Mechanism for Access Permission Vulnerability Detection**|Hakan Temiz et.al.|[2306.07734v1](http://arxiv.org/abs/2306.07734v1)|null|
+|**2023-06-13**|**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**|Valentin Bieri et.al.|[2306.07730v1](http://arxiv.org/abs/2306.07730v1)|null|
+|**2023-06-13**|**Amplitude-assisted tagging of longitudinally polarised bosons using wide neural networks**|Michele Grossi et.al.|[2306.07726v1](http://arxiv.org/abs/2306.07726v1)|null|
+|**2023-06-13**|**Effects of Data Enrichment with Image Transformations on the Performance of Deep Networks**|Hakan Temiz et.al.|[2306.07724v1](http://arxiv.org/abs/2306.07724v1)|null|
+|**2023-06-13**|**Dynamically Masked Discriminator for Generative Adversarial Networks**|Wentian Zhang et.al.|[2306.07716v1](http://arxiv.org/abs/2306.07716v1)|null|
+|**2023-06-13**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712v1](http://arxiv.org/abs/2306.07712v1)|null|
+|**2023-06-13**|**Just a Second -- Scheduling Thousands of Time-Triggered Streams in Large-Scale Networks**|Heiko Geppert et.al.|[2306.07710v1](http://arxiv.org/abs/2306.07710v1)|null|
+|**2023-06-13**|**Incentive-Compatible Selection for One or Two Influentials**|Yuxin Zhao et.al.|[2306.07707v1](http://arxiv.org/abs/2306.07707v1)|null|
+|**2023-06-13**|**Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs**|Haozhen Zhang et.al.|[2306.07699v1](http://arxiv.org/abs/2306.07699v1)|null|
+|**2023-06-13**|**Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings**|Evangelos Bitsikas et.al.|[2306.07695v1](http://arxiv.org/abs/2306.07695v1)|[link](https://github.com/vaggelis-sudo/sms-location-identification-attack)|
+|**2023-06-13**|**Few-shot Multi-domain Knowledge Rearming for Context-aware Defence against Advanced Persistent Threats**|Gaolei Li et.al.|[2306.07685v1](http://arxiv.org/abs/2306.07685v1)|null|
+
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -76,37 +110,3 @@
 |**2023-06-13**|**Intrusion Detection: A Deep Learning Approach**|Ishaan Shivhare et.al.|[2306.07601v1](http://arxiv.org/abs/2306.07601v1)|null|
 |**2023-06-13**|**Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images**|Panwang Pan et.al.|[2306.07598v1](http://arxiv.org/abs/2306.07598v1)|null|
 |**2023-06-13**|**Prospects of Single-Cell NMR Spectroscopy with Quantum Sensors**|Nick Ruben Neuling et.al.|[2306.07593v1](http://arxiv.org/abs/2306.07593v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959v1](http://arxiv.org/abs/2306.07959v1)|null|
-|**2023-06-13**|**Topological Data Analysis for Directed Dependence Networks of Multivariate Time Series Data**|Anass B. El-Yaagoubi et.al.|[2306.07912v1](http://arxiv.org/abs/2306.07912v1)|null|
-|**2023-06-13**|**Linear Polycatenanes from Kinetoplast Edge Loops**|Josh Ragotskie et.al.|[2306.07907v1](http://arxiv.org/abs/2306.07907v1)|null|
-|**2023-06-13**|**Expanding the Scope of DAWN: A Novel Version for Weighted Shortest Path Problem**|Yelai Feng et.al.|[2306.07872v1](http://arxiv.org/abs/2306.07872v1)|null|
-|**2023-06-13**|**Modeling the performance and bandwidth of adiabatic quantum memories**|Takla Nateeboon et.al.|[2306.07855v1](http://arxiv.org/abs/2306.07855v1)|null|
-|**2023-06-13**|**Adversarial Capsule Networks for Romanian Satire Detection and Sentiment Analysis**|Sebastian-Vasile Echim et.al.|[2306.07845v1](http://arxiv.org/abs/2306.07845v1)|null|
-|**2023-06-13**|**Network-based kinetic models: Emergence of a statistical description of the graph topology**|Marco Nurisso et.al.|[2306.07843v1](http://arxiv.org/abs/2306.07843v1)|null|
-|**2023-06-13**|**PSSTRNet: Progressive Segmentation-guided Scene Text Removal Network**|Guangtao Lyu et.al.|[2306.07842v1](http://arxiv.org/abs/2306.07842v1)|[link](https://github.com/guangtaolyu/psstrnet)|
-|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v1](http://arxiv.org/abs/2306.07835v1)|[link](https://github.com/janmarcelkezmann/metadetect3d)|
-|**2023-06-13**|**The main role of fractal-like nature of conformational space in subdiffusion in protein**|Luca Maggi et.al.|[2306.07825v1](http://arxiv.org/abs/2306.07825v1)|null|
-|**2023-06-13**|**Inferring dynamic regulatory interaction graphs from time series data with perturbations**|Dhananjay Bhaskar et.al.|[2306.07803v1](http://arxiv.org/abs/2306.07803v1)|null|
-|**2023-06-13**|**Finite Gaussian Neurons: Defending against adversarial attacks by making neural networks say "I don't know"**|Felix Grezes et.al.|[2306.07796v1](http://arxiv.org/abs/2306.07796v1)|[link](https://github.com/grezesf/fgn---research)|
-|**2023-06-13**|**Quantum coherent feedback control of an N-level atom with multiple excitations**|Haijin Ding et.al.|[2306.07787v1](http://arxiv.org/abs/2306.07787v1)|null|
-|**2023-06-13**|**A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews**|Robert Lakatos et.al.|[2306.07786v1](http://arxiv.org/abs/2306.07786v1)|null|
-|**2023-06-13**|**NetGAP: A Graph-Grammar approach for concept design of networked platforms with extra-functional requirements**|Rodrigo Saar de Moraes et.al.|[2306.07778v1](http://arxiv.org/abs/2306.07778v1)|null|
-|**2023-06-13**|**The effect of screening on the relaxation dynamics in the Coulomb glass**|Preeti Bhandari et.al.|[2306.07771v1](http://arxiv.org/abs/2306.07771v1)|null|
-|**2023-06-13**|**Area is all you need: repeatable elements make stronger adversarial attacks**|Dillon Niederhut et.al.|[2306.07768v1](http://arxiv.org/abs/2306.07768v1)|null|
-|**2023-06-13**|**Multi-Target Localization in Multi-Static Integrated Sensing and Communication Deployments**|Maximilian Bauhofer et.al.|[2306.07740v1](http://arxiv.org/abs/2306.07740v1)|null|
-|**2023-06-13**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
-|**2023-06-13**|**An Inverse Approach to Windows' Resource-Based Permission Mechanism for Access Permission Vulnerability Detection**|Hakan Temiz et.al.|[2306.07734v1](http://arxiv.org/abs/2306.07734v1)|null|
-|**2023-06-13**|**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**|Valentin Bieri et.al.|[2306.07730v1](http://arxiv.org/abs/2306.07730v1)|null|
-|**2023-06-13**|**Amplitude-assisted tagging of longitudinally polarised bosons using wide neural networks**|Michele Grossi et.al.|[2306.07726v1](http://arxiv.org/abs/2306.07726v1)|null|
-|**2023-06-13**|**Effects of Data Enrichment with Image Transformations on the Performance of Deep Networks**|Hakan Temiz et.al.|[2306.07724v1](http://arxiv.org/abs/2306.07724v1)|null|
-|**2023-06-13**|**Dynamically Masked Discriminator for Generative Adversarial Networks**|Wentian Zhang et.al.|[2306.07716v1](http://arxiv.org/abs/2306.07716v1)|null|
-|**2023-06-13**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712v1](http://arxiv.org/abs/2306.07712v1)|null|
-|**2023-06-13**|**Just a Second -- Scheduling Thousands of Time-Triggered Streams in Large-Scale Networks**|Heiko Geppert et.al.|[2306.07710v1](http://arxiv.org/abs/2306.07710v1)|null|
-|**2023-06-13**|**Incentive-Compatible Selection for One or Two Influentials**|Yuxin Zhao et.al.|[2306.07707v1](http://arxiv.org/abs/2306.07707v1)|null|
-|**2023-06-13**|**Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs**|Haozhen Zhang et.al.|[2306.07699v1](http://arxiv.org/abs/2306.07699v1)|null|
-|**2023-06-13**|**Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings**|Evangelos Bitsikas et.al.|[2306.07695v1](http://arxiv.org/abs/2306.07695v1)|null|
-|**2023-06-13**|**Few-shot Multi-domain Knowledge Rearming for Context-aware Defence against Advanced Persistent Threats**|Gaolei Li et.al.|[2306.07685v1](http://arxiv.org/abs/2306.07685v1)|null|
