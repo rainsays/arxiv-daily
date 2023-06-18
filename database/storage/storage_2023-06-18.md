@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-18 10:05:40 Asia/Shanghai
+ Automated deployment @ 2023-06-18 20:38:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,40 +43,6 @@
 |**2023-06-03**|**Hierarchical Multiresolution Feature- and Prior-based Graphs for Classification**|Faezeh Fallah et.al.|[2306.02143v1](http://arxiv.org/abs/2306.02143v1)|null|
 |**2023-06-03**|**DOS: Diverse Outlier Sampling for Out-of-Distribution Detection**|Wenyu Jiang et.al.|[2306.02031v1](http://arxiv.org/abs/2306.02031v1)|null|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-15**|**Single-Stage Visual Query Localization in Egocentric Videos**|Hanwen Jiang et.al.|[2306.09324v1](http://arxiv.org/abs/2306.09324v1)|null|
-|**2023-06-15**|**Millimeter Observations of the Type II SN2023ixf: Constraints on the Proximate Circumstellar Medium**|Edo Berger et.al.|[2306.09311v1](http://arxiv.org/abs/2306.09311v1)|null|
-|**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310v1](http://arxiv.org/abs/2306.09310v1)|null|
-|**2023-06-15**|**Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges**|Arvind Srivastav et.al.|[2306.09304v1](http://arxiv.org/abs/2306.09304v1)|null|
-|**2023-06-15**|**OpenOOD v1.5: Enhanced Benchmark for Out-of-Distribution Detection**|Jingyang Zhang et.al.|[2306.09301v1](http://arxiv.org/abs/2306.09301v1)|[link](https://github.com/jingkang50/openood)|
-|**2023-06-15**|**DaMuEL: A Large Multilingual Dataset for Entity Linking**|David Kubeša et.al.|[2306.09288v1](http://arxiv.org/abs/2306.09288v1)|null|
-|**2023-06-15**|**Open Source-based Over-The-Air 5G New Radio Sidelink Testbed**|Melissa Elkadi et.al.|[2306.09286v1](http://arxiv.org/abs/2306.09286v1)|null|
-|**2023-06-15**|**Challenges of Using Real-World Sensory Inputs for Motion Forecasting in Autonomous Driving**|Yihong Xu et.al.|[2306.09281v1](http://arxiv.org/abs/2306.09281v1)|null|
-|**2023-06-15**|**Dynamical detection of a companion driving a spiral arm in a protoplanetary disk**|Chen Xie et.al.|[2306.09279v1](http://arxiv.org/abs/2306.09279v1)|null|
-|**2023-06-15**|**Robustness Analysis on Foundational Segmentation Models**|Madeline Chantry Schiappa et.al.|[2306.09278v1](http://arxiv.org/abs/2306.09278v1)|null|
-|**2023-06-15**|**A 5.3-minute-period pulsing white dwarf in a binary detected from radio to X-rays**|Ingrid Pelisoli et.al.|[2306.09272v1](http://arxiv.org/abs/2306.09272v1)|null|
-|**2023-06-15**|**Zero-Shot Anomaly Detection with Pre-trained Segmentation Models**|Matthew Baugh et.al.|[2306.09269v1](http://arxiv.org/abs/2306.09269v1)|null|
-|**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266v1](http://arxiv.org/abs/2306.09266v1)|null|
-|**2023-06-15**|**Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization**|Yan Luo et.al.|[2306.09264v1](http://arxiv.org/abs/2306.09264v1)|[link](https://github.com/luoyan407/harvard-gf)|
-|**2023-06-15**|**Updated observing scenarios and multi-messenger implications for the International Gravitational-wave Network's O4 and O5**|R. Weizmann Kiendrebeogo et.al.|[2306.09234v1](http://arxiv.org/abs/2306.09234v1)|null|
-|**2023-06-15**|**Few-shot bioacoustic event detection at the DCASE 2023 challenge**|Ines Nolasco et.al.|[2306.09223v1](http://arxiv.org/abs/2306.09223v1)|null|
-|**2023-06-15**|**A multiwavelength light curve analysis of the classical nova YZ Ret: An extension of the universal decline law to the nebular phase**|Izumi Hachisu et.al.|[2306.09218v1](http://arxiv.org/abs/2306.09218v1)|null|
-|**2023-06-15**|**High Frequency Magnetometry with an Ensemble of Spin Qubits in Hexagonal Boron Nitride**|Charlie J. Patrickson et.al.|[2306.09185v1](http://arxiv.org/abs/2306.09185v1)|null|
-|**2023-06-15**|**Orthogonal Extended Infomax Algorithm**|Nicole Ille et.al.|[2306.09180v1](http://arxiv.org/abs/2306.09180v1)|null|
-|**2023-06-15**|**DEYOv2: Rank Feature with Greedy Matching for End-to-End Object Detection**|Haodong Ouyang et.al.|[2306.09165v1](http://arxiv.org/abs/2306.09165v1)|null|
-|**2023-06-15**|**A kinetic study of black hole activation by local plasma injection into the inner magnetosphere**|Idan Niv et.al.|[2306.09161v1](http://arxiv.org/abs/2306.09161v1)|null|
-|**2023-06-15**|**Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection**|Haoyue Bai et.al.|[2306.09158v1](http://arxiv.org/abs/2306.09158v1)|null|
-|**2023-06-15**|**GN-z11: The environment of an AGN at $z=$10.603**|Jan Scholtz et.al.|[2306.09142v1](http://arxiv.org/abs/2306.09142v1)|null|
-|**2023-06-15**|**STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events**|Kazuki Shimada et.al.|[2306.09126v1](http://arxiv.org/abs/2306.09126v1)|null|
-|**2023-06-15**|**Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning**|Puyang Wang et.al.|[2306.09116v1](http://arxiv.org/abs/2306.09116v1)|null|
-|**2023-06-15**|**Universal spin superconducting diode effect from spin-orbit coupling**|Yue Mao et.al.|[2306.09113v1](http://arxiv.org/abs/2306.09113v1)|null|
-|**2023-06-15**|**Classification of small links in the unmarked solid torus**|John M. Sullivan et.al.|[2306.09110v1](http://arxiv.org/abs/2306.09110v1)|null|
-|**2023-06-15**|**Characteristic THz-emissions induced by optically excited collective orbital modes**|Sangeeta Rajpurohit et.al.|[2306.09107v1](http://arxiv.org/abs/2306.09107v1)|null|
-|**2023-06-15**|**E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras**|Mohammed Salah et.al.|[2306.09078v1](http://arxiv.org/abs/2306.09078v1)|[link](https://github.com/mohammedsalah98/e_calib)|
-|**2023-06-15**|**Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al.|[2306.09067v1](http://arxiv.org/abs/2306.09067v1)|[link](https://github.com/caoyunkang/segment-any-anomaly)|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -110,3 +76,37 @@
 |**2023-06-15**|**Realization-dependent model of hopping transport in disordered media**|Abel Thayil et.al.|[2306.09176v1](http://arxiv.org/abs/2306.09176v1)|null|
 |**2023-06-15**|**Network Architecture Design toward Convergence of Mobile Applications and Networks**|Shuangfeng Han et.al.|[2306.09164v1](http://arxiv.org/abs/2306.09164v1)|null|
 |**2023-06-15**|**The Split Matters: Flat Minima Methods for Improving the Performance of GNNs**|Nicolas Lell et.al.|[2306.09121v1](http://arxiv.org/abs/2306.09121v1)|[link](https://github.com/foisunt/fmms-in-gnns)|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-15**|**Single-Stage Visual Query Localization in Egocentric Videos**|Hanwen Jiang et.al.|[2306.09324v1](http://arxiv.org/abs/2306.09324v1)|null|
+|**2023-06-15**|**Millimeter Observations of the Type II SN2023ixf: Constraints on the Proximate Circumstellar Medium**|Edo Berger et.al.|[2306.09311v1](http://arxiv.org/abs/2306.09311v1)|null|
+|**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310v1](http://arxiv.org/abs/2306.09310v1)|null|
+|**2023-06-15**|**Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges**|Arvind Srivastav et.al.|[2306.09304v1](http://arxiv.org/abs/2306.09304v1)|null|
+|**2023-06-15**|**OpenOOD v1.5: Enhanced Benchmark for Out-of-Distribution Detection**|Jingyang Zhang et.al.|[2306.09301v1](http://arxiv.org/abs/2306.09301v1)|[link](https://github.com/jingkang50/openood)|
+|**2023-06-15**|**DaMuEL: A Large Multilingual Dataset for Entity Linking**|David Kubeša et.al.|[2306.09288v1](http://arxiv.org/abs/2306.09288v1)|null|
+|**2023-06-15**|**Open Source-based Over-The-Air 5G New Radio Sidelink Testbed**|Melissa Elkadi et.al.|[2306.09286v1](http://arxiv.org/abs/2306.09286v1)|null|
+|**2023-06-15**|**Challenges of Using Real-World Sensory Inputs for Motion Forecasting in Autonomous Driving**|Yihong Xu et.al.|[2306.09281v1](http://arxiv.org/abs/2306.09281v1)|null|
+|**2023-06-15**|**Dynamical detection of a companion driving a spiral arm in a protoplanetary disk**|Chen Xie et.al.|[2306.09279v1](http://arxiv.org/abs/2306.09279v1)|null|
+|**2023-06-15**|**Robustness Analysis on Foundational Segmentation Models**|Madeline Chantry Schiappa et.al.|[2306.09278v1](http://arxiv.org/abs/2306.09278v1)|null|
+|**2023-06-15**|**A 5.3-minute-period pulsing white dwarf in a binary detected from radio to X-rays**|Ingrid Pelisoli et.al.|[2306.09272v1](http://arxiv.org/abs/2306.09272v1)|null|
+|**2023-06-15**|**Zero-Shot Anomaly Detection with Pre-trained Segmentation Models**|Matthew Baugh et.al.|[2306.09269v1](http://arxiv.org/abs/2306.09269v1)|null|
+|**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266v1](http://arxiv.org/abs/2306.09266v1)|null|
+|**2023-06-15**|**Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization**|Yan Luo et.al.|[2306.09264v1](http://arxiv.org/abs/2306.09264v1)|[link](https://github.com/luoyan407/harvard-gf)|
+|**2023-06-15**|**Updated observing scenarios and multi-messenger implications for the International Gravitational-wave Network's O4 and O5**|R. Weizmann Kiendrebeogo et.al.|[2306.09234v1](http://arxiv.org/abs/2306.09234v1)|null|
+|**2023-06-15**|**Few-shot bioacoustic event detection at the DCASE 2023 challenge**|Ines Nolasco et.al.|[2306.09223v1](http://arxiv.org/abs/2306.09223v1)|null|
+|**2023-06-15**|**A multiwavelength light curve analysis of the classical nova YZ Ret: An extension of the universal decline law to the nebular phase**|Izumi Hachisu et.al.|[2306.09218v1](http://arxiv.org/abs/2306.09218v1)|null|
+|**2023-06-15**|**High Frequency Magnetometry with an Ensemble of Spin Qubits in Hexagonal Boron Nitride**|Charlie J. Patrickson et.al.|[2306.09185v1](http://arxiv.org/abs/2306.09185v1)|null|
+|**2023-06-15**|**Orthogonal Extended Infomax Algorithm**|Nicole Ille et.al.|[2306.09180v1](http://arxiv.org/abs/2306.09180v1)|null|
+|**2023-06-15**|**DEYOv2: Rank Feature with Greedy Matching for End-to-End Object Detection**|Haodong Ouyang et.al.|[2306.09165v1](http://arxiv.org/abs/2306.09165v1)|null|
+|**2023-06-15**|**A kinetic study of black hole activation by local plasma injection into the inner magnetosphere**|Idan Niv et.al.|[2306.09161v1](http://arxiv.org/abs/2306.09161v1)|null|
+|**2023-06-15**|**Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection**|Haoyue Bai et.al.|[2306.09158v1](http://arxiv.org/abs/2306.09158v1)|null|
+|**2023-06-15**|**GN-z11: The environment of an AGN at $z=$10.603**|Jan Scholtz et.al.|[2306.09142v1](http://arxiv.org/abs/2306.09142v1)|null|
+|**2023-06-15**|**STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events**|Kazuki Shimada et.al.|[2306.09126v1](http://arxiv.org/abs/2306.09126v1)|null|
+|**2023-06-15**|**Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning**|Puyang Wang et.al.|[2306.09116v1](http://arxiv.org/abs/2306.09116v1)|null|
+|**2023-06-15**|**Universal spin superconducting diode effect from spin-orbit coupling**|Yue Mao et.al.|[2306.09113v1](http://arxiv.org/abs/2306.09113v1)|null|
+|**2023-06-15**|**Classification of small links in the unmarked solid torus**|John M. Sullivan et.al.|[2306.09110v1](http://arxiv.org/abs/2306.09110v1)|null|
+|**2023-06-15**|**Characteristic THz-emissions induced by optically excited collective orbital modes**|Sangeeta Rajpurohit et.al.|[2306.09107v1](http://arxiv.org/abs/2306.09107v1)|null|
+|**2023-06-15**|**E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras**|Mohammed Salah et.al.|[2306.09078v1](http://arxiv.org/abs/2306.09078v1)|[link](https://github.com/mohammedsalah98/e_calib)|
+|**2023-06-15**|**Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al.|[2306.09067v1](http://arxiv.org/abs/2306.09067v1)|[link](https://github.com/caoyunkang/segment-any-anomaly)|
