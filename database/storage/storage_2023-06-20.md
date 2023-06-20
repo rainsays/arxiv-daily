@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-20 09:47:10 Asia/Shanghai
+ Automated deployment @ 2023-06-20 20:44:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013v1](http://arxiv.org/abs/2306.10013v1)|null|
+|**2023-06-16**|**Nature of Striation in 21 cm Channel Maps: Velocity Caustics**|Yue Hu et.al.|[2306.10005v1](http://arxiv.org/abs/2306.10005v1)|null|
+|**2023-06-16**|**X-ray emission from Westerlund 2 detected by SRG/ART-XC and Chandra: search for radiation of TeV leptons**|A. M. Bykov et.al.|[2306.09960v1](http://arxiv.org/abs/2306.09960v1)|null|
+|**2023-06-16**|**Signatures of the black hole quantum atmosphere in nonlocal correlations**|Adam Z. Kaczmarek et.al.|[2306.09941v1](http://arxiv.org/abs/2306.09941v1)|null|
+|**2023-06-16**|**Vehicle Occurrence-based Parking Space Detection**|Paulo R. Lisboa de Almeida et.al.|[2306.09940v1](http://arxiv.org/abs/2306.09940v1)|null|
+|**2023-06-16**|**Collective scattering in lattice-trapped Sr atoms via dipole-dipole interactions**|Shengnan Zhang et.al.|[2306.09937v1](http://arxiv.org/abs/2306.09937v1)|null|
+|**2023-06-16**|**Flow-Bench: A Dataset for Computational Workflow Anomaly Detection**|George Papadimitriou et.al.|[2306.09930v1](http://arxiv.org/abs/2306.09930v1)|null|
+|**2023-06-16**|**Acceptance tests of Hamamatsu R7081 photomultiplier tubes**|O. A. Akindele et.al.|[2306.09926v1](http://arxiv.org/abs/2306.09926v1)|null|
+|**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925v1](http://arxiv.org/abs/2306.09925v1)|null|
+|**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|[link](https://gitlab.com/jnalepa/nnunets_for_clouds)|
+|**2023-06-16**|**A new derivation of the Hubble constant from $γ$-ray attenuation using improved optical depths for the Fermi and CTA era**|A. Domínguez et.al.|[2306.09878v1](http://arxiv.org/abs/2306.09878v1)|null|
+|**2023-06-16**|**Astrophysical Uncertainties in the Gravitational-Wave Background from Stellar-Mass Compact Binary Mergers**|Leonard Lehoucq et.al.|[2306.09861v1](http://arxiv.org/abs/2306.09861v1)|null|
+|**2023-06-16**|**MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection**|Simon Thomine et.al.|[2306.09859v1](http://arxiv.org/abs/2306.09859v1)|null|
+|**2023-06-16**|**Super-Resolution Radar Imaging with Sparse Arrays Using a Deep Neural Network Trained with Enhanced Virtual Data**|Christian Schuessler et.al.|[2306.09839v1](http://arxiv.org/abs/2306.09839v1)|[link](https://github.com/christianschuessler/sparse-array-radar-imaging)|
+|**2023-06-16**|**Process Knowledge-infused Learning for Clinician-friendly Explanations**|Kaushik Roy et.al.|[2306.09824v1](http://arxiv.org/abs/2306.09824v1)|null|
+|**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|null|
+|**2023-06-16**|**Efficient Search and Detection of Relevant Plant Parts using Semantics-Aware Active Vision**|Akshay K. Burusa et.al.|[2306.09801v1](http://arxiv.org/abs/2306.09801v1)|null|
+|**2023-06-16**|**The Information Bottleneck's Ordinary Differential Equation: First-Order Root-Tracking for the IB**|Shlomi Agmon et.al.|[2306.09790v1](http://arxiv.org/abs/2306.09790v1)|null|
+|**2023-06-16**|**Chiral molecule candidates for trapped ion spectroscopy by ab-initio calculations: from state preparation to parity violation**|Arie Landau et.al.|[2306.09788v1](http://arxiv.org/abs/2306.09788v1)|null|
+|**2023-06-16**|**Unraveling cradle-to-grave disease trajectories from multilayer comorbidity networks**|Elma Dervić et.al.|[2306.09773v1](http://arxiv.org/abs/2306.09773v1)|null|
+|**2023-06-16**|**Vibrationally Induced Large Parity Violation Effects in CHDBrI$^+$ $-$ A Promising Candidate for Future Experiments**|Eduardus Eduardus et.al.|[2306.09763v1](http://arxiv.org/abs/2306.09763v1)|null|
+|**2023-06-16**|**The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**|Roy Voetman et.al.|[2306.09762v1](http://arxiv.org/abs/2306.09762v1)|null|
+|**2023-06-16**|**Politeness Stereotypes and Attack Vectors: Gender Stereotypes in Japanese and Korean Language Models**|Victor Steinborn et.al.|[2306.09752v1](http://arxiv.org/abs/2306.09752v1)|[link](https://github.com/vsteinborn/politeness-attacks)|
+|**2023-06-16**|**Fedstellar: A Platform for Decentralized Federated Learning**|Enrique Tomás Martínez Beltrán et.al.|[2306.09750v1](http://arxiv.org/abs/2306.09750v1)|[link](https://github.com/enriquetomasmb/fedstellar)|
+|**2023-06-16**|**Spatial depth for data in metric spaces**|Joni Virta et.al.|[2306.09740v1](http://arxiv.org/abs/2306.09740v1)|null|
+|**2023-06-16**|**PIEChain -- A Practical Blockchain Interoperability Framework**|Daniël Reijsbergen et.al.|[2306.09735v1](http://arxiv.org/abs/2306.09735v1)|null|
+|**2023-06-16**|**Broadband spintronic detection of the absolute field strength of terahertz electromagnetic pulses**|A. L. Chekhov et.al.|[2306.09734v1](http://arxiv.org/abs/2306.09734v1)|null|
+|**2023-06-16**|**Optomechanical Dark Matter Direct Detection**|Christopher G. Baker et.al.|[2306.09726v1](http://arxiv.org/abs/2306.09726v1)|null|
+|**2023-06-16**|**Coherent Vibrational Micro-Spectroscopy for High-Speed Investigation of Single-Crystalline Materials**|Franz Hempel et.al.|[2306.09701v1](http://arxiv.org/abs/2306.09701v1)|null|
+|**2023-06-16**|**Scaling Open-Vocabulary Object Detection**|Matthias Minderer et.al.|[2306.09683v1](http://arxiv.org/abs/2306.09683v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,40 +107,6 @@
 |**2023-06-16**|**Wasserstein distributional robustness of neural networks**|Xingjian Bai et.al.|[2306.09844v1](http://arxiv.org/abs/2306.09844v1)|null|
 |**2023-06-16**|**Super-Resolution Radar Imaging with Sparse Arrays Using a Deep Neural Network Trained with Enhanced Virtual Data**|Christian Schuessler et.al.|[2306.09839v1](http://arxiv.org/abs/2306.09839v1)|[link](https://github.com/christianschuessler/sparse-array-radar-imaging)|
 |**2023-06-16**|**Building Blocks for a Complex-Valued Transformer Architecture**|Florian Eilers et.al.|[2306.09827v1](http://arxiv.org/abs/2306.09827v1)|null|
-|**2023-06-16**|**Lightweight Attribute Localizing Models for Pedestrian Attribute Recognition**|Ashish Jha et.al.|[2306.09822v1](http://arxiv.org/abs/2306.09822v1)|null|
+|**2023-06-16**|**Lightweight Attribute Localizing Models for Pedestrian Attribute Recognition**|Ashish Jha et.al.|[2306.09822v1](http://arxiv.org/abs/2306.09822v1)|[link](https://github.com/ashishjv1/LW-ALM)|
 |**2023-06-16**|**Amortized Inference for Gaussian Process Hyperparameters of Structured Kernels**|Matthias Bitzer et.al.|[2306.09819v1](http://arxiv.org/abs/2306.09819v1)|[link](https://github.com/boschresearch/amor-struct-gp)|
 |**2023-06-16**|**HiNeRV: Video Compression with Hierarchical Encoding based Neural Representation**|Ho Man Kwan et.al.|[2306.09818v1](http://arxiv.org/abs/2306.09818v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013v1](http://arxiv.org/abs/2306.10013v1)|null|
-|**2023-06-16**|**Nature of Striation in 21 cm Channel Maps: Velocity Caustics**|Yue Hu et.al.|[2306.10005v1](http://arxiv.org/abs/2306.10005v1)|null|
-|**2023-06-16**|**X-ray emission from Westerlund 2 detected by SRG/ART-XC and Chandra: search for radiation of TeV leptons**|A. M. Bykov et.al.|[2306.09960v1](http://arxiv.org/abs/2306.09960v1)|null|
-|**2023-06-16**|**Signatures of the black hole quantum atmosphere in nonlocal correlations**|Adam Z. Kaczmarek et.al.|[2306.09941v1](http://arxiv.org/abs/2306.09941v1)|null|
-|**2023-06-16**|**Vehicle Occurrence-based Parking Space Detection**|Paulo R. Lisboa de Almeida et.al.|[2306.09940v1](http://arxiv.org/abs/2306.09940v1)|null|
-|**2023-06-16**|**Collective scattering in lattice-trapped Sr atoms via dipole-dipole interactions**|Shengnan Zhang et.al.|[2306.09937v1](http://arxiv.org/abs/2306.09937v1)|null|
-|**2023-06-16**|**Flow-Bench: A Dataset for Computational Workflow Anomaly Detection**|George Papadimitriou et.al.|[2306.09930v1](http://arxiv.org/abs/2306.09930v1)|null|
-|**2023-06-16**|**Acceptance tests of Hamamatsu R7081 photomultiplier tubes**|O. A. Akindele et.al.|[2306.09926v1](http://arxiv.org/abs/2306.09926v1)|null|
-|**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925v1](http://arxiv.org/abs/2306.09925v1)|null|
-|**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|[link](https://gitlab.com/jnalepa/nnunets_for_clouds)|
-|**2023-06-16**|**A new derivation of the Hubble constant from $γ$-ray attenuation using improved optical depths for the Fermi and CTA era**|A. Domínguez et.al.|[2306.09878v1](http://arxiv.org/abs/2306.09878v1)|null|
-|**2023-06-16**|**Astrophysical Uncertainties in the Gravitational-Wave Background from Stellar-Mass Compact Binary Mergers**|Leonard Lehoucq et.al.|[2306.09861v1](http://arxiv.org/abs/2306.09861v1)|null|
-|**2023-06-16**|**MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection**|Simon Thomine et.al.|[2306.09859v1](http://arxiv.org/abs/2306.09859v1)|null|
-|**2023-06-16**|**Super-Resolution Radar Imaging with Sparse Arrays Using a Deep Neural Network Trained with Enhanced Virtual Data**|Christian Schuessler et.al.|[2306.09839v1](http://arxiv.org/abs/2306.09839v1)|[link](https://github.com/christianschuessler/sparse-array-radar-imaging)|
-|**2023-06-16**|**Process Knowledge-infused Learning for Clinician-friendly Explanations**|Kaushik Roy et.al.|[2306.09824v1](http://arxiv.org/abs/2306.09824v1)|null|
-|**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|null|
-|**2023-06-16**|**Efficient Search and Detection of Relevant Plant Parts using Semantics-Aware Active Vision**|Akshay K. Burusa et.al.|[2306.09801v1](http://arxiv.org/abs/2306.09801v1)|null|
-|**2023-06-16**|**The Information Bottleneck's Ordinary Differential Equation: First-Order Root-Tracking for the IB**|Shlomi Agmon et.al.|[2306.09790v1](http://arxiv.org/abs/2306.09790v1)|null|
-|**2023-06-16**|**Chiral molecule candidates for trapped ion spectroscopy by ab-initio calculations: from state preparation to parity violation**|Arie Landau et.al.|[2306.09788v1](http://arxiv.org/abs/2306.09788v1)|null|
-|**2023-06-16**|**Unraveling cradle-to-grave disease trajectories from multilayer comorbidity networks**|Elma Dervić et.al.|[2306.09773v1](http://arxiv.org/abs/2306.09773v1)|null|
-|**2023-06-16**|**Vibrationally Induced Large Parity Violation Effects in CHDBrI$^+$ $-$ A Promising Candidate for Future Experiments**|Eduardus Eduardus et.al.|[2306.09763v1](http://arxiv.org/abs/2306.09763v1)|null|
-|**2023-06-16**|**The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**|Roy Voetman et.al.|[2306.09762v1](http://arxiv.org/abs/2306.09762v1)|null|
-|**2023-06-16**|**Politeness Stereotypes and Attack Vectors: Gender Stereotypes in Japanese and Korean Language Models**|Victor Steinborn et.al.|[2306.09752v1](http://arxiv.org/abs/2306.09752v1)|[link](https://github.com/vsteinborn/politeness-attacks)|
-|**2023-06-16**|**Fedstellar: A Platform for Decentralized Federated Learning**|Enrique Tomás Martínez Beltrán et.al.|[2306.09750v1](http://arxiv.org/abs/2306.09750v1)|[link](https://github.com/enriquetomasmb/fedstellar)|
-|**2023-06-16**|**Spatial depth for data in metric spaces**|Joni Virta et.al.|[2306.09740v1](http://arxiv.org/abs/2306.09740v1)|null|
-|**2023-06-16**|**PIEChain -- A Practical Blockchain Interoperability Framework**|Daniël Reijsbergen et.al.|[2306.09735v1](http://arxiv.org/abs/2306.09735v1)|null|
-|**2023-06-16**|**Broadband spintronic detection of the absolute field strength of terahertz electromagnetic pulses**|A. L. Chekhov et.al.|[2306.09734v1](http://arxiv.org/abs/2306.09734v1)|null|
-|**2023-06-16**|**Optomechanical Dark Matter Direct Detection**|Christopher G. Baker et.al.|[2306.09726v1](http://arxiv.org/abs/2306.09726v1)|null|
-|**2023-06-16**|**Coherent Vibrational Micro-Spectroscopy for High-Speed Investigation of Single-Crystalline Materials**|Franz Hempel et.al.|[2306.09701v1](http://arxiv.org/abs/2306.09701v1)|null|
-|**2023-06-16**|**Scaling Open-Vocabulary Object Detection**|Matthias Minderer et.al.|[2306.09683v1](http://arxiv.org/abs/2306.09683v1)|null|
