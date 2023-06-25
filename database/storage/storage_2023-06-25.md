@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-25 10:20:25 Asia/Shanghai
+ Automated deployment @ 2023-06-25 20:46:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-22**|**Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing**|Yelysei Bondarenko et.al.|[2306.12929v1](http://arxiv.org/abs/2306.12929v1)|null|
+|**2023-06-22**|**Outlier-robust Estimation of a Sparse Linear Model Using Invexity**|Adarsh Barik et.al.|[2306.12678v1](http://arxiv.org/abs/2306.12678v1)|null|
+|**2023-06-21**|**Modile as a conservative tail risk measurer: the solution of an optimisation problem with 0-1 loss function**|Keming Yu et.al.|[2306.12117v1](http://arxiv.org/abs/2306.12117v1)|null|
+|**2023-06-21**|**Training Transformers with 4-bit Integers**|Haocheng Xi et.al.|[2306.11987v1](http://arxiv.org/abs/2306.11987v1)|null|
+|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880v1](http://arxiv.org/abs/2306.11880v1)|[link](https://github.com/cenwu/pqrbayes)|
+|**2023-06-20**|**Composition of nested embeddings with an application to outlier removal**|Shuchi Chawla et.al.|[2306.11604v1](http://arxiv.org/abs/2306.11604v1)|null|
+|**2023-06-20**|**Provably Robust Temporal Difference Learning for Heavy-Tailed Rewards**|Semih Cayci et.al.|[2306.11455v1](http://arxiv.org/abs/2306.11455v1)|null|
+|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
+|**2023-06-19**|**Detection of Sensor-To-Sensor Variations using Explainable AI**|Sarah Seifi et.al.|[2306.10850v1](http://arxiv.org/abs/2306.10850v1)|null|
+|**2023-06-19**|**Female mosquito detection by means of AI techniques inside release containers in the context of a Sterile Insect Technique program**|Javier Naranjo-Alcazar et.al.|[2306.10843v1](http://arxiv.org/abs/2306.10843v1)|null|
+|**2023-06-19**|**Shape Guided Gradient Voting for Domain Generalization**|Jiaqi Xu et.al.|[2306.10809v1](http://arxiv.org/abs/2306.10809v1)|null|
+|**2023-06-19**|**Robust and non asymptotic estimation of probability weighted moments with application to extreme value analysis**|Anna Ben-Hamou et.al.|[2306.10806v1](http://arxiv.org/abs/2306.10806v1)|null|
+|**2023-06-18**|**GenPose: Generative Category-level Object Pose Estimation via Diffusion Models**|Jiyao Zhang et.al.|[2306.10531v1](http://arxiv.org/abs/2306.10531v1)|null|
+|**2023-06-16**|**Calculating the matrix profile from noisy data**|Colin Hehir et.al.|[2306.10151v1](http://arxiv.org/abs/2306.10151v1)|null|
+|**2023-06-16**|**The Outskirts of Abell 1795: Probing Gas Clumping in the Intra-Cluster Medium**|Orsolya E. Kovács et.al.|[2306.10101v1](http://arxiv.org/abs/2306.10101v1)|null|
+|**2023-06-16**|**Adversarially robust clustering with optimality guarantees**|Soham Jana et.al.|[2306.09977v1](http://arxiv.org/abs/2306.09977v1)|null|
+|**2023-06-16**|**Spatial depth for data in metric spaces**|Joni Virta et.al.|[2306.09740v1](http://arxiv.org/abs/2306.09740v1)|null|
+|**2023-06-16**|**Vacant Holes for Unsupervised Detection of the Outliers in Compact Latent Representation**|Misha Glazunov et.al.|[2306.09646v1](http://arxiv.org/abs/2306.09646v1)|null|
+|**2023-06-15**|**Robust Time-of-Arrival Localization via ADMM**|Wenxin Xiong et.al.|[2306.08819v1](http://arxiv.org/abs/2306.08819v1)|null|
+|**2023-06-13**|**The large molecular gas fraction of post-starburst galaxies at z > 1**|A. Zanella et.al.|[2306.08120v1](http://arxiv.org/abs/2306.08120v1)|null|
+|**2023-06-13**|**Temporal Gradient Inversion Attacks with Robust Optimization**|Bowen Li et.al.|[2306.07883v1](http://arxiv.org/abs/2306.07883v1)|null|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
+|**2023-06-13**|**SqueezeLLM: Dense-and-Sparse Quantization**|Sehoon Kim et.al.|[2306.07629v1](http://arxiv.org/abs/2306.07629v1)|[link](https://github.com/squeezeailab/squeezellm)|
+|**2023-06-13**|**User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems**|Marc Finzi et.al.|[2306.07526v1](http://arxiv.org/abs/2306.07526v1)|null|
+|**2023-06-12**|**Instant Multi-View Head Capture through Learnable Registration**|Timo Bolkart et.al.|[2306.07437v1](http://arxiv.org/abs/2306.07437v1)|[link](https://github.com/TimoBolkart/TEMPEH)|
+|**2023-06-12**|**Unbalanced Optimal Transport meets Sliced-Wasserstein**|Thibault Séjourné et.al.|[2306.07176v1](http://arxiv.org/abs/2306.07176v1)|null|
+|**2023-06-12**|**Unveiling the Hessian's Connection to the Decision Boundary**|Mahalakshmi Sabanayagam et.al.|[2306.07104v1](http://arxiv.org/abs/2306.07104v1)|[link](https://github.com/shmoo137/hessian-and-decision-boundary)|
+|**2023-06-12**|**Kernel Random Projection Depth for Outlier Detection**|Akira Tamamori et.al.|[2306.07056v2](http://arxiv.org/abs/2306.07056v2)|null|
+|**2023-06-12**|**A Computational Theory and Semi-Supervised Algorithm for Clustering**|Nassir Mohammad et.al.|[2306.06974v1](http://arxiv.org/abs/2306.06974v1)|null|
+|**2023-06-10**|**Learning Joint Latent Space EBM Prior Model for Multi-layer Generator**|Jiali Cui et.al.|[2306.06323v1](http://arxiv.org/abs/2306.06323v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -24,11 +58,11 @@
 |**2023-06-22**|**Online Self-Supervised Learning in Machine Learning Intrusion Detection for the Internet of Things**|Mert Nakıp et.al.|[2306.13030v1](http://arxiv.org/abs/2306.13030v1)|null|
 |**2023-06-22**|**Decentralized Online Federated G-Network Learning for Lightweight Intrusion Detection**|Mert Nakıp et.al.|[2306.13029v1](http://arxiv.org/abs/2306.13029v1)|null|
 |**2023-06-22**|**Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**|Jun-Ho Kim et.al.|[2306.13020v1](http://arxiv.org/abs/2306.13020v1)|null|
-|**2023-06-22**|**Numerical convergence of model Cauchy-Characteristic Extraction and Matching**|Thanasis Giannakopoulos et.al.|[2306.13010v1](http://arxiv.org/abs/2306.13010v1)|null|
+|**2023-06-22**|**Numerical convergence of model Cauchy-Characteristic Extraction and Matching**|Thanasis Giannakopoulos et.al.|[2306.13010v1](http://arxiv.org/abs/2306.13010v1)|[link](https://github.com/thanasisgiannakopoulos/model_cce_ccm_public)|
 |**2023-06-22**|**Mutual Information Based Pilot Design for ISAC**|Ahmad Bazzi et.al.|[2306.13003v1](http://arxiv.org/abs/2306.13003v1)|null|
 |**2023-06-22**|**Topological defects at smectic interfaces as a potential tool for the biosensing of living microorganisms**|Vajra S. Badha et.al.|[2306.12989v1](http://arxiv.org/abs/2306.12989v1)|null|
 |**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|[link](https://github.com/heymarco/adaptivebernsteinchangedetector)|
-|**2023-06-22**|**Observations of the Crab Nebula and Pulsar with the Large-Sized Telescope Prototype of the Cherenkov Telescope Array**|CTA-LST Project et.al.|[2306.12960v1](http://arxiv.org/abs/2306.12960v1)|null|
+|**2023-06-22**|**Observations of the Crab Nebula and Pulsar with the Large-Sized Telescope Prototype of the Cherenkov Telescope Array**|CTA-LST Project et.al.|[2306.12960v1](http://arxiv.org/abs/2306.12960v1)|[link](https://github.com/cta-observatory/lst-crab-performance-paper-2023)|
 |**2023-06-22**|**Triggering Dark Showers with Conditional Dual Auto-Encoders**|Luca Anzalone et.al.|[2306.12955v1](http://arxiv.org/abs/2306.12955v1)|null|
 |**2023-06-22**|**Multi-Objective Hull Form Optimization with CAD Engine-based Deep Learning Physics for 3D Flow Prediction**|Jocelyn Ahmed Mazari et.al.|[2306.12915v1](http://arxiv.org/abs/2306.12915v1)|null|
 |**2023-06-22**|**Waveform systematics in identifying gravitationally lensed gravitational waves: Posterior overlap method**|Ángel Garrón et.al.|[2306.12908v1](http://arxiv.org/abs/2306.12908v1)|null|
@@ -76,37 +110,3 @@
 |**2023-06-22**|**HOFA: Twitter Bot Detection with Homophily-Oriented Augmentation and Frequency Adaptive Attention**|Sen Ye et.al.|[2306.12870v1](http://arxiv.org/abs/2306.12870v1)|null|
 |**2023-06-22**|**Wind Noise Reduction with a Diffusion-based Stochastic Regeneration Model**|Jean-Marie Lemercier et.al.|[2306.12867v1](http://arxiv.org/abs/2306.12867v1)|null|
 |**2023-06-22**|**Don't Treat the Symptom, Find the Cause! Efficient Artificial-Intelligence Methods for (Interactive) Debugging**|Patrick Rodler et.al.|[2306.12850v1](http://arxiv.org/abs/2306.12850v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-22**|**Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing**|Yelysei Bondarenko et.al.|[2306.12929v1](http://arxiv.org/abs/2306.12929v1)|null|
-|**2023-06-22**|**Outlier-robust Estimation of a Sparse Linear Model Using Invexity**|Adarsh Barik et.al.|[2306.12678v1](http://arxiv.org/abs/2306.12678v1)|null|
-|**2023-06-21**|**Modile as a conservative tail risk measurer: the solution of an optimisation problem with 0-1 loss function**|Keming Yu et.al.|[2306.12117v1](http://arxiv.org/abs/2306.12117v1)|null|
-|**2023-06-21**|**Training Transformers with 4-bit Integers**|Haocheng Xi et.al.|[2306.11987v1](http://arxiv.org/abs/2306.11987v1)|null|
-|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880v1](http://arxiv.org/abs/2306.11880v1)|[link](https://github.com/cenwu/pqrbayes)|
-|**2023-06-20**|**Composition of nested embeddings with an application to outlier removal**|Shuchi Chawla et.al.|[2306.11604v1](http://arxiv.org/abs/2306.11604v1)|null|
-|**2023-06-20**|**Provably Robust Temporal Difference Learning for Heavy-Tailed Rewards**|Semih Cayci et.al.|[2306.11455v1](http://arxiv.org/abs/2306.11455v1)|null|
-|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
-|**2023-06-19**|**Detection of Sensor-To-Sensor Variations using Explainable AI**|Sarah Seifi et.al.|[2306.10850v1](http://arxiv.org/abs/2306.10850v1)|null|
-|**2023-06-19**|**Female mosquito detection by means of AI techniques inside release containers in the context of a Sterile Insect Technique program**|Javier Naranjo-Alcazar et.al.|[2306.10843v1](http://arxiv.org/abs/2306.10843v1)|null|
-|**2023-06-19**|**Shape Guided Gradient Voting for Domain Generalization**|Jiaqi Xu et.al.|[2306.10809v1](http://arxiv.org/abs/2306.10809v1)|null|
-|**2023-06-19**|**Robust and non asymptotic estimation of probability weighted moments with application to extreme value analysis**|Anna Ben-Hamou et.al.|[2306.10806v1](http://arxiv.org/abs/2306.10806v1)|null|
-|**2023-06-18**|**GenPose: Generative Category-level Object Pose Estimation via Diffusion Models**|Jiyao Zhang et.al.|[2306.10531v1](http://arxiv.org/abs/2306.10531v1)|null|
-|**2023-06-16**|**Calculating the matrix profile from noisy data**|Colin Hehir et.al.|[2306.10151v1](http://arxiv.org/abs/2306.10151v1)|null|
-|**2023-06-16**|**The Outskirts of Abell 1795: Probing Gas Clumping in the Intra-Cluster Medium**|Orsolya E. Kovács et.al.|[2306.10101v1](http://arxiv.org/abs/2306.10101v1)|null|
-|**2023-06-16**|**Adversarially robust clustering with optimality guarantees**|Soham Jana et.al.|[2306.09977v1](http://arxiv.org/abs/2306.09977v1)|null|
-|**2023-06-16**|**Spatial depth for data in metric spaces**|Joni Virta et.al.|[2306.09740v1](http://arxiv.org/abs/2306.09740v1)|null|
-|**2023-06-16**|**Vacant Holes for Unsupervised Detection of the Outliers in Compact Latent Representation**|Misha Glazunov et.al.|[2306.09646v1](http://arxiv.org/abs/2306.09646v1)|null|
-|**2023-06-15**|**Robust Time-of-Arrival Localization via ADMM**|Wenxin Xiong et.al.|[2306.08819v1](http://arxiv.org/abs/2306.08819v1)|null|
-|**2023-06-13**|**The large molecular gas fraction of post-starburst galaxies at z > 1**|A. Zanella et.al.|[2306.08120v1](http://arxiv.org/abs/2306.08120v1)|null|
-|**2023-06-13**|**Temporal Gradient Inversion Attacks with Robust Optimization**|Bowen Li et.al.|[2306.07883v1](http://arxiv.org/abs/2306.07883v1)|null|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
-|**2023-06-13**|**SqueezeLLM: Dense-and-Sparse Quantization**|Sehoon Kim et.al.|[2306.07629v1](http://arxiv.org/abs/2306.07629v1)|[link](https://github.com/squeezeailab/squeezellm)|
-|**2023-06-13**|**User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems**|Marc Finzi et.al.|[2306.07526v1](http://arxiv.org/abs/2306.07526v1)|null|
-|**2023-06-12**|**Instant Multi-View Head Capture through Learnable Registration**|Timo Bolkart et.al.|[2306.07437v1](http://arxiv.org/abs/2306.07437v1)|[link](https://github.com/TimoBolkart/TEMPEH)|
-|**2023-06-12**|**Unbalanced Optimal Transport meets Sliced-Wasserstein**|Thibault Séjourné et.al.|[2306.07176v1](http://arxiv.org/abs/2306.07176v1)|null|
-|**2023-06-12**|**Unveiling the Hessian's Connection to the Decision Boundary**|Mahalakshmi Sabanayagam et.al.|[2306.07104v1](http://arxiv.org/abs/2306.07104v1)|[link](https://github.com/shmoo137/hessian-and-decision-boundary)|
-|**2023-06-12**|**Kernel Random Projection Depth for Outlier Detection**|Akira Tamamori et.al.|[2306.07056v2](http://arxiv.org/abs/2306.07056v2)|null|
-|**2023-06-12**|**A Computational Theory and Semi-Supervised Algorithm for Clustering**|Nassir Mohammad et.al.|[2306.06974v1](http://arxiv.org/abs/2306.06974v1)|null|
-|**2023-06-10**|**Learning Joint Latent Space EBM Prior Model for Multi-layer Generator**|Jiali Cui et.al.|[2306.06323v1](http://arxiv.org/abs/2306.06323v1)|null|
