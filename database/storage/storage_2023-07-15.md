@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-15 10:05:15 Asia/Shanghai
+ Automated deployment @ 2023-07-15 20:43:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-13**|**Uncovering Unique Concept Vectors through Latent Space Decomposition**|Mara Graziani et.al.|[2307.06913v1](http://arxiv.org/abs/2307.06913v1)|null|
-|**2023-07-13**|**DSV: An Alignment Validation Loss for Self-supervised Outlier Model Selection**|Jaemin Yoo et.al.|[2307.06534v1](http://arxiv.org/abs/2307.06534v1)|null|
-|**2023-07-12**|**Outlier detection in regression: conic quadratic formulations**|Andrés Gómez et.al.|[2307.05975v1](http://arxiv.org/abs/2307.05975v1)|null|
-|**2023-07-12**|**Measuring photometric redshifts for high-redshift radio source surveys**|Kieran J. Luken et.al.|[2307.05927v1](http://arxiv.org/abs/2307.05927v1)|null|
-|**2023-07-11**|**CR-Lasso: Robust cellwise regularized sparse regression**|Peng Su et.al.|[2307.05234v1](http://arxiv.org/abs/2307.05234v1)|[link](https://github.com/pengsu517/regcell)|
-|**2023-07-10**|**Self-consistent Combined HST, K-band, and Spitzer Photometric Catalogs of the BUFFALO Survey Fields**|Amanda Pagul et.al.|[2307.04635v1](http://arxiv.org/abs/2307.04635v1)|null|
-|**2023-07-10**|**Badgers: generating data quality deficits with Python**|Julien Siebert et.al.|[2307.04468v1](http://arxiv.org/abs/2307.04468v1)|[link](https://github.com/fraunhofer-iese/badgers)|
-|**2023-07-07**|**Training Ensembles with Inliers and Outliers for Semi-supervised Active Learning**|Vladan Stojnić et.al.|[2307.03741v1](http://arxiv.org/abs/2307.03741v1)|[link](https://github.com/vladan-stojnic/active-outliers)|
-|**2023-07-07**|**The correspondence between rotating black holes and fundamental strings**|Nejc Čeplak et.al.|[2307.03573v1](http://arxiv.org/abs/2307.03573v1)|null|
-|**2023-07-06**|**That's BAD: Blind Anomaly Detection by Implicit Local Feature Clustering**|Jie Zhang et.al.|[2307.03243v1](http://arxiv.org/abs/2307.03243v1)|null|
-|**2023-07-06**|**Origin-Destination Travel Time Oracle for Map-based Services**|Yan Lin et.al.|[2307.03048v1](http://arxiv.org/abs/2307.03048v1)|null|
-|**2023-07-05**|**GAFAR: Graph-Attention Feature-Augmentation for Registration A Fast and Light-weight Point Set Registration Algorithm**|Ludwig Mohr et.al.|[2307.02339v1](http://arxiv.org/abs/2307.02339v1)|[link](https://github.com/mordecaimalignatius/gafar)|
-|**2023-07-05**|**EMORF/S: EM-Based Outlier-Robust Filtering and Smoothing With Correlated Measurement Noise**|Aamir Hussain Chughtai et.al.|[2307.02163v1](http://arxiv.org/abs/2307.02163v1)|null|
-|**2023-07-04**|**Wasserstein medians: robustness, PDE characterization and numerics**|Guillaume Carlier et.al.|[2307.01765v1](http://arxiv.org/abs/2307.01765v1)|[link](https://github.com/trade-opt/wasserstein-medians)|
-|**2023-07-04**|**Calibration of the in-orbit center-of-mass of TaiJi-1**|Xiaotong Wei et.al.|[2307.01724v1](http://arxiv.org/abs/2307.01724v1)|null|
-|**2023-07-04**|**Cubature Kalman filter Based on generalized minimum error entropy with fiducial point**|Jiacheng He et.al.|[2307.01438v1](http://arxiv.org/abs/2307.01438v1)|null|
-|**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
-|**2023-07-03**|**Robust Uncertainty Estimation for Classification of Maritime Objects**|Jonathan Becktor et.al.|[2307.01325v1](http://arxiv.org/abs/2307.01325v1)|null|
-|**2023-07-02**|**Robust Target Localization in 2D: A Value-at-Risk Approach**|João Domingos et.al.|[2307.00548v2](http://arxiv.org/abs/2307.00548v2)|null|
-|**2023-07-01**|**Variation-aware Vision Transformer Quantization**|Xijie Huang et.al.|[2307.00331v1](http://arxiv.org/abs/2307.00331v1)|[link](https://github.com/huangowen/vvtq)|
-|**2023-07-01**|**Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD**|Anvith Thudi et.al.|[2307.00310v1](http://arxiv.org/abs/2307.00310v1)|null|
-|**2023-06-30**|**A multivariate heavy-tailed integer-valued GARCH process with EM algorithm-based inference**|Yuhyeong Jang et.al.|[2306.17776v1](http://arxiv.org/abs/2306.17776v1)|[link](https://github.com/statjang/mpgig_ingarch)|
-|**2023-06-30**|**LIO-GVM: an Accurate, Tightly-Coupled Lidar-Inertial Odometry with Gaussian Voxel Map**|Xingyu Ji et.al.|[2306.17436v1](http://arxiv.org/abs/2306.17436v1)|null|
-|**2023-06-29**|**Speeding up high-throughput characterization of materials libraries by active learning: autonomous electrical resistance measurements**|Felix Thelen et.al.|[2306.17277v1](http://arxiv.org/abs/2306.17277v1)|null|
-|**2023-06-29**|**Computationally Assisted Quality Control for Public Health Data Streams**|Ananya Joshi et.al.|[2306.16914v1](http://arxiv.org/abs/2306.16914v1)|[link](https://github.com/ananya-joshi/ijcai23_supplemental)|
-|**2023-06-28**|**As Simple as Possible but No Simpler: Optimizing the Performance of Neural Net Emulators for Galaxy SED Fitting**|Elijah P. Mathews et.al.|[2306.16442v1](http://arxiv.org/abs/2306.16442v1)|null|
-|**2023-06-27**|**Non-parametric online market regime detection and regime clustering for multidimensional and path-dependent data structures**|Zacharia Issa et.al.|[2306.15835v1](http://arxiv.org/abs/2306.15835v1)|[link](https://github.com/issaz/signature-regime-detection)|
-|**2023-06-27**|**Anomaly Detection in Networks via Score-Based Generative Models**|Dmitrii Gavrilev et.al.|[2306.15324v1](http://arxiv.org/abs/2306.15324v1)|[link](https://github.com/realfolkcode/graphdiffusionanomaly)|
-|**2023-06-27**|**Internal Contrastive Learning for Generalized Out-of-distribution Fault Diagnosis (GOOFD) Framework**|Xingyue Wang et.al.|[2306.15266v1](http://arxiv.org/abs/2306.15266v1)|null|
-|**2023-06-27**|**TranssionADD: A multi-frame reinforcement based sequence tagging model for audio deepfake detection**|Jie Liu et.al.|[2306.15212v1](http://arxiv.org/abs/2306.15212v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -52,7 +18,7 @@
 |**2023-07-13**|**Self-Supervised Learning for Interactive Perception of Surgical Thread for Autonomous Suture Tail-Shortening**|Vincent Schorp et.al.|[2307.06845v1](http://arxiv.org/abs/2307.06845v1)|null|
 |**2023-07-13**|**JSJ decompositions of knot exteriors, Dehn surgery and the $L$-space conjecture**|Steven Boyer et.al.|[2307.06815v1](http://arxiv.org/abs/2307.06815v1)|null|
 |**2023-07-13**|**Defeating Proactive Jammers Using Deep Reinforcement Learning for Resource-Constrained IoT Networks**|Abubakar Sani Ali et.al.|[2307.06796v1](http://arxiv.org/abs/2307.06796v1)|null|
-|**2023-07-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenet et.al.|[2307.06795v1](http://arxiv.org/abs/2307.06795v1)|null|
+|**2023-07-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenet et.al.|[2307.06795v1](http://arxiv.org/abs/2307.06795v1)|[link](https://github.com/factodeeplearning/multitaskvlfm)|
 |**2023-07-13**|**Robotic surface exploration with vision and tactile sensing for cracks detection and characterisation**|Francesca Palermo et.al.|[2307.06784v1](http://arxiv.org/abs/2307.06784v1)|null|
 |**2023-07-13**|**Sensing directional forces in levitated optomechanics**|J. M. H. Gosling et.al.|[2307.06765v1](http://arxiv.org/abs/2307.06765v1)|null|
 |**2023-07-13**|**PBHs and GWs from $\mathbb{T}^2$-inflation and NANOGrav 15-year data**|Seyed Ali Hosseini Mansoori et.al.|[2307.06757v1](http://arxiv.org/abs/2307.06757v1)|null|
@@ -64,7 +30,7 @@
 |**2023-07-13**|**Flip-chip-based fast inductive parity readout of a planar superconducting island**|M. Hinderling et.al.|[2307.06718v1](http://arxiv.org/abs/2307.06718v1)|null|
 |**2023-07-13**|**Ageing Analysis of Embedded SRAM on a Large-Scale Testbed Using Machine Learning**|Leandro Lanzieri et.al.|[2307.06693v1](http://arxiv.org/abs/2307.06693v1)|null|
 |**2023-07-13**|**YOLIC: An Efficient Method for Object Localization and Classification on Edge Devices**|Kai Su et.al.|[2307.06689v1](http://arxiv.org/abs/2307.06689v1)|null|
-|**2023-07-13**|**Aeolus Ocean -- A simulation environment for the autonomous COLREG-compliant navigation of Unmanned Surface Vehicles using Deep Reinforcement Learning and Maritime Object Detection**|Andrew Alexander Vekinis et.al.|[2307.06688v1](http://arxiv.org/abs/2307.06688v1)|null|
+|**2023-07-13**|**Aeolus Ocean -- A simulation environment for the autonomous COLREG-compliant navigation of Unmanned Surface Vehicles using Deep Reinforcement Learning and Maritime Object Detection**|Andrew Alexander Vekinis et.al.|[2307.06688v1](http://arxiv.org/abs/2307.06688v1)|[link](https://github.com/aavek/aeolus-ocean)|
 |**2023-07-13**|**Uncovering the Deceptions: An Analysis on Audio Spoofing Detection and Future Prospects**|Rishabh Ranjan et.al.|[2307.06669v1](http://arxiv.org/abs/2307.06669v1)|null|
 |**2023-07-13**|**Design of a mobile neutron spectrometer for the Laboratori Nazionali del Gran Sasso (LNGS)**|Melih Solmaz et.al.|[2307.06660v1](http://arxiv.org/abs/2307.06660v1)|null|
 |**2023-07-13**|**Coherent Compensation based ISAC Signal Processing for Long-range Sensing**|Lin Wang et.al.|[2307.06634v1](http://arxiv.org/abs/2307.06634v1)|null|
@@ -101,12 +67,46 @@
 |**2023-07-13**|**Path-Integral Formula for Computing Koopman Eigenfunctions**|Shankar A. Deka et.al.|[2307.06805v1](http://arxiv.org/abs/2307.06805v1)|null|
 |**2023-07-13**|**Fast and Functional Structured Data Generators Rooted in Out-of-Equilibrium Physics**|Alessandra Carbone et.al.|[2307.06797v1](http://arxiv.org/abs/2307.06797v1)|[link](https://github.com/rossetl/fef)|
 |**2023-07-13**|**Defeating Proactive Jammers Using Deep Reinforcement Learning for Resource-Constrained IoT Networks**|Abubakar Sani Ali et.al.|[2307.06796v1](http://arxiv.org/abs/2307.06796v1)|null|
-|**2023-07-13**|**Generalizing Supervised Deep Learning MRI Reconstruction to Multiple and Unseen Contrasts using Meta-Learning Hypernetworks**|Sriprabha Ramanarayanan et.al.|[2307.06771v1](http://arxiv.org/abs/2307.06771v1)|null|
+|**2023-07-13**|**Generalizing Supervised Deep Learning MRI Reconstruction to Multiple and Unseen Contrasts using Meta-Learning Hypernetworks**|Sriprabha Ramanarayanan et.al.|[2307.06771v1](http://arxiv.org/abs/2307.06771v1)|[link](https://github.com/sriprabhar/km-maml)|
 |**2023-07-13**|**Retroactive Parametrized Monitoring**|Paloma Pedregal et.al.|[2307.06763v1](http://arxiv.org/abs/2307.06763v1)|null|
 |**2023-07-13**|**Privacy-Utility Trade-offs in Neural Networks for Medical Population Graphs: Insights from Differential Privacy and Graph Structure**|Tamara T. Mueller et.al.|[2307.06760v1](http://arxiv.org/abs/2307.06760v1)|null|
 |**2023-07-13**|**Layered controller synthesis for dynamic multi-agent systems**|Emily Clement et.al.|[2307.06758v1](http://arxiv.org/abs/2307.06758v1)|null|
 |**2023-07-13**|**Cramer Type Distances for Learning Gaussian Mixture Models by Gradient Descent**|Ruichong Zhang et.al.|[2307.06753v1](http://arxiv.org/abs/2307.06753v1)|null|
 |**2023-07-13**|**Closeness Centralities of Lollipop Graphs**|Chavdar Dangalchev et.al.|[2307.06738v1](http://arxiv.org/abs/2307.06738v1)|null|
 |**2023-07-13**|**Learning fixed points of recurrent neural networks by reparameterizing the network model**|Vicky Zhu et.al.|[2307.06732v1](http://arxiv.org/abs/2307.06732v1)|null|
-|**2023-07-13**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|null|
+|**2023-07-13**|**GRAN is superior to GraphRNN: node orderings, kernel- and graph embeddings-based metrics for graph generators**|Ousmane Touat et.al.|[2307.06709v1](http://arxiv.org/abs/2307.06709v1)|[link](https://github.com/otouat/gnnevaluationmetrics)|
 |**2023-07-13**|**Anatomy of localisation protected quantum order on Hilbert space**|Sthitadhi Roy et.al.|[2307.06702v1](http://arxiv.org/abs/2307.06702v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-13**|**Uncovering Unique Concept Vectors through Latent Space Decomposition**|Mara Graziani et.al.|[2307.06913v1](http://arxiv.org/abs/2307.06913v1)|null|
+|**2023-07-13**|**DSV: An Alignment Validation Loss for Self-supervised Outlier Model Selection**|Jaemin Yoo et.al.|[2307.06534v1](http://arxiv.org/abs/2307.06534v1)|null|
+|**2023-07-12**|**Outlier detection in regression: conic quadratic formulations**|Andrés Gómez et.al.|[2307.05975v1](http://arxiv.org/abs/2307.05975v1)|null|
+|**2023-07-12**|**Measuring photometric redshifts for high-redshift radio source surveys**|Kieran J. Luken et.al.|[2307.05927v1](http://arxiv.org/abs/2307.05927v1)|[link](https://github.com/kluken/photozforhigh-zradiosurveyspasa)|
+|**2023-07-11**|**CR-Lasso: Robust cellwise regularized sparse regression**|Peng Su et.al.|[2307.05234v1](http://arxiv.org/abs/2307.05234v1)|[link](https://github.com/pengsu517/regcell)|
+|**2023-07-10**|**Self-consistent Combined HST, K-band, and Spitzer Photometric Catalogs of the BUFFALO Survey Fields**|Amanda Pagul et.al.|[2307.04635v1](http://arxiv.org/abs/2307.04635v1)|null|
+|**2023-07-10**|**Badgers: generating data quality deficits with Python**|Julien Siebert et.al.|[2307.04468v1](http://arxiv.org/abs/2307.04468v1)|[link](https://github.com/fraunhofer-iese/badgers)|
+|**2023-07-07**|**Training Ensembles with Inliers and Outliers for Semi-supervised Active Learning**|Vladan Stojnić et.al.|[2307.03741v1](http://arxiv.org/abs/2307.03741v1)|[link](https://github.com/vladan-stojnic/active-outliers)|
+|**2023-07-07**|**The correspondence between rotating black holes and fundamental strings**|Nejc Čeplak et.al.|[2307.03573v1](http://arxiv.org/abs/2307.03573v1)|null|
+|**2023-07-06**|**That's BAD: Blind Anomaly Detection by Implicit Local Feature Clustering**|Jie Zhang et.al.|[2307.03243v1](http://arxiv.org/abs/2307.03243v1)|null|
+|**2023-07-06**|**Origin-Destination Travel Time Oracle for Map-based Services**|Yan Lin et.al.|[2307.03048v1](http://arxiv.org/abs/2307.03048v1)|null|
+|**2023-07-05**|**GAFAR: Graph-Attention Feature-Augmentation for Registration A Fast and Light-weight Point Set Registration Algorithm**|Ludwig Mohr et.al.|[2307.02339v1](http://arxiv.org/abs/2307.02339v1)|[link](https://github.com/mordecaimalignatius/gafar)|
+|**2023-07-05**|**EMORF/S: EM-Based Outlier-Robust Filtering and Smoothing With Correlated Measurement Noise**|Aamir Hussain Chughtai et.al.|[2307.02163v1](http://arxiv.org/abs/2307.02163v1)|null|
+|**2023-07-04**|**Wasserstein medians: robustness, PDE characterization and numerics**|Guillaume Carlier et.al.|[2307.01765v1](http://arxiv.org/abs/2307.01765v1)|[link](https://github.com/trade-opt/wasserstein-medians)|
+|**2023-07-04**|**Calibration of the in-orbit center-of-mass of TaiJi-1**|Xiaotong Wei et.al.|[2307.01724v1](http://arxiv.org/abs/2307.01724v1)|null|
+|**2023-07-04**|**Cubature Kalman filter Based on generalized minimum error entropy with fiducial point**|Jiacheng He et.al.|[2307.01438v1](http://arxiv.org/abs/2307.01438v1)|null|
+|**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
+|**2023-07-03**|**Robust Uncertainty Estimation for Classification of Maritime Objects**|Jonathan Becktor et.al.|[2307.01325v1](http://arxiv.org/abs/2307.01325v1)|null|
+|**2023-07-02**|**Robust Target Localization in 2D: A Value-at-Risk Approach**|João Domingos et.al.|[2307.00548v2](http://arxiv.org/abs/2307.00548v2)|null|
+|**2023-07-01**|**Variation-aware Vision Transformer Quantization**|Xijie Huang et.al.|[2307.00331v1](http://arxiv.org/abs/2307.00331v1)|[link](https://github.com/huangowen/vvtq)|
+|**2023-07-01**|**Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD**|Anvith Thudi et.al.|[2307.00310v1](http://arxiv.org/abs/2307.00310v1)|null|
+|**2023-06-30**|**A multivariate heavy-tailed integer-valued GARCH process with EM algorithm-based inference**|Yuhyeong Jang et.al.|[2306.17776v1](http://arxiv.org/abs/2306.17776v1)|[link](https://github.com/statjang/mpgig_ingarch)|
+|**2023-06-30**|**LIO-GVM: an Accurate, Tightly-Coupled Lidar-Inertial Odometry with Gaussian Voxel Map**|Xingyu Ji et.al.|[2306.17436v1](http://arxiv.org/abs/2306.17436v1)|null|
+|**2023-06-29**|**Speeding up high-throughput characterization of materials libraries by active learning: autonomous electrical resistance measurements**|Felix Thelen et.al.|[2306.17277v1](http://arxiv.org/abs/2306.17277v1)|null|
+|**2023-06-29**|**Computationally Assisted Quality Control for Public Health Data Streams**|Ananya Joshi et.al.|[2306.16914v1](http://arxiv.org/abs/2306.16914v1)|[link](https://github.com/ananya-joshi/ijcai23_supplemental)|
+|**2023-06-28**|**As Simple as Possible but No Simpler: Optimizing the Performance of Neural Net Emulators for Galaxy SED Fitting**|Elijah P. Mathews et.al.|[2306.16442v1](http://arxiv.org/abs/2306.16442v1)|null|
+|**2023-06-27**|**Non-parametric online market regime detection and regime clustering for multidimensional and path-dependent data structures**|Zacharia Issa et.al.|[2306.15835v1](http://arxiv.org/abs/2306.15835v1)|[link](https://github.com/issaz/signature-regime-detection)|
+|**2023-06-27**|**Anomaly Detection in Networks via Score-Based Generative Models**|Dmitrii Gavrilev et.al.|[2306.15324v1](http://arxiv.org/abs/2306.15324v1)|[link](https://github.com/realfolkcode/graphdiffusionanomaly)|
+|**2023-06-27**|**Internal Contrastive Learning for Generalized Out-of-distribution Fault Diagnosis (GOOFD) Framework**|Xingyue Wang et.al.|[2306.15266v1](http://arxiv.org/abs/2306.15266v1)|null|
+|**2023-06-27**|**TranssionADD: A multi-frame reinforcement based sequence tagging model for audio deepfake detection**|Jie Liu et.al.|[2306.15212v1](http://arxiv.org/abs/2306.15212v1)|null|
