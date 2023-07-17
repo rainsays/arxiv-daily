@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-17 10:14:10 Asia/Shanghai
+ Automated deployment @ 2023-07-17 20:50:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-14**|**Expressive Monotonic Neural Networks**|Ouail Kitouni et.al.|[2307.07512v1](http://arxiv.org/abs/2307.07512v1)|[link](https://github.com/niklasnolte/hlt_2track)|
+|**2023-07-14**|**Brain Tumor Detection using Convolutional Neural Networks with Skip Connections**|Aupam Hamran et.al.|[2307.07503v1](http://arxiv.org/abs/2307.07503v1)|null|
+|**2023-07-14**|**Community detection forecasts material failure in a sheared granular material**|Farnaz Fazelpour et.al.|[2307.07501v1](http://arxiv.org/abs/2307.07501v1)|null|
+|**2023-07-14**|**DreamTeacher: Pretraining Image Backbones with Deep Generative Models**|Daiqing Li et.al.|[2307.07487v1](http://arxiv.org/abs/2307.07487v1)|null|
+|**2023-07-14**|**Analysis of Unified Galaxy Power Spectrum Multipole Measurements**|Jamie Donald-McCann et.al.|[2307.07475v1](http://arxiv.org/abs/2307.07475v1)|null|
+|**2023-07-14**|**Spectral Network Principle for Frequency Synchronization in Repulsive Laser Networks**|Mostafa Honari-Latifpour et.al.|[2307.07471v1](http://arxiv.org/abs/2307.07471v1)|null|
+|**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|[link](https://github.com/Necolizer/ISTA-Net)|
+|**2023-07-14**|**SGGNet$^2$: Speech-Scene Graph Grounding Network for Speech-guided Navigation**|Dohyun Kim et.al.|[2307.07468v1](http://arxiv.org/abs/2307.07468v1)|null|
+|**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|null|
+|**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454v1](http://arxiv.org/abs/2307.07454v1)|null|
+|**2023-07-14**|**Investigation of Deep Learning-Based Filtered Density Function for Large Eddy Simulation of Turbulent Scalar Mixing**|Shubhangi Bansude et.al.|[2307.07453v1](http://arxiv.org/abs/2307.07453v1)|null|
+|**2023-07-14**|**Complete characterization of robust perfect adaptation in biochemical reaction networks**|Yuji Hirono et.al.|[2307.07444v1](http://arxiv.org/abs/2307.07444v1)|null|
+|**2023-07-14**|**Combining multitemporal optical and SAR data for LAI imputation with BiLSTM network**|W. Zhao et.al.|[2307.07434v1](http://arxiv.org/abs/2307.07434v1)|null|
+|**2023-07-14**|**An Approximation Algorithm for Multi Allocation Hub Location Problems**|Niklas Jost et.al.|[2307.07433v1](http://arxiv.org/abs/2307.07433v1)|null|
+|**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|null|
+|**2023-07-14**|**Vehicle-to-grid plug-in forecasting for participation in ancillary services markets**|Jemima Graham et.al.|[2307.07399v1](http://arxiv.org/abs/2307.07399v1)|null|
+|**2023-07-14**|**The resource theory of tensor networks**|Matthias Christandl et.al.|[2307.07394v1](http://arxiv.org/abs/2307.07394v1)|null|
+|**2023-07-14**|**Learning Sparse Neural Networks with Identity Layers**|Mingjian Ni et.al.|[2307.07389v1](http://arxiv.org/abs/2307.07389v1)|null|
+|**2023-07-14**|**Distributed Rate-Splitting Multiple Access for Multilayer Satellite Communications**|Yunnuo Xu et.al.|[2307.07382v1](http://arxiv.org/abs/2307.07382v1)|null|
+|**2023-07-14**|**Composition-contrastive Learning for Sentence Embeddings**|Sachin J. Chanchani et.al.|[2307.07380v1](http://arxiv.org/abs/2307.07380v1)|null|
+|**2023-07-14**|**Defect Classification in Additive Manufacturing Using CNN-Based Vision Processing**|Xiao Liu et.al.|[2307.07378v1](http://arxiv.org/abs/2307.07378v1)|null|
+|**2023-07-14**|**Two-Way Quantum Time Transfer: A Method for Daytime Space-Earth Links**|Randy Lafler et.al.|[2307.07371v1](http://arxiv.org/abs/2307.07371v1)|null|
+|**2023-07-14**|**AIC-AB NET: A Neural Network for Image Captioning with Spatial Attention and Text Attributes**|Guoyun Tu et.al.|[2307.07370v1](http://arxiv.org/abs/2307.07370v1)|null|
+|**2023-07-14**|**Are Large Language Models a Threat to Digital Public Goods? Evidence from Activity on Stack Overflow**|Maria del Rio-Chanona et.al.|[2307.07367v1](http://arxiv.org/abs/2307.07367v1)|null|
+|**2023-07-14**|**Gloss Attention for Gloss-free Sign Language Translation**|Aoxiong Yin et.al.|[2307.07361v1](http://arxiv.org/abs/2307.07361v1)|[link](https://github.com/yinaoxiong/gaslt)|
+|**2023-07-14**|**Inverse Evolution Layers: Physics-informed Regularizers for Deep Neural Networks**|Chaoyu Liu et.al.|[2307.07344v1](http://arxiv.org/abs/2307.07344v1)|null|
+|**2023-07-14**|**A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications**|Zhe Wang et.al.|[2307.07340v1](http://arxiv.org/abs/2307.07340v1)|null|
+|**2023-07-14**|**Representation Learning With Hidden Unit Clustering For Low Resource Speech Applications**|Varun Krishna et.al.|[2307.07325v1](http://arxiv.org/abs/2307.07325v1)|null|
+|**2023-07-14**|**Deep learning-based reduced order model for three-dimensional unsteady flow using mesh transformation and stitching**|Xin Li et.al.|[2307.07323v1](http://arxiv.org/abs/2307.07323v1)|null|
+|**2023-07-14**|**A Unified Distributed Method for Constrained Networked Optimization via Saddle-Point Dynamics**|Yi Huang et.al.|[2307.07318v1](http://arxiv.org/abs/2307.07318v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -67,46 +101,12 @@
 |**2023-07-14**|**cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations**|Silvia D. Almeida et.al.|[2307.07254v1](http://arxiv.org/abs/2307.07254v1)|null|
 |**2023-07-14**|**The Rapid ASKAP Continuum Survey III: Spectra and Polarisation In Cutouts of Extragalactic Sources (SPICE-RACS) First Data Release**|Alec J. M. Thomson et.al.|[2307.07207v1](http://arxiv.org/abs/2307.07207v1)|null|
 |**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205v1](http://arxiv.org/abs/2307.07205v1)|null|
-|**2023-07-14**|**Adaptive Region Selection for Active Learning in Whole Slide Image Semantic Segmentation**|Jingna Qiu et.al.|[2307.07168v1](http://arxiv.org/abs/2307.07168v1)|null|
+|**2023-07-14**|**Adaptive Region Selection for Active Learning in Whole Slide Image Semantic Segmentation**|Jingna Qiu et.al.|[2307.07168v1](http://arxiv.org/abs/2307.07168v1)|[link](https://github.com/deepmicroscopy/adaptiveregionselection)|
 |**2023-07-14**|**First Asteroseismic Analysis of the Globular Cluster M80: Multiple Populations and Stellar Mass Loss**|Madeline Howell et.al.|[2307.07158v1](http://arxiv.org/abs/2307.07158v1)|null|
 |**2023-07-14**|**Reconfigurable Intelligent Surface Assisted Free Space Optical Information and Power Transfer**|Wen Fang et.al.|[2307.07138v1](http://arxiv.org/abs/2307.07138v1)|null|
-|**2023-07-14**|**MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System**|Libo Qin et.al.|[2307.07135v1](http://arxiv.org/abs/2307.07135v1)|null|
+|**2023-07-14**|**MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System**|Libo Qin et.al.|[2307.07135v1](http://arxiv.org/abs/2307.07135v1)|[link](https://github.com/joeying1019/mmsd2.0)|
 |**2023-07-14**|**Improved Flood Insights: Diffusion-Based SAR to EO Image Translation**|Minseok Seo et.al.|[2307.07123v1](http://arxiv.org/abs/2307.07123v1)|null|
 |**2023-07-14**|**High-energy Neutrinos from the Inner Circumnuclear Region of NGC 1068**|Ke Fang et.al.|[2307.07121v1](http://arxiv.org/abs/2307.07121v1)|null|
 |**2023-07-14**|**A Hybrid Genetic Algorithm for the min-max Multiple Traveling Salesman Problem**|Sasan Mahmoudinazlou et.al.|[2307.07120v1](http://arxiv.org/abs/2307.07120v1)|null|
 |**2023-07-14**|**GRB 221009A with an unconventional precursor: a typical two-stage collapsar scenario?**|Xin-Ying Song et.al.|[2307.07104v1](http://arxiv.org/abs/2307.07104v1)|null|
 |**2023-07-14**|**Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2307.07102v1](http://arxiv.org/abs/2307.07102v1)|[link](https://github.com/GuanRunwei/Achelous)|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-14**|**Expressive Monotonic Neural Networks**|Ouail Kitouni et.al.|[2307.07512v1](http://arxiv.org/abs/2307.07512v1)|null|
-|**2023-07-14**|**Brain Tumor Detection using Convolutional Neural Networks with Skip Connections**|Aupam Hamran et.al.|[2307.07503v1](http://arxiv.org/abs/2307.07503v1)|null|
-|**2023-07-14**|**Community detection forecasts material failure in a sheared granular material**|Farnaz Fazelpour et.al.|[2307.07501v1](http://arxiv.org/abs/2307.07501v1)|null|
-|**2023-07-14**|**DreamTeacher: Pretraining Image Backbones with Deep Generative Models**|Daiqing Li et.al.|[2307.07487v1](http://arxiv.org/abs/2307.07487v1)|null|
-|**2023-07-14**|**Analysis of Unified Galaxy Power Spectrum Multipole Measurements**|Jamie Donald-McCann et.al.|[2307.07475v1](http://arxiv.org/abs/2307.07475v1)|null|
-|**2023-07-14**|**Spectral Network Principle for Frequency Synchronization in Repulsive Laser Networks**|Mostafa Honari-Latifpour et.al.|[2307.07471v1](http://arxiv.org/abs/2307.07471v1)|null|
-|**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|null|
-|**2023-07-14**|**SGGNet$^2$: Speech-Scene Graph Grounding Network for Speech-guided Navigation**|Dohyun Kim et.al.|[2307.07468v1](http://arxiv.org/abs/2307.07468v1)|null|
-|**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|null|
-|**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454v1](http://arxiv.org/abs/2307.07454v1)|null|
-|**2023-07-14**|**Investigation of Deep Learning-Based Filtered Density Function for Large Eddy Simulation of Turbulent Scalar Mixing**|Shubhangi Bansude et.al.|[2307.07453v1](http://arxiv.org/abs/2307.07453v1)|null|
-|**2023-07-14**|**Complete characterization of robust perfect adaptation in biochemical reaction networks**|Yuji Hirono et.al.|[2307.07444v1](http://arxiv.org/abs/2307.07444v1)|null|
-|**2023-07-14**|**Combining multitemporal optical and SAR data for LAI imputation with BiLSTM network**|W. Zhao et.al.|[2307.07434v1](http://arxiv.org/abs/2307.07434v1)|null|
-|**2023-07-14**|**An Approximation Algorithm for Multi Allocation Hub Location Problems**|Niklas Jost et.al.|[2307.07433v1](http://arxiv.org/abs/2307.07433v1)|null|
-|**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|null|
-|**2023-07-14**|**Vehicle-to-grid plug-in forecasting for participation in ancillary services markets**|Jemima Graham et.al.|[2307.07399v1](http://arxiv.org/abs/2307.07399v1)|null|
-|**2023-07-14**|**The resource theory of tensor networks**|Matthias Christandl et.al.|[2307.07394v1](http://arxiv.org/abs/2307.07394v1)|null|
-|**2023-07-14**|**Learning Sparse Neural Networks with Identity Layers**|Mingjian Ni et.al.|[2307.07389v1](http://arxiv.org/abs/2307.07389v1)|null|
-|**2023-07-14**|**Distributed Rate-Splitting Multiple Access for Multilayer Satellite Communications**|Yunnuo Xu et.al.|[2307.07382v1](http://arxiv.org/abs/2307.07382v1)|null|
-|**2023-07-14**|**Composition-contrastive Learning for Sentence Embeddings**|Sachin J. Chanchani et.al.|[2307.07380v1](http://arxiv.org/abs/2307.07380v1)|null|
-|**2023-07-14**|**Defect Classification in Additive Manufacturing Using CNN-Based Vision Processing**|Xiao Liu et.al.|[2307.07378v1](http://arxiv.org/abs/2307.07378v1)|null|
-|**2023-07-14**|**Two-Way Quantum Time Transfer: A Method for Daytime Space-Earth Links**|Randy Lafler et.al.|[2307.07371v1](http://arxiv.org/abs/2307.07371v1)|null|
-|**2023-07-14**|**AIC-AB NET: A Neural Network for Image Captioning with Spatial Attention and Text Attributes**|Guoyun Tu et.al.|[2307.07370v1](http://arxiv.org/abs/2307.07370v1)|null|
-|**2023-07-14**|**Are Large Language Models a Threat to Digital Public Goods? Evidence from Activity on Stack Overflow**|Maria del Rio-Chanona et.al.|[2307.07367v1](http://arxiv.org/abs/2307.07367v1)|null|
-|**2023-07-14**|**Gloss Attention for Gloss-free Sign Language Translation**|Aoxiong Yin et.al.|[2307.07361v1](http://arxiv.org/abs/2307.07361v1)|null|
-|**2023-07-14**|**Inverse Evolution Layers: Physics-informed Regularizers for Deep Neural Networks**|Chaoyu Liu et.al.|[2307.07344v1](http://arxiv.org/abs/2307.07344v1)|null|
-|**2023-07-14**|**A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications**|Zhe Wang et.al.|[2307.07340v1](http://arxiv.org/abs/2307.07340v1)|null|
-|**2023-07-14**|**Representation Learning With Hidden Unit Clustering For Low Resource Speech Applications**|Varun Krishna et.al.|[2307.07325v1](http://arxiv.org/abs/2307.07325v1)|null|
-|**2023-07-14**|**Deep learning-based reduced order model for three-dimensional unsteady flow using mesh transformation and stitching**|Xin Li et.al.|[2307.07323v1](http://arxiv.org/abs/2307.07323v1)|null|
-|**2023-07-14**|**A Unified Distributed Method for Constrained Networked Optimization via Saddle-Point Dynamics**|Yi Huang et.al.|[2307.07318v1](http://arxiv.org/abs/2307.07318v1)|null|
