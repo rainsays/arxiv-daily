@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-19 11:06:35 Asia/Shanghai
+ Automated deployment @ 2023-07-19 20:42:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18**|**GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**|Zhuoling Li et.al.|[2307.09472v1](http://arxiv.org/abs/2307.09472v1)|null|
+|**2023-07-18**|**Occlusion Aware Student Emotion Recognition based on Facial Action Unit Detection**|Shrouk Wally et.al.|[2307.09465v1](http://arxiv.org/abs/2307.09465v1)|null|
+|**2023-07-18**|**NUTRIG: Towards an Autonomous Radio Trigger for GRAND**|Pablo Correa et.al.|[2307.09462v1](http://arxiv.org/abs/2307.09462v1)|null|
+|**2023-07-18**|**Smooth Attention for Deep Multiple Instance Learning: Application to CT Intracranial Hemorrhage Detection**|Yunan Wu et.al.|[2307.09457v1](http://arxiv.org/abs/2307.09457v1)|[link](https://github.com/yunanwu2168/sa-mil)|
+|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v1](http://arxiv.org/abs/2307.09455v1)|null|
+|**2023-07-18**|**RIS-Aided Index Modulation with Greedy Detection over Rician Fading Channels**|Aritra Basu et.al.|[2307.09417v1](http://arxiv.org/abs/2307.09417v1)|null|
+|**2023-07-18**|**Nonlocal thermoelectric detection of interaction and correlations in edge states**|Alessandro Braggio et.al.|[2307.09410v1](http://arxiv.org/abs/2307.09410v1)|null|
+|**2023-07-18**|**(2+1)D SU(2) Yang-Mills Lattice Gauge Theory at finite density via tensor networks**|Giovanni Cataldi et.al.|[2307.09396v1](http://arxiv.org/abs/2307.09396v1)|null|
+|**2023-07-18**|**Is this Snippet Written by ChatGPT? An Empirical Study with a CodeBERT-Based Classifier**|Phuong T. Nguyen et.al.|[2307.09381v1](http://arxiv.org/abs/2307.09381v1)|null|
+|**2023-07-18**|**Measuring the Leakage and Exploitability of Authentication Secrets in Super-apps: The WeChat Case**|Supraja Baskaran et.al.|[2307.09317v1](http://arxiv.org/abs/2307.09317v1)|null|
+|**2023-07-18**|**Multi-Modal Discussion Transformer: Integrating Text, Images and Graph Transformers to Detect Hate Speech on Social Media**|Liam Hebert et.al.|[2307.09312v1](http://arxiv.org/abs/2307.09312v1)|[link](https://github.com/liamhebert/multimodaldiscussiontransformer)|
+|**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
+|**2023-07-18**|**Star network non-n-local correlations can resist consistency noises better**|Kan He et.al.|[2307.09293v1](http://arxiv.org/abs/2307.09293v1)|null|
+|**2023-07-18**|**Model-free selective inference under covariate shift via weighted conformal p-values**|Ying Jin et.al.|[2307.09291v1](http://arxiv.org/abs/2307.09291v1)|null|
+|**2023-07-18**|**Vibrational dichroism of chiral valley phonons**|Yiming Pan et.al.|[2307.09280v1](http://arxiv.org/abs/2307.09280v1)|null|
+|**2023-07-18**|**Knowledge Distillation for Object Detection: from generic to remote sensing datasets**|Hoàng-Ân Lê et.al.|[2307.09264v1](http://arxiv.org/abs/2307.09264v1)|null|
+|**2023-07-18**|**Towards Sustainable Deep Learning for Multi-Label Classification on NILM**|Anže Pirnat et.al.|[2307.09244v1](http://arxiv.org/abs/2307.09244v1)|null|
+|**2023-07-18**|**Detecting Throat Cancer from Speech Signals Using Machine Learning: A Reproducible Literature Review**|Mary Paterson et.al.|[2307.09230v1](http://arxiv.org/abs/2307.09230v1)|null|
+|**2023-07-18**|**Discovery of a magnetar candidate X-ray pulsar in the Large Magellanic Cloud**|M. Imbrogno et.al.|[2307.09224v1](http://arxiv.org/abs/2307.09224v1)|null|
+|**2023-07-18**|**A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future**|Chaoyang Zhu et.al.|[2307.09220v1](http://arxiv.org/abs/2307.09220v1)|null|
+|**2023-07-18**|**Machine-directed gravitational-wave counterpart discovery**|Niharika Sravan et.al.|[2307.09213v1](http://arxiv.org/abs/2307.09213v1)|null|
+|**2023-07-18**|**Nested stochastic block model for simultaneously clustering networks and nodes**|Nathaniel Josephs et.al.|[2307.09210v1](http://arxiv.org/abs/2307.09210v1)|null|
+|**2023-07-18**|**Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models**|Pranav Narayanan Venkit et.al.|[2307.09209v1](http://arxiv.org/abs/2307.09209v1)|null|
+|**2023-07-18**|**An emerging and enigmatic spectral class of isolated DAe white dwarfs**|Abbigail K. Elms et.al.|[2307.09186v1](http://arxiv.org/abs/2307.09186v1)|null|
+|**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|null|
+|**2023-07-18**|**Detection of entangled states supported by reinforcement learning**|Jia-Hao Cao et.al.|[2307.09176v1](http://arxiv.org/abs/2307.09176v1)|null|
+|**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172v1](http://arxiv.org/abs/2307.09172v1)|null|
+|**2023-07-18**|**Towards Trustworthy Dataset Distillation**|Shijie Ma et.al.|[2307.09165v1](http://arxiv.org/abs/2307.09165v1)|null|
+|**2023-07-18**|**MLF-DET: Multi-Level Fusion for Cross-Modal 3D Object Detection**|Zewei Lin et.al.|[2307.09155v1](http://arxiv.org/abs/2307.09155v1)|null|
+|**2023-07-18**|**MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2307.09143v1](http://arxiv.org/abs/2307.09143v1)|[link](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds)|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,37 +110,3 @@
 |**2023-07-18**|**Star network non-n-local correlations can resist consistency noises better**|Kan He et.al.|[2307.09293v1](http://arxiv.org/abs/2307.09293v1)|null|
 |**2023-07-18**|**RepViT: Revisiting Mobile CNN From ViT Perspective**|Ao Wang et.al.|[2307.09283v1](http://arxiv.org/abs/2307.09283v1)|[link](https://github.com/jameslahm/RepViT)|
 |**2023-07-18**|**Improving Text Semantic Similarity Modeling through a 3D Siamese Network**|Jianxiang Zang et.al.|[2307.09274v1](http://arxiv.org/abs/2307.09274v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-18**|**GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**|Zhuoling Li et.al.|[2307.09472v1](http://arxiv.org/abs/2307.09472v1)|null|
-|**2023-07-18**|**Occlusion Aware Student Emotion Recognition based on Facial Action Unit Detection**|Shrouk Wally et.al.|[2307.09465v1](http://arxiv.org/abs/2307.09465v1)|null|
-|**2023-07-18**|**NUTRIG: Towards an Autonomous Radio Trigger for GRAND**|Pablo Correa et.al.|[2307.09462v1](http://arxiv.org/abs/2307.09462v1)|null|
-|**2023-07-18**|**Smooth Attention for Deep Multiple Instance Learning: Application to CT Intracranial Hemorrhage Detection**|Yunan Wu et.al.|[2307.09457v1](http://arxiv.org/abs/2307.09457v1)|[link](https://github.com/yunanwu2168/sa-mil)|
-|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v1](http://arxiv.org/abs/2307.09455v1)|null|
-|**2023-07-18**|**RIS-Aided Index Modulation with Greedy Detection over Rician Fading Channels**|Aritra Basu et.al.|[2307.09417v1](http://arxiv.org/abs/2307.09417v1)|null|
-|**2023-07-18**|**Nonlocal thermoelectric detection of interaction and correlations in edge states**|Alessandro Braggio et.al.|[2307.09410v1](http://arxiv.org/abs/2307.09410v1)|null|
-|**2023-07-18**|**(2+1)D SU(2) Yang-Mills Lattice Gauge Theory at finite density via tensor networks**|Giovanni Cataldi et.al.|[2307.09396v1](http://arxiv.org/abs/2307.09396v1)|null|
-|**2023-07-18**|**Is this Snippet Written by ChatGPT? An Empirical Study with a CodeBERT-Based Classifier**|Phuong T. Nguyen et.al.|[2307.09381v1](http://arxiv.org/abs/2307.09381v1)|null|
-|**2023-07-18**|**Measuring the Leakage and Exploitability of Authentication Secrets in Super-apps: The WeChat Case**|Supraja Baskaran et.al.|[2307.09317v1](http://arxiv.org/abs/2307.09317v1)|null|
-|**2023-07-18**|**Multi-Modal Discussion Transformer: Integrating Text, Images and Graph Transformers to Detect Hate Speech on Social Media**|Liam Hebert et.al.|[2307.09312v1](http://arxiv.org/abs/2307.09312v1)|[link](https://github.com/liamhebert/multimodaldiscussiontransformer)|
-|**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
-|**2023-07-18**|**Star network non-n-local correlations can resist consistency noises better**|Kan He et.al.|[2307.09293v1](http://arxiv.org/abs/2307.09293v1)|null|
-|**2023-07-18**|**Model-free selective inference under covariate shift via weighted conformal p-values**|Ying Jin et.al.|[2307.09291v1](http://arxiv.org/abs/2307.09291v1)|null|
-|**2023-07-18**|**Vibrational dichroism of chiral valley phonons**|Yiming Pan et.al.|[2307.09280v1](http://arxiv.org/abs/2307.09280v1)|null|
-|**2023-07-18**|**Knowledge Distillation for Object Detection: from generic to remote sensing datasets**|Hoàng-Ân Lê et.al.|[2307.09264v1](http://arxiv.org/abs/2307.09264v1)|null|
-|**2023-07-18**|**Towards Sustainable Deep Learning for Multi-Label Classification on NILM**|Anže Pirnat et.al.|[2307.09244v1](http://arxiv.org/abs/2307.09244v1)|null|
-|**2023-07-18**|**Detecting Throat Cancer from Speech Signals Using Machine Learning: A Reproducible Literature Review**|Mary Paterson et.al.|[2307.09230v1](http://arxiv.org/abs/2307.09230v1)|null|
-|**2023-07-18**|**Discovery of a magnetar candidate X-ray pulsar in the Large Magellanic Cloud**|M. Imbrogno et.al.|[2307.09224v1](http://arxiv.org/abs/2307.09224v1)|null|
-|**2023-07-18**|**A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future**|Chaoyang Zhu et.al.|[2307.09220v1](http://arxiv.org/abs/2307.09220v1)|null|
-|**2023-07-18**|**Machine-directed gravitational-wave counterpart discovery**|Niharika Sravan et.al.|[2307.09213v1](http://arxiv.org/abs/2307.09213v1)|null|
-|**2023-07-18**|**Nested stochastic block model for simultaneously clustering networks and nodes**|Nathaniel Josephs et.al.|[2307.09210v1](http://arxiv.org/abs/2307.09210v1)|null|
-|**2023-07-18**|**Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models**|Pranav Narayanan Venkit et.al.|[2307.09209v1](http://arxiv.org/abs/2307.09209v1)|null|
-|**2023-07-18**|**An emerging and enigmatic spectral class of isolated DAe white dwarfs**|Abbigail K. Elms et.al.|[2307.09186v1](http://arxiv.org/abs/2307.09186v1)|null|
-|**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|null|
-|**2023-07-18**|**Detection of entangled states supported by reinforcement learning**|Jia-Hao Cao et.al.|[2307.09176v1](http://arxiv.org/abs/2307.09176v1)|null|
-|**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172v1](http://arxiv.org/abs/2307.09172v1)|null|
-|**2023-07-18**|**Towards Trustworthy Dataset Distillation**|Shijie Ma et.al.|[2307.09165v1](http://arxiv.org/abs/2307.09165v1)|null|
-|**2023-07-18**|**MLF-DET: Multi-Level Fusion for Cross-Modal 3D Object Detection**|Zewei Lin et.al.|[2307.09155v1](http://arxiv.org/abs/2307.09155v1)|null|
-|**2023-07-18**|**MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2307.09143v1](http://arxiv.org/abs/2307.09143v1)|[link](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds)|
