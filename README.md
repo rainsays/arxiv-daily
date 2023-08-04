@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-04 09:39:37 Asia/Shanghai
+ Automated deployment @ 2023-08-04 20:39:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -9,77 +9,79 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-02**|**TEASMA: A Practical Approach for the Test Assessment of Deep Neural Networks using Mutation Analysis**|Amin Abbasishahkoo et.al.|[2308.01311v1](http://arxiv.org/abs/2308.01311v1)|null|
-|**2023-08-02**|**Revisiting DETR Pre-training for Object Detection**|Yan Ma et.al.|[2308.01300v1](http://arxiv.org/abs/2308.01300v1)|null|
-|**2023-08-02**|**The Star Formation Across Cosmic Time (SFACT) Survey. III. Spectroscopy of the Initial Catalog of Emission-Line Objects**|David J. Carr et.al.|[2308.01297v1](http://arxiv.org/abs/2308.01297v1)|null|
-|**2023-08-02**|**The Star Formation Across Cosmic Time (SFACT) Survey. II. The First Catalog from a New Narrow-Band Survey for Emission-Line Objects**|Jennifer Sieben et.al.|[2308.01292v1](http://arxiv.org/abs/2308.01292v1)|null|
-|**2023-08-02**|**Fighting Fire with Fire: Can ChatGPT Detect AI-generated Text?**|Amrita Bhattacharjee et.al.|[2308.01284v1](http://arxiv.org/abs/2308.01284v1)|[link](https://github.com/amritabh/chatgpt-as-detector)|
-|**2023-08-02**|**A Large-Scale Study of Phishing PDF Documents**|Giada Stivala et.al.|[2308.01273v1](http://arxiv.org/abs/2308.01273v1)|null|
-|**2023-08-02**|**A Probabilistic Approach to Self-Supervised Learning using Cyclical Stochastic Gradient MCMC**|Masoumeh Javanbakhat et.al.|[2308.01271v1](http://arxiv.org/abs/2308.01271v1)|null|
-|**2023-08-02**|**Learning Spatial Distribution of Long-Term Trackers Scores**|Vincenzo Mariano Scarrica et.al.|[2308.01256v1](http://arxiv.org/abs/2308.01256v1)|null|
-|**2023-08-02**|**A Hyper-pixel-wise Contrastive Learning Augmented Segmentation Network for Old Landslide Detection Using High-Resolution Remote Sensing Images and Digital Elevation Model Data**|Yiming Zhou et.al.|[2308.01251v1](http://arxiv.org/abs/2308.01251v1)|null|
-|**2023-08-02**|**IXPE and XMM-Newton observations of the Soft Gamma Repeater SGR 1806-20**|Roberto Turolla et.al.|[2308.01238v1](http://arxiv.org/abs/2308.01238v1)|null|
-|**2023-08-02**|**LSF-IDM: Lightweight Deep Learning Models for Automotive Intrusion Detection Model Based on Semantic Fusion**|Pengzhou Cheng et.al.|[2308.01237v1](http://arxiv.org/abs/2308.01237v1)|null|
-|**2023-08-02**|**JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty**|Roberto Maiolino et.al.|[2308.01230v1](http://arxiv.org/abs/2308.01230v1)|null|
-|**2023-08-02**|**Using ScrutinAI for Visual Inspection of DNN Performance in a Medical Use Case**|Rebekka Görge et.al.|[2308.01220v1](http://arxiv.org/abs/2308.01220v1)|null|
-|**2023-08-02**|**Towards Understanding the Capability of Large Language Models on Code Clone Detection: A Survey**|Shihan Dou et.al.|[2308.01191v2](http://arxiv.org/abs/2308.01191v2)|null|
-|**2023-08-02**|**Interpretable End-to-End Driving Model for Implicit Scene Understanding**|Yiyang Sun et.al.|[2308.01180v1](http://arxiv.org/abs/2308.01180v1)|null|
-|**2023-08-02**|**Detecting Dark Domain Walls**|Kate Clements et.al.|[2308.01179v1](http://arxiv.org/abs/2308.01179v1)|null|
-|**2023-08-02**|**Search for Galactic core-collapse supernovae in a decade of data taken with the IceCube Neutrino Observatory**|IceCube Collaboration et.al.|[2308.01172v1](http://arxiv.org/abs/2308.01172v1)|null|
-|**2023-08-02**|**Quantitative and dark field ghost imaging with ultraviolet light**|Jiaqi Song et.al.|[2308.01168v1](http://arxiv.org/abs/2308.01168v1)|null|
-|**2023-08-02**|**The Oxygen Bottleneck for Technospheres**|Amedeo Balbi et.al.|[2308.01160v1](http://arxiv.org/abs/2308.01160v1)|null|
-|**2023-08-02**|**LLMs Understand Glass-Box Models, Discover Surprises, and Suggest Repairs**|Benjamin J. Lengerich et.al.|[2308.01157v1](http://arxiv.org/abs/2308.01157v1)|[link](https://github.com/interpretml/talktoebm)|
-|**2023-08-02**|**UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation**|Qingsong Xu et.al.|[2308.01146v1](http://arxiv.org/abs/2308.01146v1)|[link](https://github.com/zhu-xlab/ucdformer)|
-|**2023-08-02**|**Can We Transfer Noise Patterns? An Multi-environment Spectrum Analysis Model Using Generated Cases**|Haiwen Du et.al.|[2308.01138v1](http://arxiv.org/abs/2308.01138v1)|[link](https://github.com/magnomic/cnst)|
-|**2023-08-02**|**Multi-task learning for classification, segmentation, reconstruction, and detection on chest CT scans**|Weronika Hryniewska-Guzik et.al.|[2308.01137v1](http://arxiv.org/abs/2308.01137v1)|null|
-|**2023-08-02**|**A Survey on Popularity Bias in Recommender Systems**|Anastasiia Klimashevskaia et.al.|[2308.01118v1](http://arxiv.org/abs/2308.01118v1)|null|
-|**2023-08-02**|**Homography Estimation in Complex Topological Scenes**|Giacomo D'Amicantonio et.al.|[2308.01086v1](http://arxiv.org/abs/2308.01086v1)|null|
-|**2023-08-02**|**Beaming patterns of neutrino emission from photo-pion production in relativistic jets**|Markus Boettcher et.al.|[2308.01083v1](http://arxiv.org/abs/2308.01083v1)|null|
-|**2023-08-02**|**An Adaptable Approach for Successful SIEM Adoption in Companies**|Maximilian Rosenberg et.al.|[2308.01065v1](http://arxiv.org/abs/2308.01065v1)|null|
-|**2023-08-02**|**Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**|Xing Ai et.al.|[2308.01063v1](http://arxiv.org/abs/2308.01063v1)|null|
-|**2023-08-02**|**MammoDG: Generalisable Deep Learning Breaks the Limits of Cross-Domain Multi-Center Breast Cancer Screening**|Yijun Yang et.al.|[2308.01057v1](http://arxiv.org/abs/2308.01057v1)|null|
-|**2023-08-02**|**Impact of the noise knowledge uncertainty for the science exploitation of cosmological and astrophysical stochastic gravitational wave background with LISA**|Martina Muratore et.al.|[2308.01056v1](http://arxiv.org/abs/2308.01056v1)|null|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-02**|**TEASMA: A Practical Approach for the Test Assessment of Deep Neural Networks using Mutation Analysis**|Amin Abbasishahkoo et.al.|[2308.01311v1](http://arxiv.org/abs/2308.01311v1)|null|
-|**2023-08-02**|**Constraining the nature of dark compact objects with spin-induced octupole moment measurement**|Pankaj Saini et.al.|[2308.01309v1](http://arxiv.org/abs/2308.01309v1)|null|
-|**2023-08-02**|**Broad Band Mott Localization is all you need for Hot Superconductivity: Atom Mott Insulator Theory for Cu-Pb Apatite**|G. Baskaran et.al.|[2308.01307v1](http://arxiv.org/abs/2308.01307v1)|null|
-|**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262v1](http://arxiv.org/abs/2308.01262v1)|[link](https://github.com/enterprisecv-6/season-nerf)|
-|**2023-08-02**|**Surrogate modelling and uncertainty quantification based on multi-fidelity deep neural network**|Zhihui Li et.al.|[2308.01261v1](http://arxiv.org/abs/2308.01261v1)|null|
-|**2023-08-02**|**Shaping Online Dialogue: Examining How Community Rules Affect Discussion Structures on Reddit**|Anna Fang et.al.|[2308.01257v1](http://arxiv.org/abs/2308.01257v1)|null|
-|**2023-08-02**|**A Hyper-pixel-wise Contrastive Learning Augmented Segmentation Network for Old Landslide Detection Using High-Resolution Remote Sensing Images and Digital Elevation Model Data**|Yiming Zhou et.al.|[2308.01251v1](http://arxiv.org/abs/2308.01251v1)|null|
-|**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241v1](http://arxiv.org/abs/2308.01241v1)|null|
-|**2023-08-02**|**CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion**|Fenghe Tang et.al.|[2308.01239v2](http://arxiv.org/abs/2308.01239v2)|[link](https://github.com/fenghetan9/cmunext)|
-|**2023-08-02**|**LSF-IDM: Lightweight Deep Learning Models for Automotive Intrusion Detection Model Based on Semantic Fusion**|Pengzhou Cheng et.al.|[2308.01237v1](http://arxiv.org/abs/2308.01237v1)|null|
-|**2023-08-02**|**Grounded Image Text Matching with Mismatched Relation Reasoning**|Yu Wu et.al.|[2308.01236v1](http://arxiv.org/abs/2308.01236v1)|null|
-|**2023-08-02**|**Calibration in Deep Learning: A Survey of the State-of-the-Art**|Cheng Wang et.al.|[2308.01222v1](http://arxiv.org/abs/2308.01222v1)|null|
-|**2023-08-02**|**Using ScrutinAI for Visual Inspection of DNN Performance in a Medical Use Case**|Rebekka Görge et.al.|[2308.01220v1](http://arxiv.org/abs/2308.01220v1)|null|
-|**2023-08-02**|**TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval**|Kaibin Tian et.al.|[2308.01217v1](http://arxiv.org/abs/2308.01217v1)|null|
-|**2023-08-02**|**Embedding Capabilities of Neural ODEs**|Christian Kuehn et.al.|[2308.01213v1](http://arxiv.org/abs/2308.01213v1)|null|
-|**2023-08-02**|**Global Hierarchical Neural Networks using Hierarchical Softmax**|Jetze Schuurmans et.al.|[2308.01210v1](http://arxiv.org/abs/2308.01210v1)|null|
-|**2023-08-02**|**Fast equivalence checking of quantum circuits of Clifford gates**|Dimitrios Thanos et.al.|[2308.01206v1](http://arxiv.org/abs/2308.01206v1)|null|
-|**2023-08-02**|**Music De-limiter Networks via Sample-wise Gain Inversion**|Chang-Bin Jeon et.al.|[2308.01187v1](http://arxiv.org/abs/2308.01187v1)|null|
-|**2023-08-02**|**High-efficient deep learning-based DTI reconstruction with flexible diffusion gradient encoding scheme**|Zejun Wu et.al.|[2308.01173v1](http://arxiv.org/abs/2308.01173v1)|null|
-|**2023-08-02**|**Stake Your Claim: Zero-Trust Validator Deployment Leveraging NFTs and Smart Contracts in Proof-of-Stake Networks**|Scott Seidenberger et.al.|[2308.01158v1](http://arxiv.org/abs/2308.01158v1)|null|
-|**2023-08-02**|**Can We Transfer Noise Patterns? An Multi-environment Spectrum Analysis Model Using Generated Cases**|Haiwen Du et.al.|[2308.01138v1](http://arxiv.org/abs/2308.01138v1)|[link](https://github.com/magnomic/cnst)|
-|**2023-08-02**|**Leveraging Expert Models for Training Deep Neural Networks in Scarce Data Domains: Application to Offline Handwritten Signature Verification**|Dimitrios Tsourounis et.al.|[2308.01136v1](http://arxiv.org/abs/2308.01136v1)|null|
-|**2023-08-02**|**New Protocols for Conference Key and Multipartite Entanglement Distillation**|Farzin Salek et.al.|[2308.01134v1](http://arxiv.org/abs/2308.01134v1)|null|
-|**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
-|**2023-08-02**|**Spatio-Temporal Branching for Motion Prediction using Motion Increments**|Jiexin Wang et.al.|[2308.01097v1](http://arxiv.org/abs/2308.01097v1)|[link](https://github.com/jasonwang959/stpmp)|
-|**2023-08-02**|**A data-driven microscopic on-ramp model based on macroscopic network flows**|Niklas Kolbe et.al.|[2308.01093v1](http://arxiv.org/abs/2308.01093v1)|null|
-|**2023-08-02**|**Homography Estimation in Complex Topological Scenes**|Giacomo D'Amicantonio et.al.|[2308.01086v1](http://arxiv.org/abs/2308.01086v1)|null|
-|**2023-08-02**|**Many-Body Mobility Edge in Quantum Sun models**|Konrad Pawlik et.al.|[2308.01073v1](http://arxiv.org/abs/2308.01073v1)|null|
-|**2023-08-02**|**Neural network encoded variational quantum algorithms**|Jiaqi Miao et.al.|[2308.01068v1](http://arxiv.org/abs/2308.01068v1)|null|
-|**2023-08-02**|**Improving Generalization of Synthetically Trained Sonar Image Descriptors for Underwater Place Recognition**|Ivano Donadi et.al.|[2308.01058v1](http://arxiv.org/abs/2308.01058v1)|null|
+|**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898v1](http://arxiv.org/abs/2308.01898v1)|null|
+|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862v1](http://arxiv.org/abs/2308.01862v1)|null|
+|**2023-08-03**|**Effects of Cytoskeletal Network Mesh Size on Cargo Transport**|Nimisha Krishnan et.al.|[2308.01859v1](http://arxiv.org/abs/2308.01859v1)|null|
+|**2023-08-03**|**Galactic Core-Collapse Supernovae at IceCube: "Fire Drill" Data Challenges and follow-up**|Spencer Griswold et.al.|[2308.01843v1](http://arxiv.org/abs/2308.01843v1)|null|
+|**2023-08-03**|**Local and extensive fluctuations in sparsely-interacting ecological communities**|Stav Marcus et.al.|[2308.01828v1](http://arxiv.org/abs/2308.01828v1)|null|
+|**2023-08-03**|**Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations**|Annie E. Paine et.al.|[2308.01827v1](http://arxiv.org/abs/2308.01827v1)|null|
+|**2023-08-03**|**Hard Adversarial Example Mining for Improving Robust Fairness**|Chenhao Lin et.al.|[2308.01823v1](http://arxiv.org/abs/2308.01823v1)|null|
+|**2023-08-03**|**Tensor Programs IVb: Adaptive Optimization in the Infinite-Width Limit**|Greg Yang et.al.|[2308.01814v1](http://arxiv.org/abs/2308.01814v1)|null|
+|**2023-08-03**|**Deep Neural Networks Fused with Textures for Image Classification**|Asish Bera et.al.|[2308.01813v1](http://arxiv.org/abs/2308.01813v1)|null|
+|**2023-08-03**|**Glass-like Caging with Random Planes**|Giampaolo Folena et.al.|[2308.01806v1](http://arxiv.org/abs/2308.01806v1)|null|
+|**2023-08-03**|**Collective action and spontaneity cycles: Cascading dynamics under Bayesian games**|FangYiKuang Ding et.al.|[2308.01791v1](http://arxiv.org/abs/2308.01791v1)|null|
+|**2023-08-03**|**The ACAC_D Model for Mutable Activity Control and Chain of Dependencies in Smart and Collaborative Systems**|Tanjila Mawla et.al.|[2308.01783v1](http://arxiv.org/abs/2308.01783v1)|null|
+|**2023-08-03**|**Deep Learning-based Prediction of Stress and Strain Maps in Arterial Walls for Improved Cardiovascular Risk Assessment**|Yasin Shokrollahi1 et.al.|[2308.01771v1](http://arxiv.org/abs/2308.01771v1)|null|
+|**2023-08-03**|**Focus on Content not Noise: Improving Image Generation for Nuclei Segmentation by Suppressing Steganography in CycleGAN**|Jonas Utz et.al.|[2308.01769v1](http://arxiv.org/abs/2308.01769v1)|null|
+|**2023-08-03**|**PoissonNet: Resolution-Agnostic 3D Shape Reconstruction using Fourier Neural Operators**|Hector Andrade-Loarca et.al.|[2308.01766v1](http://arxiv.org/abs/2308.01766v1)|[link](https://github.com/arsenal9971/poissonnet)|
+|**2023-08-03**|**Entropy-based detection of Twitter echo chambers**|Manuel Pratelli et.al.|[2308.01750v1](http://arxiv.org/abs/2308.01750v1)|null|
+|**2023-08-03**|**Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution**|Yeying Jin et.al.|[2308.01738v1](http://arxiv.org/abs/2308.01738v1)|[link](https://github.com/jinyeying/nighttime_dehaze)|
+|**2023-08-03**|**An optimisation-based domain-decomposition reduced order model for parameter-dependent non-stationary fluid dynamics problems**|Ivan Prusak et.al.|[2308.01733v1](http://arxiv.org/abs/2308.01733v1)|null|
+|**2023-08-03**|**Quantification of Predictive Uncertainty via Inference-Time Sampling**|Katarína Tóthová et.al.|[2308.01731v1](http://arxiv.org/abs/2308.01731v1)|null|
+|**2023-08-03**|**Telematics Combined Actuarial Neural Networks for Cross-Sectional and Longitudinal Claim Count Data**|Francis Duval et.al.|[2308.01729v1](http://arxiv.org/abs/2308.01729v1)|null|
+|**2023-08-03**|**Relational hyperevent models for the coevolution of coauthoring and citation networks**|Jürgen Lerner et.al.|[2308.01722v1](http://arxiv.org/abs/2308.01722v1)|null|
+|**2023-08-03**|**Experiments on Computer Networks: Quickly Knowing the Protocols in the TCP/IP Suite**|Roberto Rojas-Cessa et.al.|[2308.01713v1](http://arxiv.org/abs/2308.01713v1)|null|
+|**2023-08-03**|**Joint Out-of-Distribution Detection and Uncertainty Estimation for Trajectory Predictio**|Julian Wiederer et.al.|[2308.01707v1](http://arxiv.org/abs/2308.01707v1)|null|
+|**2023-08-03**|**Anonymity Analysis of the Umbra Stealth Address Scheme on Ethereum**|Alex Kovács et.al.|[2308.01703v1](http://arxiv.org/abs/2308.01703v1)|null|
+|**2023-08-03**|**Bees Local Phase Quantization Feature Selection for RGB-D Facial Expressions Recognition**|Seyed Muhammad Hossein Mousavi et.al.|[2308.01700v1](http://arxiv.org/abs/2308.01700v1)|null|
+|**2023-08-03**|**A general flux-Based Circuit Theory for Superconducting Josephson Junction Circuits**|Yongliang Wang et.al.|[2308.01693v1](http://arxiv.org/abs/2308.01693v1)|null|
+|**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686v1](http://arxiv.org/abs/2308.01686v1)|null|
+|**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|null|
+|**2023-08-03**|**Disorder Effects on the Quasiparticle and Transport Properties of Two-Dimensional Dirac Fermionic Systems**|Bo Fu et.al.|[2308.01680v1](http://arxiv.org/abs/2308.01680v1)|null|
+|**2023-08-03**|**End-to-End Reinforcement Learning of Koopman Models for Economic Nonlinear MPC**|Daniel Mayfrank et.al.|[2308.01674v1](http://arxiv.org/abs/2308.01674v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03**|**Exploring the structure and kinematics of the Milky Way through A stars**|J. Ardèvol et.al.|[2308.01901v1](http://arxiv.org/abs/2308.01901v1)|null|
+|**2023-08-03**|**FROD: Robust Object Detection for Free**|Muhammad et.al.|[2308.01888v1](http://arxiv.org/abs/2308.01888v1)|null|
+|**2023-08-03**|**LOFAR detection of extended emission around a mini-halo in the galaxy cluster Abell 1413**|Giulia Lusetti et.al.|[2308.01884v1](http://arxiv.org/abs/2308.01884v1)|null|
+|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862v1](http://arxiv.org/abs/2308.01862v1)|null|
+|**2023-08-03**|**Reconstructing Three-Dimensional Models of Interacting Humans**|Mihai Fieraru et.al.|[2308.01854v1](http://arxiv.org/abs/2308.01854v1)|[link](https://github.com/sminchisescu-research/imar_vision_datasets_tools)|
+|**2023-08-03**|**Galactic Core-Collapse Supernovae at IceCube: "Fire Drill" Data Challenges and follow-up**|Spencer Griswold et.al.|[2308.01843v1](http://arxiv.org/abs/2308.01843v1)|null|
+|**2023-08-03**|**On the feasibility of primordial black hole abundance constraints using lensing parallax of GRBs**|Priyanka Gawade et.al.|[2308.01775v1](http://arxiv.org/abs/2308.01775v1)|null|
+|**2023-08-03**|**Probing hadron-quark transition through binary neutron star merger**|Ling-Jun Guo et.al.|[2308.01770v1](http://arxiv.org/abs/2308.01770v1)|null|
+|**2023-08-03**|**Entropy-based detection of Twitter echo chambers**|Manuel Pratelli et.al.|[2308.01750v1](http://arxiv.org/abs/2308.01750v1)|null|
+|**2023-08-03**|**Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution**|Yeying Jin et.al.|[2308.01738v1](http://arxiv.org/abs/2308.01738v1)|[link](https://github.com/jinyeying/nighttime_dehaze)|
+|**2023-08-03**|**MAP: A Model-agnostic Pretraining Framework for Click-through Rate Prediction**|Jianghao Lin et.al.|[2308.01737v1](http://arxiv.org/abs/2308.01737v1)|[link](https://github.com/chiangel/map-code)|
+|**2023-08-03**|**An optimisation-based domain-decomposition reduced order model for parameter-dependent non-stationary fluid dynamics problems**|Ivan Prusak et.al.|[2308.01733v1](http://arxiv.org/abs/2308.01733v1)|null|
+|**2023-08-03**|**The pairwise and cross-pairwise y-type polarised kinetic Sunyaev Zeldovich effect from transverse velocity of galaxy clusters**|Aritra Kumar Gon et.al.|[2308.01730v1](http://arxiv.org/abs/2308.01730v1)|null|
+|**2023-08-03**|**Joint Out-of-Distribution Detection and Uncertainty Estimation for Trajectory Predictio**|Julian Wiederer et.al.|[2308.01707v1](http://arxiv.org/abs/2308.01707v1)|null|
+|**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702v1](http://arxiv.org/abs/2308.01702v1)|null|
+|**2023-08-03**|**NBIAS: A Natural Language Processing Framework for Bias Identification in Text**|Shaina Razaa et.al.|[2308.01681v1](http://arxiv.org/abs/2308.01681v1)|null|
+|**2023-08-03**|**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**|Aofan Jiang et.al.|[2308.01639v1](http://arxiv.org/abs/2308.01639v1)|null|
+|**2023-08-03**|**Erasure-based Interaction Network for RGBT Video Object Detection and A Unified Benchmark**|Zhengzheng Tu et.al.|[2308.01630v1](http://arxiv.org/abs/2308.01630v1)|null|
+|**2023-08-03**|**ReIDTrack: Multi-Object Track and Segmentation Without Motion**|Kaer Huang et.al.|[2308.01622v1](http://arxiv.org/abs/2308.01622v1)|null|
+|**2023-08-03**|**A Survey on Deep Learning-based Spatio-temporal Action Detection**|Peng Wang et.al.|[2308.01618v1](http://arxiv.org/abs/2308.01618v1)|null|
+|**2023-08-03**|**Active Acoustic Sensing for Robot Manipulation**|Shihan Lu et.al.|[2308.01600v1](http://arxiv.org/abs/2308.01600v1)|null|
+|**2023-08-03**|**Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches**|Garvin Yim et.al.|[2308.01588v1](http://arxiv.org/abs/2308.01588v1)|null|
+|**2023-08-03**|**Observation of Solar Radio Bursts Using E-CallistoSystem**|J Adassuriya et.al.|[2308.01581v1](http://arxiv.org/abs/2308.01581v1)|null|
+|**2023-08-03**|**The Effect of Uniform and Non-uniform Electron Density Models for Determining Shock Speed of a Type II Solar Radio Burst**|D P S Nilagarathne et.al.|[2308.01570v1](http://arxiv.org/abs/2308.01570v1)|null|
+|**2023-08-03**|**To Grow Old and Peculiar: A Survey of Anomalous Variable Stars in M80 and Age Determination using K2 and Gaia**|László Molnár et.al.|[2308.01560v1](http://arxiv.org/abs/2308.01560v1)|null|
+|**2023-08-03**|**Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution**|Charitha Saumya et.al.|[2308.01554v1](http://arxiv.org/abs/2308.01554v1)|null|
+|**2023-08-03**|**Learning Causality-inspired Representation Consistency for Video Anomaly Detection**|Yang Liu et.al.|[2308.01537v1](http://arxiv.org/abs/2308.01537v1)|null|
+|**2023-08-03**|**Data Augmentation for Human Behavior Analysis in Multi-Person Conversations**|Kun Li et.al.|[2308.01526v1](http://arxiv.org/abs/2308.01526v1)|null|
+|**2023-08-03**|**Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection**|Cong Zhang et.al.|[2308.01520v1](http://arxiv.org/abs/2308.01520v1)|null|
+|**2023-08-03**|**Target-point Attention Transformer: A novel trajectory predict network for end-to-end autonomous driving**|Jingyu Du et.al.|[2308.01496v1](http://arxiv.org/abs/2308.01496v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03**|**Statistical Estimation Under Distribution Shift: Wasserstein Perturbations and Minimax Theory**|Patrick Chao et.al.|[2308.01853v1](http://arxiv.org/abs/2308.01853v1)|null|
+|**2023-08-03**|**Unsupervised Learning of Part Similarity for Goal-Guided Accelerated Experiment Design in Metal Additive Manufacturing**|Rui Liu et.al.|[2308.01524v1](http://arxiv.org/abs/2308.01524v1)|null|
 |**2023-08-02**|**Three Factors to Improve Out-of-Distribution Detection**|Hyunjun Choi et.al.|[2308.01030v1](http://arxiv.org/abs/2308.01030v1)|null|
 |**2023-08-01**|**Survey of X-rays from Massive Stars Observed at High Spectral Resolution with Chandra**|Pragati Pradhan et.al.|[2308.00758v1](http://arxiv.org/abs/2308.00758v1)|null|
 |**2023-08-01**|**Fast and efficient identification of anomalous galaxy spectra with neural density estimation**|Vanessa Böhm et.al.|[2308.00752v1](http://arxiv.org/abs/2308.00752v1)|null|
@@ -108,5 +110,3 @@
 |**2023-07-18**|**Model-free selective inference under covariate shift via weighted conformal p-values**|Ying Jin et.al.|[2307.09291v1](http://arxiv.org/abs/2307.09291v1)|[link](https://github.com/ying531/conformal-selection)|
 |**2023-07-18**|**Towards Trustworthy Dataset Distillation**|Shijie Ma et.al.|[2307.09165v1](http://arxiv.org/abs/2307.09165v1)|null|
 |**2023-07-18**|**Outlier-Robust Tensor Low-Rank Representation for Data Clustering**|Tong Wu et.al.|[2307.09055v1](http://arxiv.org/abs/2307.09055v1)|null|
-|**2023-07-17**|**Anomaly Detection with Selective Dictionary Learning**|Denis C. Ilie-Ablachim et.al.|[2307.08807v1](http://arxiv.org/abs/2307.08807v1)|[link](https://github.com/denisilie94/pyod-dl)|
-|**2023-07-17**|**CODEX: Role of velocity substructure in the scaling relations of galaxy clusters**|S. Damsted et.al.|[2307.08749v1](http://arxiv.org/abs/2307.08749v1)|null|
