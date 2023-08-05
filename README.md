@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-05 09:36:05 Asia/Shanghai
+ Automated deployment @ 2023-08-05 20:36:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,40 +43,6 @@
 |**2023-08-03**|**Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection**|Cong Zhang et.al.|[2308.01520v1](http://arxiv.org/abs/2308.01520v1)|null|
 |**2023-08-03**|**Target-point Attention Transformer: A novel trajectory predict network for end-to-end autonomous driving**|Jingyu Du et.al.|[2308.01496v1](http://arxiv.org/abs/2308.01496v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-03**|**Statistical Estimation Under Distribution Shift: Wasserstein Perturbations and Minimax Theory**|Patrick Chao et.al.|[2308.01853v1](http://arxiv.org/abs/2308.01853v1)|[link](https://github.com/patrickrchao/dist_shift_exp)|
-|**2023-08-03**|**Unsupervised Learning of Part Similarity for Goal-Guided Accelerated Experiment Design in Metal Additive Manufacturing**|Rui Liu et.al.|[2308.01524v1](http://arxiv.org/abs/2308.01524v1)|null|
-|**2023-08-02**|**Three Factors to Improve Out-of-Distribution Detection**|Hyunjun Choi et.al.|[2308.01030v1](http://arxiv.org/abs/2308.01030v1)|null|
-|**2023-08-01**|**Survey of X-rays from Massive Stars Observed at High Spectral Resolution with Chandra**|Pragati Pradhan et.al.|[2308.00758v1](http://arxiv.org/abs/2308.00758v1)|null|
-|**2023-08-01**|**Fast and efficient identification of anomalous galaxy spectra with neural density estimation**|Vanessa Böhm et.al.|[2308.00752v1](http://arxiv.org/abs/2308.00752v1)|[link](https://github.com/vmboehm/spectra_pae)|
-|**2023-08-01**|**Robust Spatiotemporal Fusion of Satellite Images: A Constrained Convex Optimization Approach**|Ryosuke Isono et.al.|[2308.00500v1](http://arxiv.org/abs/2308.00500v1)|null|
-|**2023-08-01**|**A Survey of Time Series Anomaly Detection Methods in the AIOps Domain**|Zhenyu Zhong et.al.|[2308.00393v1](http://arxiv.org/abs/2308.00393v1)|null|
-|**2023-07-31**|**Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity**|Charlie Hou et.al.|[2308.00177v1](http://arxiv.org/abs/2308.00177v1)|null|
-|**2023-07-27**|**Insufficient Gibbs Sampling**|Antoine Luciano et.al.|[2307.14973v1](http://arxiv.org/abs/2307.14973v1)|[link](https://github.com/antoineluciano/insufficient-gibbs-sampling)|
-|**2023-07-26**|**The first evidence of tidally induced activity in a brown dwarf-M dwarf pair: A Chandra study of the NLTT 41135/41136 system**|Nikoleta Ilić et.al.|[2307.14056v1](http://arxiv.org/abs/2307.14056v1)|null|
-|**2023-07-25**|**Smoothing of numerical series by the triangle method on the example of hungarian gdp data 1992-2022 based on approximation by series of exponents**|Yekimov Sergey et.al.|[2307.14378v1](http://arxiv.org/abs/2307.14378v1)|null|
-|**2023-07-25**|**Minimum regularized covariance trace estimator and outlier detection for functional data**|Jeremy Oguamalam et.al.|[2307.13509v1](http://arxiv.org/abs/2307.13509v1)|null|
-|**2023-07-24**|**Through the Wall Radar Imaging via Kronecker-structured Huber-type RPCA**|Hugo Brehier et.al.|[2307.12592v1](http://arxiv.org/abs/2307.12592v1)|null|
-|**2023-07-24**|**Robust Inference of One-Shot Device testing data with Competing Risk under Lindley Lifetime Distribution with an application to SEER Pancreas Cancer Data**|Shanya Baghel et.al.|[2307.12557v1](http://arxiv.org/abs/2307.12557v1)|null|
-|**2023-07-23**|**RANSAC-NN: Unsupervised Image Outlier Detection using RANSAC**|Chen-Han Tsai et.al.|[2307.12301v1](http://arxiv.org/abs/2307.12301v1)|[link](https://github.com/mxtsai/ransac-nn)|
-|**2023-07-22**|**Mask mandates and COVID-19: A Re-analysis of the Boston school mask study**|Tracy Beth Hoeg et.al.|[2307.11974v1](http://arxiv.org/abs/2307.11974v1)|null|
-|**2023-07-20**|**Edgewise outliers of network indexed signals**|Christopher Rieser et.al.|[2307.11239v1](http://arxiv.org/abs/2307.11239v1)|[link](https://github.com/kristats/spout)|
-|**2023-07-20**|**Risk-optimized Outlier Removal for Robust Point Cloud Classification**|Xinke Li et.al.|[2307.10875v1](http://arxiv.org/abs/2307.10875v1)|null|
-|**2023-07-20**|**Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities**|Samie Mostafavi et.al.|[2307.10648v1](http://arxiv.org/abs/2307.10648v1)|[link](https://github.com/samiemostafavi/wireless-pr3d)|
-|**2023-07-20**|**Analysis of the rSVDdpd Algorithm: A Robust Singular Value Decomposition Method using Density Power Divergence**|Subhrajyoty Roy et.al.|[2307.10591v1](http://arxiv.org/abs/2307.10591v1)|null|
-|**2023-07-20**|**Fast Unsupervised Deep Outlier Model Selection with Hypernetworks**|Xueying Ding et.al.|[2307.10529v1](http://arxiv.org/abs/2307.10529v1)|null|
-|**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163v1](http://arxiv.org/abs/2307.10163v1)|null|
-|**2023-07-19**|**Two Approaches to Supervised Image Segmentation**|Alexandre Benatti et.al.|[2307.10123v2](http://arxiv.org/abs/2307.10123v2)|null|
-|**2023-07-19**|**Cryo-forum: A framework for orientation recovery with uncertainty measure with the application in cryo-EM image analysis**|Szu-Chi Chung et.al.|[2307.09847v1](http://arxiv.org/abs/2307.09847v1)|[link](https://github.com/phonchi/cryo-forum)|
-|**2023-07-19**|**ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats**|Xiaoxia Wu et.al.|[2307.09782v2](http://arxiv.org/abs/2307.09782v2)|null|
-|**2023-07-19**|**Robust Bayesian Functional Principal Component Analysis**|Jiarui Zhang et.al.|[2307.09731v1](http://arxiv.org/abs/2307.09731v1)|[link](https://github.com/sfu-stat-ml/rbfpca)|
-|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v2](http://arxiv.org/abs/2307.09455v2)|null|
-|**2023-07-18**|**Model-free selective inference under covariate shift via weighted conformal p-values**|Ying Jin et.al.|[2307.09291v1](http://arxiv.org/abs/2307.09291v1)|[link](https://github.com/ying531/conformal-selection)|
-|**2023-07-18**|**Towards Trustworthy Dataset Distillation**|Shijie Ma et.al.|[2307.09165v1](http://arxiv.org/abs/2307.09165v1)|null|
-|**2023-07-18**|**Outlier-Robust Tensor Low-Rank Representation for Data Clustering**|Tong Wu et.al.|[2307.09055v1](http://arxiv.org/abs/2307.09055v1)|null|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -110,3 +76,37 @@
 |**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|[link](https://github.com/cborile/eval_lp_xai)|
 |**2023-08-03**|**Disorder Effects on the Quasiparticle and Transport Properties of Two-Dimensional Dirac Fermionic Systems**|Bo Fu et.al.|[2308.01680v1](http://arxiv.org/abs/2308.01680v1)|null|
 |**2023-08-03**|**End-to-End Reinforcement Learning of Koopman Models for Economic Nonlinear MPC**|Daniel Mayfrank et.al.|[2308.01674v1](http://arxiv.org/abs/2308.01674v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03**|**Statistical Estimation Under Distribution Shift: Wasserstein Perturbations and Minimax Theory**|Patrick Chao et.al.|[2308.01853v1](http://arxiv.org/abs/2308.01853v1)|[link](https://github.com/patrickrchao/dist_shift_exp)|
+|**2023-08-03**|**Unsupervised Learning of Part Similarity for Goal-Guided Accelerated Experiment Design in Metal Additive Manufacturing**|Rui Liu et.al.|[2308.01524v1](http://arxiv.org/abs/2308.01524v1)|null|
+|**2023-08-02**|**Three Factors to Improve Out-of-Distribution Detection**|Hyunjun Choi et.al.|[2308.01030v1](http://arxiv.org/abs/2308.01030v1)|null|
+|**2023-08-01**|**Survey of X-rays from Massive Stars Observed at High Spectral Resolution with Chandra**|Pragati Pradhan et.al.|[2308.00758v1](http://arxiv.org/abs/2308.00758v1)|null|
+|**2023-08-01**|**Fast and efficient identification of anomalous galaxy spectra with neural density estimation**|Vanessa Böhm et.al.|[2308.00752v1](http://arxiv.org/abs/2308.00752v1)|[link](https://github.com/vmboehm/spectra_pae)|
+|**2023-08-01**|**Robust Spatiotemporal Fusion of Satellite Images: A Constrained Convex Optimization Approach**|Ryosuke Isono et.al.|[2308.00500v1](http://arxiv.org/abs/2308.00500v1)|null|
+|**2023-08-01**|**A Survey of Time Series Anomaly Detection Methods in the AIOps Domain**|Zhenyu Zhong et.al.|[2308.00393v1](http://arxiv.org/abs/2308.00393v1)|null|
+|**2023-07-31**|**Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity**|Charlie Hou et.al.|[2308.00177v1](http://arxiv.org/abs/2308.00177v1)|null|
+|**2023-07-27**|**Insufficient Gibbs Sampling**|Antoine Luciano et.al.|[2307.14973v1](http://arxiv.org/abs/2307.14973v1)|[link](https://github.com/antoineluciano/insufficient-gibbs-sampling)|
+|**2023-07-26**|**The first evidence of tidally induced activity in a brown dwarf-M dwarf pair: A Chandra study of the NLTT 41135/41136 system**|Nikoleta Ilić et.al.|[2307.14056v1](http://arxiv.org/abs/2307.14056v1)|null|
+|**2023-07-25**|**Smoothing of numerical series by the triangle method on the example of hungarian gdp data 1992-2022 based on approximation by series of exponents**|Yekimov Sergey et.al.|[2307.14378v1](http://arxiv.org/abs/2307.14378v1)|null|
+|**2023-07-25**|**Minimum regularized covariance trace estimator and outlier detection for functional data**|Jeremy Oguamalam et.al.|[2307.13509v1](http://arxiv.org/abs/2307.13509v1)|null|
+|**2023-07-24**|**Through the Wall Radar Imaging via Kronecker-structured Huber-type RPCA**|Hugo Brehier et.al.|[2307.12592v1](http://arxiv.org/abs/2307.12592v1)|null|
+|**2023-07-24**|**Robust Inference of One-Shot Device testing data with Competing Risk under Lindley Lifetime Distribution with an application to SEER Pancreas Cancer Data**|Shanya Baghel et.al.|[2307.12557v1](http://arxiv.org/abs/2307.12557v1)|null|
+|**2023-07-23**|**RANSAC-NN: Unsupervised Image Outlier Detection using RANSAC**|Chen-Han Tsai et.al.|[2307.12301v1](http://arxiv.org/abs/2307.12301v1)|[link](https://github.com/mxtsai/ransac-nn)|
+|**2023-07-22**|**Mask mandates and COVID-19: A Re-analysis of the Boston school mask study**|Tracy Beth Hoeg et.al.|[2307.11974v1](http://arxiv.org/abs/2307.11974v1)|null|
+|**2023-07-20**|**Edgewise outliers of network indexed signals**|Christopher Rieser et.al.|[2307.11239v1](http://arxiv.org/abs/2307.11239v1)|[link](https://github.com/kristats/spout)|
+|**2023-07-20**|**Risk-optimized Outlier Removal for Robust Point Cloud Classification**|Xinke Li et.al.|[2307.10875v1](http://arxiv.org/abs/2307.10875v1)|null|
+|**2023-07-20**|**Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities**|Samie Mostafavi et.al.|[2307.10648v1](http://arxiv.org/abs/2307.10648v1)|[link](https://github.com/samiemostafavi/wireless-pr3d)|
+|**2023-07-20**|**Analysis of the rSVDdpd Algorithm: A Robust Singular Value Decomposition Method using Density Power Divergence**|Subhrajyoty Roy et.al.|[2307.10591v1](http://arxiv.org/abs/2307.10591v1)|null|
+|**2023-07-20**|**Fast Unsupervised Deep Outlier Model Selection with Hypernetworks**|Xueying Ding et.al.|[2307.10529v1](http://arxiv.org/abs/2307.10529v1)|null|
+|**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163v1](http://arxiv.org/abs/2307.10163v1)|null|
+|**2023-07-19**|**Two Approaches to Supervised Image Segmentation**|Alexandre Benatti et.al.|[2307.10123v2](http://arxiv.org/abs/2307.10123v2)|null|
+|**2023-07-19**|**Cryo-forum: A framework for orientation recovery with uncertainty measure with the application in cryo-EM image analysis**|Szu-Chi Chung et.al.|[2307.09847v1](http://arxiv.org/abs/2307.09847v1)|[link](https://github.com/phonchi/cryo-forum)|
+|**2023-07-19**|**ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats**|Xiaoxia Wu et.al.|[2307.09782v2](http://arxiv.org/abs/2307.09782v2)|null|
+|**2023-07-19**|**Robust Bayesian Functional Principal Component Analysis**|Jiarui Zhang et.al.|[2307.09731v1](http://arxiv.org/abs/2307.09731v1)|[link](https://github.com/sfu-stat-ml/rbfpca)|
+|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v2](http://arxiv.org/abs/2307.09455v2)|null|
+|**2023-07-18**|**Model-free selective inference under covariate shift via weighted conformal p-values**|Ying Jin et.al.|[2307.09291v1](http://arxiv.org/abs/2307.09291v1)|[link](https://github.com/ying531/conformal-selection)|
+|**2023-07-18**|**Towards Trustworthy Dataset Distillation**|Shijie Ma et.al.|[2307.09165v1](http://arxiv.org/abs/2307.09165v1)|null|
+|**2023-07-18**|**Outlier-Robust Tensor Low-Rank Representation for Data Clustering**|Tong Wu et.al.|[2307.09055v1](http://arxiv.org/abs/2307.09055v1)|null|
