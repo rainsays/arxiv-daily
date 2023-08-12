@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-12 09:17:03 Asia/Shanghai
+ Automated deployment @ 2023-08-12 20:34:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
-|**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738v1](http://arxiv.org/abs/2308.05738v1)|null|
-|**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
-|**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|null|
-|**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724v1](http://arxiv.org/abs/2308.05724v1)|null|
-|**2023-08-10**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721v1](http://arxiv.org/abs/2308.05721v1)|[link](https://github.com/yangyangxu0/demtg)|
-|**2023-08-10**|**Engineering skin effect across a junction of Hermitian and non-Hermitian lattice**|Ranjan Modak et.al.|[2308.05702v1](http://arxiv.org/abs/2308.05702v1)|null|
-|**2023-08-10**|**Isolated Scheduling for Distributed Training Tasks in GPU Clusters**|Xinchi Han et.al.|[2308.05692v1](http://arxiv.org/abs/2308.05692v1)|null|
-|**2023-08-10**|**Functional analysis of a gene locus in response to non-canonical combinations of transcription factors**|Netta Haroush et.al.|[2308.05685v1](http://arxiv.org/abs/2308.05685v1)|null|
-|**2023-08-10**|**On the density of complex eigenvalues of Wigner reaction matrix in a disordered or chaotic system with absorption**|Yan V. Fyodorov et.al.|[2308.05682v1](http://arxiv.org/abs/2308.05682v1)|null|
-|**2023-08-10**|**Finding Already Debunked Narratives via Multistage Retrieval: Enabling Cross-Lingual, Cross-Dataset and Zero-Shot Learning**|Iknoor Singh et.al.|[2308.05680v1](http://arxiv.org/abs/2308.05680v1)|null|
-|**2023-08-10**|**Coupling kinetic and continuum using data-driven maximum entropy distribution**|Mohsen Sadr et.al.|[2308.05672v1](http://arxiv.org/abs/2308.05672v1)|null|
-|**2023-08-10**|**AD-CLIP: Adapting Domains in Prompt Space Using CLIP**|Mainak Singha et.al.|[2308.05659v1](http://arxiv.org/abs/2308.05659v1)|null|
-|**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658v1](http://arxiv.org/abs/2308.05658v1)|null|
-|**2023-08-10**|**Attention-based 3D CNN with Multi-layer Features for Alzheimer's Disease Diagnosis using Brain Images**|Yanteng Zhang et.al.|[2308.05655v1](http://arxiv.org/abs/2308.05655v1)|null|
-|**2023-08-10**|**Asymptotic-preserving neural networks for multiscale Vlasov-Poisson-Fokker-Planck system in the high-field regime**|Shi Jin et.al.|[2308.05650v1](http://arxiv.org/abs/2308.05650v1)|null|
-|**2023-08-10**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636v1](http://arxiv.org/abs/2308.05636v1)|null|
-|**2023-08-10**|**ReLU and Addition-based Gated RNN**|Rickard Brännvall et.al.|[2308.05629v1](http://arxiv.org/abs/2308.05629v1)|null|
-|**2023-08-10**|**CoBaIR: A Python Library for Context-Based Intention Recognition in Human-Robot-Interaction**|Adrian Lubitz et.al.|[2308.05627v1](http://arxiv.org/abs/2308.05627v1)|null|
-|**2023-08-10**|**A Neural Network Based Choice Model for Assortment Optimization**|Hanzhao Wang et.al.|[2308.05617v1](http://arxiv.org/abs/2308.05617v1)|null|
-|**2023-08-10**|**Representation of degree correlation using eigenvalue decomposition and its application to epidemic models**|Satoru Morita et.al.|[2308.05611v1](http://arxiv.org/abs/2308.05611v1)|null|
-|**2023-08-10**|**Self-Supervised Monocular Depth Estimation by Direction-aware Cumulative Convolution Network**|Wencheng Han et.al.|[2308.05605v1](http://arxiv.org/abs/2308.05605v1)|[link](https://github.com/wencheng256/daccn)|
-|**2023-08-10**|**Multi-graph Spatio-temporal Graph Convolutional Network for Traffic Flow Prediction**|Weilong Ding et.al.|[2308.05601v1](http://arxiv.org/abs/2308.05601v1)|null|
-|**2023-08-10**|**NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search**|Edouard Yvinec et.al.|[2308.05600v1](http://arxiv.org/abs/2308.05600v1)|null|
-|**2023-08-10**|**Bounds on the rates of statistical divergences and mutual information**|Jan Karbowski et.al.|[2308.05597v1](http://arxiv.org/abs/2308.05597v1)|null|
-|**2023-08-10**|**You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content**|Xinlei He et.al.|[2308.05596v1](http://arxiv.org/abs/2308.05596v1)|null|
-|**2023-08-10**|**Optimizing Cache Content Placement in Integrated Terrestrial and Non-terrestrial Networks**|Feng Wang et.al.|[2308.05591v1](http://arxiv.org/abs/2308.05591v1)|null|
-|**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583v1](http://arxiv.org/abs/2308.05583v1)|null|
-|**2023-08-10**|**Category Feature Transformer for Semantic Segmentation**|Quan Tang et.al.|[2308.05581v1](http://arxiv.org/abs/2308.05581v1)|null|
-|**2023-08-10**|**Symmetry Defense Against XGBoost Adversarial Perturbation Attacks**|Blerta Lindqvist et.al.|[2308.05575v1](http://arxiv.org/abs/2308.05575v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-07-25**|**Smoothing of numerical series by the triangle method on the example of hungarian gdp data 1992-2022 based on approximation by series of exponents**|Yekimov Sergey et.al.|[2307.14378v1](http://arxiv.org/abs/2307.14378v1)|null|
 |**2023-07-25**|**Minimum regularized covariance trace estimator and outlier detection for functional data**|Jeremy Oguamalam et.al.|[2307.13509v1](http://arxiv.org/abs/2307.13509v1)|null|
 |**2023-07-24**|**Through the Wall Radar Imaging via Kronecker-structured Huber-type RPCA**|Hugo Brehier et.al.|[2307.12592v1](http://arxiv.org/abs/2307.12592v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
+|**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738v1](http://arxiv.org/abs/2308.05738v1)|null|
+|**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
+|**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|null|
+|**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724v1](http://arxiv.org/abs/2308.05724v1)|null|
+|**2023-08-10**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721v1](http://arxiv.org/abs/2308.05721v1)|[link](https://github.com/yangyangxu0/demtg)|
+|**2023-08-10**|**Engineering skin effect across a junction of Hermitian and non-Hermitian lattice**|Ranjan Modak et.al.|[2308.05702v1](http://arxiv.org/abs/2308.05702v1)|null|
+|**2023-08-10**|**Isolated Scheduling for Distributed Training Tasks in GPU Clusters**|Xinchi Han et.al.|[2308.05692v1](http://arxiv.org/abs/2308.05692v1)|null|
+|**2023-08-10**|**Functional analysis of a gene locus in response to non-canonical combinations of transcription factors**|Netta Haroush et.al.|[2308.05685v1](http://arxiv.org/abs/2308.05685v1)|null|
+|**2023-08-10**|**On the density of complex eigenvalues of Wigner reaction matrix in a disordered or chaotic system with absorption**|Yan V. Fyodorov et.al.|[2308.05682v1](http://arxiv.org/abs/2308.05682v1)|null|
+|**2023-08-10**|**Finding Already Debunked Narratives via Multistage Retrieval: Enabling Cross-Lingual, Cross-Dataset and Zero-Shot Learning**|Iknoor Singh et.al.|[2308.05680v1](http://arxiv.org/abs/2308.05680v1)|null|
+|**2023-08-10**|**Coupling kinetic and continuum using data-driven maximum entropy distribution**|Mohsen Sadr et.al.|[2308.05672v1](http://arxiv.org/abs/2308.05672v1)|null|
+|**2023-08-10**|**AD-CLIP: Adapting Domains in Prompt Space Using CLIP**|Mainak Singha et.al.|[2308.05659v1](http://arxiv.org/abs/2308.05659v1)|null|
+|**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658v1](http://arxiv.org/abs/2308.05658v1)|null|
+|**2023-08-10**|**Attention-based 3D CNN with Multi-layer Features for Alzheimer's Disease Diagnosis using Brain Images**|Yanteng Zhang et.al.|[2308.05655v1](http://arxiv.org/abs/2308.05655v1)|null|
+|**2023-08-10**|**Asymptotic-preserving neural networks for multiscale Vlasov-Poisson-Fokker-Planck system in the high-field regime**|Shi Jin et.al.|[2308.05650v1](http://arxiv.org/abs/2308.05650v1)|null|
+|**2023-08-10**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636v1](http://arxiv.org/abs/2308.05636v1)|null|
+|**2023-08-10**|**ReLU and Addition-based Gated RNN**|Rickard Brännvall et.al.|[2308.05629v1](http://arxiv.org/abs/2308.05629v1)|null|
+|**2023-08-10**|**CoBaIR: A Python Library for Context-Based Intention Recognition in Human-Robot-Interaction**|Adrian Lubitz et.al.|[2308.05627v1](http://arxiv.org/abs/2308.05627v1)|null|
+|**2023-08-10**|**A Neural Network Based Choice Model for Assortment Optimization**|Hanzhao Wang et.al.|[2308.05617v1](http://arxiv.org/abs/2308.05617v1)|null|
+|**2023-08-10**|**Representation of degree correlation using eigenvalue decomposition and its application to epidemic models**|Satoru Morita et.al.|[2308.05611v1](http://arxiv.org/abs/2308.05611v1)|null|
+|**2023-08-10**|**Self-Supervised Monocular Depth Estimation by Direction-aware Cumulative Convolution Network**|Wencheng Han et.al.|[2308.05605v1](http://arxiv.org/abs/2308.05605v1)|[link](https://github.com/wencheng256/daccn)|
+|**2023-08-10**|**Multi-graph Spatio-temporal Graph Convolutional Network for Traffic Flow Prediction**|Weilong Ding et.al.|[2308.05601v1](http://arxiv.org/abs/2308.05601v1)|null|
+|**2023-08-10**|**NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search**|Edouard Yvinec et.al.|[2308.05600v1](http://arxiv.org/abs/2308.05600v1)|null|
+|**2023-08-10**|**Bounds on the rates of statistical divergences and mutual information**|Jan Karbowski et.al.|[2308.05597v1](http://arxiv.org/abs/2308.05597v1)|null|
+|**2023-08-10**|**You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content**|Xinlei He et.al.|[2308.05596v1](http://arxiv.org/abs/2308.05596v1)|null|
+|**2023-08-10**|**Optimizing Cache Content Placement in Integrated Terrestrial and Non-terrestrial Networks**|Feng Wang et.al.|[2308.05591v1](http://arxiv.org/abs/2308.05591v1)|null|
+|**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583v1](http://arxiv.org/abs/2308.05583v1)|null|
+|**2023-08-10**|**Category Feature Transformer for Semantic Segmentation**|Quan Tang et.al.|[2308.05581v1](http://arxiv.org/abs/2308.05581v1)|null|
+|**2023-08-10**|**Symmetry Defense Against XGBoost Adversarial Perturbation Attacks**|Blerta Lindqvist et.al.|[2308.05575v1](http://arxiv.org/abs/2308.05575v1)|null|
