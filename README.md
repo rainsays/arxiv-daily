@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-27 09:25:07 Asia/Shanghai
+ Automated deployment @ 2023-08-27 20:35:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,6 +43,40 @@
 |**2023-08-24**|**Network-Device-Independent Certification of Causal Nonseparability**|Hippolyte Dourdent et.al.|[2308.12760v1](http://arxiv.org/abs/2308.12760v1)|null|
 |**2023-08-24**|**Robust Computation Offloading and Trajectory Optimization for Multi-UAV-Assisted MEC: A Multi-Agent DRL Approach**|Bin Li et.al.|[2308.12756v1](http://arxiv.org/abs/2308.12756v1)|null|
 
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938v1](http://arxiv.org/abs/2308.12938v1)|[link](https://github.com/KenYu910645/perspective-aware-convolution)|
+|**2023-08-24**|**A time multiscale based data-driven approach in cyclic elasto-plasticity**|Sebastian Rodriguez et.al.|[2308.12928v1](http://arxiv.org/abs/2308.12928v1)|null|
+|**2023-08-24**|**Low-count Time Series Anomaly Detection**|Philipp Renz et.al.|[2308.12925v1](http://arxiv.org/abs/2308.12925v1)|null|
+|**2023-08-24**|**Towards Realistic Unsupervised Fine-tuning with CLIP**|Jian Liang et.al.|[2308.12919v1](http://arxiv.org/abs/2308.12919v1)|null|
+|**2023-08-24**|**SCoRD: Subject-Conditional Relation Detection with Text-Augmented Data**|Ziyan Yang et.al.|[2308.12910v1](http://arxiv.org/abs/2308.12910v1)|null|
+|**2023-08-24**|**Tracing Dense Gas in Six Resolved GMCs of the Andromeda Galaxy**|Jan Forbrich et.al.|[2308.12906v1](http://arxiv.org/abs/2308.12906v1)|null|
+|**2023-08-24**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902v1](http://arxiv.org/abs/2308.12902v1)|null|
+|**2023-08-24**|**Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?**|Fei Wang et.al.|[2308.12898v1](http://arxiv.org/abs/2308.12898v1)|[link](https://github.com/wangfei-2019/snare)|
+|**2023-08-24**|**Development of fast-response PPAC with strip-readout for heavy-ion beams**|Shutaro Hanai et.al.|[2308.12867v1](http://arxiv.org/abs/2308.12867v1)|null|
+|**2023-08-24**|**SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection**|Xinyu Zhang et.al.|[2308.12863v1](http://arxiv.org/abs/2308.12863v1)|null|
+|**2023-08-24**|**Low Fine-Tuning with Heavy Higgsinos in Yukawa Unified SUSY GUTs**|Cem Salih Un et.al.|[2308.12862v1](http://arxiv.org/abs/2308.12862v1)|null|
+|**2023-08-24**|**Towards Automated Animal Density Estimation with Acoustic Spatial Capture-Recapture**|Yuheng Wang et.al.|[2308.12859v1](http://arxiv.org/abs/2308.12859v1)|null|
+|**2023-08-24**|**Astronomical interferometry using continuous variable quantum teleportation**|Yunkai Wang et.al.|[2308.12851v1](http://arxiv.org/abs/2308.12851v1)|null|
+|**2023-08-24**|**Implicit Obstacle Map-driven Indoor Navigation Model for Robust Obstacle Avoidance**|Wei Xie et.al.|[2308.12845v1](http://arxiv.org/abs/2308.12845v1)|[link](https://github.com/xwaiyy123/object-navigation)|
+|**2023-08-24**|**Text Similarity from Image Contents using Statistical and Semantic Analysis Techniques**|Sagar Kulkarni et.al.|[2308.12842v1](http://arxiv.org/abs/2308.12842v1)|null|
+|**2023-08-24**|**FaceTouch: Detecting hand-to-face touch with supervised contrastive learning to assist in tracing infectious disease**|Mohamed R. Ibrahim et.al.|[2308.12840v1](http://arxiv.org/abs/2308.12840v1)|null|
+|**2023-08-24**|**The LISA Data Challenge Radler Analysis and Time-dependent Ultra-compact Binary Catalogues**|Kristen Lackeos et.al.|[2308.12827v1](http://arxiv.org/abs/2308.12827v1)|null|
+|**2023-08-24**|**Constraints on the persistent radio source associated with FRB 20190520B using the European VLBI Network**|Shivani Bhandari et.al.|[2308.12801v1](http://arxiv.org/abs/2308.12801v1)|null|
+|**2023-08-24**|**Robotic Scene Segmentation with Memory Network for Runtime Surgical Context Inference**|Zongyu Li et.al.|[2308.12789v1](http://arxiv.org/abs/2308.12789v1)|[link](https://github.com/uva-dsa/runtime_robscene_seg_2context)|
+|**2023-08-24**|**Understanding Solidity Event Logging Practices in the Wild**|Lantian Li et.al.|[2308.12788v1](http://arxiv.org/abs/2308.12788v1)|[link](https://github.com/zhongxingyu/solidity-event-study)|
+|**2023-08-24**|**On Offline Evaluation of 3D Object Detection for Autonomous Driving**|Tim Schreier et.al.|[2308.12779v1](http://arxiv.org/abs/2308.12779v1)|null|
+|**2023-08-24**|**WavMark: Watermarking for Audio Generation**|Guangyu Chen et.al.|[2308.12770v1](http://arxiv.org/abs/2308.12770v1)|null|
+|**2023-08-24**|**IP-UNet: Intensity Projection UNet Architecture for 3D Medical Volume Segmentation**|Nyothiri Aung et.al.|[2308.12761v1](http://arxiv.org/abs/2308.12761v1)|null|
+|**2023-08-24**|**Prospects for the detection of transient neutrino sources with PLEnuM**|Lisa Johanna Schumacher et.al.|[2308.12759v1](http://arxiv.org/abs/2308.12759v1)|[link](https://github.com/plenum-group/plenum)|
+|**2023-08-24**|**Photocurrents in bulk tellurium**|M. D. Moldavskaya et.al.|[2308.12741v1](http://arxiv.org/abs/2308.12741v1)|null|
+|**2023-08-24**|**Learning Heavily-Degraded Prior for Underwater Object Detection**|Chenping Fu et.al.|[2308.12738v1](http://arxiv.org/abs/2308.12738v1)|[link](https://github.com/xiaodetection/learning-heavily-degraed-prior)|
+|**2023-08-24**|**Real-time Detection of AI-Generated Speech for DeepFake Voice Conversion**|Jordan J. Bird et.al.|[2308.12734v1](http://arxiv.org/abs/2308.12734v1)|null|
+|**2023-08-24**|**Deep unsupervised domain adaptation applied to the Cherenkov Telescope Array Large-Sized Telescope**|Michaël Dell'aiera et.al.|[2308.12732v1](http://arxiv.org/abs/2308.12732v1)|null|
+|**2023-08-24**|**Out of the Box Thinking: Improving Customer Lifetime Value Modelling via Expert Routing and Game Whale Detection**|Shijie Zhang et.al.|[2308.12729v1](http://arxiv.org/abs/2308.12729v1)|null|
+|**2023-08-24**|**DeepLOC: Deep Learning-based Bone Pathology Localization and Classification in Wrist X-ray Images**|Razan Dibo et.al.|[2308.12727v1](http://arxiv.org/abs/2308.12727v1)|null|
+
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -76,37 +110,3 @@
 |**2023-08-09**|**Improved Approximation Algorithms for the Joint Replenishment Problem with Outliers, and with Fairness Constraints**|Varun Suriyanarayana et.al.|[2308.04846v1](http://arxiv.org/abs/2308.04846v1)|null|
 |**2023-08-07**|**Metrewave Galactic Plane with the uGMRT (MeGaPluG) Survey: Lessons from the Pilot Study**|Rohit Dokara et.al.|[2308.03746v1](http://arxiv.org/abs/2308.03746v1)|null|
 |**2023-08-07**|**A Four-Pronged Defense Against Byzantine Attacks in Federated Learning**|Wei Wan et.al.|[2308.03331v1](http://arxiv.org/abs/2308.03331v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938v1](http://arxiv.org/abs/2308.12938v1)|[link](https://github.com/KenYu910645/perspective-aware-convolution)|
-|**2023-08-24**|**A time multiscale based data-driven approach in cyclic elasto-plasticity**|Sebastian Rodriguez et.al.|[2308.12928v1](http://arxiv.org/abs/2308.12928v1)|null|
-|**2023-08-24**|**Low-count Time Series Anomaly Detection**|Philipp Renz et.al.|[2308.12925v1](http://arxiv.org/abs/2308.12925v1)|null|
-|**2023-08-24**|**Towards Realistic Unsupervised Fine-tuning with CLIP**|Jian Liang et.al.|[2308.12919v1](http://arxiv.org/abs/2308.12919v1)|null|
-|**2023-08-24**|**SCoRD: Subject-Conditional Relation Detection with Text-Augmented Data**|Ziyan Yang et.al.|[2308.12910v1](http://arxiv.org/abs/2308.12910v1)|null|
-|**2023-08-24**|**Tracing Dense Gas in Six Resolved GMCs of the Andromeda Galaxy**|Jan Forbrich et.al.|[2308.12906v1](http://arxiv.org/abs/2308.12906v1)|null|
-|**2023-08-24**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902v1](http://arxiv.org/abs/2308.12902v1)|null|
-|**2023-08-24**|**Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?**|Fei Wang et.al.|[2308.12898v1](http://arxiv.org/abs/2308.12898v1)|[link](https://github.com/wangfei-2019/snare)|
-|**2023-08-24**|**Development of fast-response PPAC with strip-readout for heavy-ion beams**|Shutaro Hanai et.al.|[2308.12867v1](http://arxiv.org/abs/2308.12867v1)|null|
-|**2023-08-24**|**SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection**|Xinyu Zhang et.al.|[2308.12863v1](http://arxiv.org/abs/2308.12863v1)|null|
-|**2023-08-24**|**Low Fine-Tuning with Heavy Higgsinos in Yukawa Unified SUSY GUTs**|Cem Salih Un et.al.|[2308.12862v1](http://arxiv.org/abs/2308.12862v1)|null|
-|**2023-08-24**|**Towards Automated Animal Density Estimation with Acoustic Spatial Capture-Recapture**|Yuheng Wang et.al.|[2308.12859v1](http://arxiv.org/abs/2308.12859v1)|null|
-|**2023-08-24**|**Astronomical interferometry using continuous variable quantum teleportation**|Yunkai Wang et.al.|[2308.12851v1](http://arxiv.org/abs/2308.12851v1)|null|
-|**2023-08-24**|**Implicit Obstacle Map-driven Indoor Navigation Model for Robust Obstacle Avoidance**|Wei Xie et.al.|[2308.12845v1](http://arxiv.org/abs/2308.12845v1)|[link](https://github.com/xwaiyy123/object-navigation)|
-|**2023-08-24**|**Text Similarity from Image Contents using Statistical and Semantic Analysis Techniques**|Sagar Kulkarni et.al.|[2308.12842v1](http://arxiv.org/abs/2308.12842v1)|null|
-|**2023-08-24**|**FaceTouch: Detecting hand-to-face touch with supervised contrastive learning to assist in tracing infectious disease**|Mohamed R. Ibrahim et.al.|[2308.12840v1](http://arxiv.org/abs/2308.12840v1)|null|
-|**2023-08-24**|**The LISA Data Challenge Radler Analysis and Time-dependent Ultra-compact Binary Catalogues**|Kristen Lackeos et.al.|[2308.12827v1](http://arxiv.org/abs/2308.12827v1)|null|
-|**2023-08-24**|**Constraints on the persistent radio source associated with FRB 20190520B using the European VLBI Network**|Shivani Bhandari et.al.|[2308.12801v1](http://arxiv.org/abs/2308.12801v1)|null|
-|**2023-08-24**|**Robotic Scene Segmentation with Memory Network for Runtime Surgical Context Inference**|Zongyu Li et.al.|[2308.12789v1](http://arxiv.org/abs/2308.12789v1)|[link](https://github.com/uva-dsa/runtime_robscene_seg_2context)|
-|**2023-08-24**|**Understanding Solidity Event Logging Practices in the Wild**|Lantian Li et.al.|[2308.12788v1](http://arxiv.org/abs/2308.12788v1)|[link](https://github.com/zhongxingyu/solidity-event-study)|
-|**2023-08-24**|**On Offline Evaluation of 3D Object Detection for Autonomous Driving**|Tim Schreier et.al.|[2308.12779v1](http://arxiv.org/abs/2308.12779v1)|null|
-|**2023-08-24**|**WavMark: Watermarking for Audio Generation**|Guangyu Chen et.al.|[2308.12770v1](http://arxiv.org/abs/2308.12770v1)|null|
-|**2023-08-24**|**IP-UNet: Intensity Projection UNet Architecture for 3D Medical Volume Segmentation**|Nyothiri Aung et.al.|[2308.12761v1](http://arxiv.org/abs/2308.12761v1)|null|
-|**2023-08-24**|**Prospects for the detection of transient neutrino sources with PLEnuM**|Lisa Johanna Schumacher et.al.|[2308.12759v1](http://arxiv.org/abs/2308.12759v1)|null|
-|**2023-08-24**|**Photocurrents in bulk tellurium**|M. D. Moldavskaya et.al.|[2308.12741v1](http://arxiv.org/abs/2308.12741v1)|null|
-|**2023-08-24**|**Learning Heavily-Degraded Prior for Underwater Object Detection**|Chenping Fu et.al.|[2308.12738v1](http://arxiv.org/abs/2308.12738v1)|[link](https://github.com/xiaodetection/learning-heavily-degraed-prior)|
-|**2023-08-24**|**Real-time Detection of AI-Generated Speech for DeepFake Voice Conversion**|Jordan J. Bird et.al.|[2308.12734v1](http://arxiv.org/abs/2308.12734v1)|null|
-|**2023-08-24**|**Deep unsupervised domain adaptation applied to the Cherenkov Telescope Array Large-Sized Telescope**|Michaël Dell'aiera et.al.|[2308.12732v1](http://arxiv.org/abs/2308.12732v1)|null|
-|**2023-08-24**|**Out of the Box Thinking: Improving Customer Lifetime Value Modelling via Expert Routing and Game Whale Detection**|Shijie Zhang et.al.|[2308.12729v1](http://arxiv.org/abs/2308.12729v1)|null|
-|**2023-08-24**|**DeepLOC: Deep Learning-based Bone Pathology Localization and Classification in Wrist X-ray Images**|Razan Dibo et.al.|[2308.12727v1](http://arxiv.org/abs/2308.12727v1)|null|
