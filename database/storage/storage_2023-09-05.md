@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-05 09:18:59 Asia/Shanghai
+ Automated deployment @ 2023-09-05 20:39:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-01**|**Bayesian deep learning for cosmic volumes with modified gravity**|Jorge Enrique García-Farieta et.al.|[2309.00612v1](http://arxiv.org/abs/2309.00612v1)|null|
-|**2023-09-01**|**Signal-to-noise improvement through neural network contour deformations for 3D $SU(2)$ lattice gauge theory**|William Detmold et.al.|[2309.00600v1](http://arxiv.org/abs/2309.00600v1)|null|
-|**2023-09-01**|**Time Series Analysis of Urban Liveability**|Alex Levering et.al.|[2309.00594v1](http://arxiv.org/abs/2309.00594v1)|null|
-|**2023-09-01**|**Neural blind deconvolution for simultaneous partial volume correction and super-sampling of PSMA PET images**|Caleb Sample et.al.|[2309.00590v1](http://arxiv.org/abs/2309.00590v1)|null|
-|**2023-09-01**|**Discrete Morphological Neural Networks**|Diego Marcondes et.al.|[2309.00588v1](http://arxiv.org/abs/2309.00588v1)|[link](https://github.com/dmarcondes/dmnn)|
-|**2023-09-01**|**Geometry-Informed Neural Operator for Large-Scale 3D PDEs**|Zongyi Li et.al.|[2309.00583v1](http://arxiv.org/abs/2309.00583v1)|null|
-|**2023-09-01**|**Consistency of Lloyd's Algorithm Under Perturbations**|Dhruv Patel et.al.|[2309.00578v1](http://arxiv.org/abs/2309.00578v1)|null|
-|**2023-09-01**|**Mechanism of feature learning in convolutional neural networks**|Daniel Beaglehole et.al.|[2309.00570v1](http://arxiv.org/abs/2309.00570v1)|[link](https://github.com/aradha/convrfm)|
-|**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563v1](http://arxiv.org/abs/2309.00563v1)|null|
-|**2023-09-01**|**Exact Learning with Tunable Quantum Neural Networks and a Quantum Example Oracle**|Viet Pham Ngoc et.al.|[2309.00561v1](http://arxiv.org/abs/2309.00561v1)|null|
-|**2023-09-01**|**Bichromatic Perfect Matchings with Crossings**|Oswin Aichholzer et.al.|[2309.00546v1](http://arxiv.org/abs/2309.00546v1)|null|
-|**2023-09-01**|**Statistics of remote regions of networks**|J. G. Oliveira et.al.|[2309.00537v1](http://arxiv.org/abs/2309.00537v1)|null|
-|**2023-09-01**|**Integrated Charging Scheduling and Operational Control for an Electric Bus Network**|Rémi Lacombe et.al.|[2309.00523v1](http://arxiv.org/abs/2309.00523v1)|null|
-|**2023-09-01**|**Online Distributed Learning over Random Networks**|Nicola Bastianello et.al.|[2309.00520v1](http://arxiv.org/abs/2309.00520v1)|null|
-|**2023-09-01**|**Score and Rank Semi-Monotonicity for Closeness, Betweenness and Harmonic Centrality**|Paolo Boldi et.al.|[2309.00519v1](http://arxiv.org/abs/2309.00519v1)|null|
-|**2023-09-01**|**A Machine Vision Method for Correction of Eccentric Error: Based on Adaptive Enhancement Algorithm**|Fanyi Wang et.al.|[2309.00514v1](http://arxiv.org/abs/2309.00514v1)|null|
-|**2023-09-01**|**A normative approach to radicalization in social networks**|Vincent Bouttier et.al.|[2309.00513v1](http://arxiv.org/abs/2309.00513v1)|null|
-|**2023-09-01**|**Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks**|Leyang Zhang et.al.|[2309.00508v1](http://arxiv.org/abs/2309.00508v1)|null|
-|**2023-09-01**|**Application of Deep Learning Methods in Monitoring and Optimization of Electric Power Systems**|Ognjen Kundacina et.al.|[2309.00498v1](http://arxiv.org/abs/2309.00498v1)|null|
-|**2023-09-01**|**Multi-stage Deep Learning Artifact Reduction for Computed Tomography**|Jiayang Shi et.al.|[2309.00494v1](http://arxiv.org/abs/2309.00494v1)|null|
-|**2023-09-01**|**How Does Forecasting Affect the Convergence of DRL Techniques in O-RAN Slicing?**|Ahmad M. Nagib et.al.|[2309.00489v1](http://arxiv.org/abs/2309.00489v1)|null|
-|**2023-09-01**|**Learning-based NLOS Detection and Uncertainty Prediction of GNSS Observations with Transformer-Enhanced LSTM Network**|Haoming Zhang et.al.|[2309.00480v1](http://arxiv.org/abs/2309.00480v1)|[link](https://github.com/rwth-irt/deepnlosdetection)|
-|**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476v1](http://arxiv.org/abs/2309.00476v1)|null|
-|**2023-09-01**|**Asymmetric double-winged multi-view clustering network for exploring Diverse and Consistent Information**|Qun Zheng et.al.|[2309.00474v1](http://arxiv.org/abs/2309.00474v1)|null|
-|**2023-09-01**|**A Theoretical and Practical Framework for Evaluating Uncertainty Calibration in Object Detection**|Pedro Conde et.al.|[2309.00464v1](http://arxiv.org/abs/2309.00464v1)|[link](https://github.com/pedrormconde/uncertainty_calibration_object_detection)|
-|**2023-09-01**|**New metrics for analyzing continual learners**|Nicolas Michel et.al.|[2309.00462v1](http://arxiv.org/abs/2309.00462v1)|null|
-|**2023-09-01**|**Evaluating Animation Parameters for Morphing Edge Drawings**|Carla Binucci et.al.|[2309.00456v1](http://arxiv.org/abs/2309.00456v1)|null|
-|**2023-09-01**|**A shape-based heuristic for the detection of urban block artifacts in street networks**|Martin Fleischmann et.al.|[2309.00438v1](http://arxiv.org/abs/2309.00438v1)|null|
-|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434v1](http://arxiv.org/abs/2309.00434v1)|null|
-|**2023-09-01**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428v1](http://arxiv.org/abs/2309.00428v1)|[link](https://github.com/non-void/localmocap)|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-08-18**|**Outlier detection for mixed-type data: A novel approach**|Efthymios Costa et.al.|[2308.09562v2](http://arxiv.org/abs/2308.09562v2)|null|
 |**2023-08-18**|**Generative Machine Listener**|Guanxin Jiang et.al.|[2308.09493v1](http://arxiv.org/abs/2308.09493v1)|null|
 |**2023-08-18**|**Generalizable Decision Boundaries: Dualistic Meta-Learning for Open Set Domain Generalization**|Xiran Wang et.al.|[2308.09391v1](http://arxiv.org/abs/2308.09391v1)|[link](https://github.com/zzwdx/medic)|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-01**|**Bayesian deep learning for cosmic volumes with modified gravity**|Jorge Enrique García-Farieta et.al.|[2309.00612v1](http://arxiv.org/abs/2309.00612v1)|null|
+|**2023-09-01**|**Signal-to-noise improvement through neural network contour deformations for 3D $SU(2)$ lattice gauge theory**|William Detmold et.al.|[2309.00600v1](http://arxiv.org/abs/2309.00600v1)|null|
+|**2023-09-01**|**Time Series Analysis of Urban Liveability**|Alex Levering et.al.|[2309.00594v1](http://arxiv.org/abs/2309.00594v1)|null|
+|**2023-09-01**|**Neural blind deconvolution for simultaneous partial volume correction and super-sampling of PSMA PET images**|Caleb Sample et.al.|[2309.00590v1](http://arxiv.org/abs/2309.00590v1)|null|
+|**2023-09-01**|**Discrete Morphological Neural Networks**|Diego Marcondes et.al.|[2309.00588v1](http://arxiv.org/abs/2309.00588v1)|[link](https://github.com/dmarcondes/dmnn)|
+|**2023-09-01**|**Geometry-Informed Neural Operator for Large-Scale 3D PDEs**|Zongyi Li et.al.|[2309.00583v1](http://arxiv.org/abs/2309.00583v1)|null|
+|**2023-09-01**|**Consistency of Lloyd's Algorithm Under Perturbations**|Dhruv Patel et.al.|[2309.00578v1](http://arxiv.org/abs/2309.00578v1)|null|
+|**2023-09-01**|**Mechanism of feature learning in convolutional neural networks**|Daniel Beaglehole et.al.|[2309.00570v1](http://arxiv.org/abs/2309.00570v1)|[link](https://github.com/aradha/convrfm)|
+|**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563v1](http://arxiv.org/abs/2309.00563v1)|null|
+|**2023-09-01**|**Exact Learning with Tunable Quantum Neural Networks and a Quantum Example Oracle**|Viet Pham Ngoc et.al.|[2309.00561v1](http://arxiv.org/abs/2309.00561v1)|null|
+|**2023-09-01**|**Bichromatic Perfect Matchings with Crossings**|Oswin Aichholzer et.al.|[2309.00546v1](http://arxiv.org/abs/2309.00546v1)|null|
+|**2023-09-01**|**Statistics of remote regions of networks**|J. G. Oliveira et.al.|[2309.00537v1](http://arxiv.org/abs/2309.00537v1)|null|
+|**2023-09-01**|**Integrated Charging Scheduling and Operational Control for an Electric Bus Network**|Rémi Lacombe et.al.|[2309.00523v1](http://arxiv.org/abs/2309.00523v1)|null|
+|**2023-09-01**|**Online Distributed Learning over Random Networks**|Nicola Bastianello et.al.|[2309.00520v1](http://arxiv.org/abs/2309.00520v1)|null|
+|**2023-09-01**|**Score and Rank Semi-Monotonicity for Closeness, Betweenness and Harmonic Centrality**|Paolo Boldi et.al.|[2309.00519v1](http://arxiv.org/abs/2309.00519v1)|null|
+|**2023-09-01**|**A Machine Vision Method for Correction of Eccentric Error: Based on Adaptive Enhancement Algorithm**|Fanyi Wang et.al.|[2309.00514v1](http://arxiv.org/abs/2309.00514v1)|null|
+|**2023-09-01**|**A normative approach to radicalization in social networks**|Vincent Bouttier et.al.|[2309.00513v1](http://arxiv.org/abs/2309.00513v1)|null|
+|**2023-09-01**|**Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks**|Leyang Zhang et.al.|[2309.00508v1](http://arxiv.org/abs/2309.00508v1)|null|
+|**2023-09-01**|**Application of Deep Learning Methods in Monitoring and Optimization of Electric Power Systems**|Ognjen Kundacina et.al.|[2309.00498v1](http://arxiv.org/abs/2309.00498v1)|null|
+|**2023-09-01**|**Multi-stage Deep Learning Artifact Reduction for Computed Tomography**|Jiayang Shi et.al.|[2309.00494v1](http://arxiv.org/abs/2309.00494v1)|null|
+|**2023-09-01**|**How Does Forecasting Affect the Convergence of DRL Techniques in O-RAN Slicing?**|Ahmad M. Nagib et.al.|[2309.00489v1](http://arxiv.org/abs/2309.00489v1)|null|
+|**2023-09-01**|**Learning-based NLOS Detection and Uncertainty Prediction of GNSS Observations with Transformer-Enhanced LSTM Network**|Haoming Zhang et.al.|[2309.00480v1](http://arxiv.org/abs/2309.00480v1)|[link](https://github.com/rwth-irt/deepnlosdetection)|
+|**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476v1](http://arxiv.org/abs/2309.00476v1)|null|
+|**2023-09-01**|**Asymmetric double-winged multi-view clustering network for exploring Diverse and Consistent Information**|Qun Zheng et.al.|[2309.00474v1](http://arxiv.org/abs/2309.00474v1)|null|
+|**2023-09-01**|**A Theoretical and Practical Framework for Evaluating Uncertainty Calibration in Object Detection**|Pedro Conde et.al.|[2309.00464v1](http://arxiv.org/abs/2309.00464v1)|[link](https://github.com/pedrormconde/uncertainty_calibration_object_detection)|
+|**2023-09-01**|**New metrics for analyzing continual learners**|Nicolas Michel et.al.|[2309.00462v1](http://arxiv.org/abs/2309.00462v1)|null|
+|**2023-09-01**|**Evaluating Animation Parameters for Morphing Edge Drawings**|Carla Binucci et.al.|[2309.00456v1](http://arxiv.org/abs/2309.00456v1)|null|
+|**2023-09-01**|**A shape-based heuristic for the detection of urban block artifacts in street networks**|Martin Fleischmann et.al.|[2309.00438v1](http://arxiv.org/abs/2309.00438v1)|null|
+|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434v1](http://arxiv.org/abs/2309.00434v1)|null|
+|**2023-09-01**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428v1](http://arxiv.org/abs/2309.00428v1)|[link](https://github.com/non-void/localmocap)|
