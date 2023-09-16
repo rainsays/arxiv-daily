@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-16 09:19:16 Asia/Shanghai
+ Automated deployment @ 2023-09-16 20:35:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,40 +43,6 @@
 |**2023-09-14**|**Complexity Scaling for Speech Denoising**|Hangting Chen et.al.|[2309.07757v1](http://arxiv.org/abs/2309.07757v1)|null|
 |**2023-09-14**|**Co-Salient Object Detection with Semantic-Level Consensus Extraction and Dispersion**|Peiran Xu et.al.|[2309.07753v1](http://arxiv.org/abs/2309.07753v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-14**|**Decomposition of linear tensor transformations**|Claudio Turchetti et.al.|[2309.07819v1](http://arxiv.org/abs/2309.07819v1)|null|
-|**2023-09-14**|**Proximal Bellman mappings for reinforcement learning and their application to robust adaptive filtering**|Yuki Akiyama et.al.|[2309.07548v1](http://arxiv.org/abs/2309.07548v1)|null|
-|**2023-09-14**|**Outlier-aware Inlier Modeling and Multi-scale Scoring for Anomalous Sound Detection via Multitask Learning**|Yucong Zhang et.al.|[2309.07500v1](http://arxiv.org/abs/2309.07500v1)|null|
-|**2023-09-14**|**Beta quantile regression for robust estimation of uncertainty in the presence of outliers**|Haleh Akrami et.al.|[2309.07374v1](http://arxiv.org/abs/2309.07374v1)|null|
-|**2023-09-13**|**Reliability-based cleaning of noisy training labels with inductive conformal prediction in multi-modal biomedical data mining**|Xianghao Zhan et.al.|[2309.07332v1](http://arxiv.org/abs/2309.07332v1)|[link](https://github.com/xzhan96-stf/icp_train_clean)|
-|**2023-09-13**|**Dimming the Lights: 2D Simulations of Deflagrations of Hybrid C/O/Ne White Dwarfs using FLASH**|Catherine Feldman et.al.|[2309.07283v1](http://arxiv.org/abs/2309.07283v1)|null|
-|**2023-09-12**|**Emergence and cosmic evolution of the Kennicutt-Schmidt relation driven by interstellar turbulence**|Katarina Kraljic et.al.|[2309.06485v1](http://arxiv.org/abs/2309.06485v1)|null|
-|**2023-09-12**|**Gaia's brightest very metal-poor (VMP) stars: A metallicity catalogue of a thousand VMP stars from Gaia RVS spectra**|Akshara Viswanathan et.al.|[2309.06137v1](http://arxiv.org/abs/2309.06137v1)|null|
-|**2023-09-11**|**Boundary Peeling: Outlier Detection Method Using One-Class Peeling**|Sheikh Arafat et.al.|[2309.05630v1](http://arxiv.org/abs/2309.05630v1)|null|
-|**2023-09-11**|**Robust Single Rotation Averaging Revisited**|Seong Hun Lee et.al.|[2309.05388v1](http://arxiv.org/abs/2309.05388v1)|null|
-|**2023-09-11**|**A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator**|Xuehong Gao et.al.|[2309.05359v1](http://arxiv.org/abs/2309.05359v1)|null|
-|**2023-09-11**|**SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth**|Xihang Yu et.al.|[2309.05184v1](http://arxiv.org/abs/2309.05184v1)|null|
-|**2023-09-10**|**Outlier Robust Adversarial Training**|Shu Hu et.al.|[2309.05145v1](http://arxiv.org/abs/2309.05145v1)|[link](https://github.com/discovershu/orat)|
-|**2023-09-09**|**Non-linear dimension reduction in factor-augmented vector autoregressions**|Karin Klieber et.al.|[2309.04821v1](http://arxiv.org/abs/2309.04821v1)|null|
-|**2023-09-09**|**Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering**|Zhengru Wang et.al.|[2309.04799v1](http://arxiv.org/abs/2309.04799v1)|[link](https://github.com/intellistream/sesame)|
-|**2023-09-07**|**Past the outer rim, into the unknown: structures beyond the Kuiper Cliff**|C. de la Fuente Marcos et.al.|[2309.03885v1](http://arxiv.org/abs/2309.03885v1)|null|
-|**2023-09-07**|**Improved theoretical guarantee for rank aggregation via spectral method**|Ziliang Samuel Zhong et.al.|[2309.03808v2](http://arxiv.org/abs/2309.03808v2)|null|
-|**2023-09-06**|**MCMC Sampling of Directed Flag Complexes with Fixed Undirected Graphs**|Florian Unger et.al.|[2309.02938v1](http://arxiv.org/abs/2309.02938v1)|null|
-|**2023-09-06**|**Improved Outlier Robust Seeding for k-means**|Amit Deshpande et.al.|[2309.02710v1](http://arxiv.org/abs/2309.02710v1)|null|
-|**2023-09-05**|**Panic at the ISCO: the visible accretion disks powering optical variability in ZTF AGN**|Charlotte Ward et.al.|[2309.02516v1](http://arxiv.org/abs/2309.02516v1)|[link](https://github.com/charlotteaward/ZTF-DPEs)|
-|**2023-09-05**|**To be, or not to be: Balmer breaks in high-z galaxies with JWST**|Anton Vikaeus et.al.|[2309.02504v2](http://arxiv.org/abs/2309.02504v2)|null|
-|**2023-09-05**|**Possible Extragalactic Origins of Five LMC Globular Clusters: Proper Motion Deviations in Gaia DR3**|Tamojeet Roychowdhury et.al.|[2309.02298v1](http://arxiv.org/abs/2309.02298v1)|null|
-|**2023-09-05**|**Compressing and forecasting atomic material simulations with descriptors**|Thomas D Swinburne et.al.|[2309.02242v1](http://arxiv.org/abs/2309.02242v1)|null|
-|**2023-09-05**|**Unsupervised Skin Lesion Segmentation via Structural Entropy Minimization on Multi-Scale Superpixel Graphs**|Guangjie Zeng et.al.|[2309.01899v1](http://arxiv.org/abs/2309.01899v1)|[link](https://github.com/selgroup/sled)|
-|**2023-09-05**|**QuantEase: Optimization-based Quantization for Language Models -- An Efficient and Intuitive Algorithm**|Kayhan Behdin et.al.|[2309.01885v1](http://arxiv.org/abs/2309.01885v1)|null|
-|**2023-09-04**|**Neural network-based emulation of interstellar medium models**|Pierre Palud et.al.|[2309.01724v1](http://arxiv.org/abs/2309.01724v1)|[link](https://github.com/einigl/ism-model-nn-approximation)|
-|**2023-09-04**|**Robust penalized least squares of depth trimmed residuals regression for high-dimensional data**|Yijun Zuo et.al.|[2309.01666v1](http://arxiv.org/abs/2309.01666v1)|null|
-|**2023-09-04**|**Probabilistic Precision and Recall Towards Reliable Evaluation of Generative Models**|Dogyun Park et.al.|[2309.01590v1](http://arxiv.org/abs/2309.01590v1)|[link](https://github.com/kdst-team/probablistic_precision_recall)|
-|**2023-09-04**|**Memory Efficient Optimizers with 4-bit States**|Bingrui Li et.al.|[2309.01507v2](http://arxiv.org/abs/2309.01507v2)|[link](https://github.com/thu-ml/low-bit-optimizers)|
-|**2023-09-03**|**Distributed averaging for accuracy prediction in networked systems**|Christel Sirocchi et.al.|[2309.01144v1](http://arxiv.org/abs/2309.01144v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -110,3 +76,37 @@
 |**2023-09-14**|**Fluctuating Entropy Production on the Coarse-Grained Level: Inference and Localization of Irreversibility**|Julius Degünther et.al.|[2309.07665v1](http://arxiv.org/abs/2309.07665v1)|null|
 |**2023-09-14**|**Sync+Sync: A Covert Channel Built on fsync with Storage**|Qisheng Jiang et.al.|[2309.07657v1](http://arxiv.org/abs/2309.07657v1)|null|
 |**2023-09-14**|**Discerning Parallax Amplitude in Astrometric Microlensing**|Sedighe Sajadian et.al.|[2309.07653v1](http://arxiv.org/abs/2309.07653v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-14**|**Decomposition of linear tensor transformations**|Claudio Turchetti et.al.|[2309.07819v1](http://arxiv.org/abs/2309.07819v1)|null|
+|**2023-09-14**|**Proximal Bellman mappings for reinforcement learning and their application to robust adaptive filtering**|Yuki Akiyama et.al.|[2309.07548v1](http://arxiv.org/abs/2309.07548v1)|null|
+|**2023-09-14**|**Outlier-aware Inlier Modeling and Multi-scale Scoring for Anomalous Sound Detection via Multitask Learning**|Yucong Zhang et.al.|[2309.07500v1](http://arxiv.org/abs/2309.07500v1)|null|
+|**2023-09-14**|**Beta quantile regression for robust estimation of uncertainty in the presence of outliers**|Haleh Akrami et.al.|[2309.07374v1](http://arxiv.org/abs/2309.07374v1)|null|
+|**2023-09-13**|**Reliability-based cleaning of noisy training labels with inductive conformal prediction in multi-modal biomedical data mining**|Xianghao Zhan et.al.|[2309.07332v1](http://arxiv.org/abs/2309.07332v1)|[link](https://github.com/xzhan96-stf/icp_train_clean)|
+|**2023-09-13**|**Dimming the Lights: 2D Simulations of Deflagrations of Hybrid C/O/Ne White Dwarfs using FLASH**|Catherine Feldman et.al.|[2309.07283v1](http://arxiv.org/abs/2309.07283v1)|null|
+|**2023-09-12**|**Emergence and cosmic evolution of the Kennicutt-Schmidt relation driven by interstellar turbulence**|Katarina Kraljic et.al.|[2309.06485v1](http://arxiv.org/abs/2309.06485v1)|null|
+|**2023-09-12**|**Gaia's brightest very metal-poor (VMP) stars: A metallicity catalogue of a thousand VMP stars from Gaia RVS spectra**|Akshara Viswanathan et.al.|[2309.06137v1](http://arxiv.org/abs/2309.06137v1)|null|
+|**2023-09-11**|**Boundary Peeling: Outlier Detection Method Using One-Class Peeling**|Sheikh Arafat et.al.|[2309.05630v1](http://arxiv.org/abs/2309.05630v1)|null|
+|**2023-09-11**|**Robust Single Rotation Averaging Revisited**|Seong Hun Lee et.al.|[2309.05388v1](http://arxiv.org/abs/2309.05388v1)|null|
+|**2023-09-11**|**A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator**|Xuehong Gao et.al.|[2309.05359v1](http://arxiv.org/abs/2309.05359v1)|null|
+|**2023-09-11**|**SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth**|Xihang Yu et.al.|[2309.05184v1](http://arxiv.org/abs/2309.05184v1)|null|
+|**2023-09-10**|**Outlier Robust Adversarial Training**|Shu Hu et.al.|[2309.05145v1](http://arxiv.org/abs/2309.05145v1)|[link](https://github.com/discovershu/orat)|
+|**2023-09-09**|**Non-linear dimension reduction in factor-augmented vector autoregressions**|Karin Klieber et.al.|[2309.04821v1](http://arxiv.org/abs/2309.04821v1)|null|
+|**2023-09-09**|**Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering**|Zhengru Wang et.al.|[2309.04799v1](http://arxiv.org/abs/2309.04799v1)|[link](https://github.com/intellistream/sesame)|
+|**2023-09-07**|**Past the outer rim, into the unknown: structures beyond the Kuiper Cliff**|C. de la Fuente Marcos et.al.|[2309.03885v1](http://arxiv.org/abs/2309.03885v1)|null|
+|**2023-09-07**|**Improved theoretical guarantee for rank aggregation via spectral method**|Ziliang Samuel Zhong et.al.|[2309.03808v2](http://arxiv.org/abs/2309.03808v2)|null|
+|**2023-09-06**|**MCMC Sampling of Directed Flag Complexes with Fixed Undirected Graphs**|Florian Unger et.al.|[2309.02938v1](http://arxiv.org/abs/2309.02938v1)|null|
+|**2023-09-06**|**Improved Outlier Robust Seeding for k-means**|Amit Deshpande et.al.|[2309.02710v1](http://arxiv.org/abs/2309.02710v1)|null|
+|**2023-09-05**|**Panic at the ISCO: the visible accretion disks powering optical variability in ZTF AGN**|Charlotte Ward et.al.|[2309.02516v1](http://arxiv.org/abs/2309.02516v1)|[link](https://github.com/charlotteaward/ZTF-DPEs)|
+|**2023-09-05**|**To be, or not to be: Balmer breaks in high-z galaxies with JWST**|Anton Vikaeus et.al.|[2309.02504v2](http://arxiv.org/abs/2309.02504v2)|null|
+|**2023-09-05**|**Possible Extragalactic Origins of Five LMC Globular Clusters: Proper Motion Deviations in Gaia DR3**|Tamojeet Roychowdhury et.al.|[2309.02298v1](http://arxiv.org/abs/2309.02298v1)|null|
+|**2023-09-05**|**Compressing and forecasting atomic material simulations with descriptors**|Thomas D Swinburne et.al.|[2309.02242v1](http://arxiv.org/abs/2309.02242v1)|null|
+|**2023-09-05**|**Unsupervised Skin Lesion Segmentation via Structural Entropy Minimization on Multi-Scale Superpixel Graphs**|Guangjie Zeng et.al.|[2309.01899v1](http://arxiv.org/abs/2309.01899v1)|[link](https://github.com/selgroup/sled)|
+|**2023-09-05**|**QuantEase: Optimization-based Quantization for Language Models -- An Efficient and Intuitive Algorithm**|Kayhan Behdin et.al.|[2309.01885v1](http://arxiv.org/abs/2309.01885v1)|null|
+|**2023-09-04**|**Neural network-based emulation of interstellar medium models**|Pierre Palud et.al.|[2309.01724v1](http://arxiv.org/abs/2309.01724v1)|[link](https://github.com/einigl/ism-model-nn-approximation)|
+|**2023-09-04**|**Robust penalized least squares of depth trimmed residuals regression for high-dimensional data**|Yijun Zuo et.al.|[2309.01666v1](http://arxiv.org/abs/2309.01666v1)|null|
+|**2023-09-04**|**Probabilistic Precision and Recall Towards Reliable Evaluation of Generative Models**|Dogyun Park et.al.|[2309.01590v1](http://arxiv.org/abs/2309.01590v1)|[link](https://github.com/kdst-team/probablistic_precision_recall)|
+|**2023-09-04**|**Memory Efficient Optimizers with 4-bit States**|Bingrui Li et.al.|[2309.01507v2](http://arxiv.org/abs/2309.01507v2)|[link](https://github.com/thu-ml/low-bit-optimizers)|
+|**2023-09-03**|**Distributed averaging for accuracy prediction in networked systems**|Christel Sirocchi et.al.|[2309.01144v1](http://arxiv.org/abs/2309.01144v1)|null|
