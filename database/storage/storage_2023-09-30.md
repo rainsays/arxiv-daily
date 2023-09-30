@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-30 09:19:56 Asia/Shanghai
+ Automated deployment @ 2023-09-30 20:36:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-27**|**Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models**|Jung Hwan Heo et.al.|[2309.15531v1](http://arxiv.org/abs/2309.15531v1)|null|
-|**2023-09-27**|**GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion**|Jiazhao Zhang et.al.|[2309.15459v1](http://arxiv.org/abs/2309.15459v1)|null|
-|**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390v1](http://arxiv.org/abs/2309.15390v1)|null|
-|**2023-09-26**|**Parallel Multi-Objective Hyperparameter Optimization with Uniform Normalization and Bounded Objectives**|Romain Egele et.al.|[2309.14936v1](http://arxiv.org/abs/2309.14936v1)|null|
-|**2023-09-26**|**Revisiting Softmax Masking for Stability in Continual Learning**|Hoyong Kim et.al.|[2309.14808v1](http://arxiv.org/abs/2309.14808v1)|null|
-|**2023-09-25**|**Understanding the Structure of QM7b and QM9 Quantum Mechanical Datasets Using Unsupervised Learning**|Julio J. Valdés et.al.|[2309.15130v1](http://arxiv.org/abs/2309.15130v1)|null|
-|**2023-09-25**|**Diffeomorphic Transformations for Time Series Analysis: An Efficient Approach to Nonlinear Warping**|Iñigo Martinez et.al.|[2309.14029v1](http://arxiv.org/abs/2309.14029v1)|null|
-|**2023-09-23**|**Dream the Impossible: Outlier Imagination with Diffusion Models**|Xuefeng Du et.al.|[2309.13415v1](http://arxiv.org/abs/2309.13415v1)|null|
-|**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
-|**2023-09-23**|**MP-MVS: Multi-Scale Windows PatchMatch and Planar Prior Multi-View Stereo**|Rongxuan Tan et.al.|[2309.13294v1](http://arxiv.org/abs/2309.13294v1)|[link](https://github.com/rongxuantan/mp-mvs)|
-|**2023-09-22**|**Domain Adaptive Few-Shot Open-Set Learning**|Debabrata Pal et.al.|[2309.12814v1](http://arxiv.org/abs/2309.12814v1)|null|
-|**2023-09-22**|**AMPLIFY:Attention-based Mixup for Performance Improvement and Label Smoothing in Transformer**|Leixin Yang et.al.|[2309.12689v1](http://arxiv.org/abs/2309.12689v1)|[link](https://github.com/kiwi-lilo/amplify)|
-|**2023-09-22**|**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**|Junqi Jiang et.al.|[2309.12545v1](http://arxiv.org/abs/2309.12545v1)|[link](https://github.com/junqi-jiang/proplace)|
-|**2023-09-21**|**Bridging the gap in the mass-size relation of compact galaxies with MaNGA**|P. Grèbol-Tomàs et.al.|[2309.12394v1](http://arxiv.org/abs/2309.12394v1)|null|
-|**2023-09-21**|**Enabling Quartile-based Estimated-Mean Gradient Aggregation As Baseline for Federated Image Classifications**|Yusen Wu et.al.|[2309.12267v1](http://arxiv.org/abs/2309.12267v1)|null|
-|**2023-09-21**|**The metallicity and distance of Leo A from blue supergiants**|Miguel A. Urbaneja et.al.|[2309.11952v1](http://arxiv.org/abs/2309.11952v1)|null|
-|**2023-09-20**|**Selection of powerful radio galaxies with machine learning**|R. Carvajal et.al.|[2309.11652v1](http://arxiv.org/abs/2309.11652v1)|null|
-|**2023-09-20**|**A Close Look at Ly$α$ Emitters with JWST/NIRCam at $z\approx3.1$**|Yixiao Liu et.al.|[2309.11559v1](http://arxiv.org/abs/2309.11559v1)|null|
-|**2023-09-20**|**Distribution and volume based scoring for Isolation Forests**|Hichem Dhouib et.al.|[2309.11450v1](http://arxiv.org/abs/2309.11450v1)|[link](https://github.com/porscheofficial/distribution_and_volume_based_isolation_forest)|
-|**2023-09-20**|**Shape Anchor Guided Holistic Indoor Scene Understanding**|Mingyue Dong et.al.|[2309.11133v1](http://arxiv.org/abs/2309.11133v1)|[link](https://github.com/Geo-Tell/AncRec)|
-|**2023-09-20**|**Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning**|Junjie Gao et.al.|[2309.11107v1](http://arxiv.org/abs/2309.11107v1)|null|
-|**2023-09-20**|**Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat Detection System via Autoencoder-based Latent Space Inspection**|Tran Duc Luong et.al.|[2309.11053v1](http://arxiv.org/abs/2309.11053v1)|null|
-|**2023-09-19**|**Latent Space Energy-based Model for Fine-grained Open Set Recognition**|Wentao Bao et.al.|[2309.10711v1](http://arxiv.org/abs/2309.10711v1)|null|
-|**2023-09-19**|**Nonlinear dynamic analysis of shear- and torsion-free rods using isogeometric discretization, outlier removal and robust time integration**|Thi-Hoa Nguyen et.al.|[2309.10652v1](http://arxiv.org/abs/2309.10652v1)|null|
-|**2023-09-19**|**An overview of time series point and interval forecasting based on similarity of trajectories, with an experimental study on traffic flow forecasting**|İlker Arslan et.al.|[2309.10613v1](http://arxiv.org/abs/2309.10613v1)|null|
-|**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|null|
-|**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230v2](http://arxiv.org/abs/2309.10230v2)|[link](https://github.com/daniellli/pad)|
-|**2023-09-18**|**Adaptive Unscented Kalman Filter under Minimum Error Entropy with Fiducial Points for Non-Gaussian Systems**|Boyu Tian et.al.|[2309.09577v1](http://arxiv.org/abs/2309.09577v1)|null|
-|**2023-09-18**|**Outlier-Insensitive Kalman Filtering: Theory and Applications**|Shunit Truzman et.al.|[2309.09505v1](http://arxiv.org/abs/2309.09505v1)|[link](https://github.com/kalmannet/oikf-nuv)|
-|**2023-09-17**|**Neural Gradient Learning and Optimization for Oriented Point Normal Estimation**|Qing Li et.al.|[2309.09211v1](http://arxiv.org/abs/2309.09211v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503v1](http://arxiv.org/abs/2309.16503v1)|null|
 |**2023-09-28**|**Accurate and lightweight dehazing via multi-receptive-field non-local network and novel contrastive regularization**|Zewei He et.al.|[2309.16494v1](http://arxiv.org/abs/2309.16494v1)|null|
 |**2023-09-28**|**Towards Poisoning Fair Representations**|Tianci Liu et.al.|[2309.16487v1](http://arxiv.org/abs/2309.16487v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-27**|**Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models**|Jung Hwan Heo et.al.|[2309.15531v1](http://arxiv.org/abs/2309.15531v1)|null|
+|**2023-09-27**|**GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion**|Jiazhao Zhang et.al.|[2309.15459v1](http://arxiv.org/abs/2309.15459v1)|null|
+|**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390v1](http://arxiv.org/abs/2309.15390v1)|null|
+|**2023-09-26**|**Parallel Multi-Objective Hyperparameter Optimization with Uniform Normalization and Bounded Objectives**|Romain Egele et.al.|[2309.14936v1](http://arxiv.org/abs/2309.14936v1)|null|
+|**2023-09-26**|**Revisiting Softmax Masking for Stability in Continual Learning**|Hoyong Kim et.al.|[2309.14808v1](http://arxiv.org/abs/2309.14808v1)|null|
+|**2023-09-25**|**Understanding the Structure of QM7b and QM9 Quantum Mechanical Datasets Using Unsupervised Learning**|Julio J. Valdés et.al.|[2309.15130v1](http://arxiv.org/abs/2309.15130v1)|null|
+|**2023-09-25**|**Diffeomorphic Transformations for Time Series Analysis: An Efficient Approach to Nonlinear Warping**|Iñigo Martinez et.al.|[2309.14029v1](http://arxiv.org/abs/2309.14029v1)|null|
+|**2023-09-23**|**Dream the Impossible: Outlier Imagination with Diffusion Models**|Xuefeng Du et.al.|[2309.13415v1](http://arxiv.org/abs/2309.13415v1)|null|
+|**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
+|**2023-09-23**|**MP-MVS: Multi-Scale Windows PatchMatch and Planar Prior Multi-View Stereo**|Rongxuan Tan et.al.|[2309.13294v1](http://arxiv.org/abs/2309.13294v1)|[link](https://github.com/rongxuantan/mp-mvs)|
+|**2023-09-22**|**Domain Adaptive Few-Shot Open-Set Learning**|Debabrata Pal et.al.|[2309.12814v1](http://arxiv.org/abs/2309.12814v1)|null|
+|**2023-09-22**|**AMPLIFY:Attention-based Mixup for Performance Improvement and Label Smoothing in Transformer**|Leixin Yang et.al.|[2309.12689v1](http://arxiv.org/abs/2309.12689v1)|[link](https://github.com/kiwi-lilo/amplify)|
+|**2023-09-22**|**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**|Junqi Jiang et.al.|[2309.12545v1](http://arxiv.org/abs/2309.12545v1)|[link](https://github.com/junqi-jiang/proplace)|
+|**2023-09-21**|**Bridging the gap in the mass-size relation of compact galaxies with MaNGA**|P. Grèbol-Tomàs et.al.|[2309.12394v1](http://arxiv.org/abs/2309.12394v1)|null|
+|**2023-09-21**|**Enabling Quartile-based Estimated-Mean Gradient Aggregation As Baseline for Federated Image Classifications**|Yusen Wu et.al.|[2309.12267v1](http://arxiv.org/abs/2309.12267v1)|null|
+|**2023-09-21**|**The metallicity and distance of Leo A from blue supergiants**|Miguel A. Urbaneja et.al.|[2309.11952v1](http://arxiv.org/abs/2309.11952v1)|null|
+|**2023-09-20**|**Selection of powerful radio galaxies with machine learning**|R. Carvajal et.al.|[2309.11652v1](http://arxiv.org/abs/2309.11652v1)|null|
+|**2023-09-20**|**A Close Look at Ly$α$ Emitters with JWST/NIRCam at $z\approx3.1$**|Yixiao Liu et.al.|[2309.11559v1](http://arxiv.org/abs/2309.11559v1)|null|
+|**2023-09-20**|**Distribution and volume based scoring for Isolation Forests**|Hichem Dhouib et.al.|[2309.11450v1](http://arxiv.org/abs/2309.11450v1)|[link](https://github.com/porscheofficial/distribution_and_volume_based_isolation_forest)|
+|**2023-09-20**|**Shape Anchor Guided Holistic Indoor Scene Understanding**|Mingyue Dong et.al.|[2309.11133v1](http://arxiv.org/abs/2309.11133v1)|[link](https://github.com/Geo-Tell/AncRec)|
+|**2023-09-20**|**Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning**|Junjie Gao et.al.|[2309.11107v1](http://arxiv.org/abs/2309.11107v1)|null|
+|**2023-09-20**|**Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat Detection System via Autoencoder-based Latent Space Inspection**|Tran Duc Luong et.al.|[2309.11053v1](http://arxiv.org/abs/2309.11053v1)|null|
+|**2023-09-19**|**Latent Space Energy-based Model for Fine-grained Open Set Recognition**|Wentao Bao et.al.|[2309.10711v1](http://arxiv.org/abs/2309.10711v1)|null|
+|**2023-09-19**|**Nonlinear dynamic analysis of shear- and torsion-free rods using isogeometric discretization, outlier removal and robust time integration**|Thi-Hoa Nguyen et.al.|[2309.10652v1](http://arxiv.org/abs/2309.10652v1)|null|
+|**2023-09-19**|**An overview of time series point and interval forecasting based on similarity of trajectories, with an experimental study on traffic flow forecasting**|İlker Arslan et.al.|[2309.10613v1](http://arxiv.org/abs/2309.10613v1)|null|
+|**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|null|
+|**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230v2](http://arxiv.org/abs/2309.10230v2)|[link](https://github.com/daniellli/pad)|
+|**2023-09-18**|**Adaptive Unscented Kalman Filter under Minimum Error Entropy with Fiducial Points for Non-Gaussian Systems**|Boyu Tian et.al.|[2309.09577v1](http://arxiv.org/abs/2309.09577v1)|null|
+|**2023-09-18**|**Outlier-Insensitive Kalman Filtering: Theory and Applications**|Shunit Truzman et.al.|[2309.09505v1](http://arxiv.org/abs/2309.09505v1)|[link](https://github.com/kalmannet/oikf-nuv)|
+|**2023-09-17**|**Neural Gradient Learning and Optimization for Oriented Point Normal Estimation**|Qing Li et.al.|[2309.09211v1](http://arxiv.org/abs/2309.09211v1)|null|
