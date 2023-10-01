@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-01 09:36:29 Asia/Shanghai
+ Automated deployment @ 2023-10-01 20:37:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663v1](http://arxiv.org/abs/2309.16663v1)|null|
-|**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661v1](http://arxiv.org/abs/2309.16661v1)|[link](https://github.com/mustansarfiaz/sa2-net)|
-|**2023-09-28**|**Visual In-Context Learning for Few-Shot Eczema Segmentation**|Neelesh Kumar et.al.|[2309.16656v1](http://arxiv.org/abs/2309.16656v1)|null|
-|**2023-09-28**|**Novel Deep Learning Pipeline for Automatic Weapon Detection**|Haribharathi Sivakumar et.al.|[2309.16654v1](http://arxiv.org/abs/2309.16654v1)|null|
-|**2023-09-28**|**Improving Equivariance in State-of-the-Art Supervised Depth and Normal Predictors**|Yuanyi Zhong et.al.|[2309.16646v1](http://arxiv.org/abs/2309.16646v1)|[link](https://github.com/mikuhatsune/equivariance)|
-|**2023-09-28**|**Reusability report: Prostate cancer stratification with diverse biologically-informed neural architectures**|Christian Pedersen et.al.|[2309.16645v1](http://arxiv.org/abs/2309.16645v1)|null|
-|**2023-09-28**|**On the Role of 5G and Beyond Sidelink Communication in Multi-Hop Tactical Networks**|Charles E. Thornton et.al.|[2309.16628v1](http://arxiv.org/abs/2309.16628v1)|null|
-|**2023-09-28**|**Class Activation Map-based Weakly supervised Hemorrhage Segmentation using Resnet-LSTM in Non-Contrast Computed Tomography images**|Shreyas H Ramananda et.al.|[2309.16627v1](http://arxiv.org/abs/2309.16627v1)|null|
-|**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|null|
-|**2023-09-28**|**Revisiting Neural Program Smoothing for Fuzzing**|Maria-Irina Nicolae et.al.|[2309.16618v1](http://arxiv.org/abs/2309.16618v1)|null|
-|**2023-09-28**|**Exploiting Edge Features in Graphs with Fused Network Gromov-Wasserstein Distance**|Junjie Yang et.al.|[2309.16604v1](http://arxiv.org/abs/2309.16604v1)|null|
-|**2023-09-28**|**Deep Learning Based Uplink Multi-User SIMO Beamforming Design**|Cemil Vahapoglu et.al.|[2309.16603v1](http://arxiv.org/abs/2309.16603v1)|null|
-|**2023-09-28**|**Local minima in quantum systems**|Chi-Fang Chen et.al.|[2309.16596v1](http://arxiv.org/abs/2309.16596v1)|null|
-|**2023-09-28**|**Tensor Factorization for Leveraging Cross-Modal Knowledge in Data-Constrained Infrared Object Detection**|Manish Sharma et.al.|[2309.16592v1](http://arxiv.org/abs/2309.16592v1)|null|
-|**2023-09-28**|**Connecting Space Missions From NGSO Constellations: Feasibility Study**|Houcine Chougrani et.al.|[2309.16589v1](http://arxiv.org/abs/2309.16589v1)|null|
-|**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|null|
-|**2023-09-28**|**Deeper but smaller: Higher-order interactions increase linear stability but shrink basins**|Yuanzhao Zhang et.al.|[2309.16581v1](http://arxiv.org/abs/2309.16581v1)|null|
-|**2023-09-28**|**A Physics Informed Machine Learning Method for Power System Model Parameter Optimization**|Georg Kordowich et.al.|[2309.16579v1](http://arxiv.org/abs/2309.16579v1)|[link](https://github.com/georgkordowich/power-system-parameter-optimization)|
-|**2023-09-28**|**Voting Network for Contour Levee Farmland Segmentation and Classification**|Abolfazl Meyarian et.al.|[2309.16561v1](http://arxiv.org/abs/2309.16561v1)|null|
-|**2023-09-28**|**SUNBIRD: A simulation-based model for full-shape density-split clustering**|Carolina Cuesta-Lazaro et.al.|[2309.16539v1](http://arxiv.org/abs/2309.16539v1)|null|
-|**2023-09-28**|**On the emergent dynamics of the infinite set of Kuramoto oscillators**|Seung-Yeal Ha et.al.|[2309.16538v1](http://arxiv.org/abs/2309.16538v1)|null|
-|**2023-09-28**|**Structural Risk Minimization for Learning Nonlinear Dynamics**|Charis Stamouli et.al.|[2309.16527v1](http://arxiv.org/abs/2309.16527v1)|null|
-|**2023-09-28**|**Time Crystal Embodies Chimera in Periodically Driven Quantum Spin System**|Mahbub Rahaman et.al.|[2309.16523v1](http://arxiv.org/abs/2309.16523v1)|null|
-|**2023-09-28**|**Latent Noise Segmentation: How Neural Noise Leads to the Emergence of Segmentation and Grouping**|Ben Lonnqvist et.al.|[2309.16515v1](http://arxiv.org/abs/2309.16515v1)|null|
-|**2023-09-28**|**Engineering Entangled Coherent States of Magnons and Phonons via a Transmon Qubit**|Marios Kounalakis et.al.|[2309.16514v1](http://arxiv.org/abs/2309.16514v1)|null|
-|**2023-09-28**|**From Complexity to Clarity: Analytical Expressions of Deep Neural Network Weights via Clifford's Geometric Algebra and Convexity**|Mert Pilanci et.al.|[2309.16512v1](http://arxiv.org/abs/2309.16512v1)|null|
-|**2023-09-28**|**Innovation Modeling Grid**|Oliver Klemp et.al.|[2309.16507v1](http://arxiv.org/abs/2309.16507v1)|null|
-|**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503v1](http://arxiv.org/abs/2309.16503v1)|null|
-|**2023-09-28**|**Accurate and lightweight dehazing via multi-receptive-field non-local network and novel contrastive regularization**|Zewei He et.al.|[2309.16494v1](http://arxiv.org/abs/2309.16494v1)|null|
-|**2023-09-28**|**Towards Poisoning Fair Representations**|Tianci Liu et.al.|[2309.16487v1](http://arxiv.org/abs/2309.16487v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-09-28**|**A Comprehensive Review on Tree Detection Methods Using Point Cloud and Aerial Imagery from Unmanned Aerial Vehicles**|Weijie Kuang et.al.|[2309.16375v1](http://arxiv.org/abs/2309.16375v1)|null|
 |**2023-09-28**|**Chiral light in twisted Fabry-Pérot cavities**|Sergey A. Dyakov et.al.|[2309.16362v1](http://arxiv.org/abs/2309.16362v1)|null|
 |**2023-09-28**|**Primordial black holes in scalar field inflation coupled to the Gauss-Bonnet term with fractional power-law potentials**|Ali Ashrafzadeh et.al.|[2309.16356v1](http://arxiv.org/abs/2309.16356v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663v1](http://arxiv.org/abs/2309.16663v1)|null|
+|**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661v1](http://arxiv.org/abs/2309.16661v1)|[link](https://github.com/mustansarfiaz/sa2-net)|
+|**2023-09-28**|**Visual In-Context Learning for Few-Shot Eczema Segmentation**|Neelesh Kumar et.al.|[2309.16656v1](http://arxiv.org/abs/2309.16656v1)|null|
+|**2023-09-28**|**Novel Deep Learning Pipeline for Automatic Weapon Detection**|Haribharathi Sivakumar et.al.|[2309.16654v1](http://arxiv.org/abs/2309.16654v1)|null|
+|**2023-09-28**|**Improving Equivariance in State-of-the-Art Supervised Depth and Normal Predictors**|Yuanyi Zhong et.al.|[2309.16646v1](http://arxiv.org/abs/2309.16646v1)|[link](https://github.com/mikuhatsune/equivariance)|
+|**2023-09-28**|**Reusability report: Prostate cancer stratification with diverse biologically-informed neural architectures**|Christian Pedersen et.al.|[2309.16645v1](http://arxiv.org/abs/2309.16645v1)|null|
+|**2023-09-28**|**On the Role of 5G and Beyond Sidelink Communication in Multi-Hop Tactical Networks**|Charles E. Thornton et.al.|[2309.16628v1](http://arxiv.org/abs/2309.16628v1)|null|
+|**2023-09-28**|**Class Activation Map-based Weakly supervised Hemorrhage Segmentation using Resnet-LSTM in Non-Contrast Computed Tomography images**|Shreyas H Ramananda et.al.|[2309.16627v1](http://arxiv.org/abs/2309.16627v1)|null|
+|**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|null|
+|**2023-09-28**|**Revisiting Neural Program Smoothing for Fuzzing**|Maria-Irina Nicolae et.al.|[2309.16618v1](http://arxiv.org/abs/2309.16618v1)|null|
+|**2023-09-28**|**Exploiting Edge Features in Graphs with Fused Network Gromov-Wasserstein Distance**|Junjie Yang et.al.|[2309.16604v1](http://arxiv.org/abs/2309.16604v1)|null|
+|**2023-09-28**|**Deep Learning Based Uplink Multi-User SIMO Beamforming Design**|Cemil Vahapoglu et.al.|[2309.16603v1](http://arxiv.org/abs/2309.16603v1)|null|
+|**2023-09-28**|**Local minima in quantum systems**|Chi-Fang Chen et.al.|[2309.16596v1](http://arxiv.org/abs/2309.16596v1)|null|
+|**2023-09-28**|**Tensor Factorization for Leveraging Cross-Modal Knowledge in Data-Constrained Infrared Object Detection**|Manish Sharma et.al.|[2309.16592v1](http://arxiv.org/abs/2309.16592v1)|null|
+|**2023-09-28**|**Connecting Space Missions From NGSO Constellations: Feasibility Study**|Houcine Chougrani et.al.|[2309.16589v1](http://arxiv.org/abs/2309.16589v1)|null|
+|**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|null|
+|**2023-09-28**|**Deeper but smaller: Higher-order interactions increase linear stability but shrink basins**|Yuanzhao Zhang et.al.|[2309.16581v1](http://arxiv.org/abs/2309.16581v1)|null|
+|**2023-09-28**|**A Physics Informed Machine Learning Method for Power System Model Parameter Optimization**|Georg Kordowich et.al.|[2309.16579v1](http://arxiv.org/abs/2309.16579v1)|[link](https://github.com/georgkordowich/power-system-parameter-optimization)|
+|**2023-09-28**|**Voting Network for Contour Levee Farmland Segmentation and Classification**|Abolfazl Meyarian et.al.|[2309.16561v1](http://arxiv.org/abs/2309.16561v1)|null|
+|**2023-09-28**|**SUNBIRD: A simulation-based model for full-shape density-split clustering**|Carolina Cuesta-Lazaro et.al.|[2309.16539v1](http://arxiv.org/abs/2309.16539v1)|null|
+|**2023-09-28**|**On the emergent dynamics of the infinite set of Kuramoto oscillators**|Seung-Yeal Ha et.al.|[2309.16538v1](http://arxiv.org/abs/2309.16538v1)|null|
+|**2023-09-28**|**Structural Risk Minimization for Learning Nonlinear Dynamics**|Charis Stamouli et.al.|[2309.16527v1](http://arxiv.org/abs/2309.16527v1)|null|
+|**2023-09-28**|**Time Crystal Embodies Chimera in Periodically Driven Quantum Spin System**|Mahbub Rahaman et.al.|[2309.16523v1](http://arxiv.org/abs/2309.16523v1)|null|
+|**2023-09-28**|**Latent Noise Segmentation: How Neural Noise Leads to the Emergence of Segmentation and Grouping**|Ben Lonnqvist et.al.|[2309.16515v1](http://arxiv.org/abs/2309.16515v1)|null|
+|**2023-09-28**|**Engineering Entangled Coherent States of Magnons and Phonons via a Transmon Qubit**|Marios Kounalakis et.al.|[2309.16514v1](http://arxiv.org/abs/2309.16514v1)|null|
+|**2023-09-28**|**From Complexity to Clarity: Analytical Expressions of Deep Neural Network Weights via Clifford's Geometric Algebra and Convexity**|Mert Pilanci et.al.|[2309.16512v1](http://arxiv.org/abs/2309.16512v1)|null|
+|**2023-09-28**|**Innovation Modeling Grid**|Oliver Klemp et.al.|[2309.16507v1](http://arxiv.org/abs/2309.16507v1)|null|
+|**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503v1](http://arxiv.org/abs/2309.16503v1)|null|
+|**2023-09-28**|**Accurate and lightweight dehazing via multi-receptive-field non-local network and novel contrastive regularization**|Zewei He et.al.|[2309.16494v1](http://arxiv.org/abs/2309.16494v1)|null|
+|**2023-09-28**|**Towards Poisoning Fair Representations**|Tianci Liu et.al.|[2309.16487v1](http://arxiv.org/abs/2309.16487v1)|null|
