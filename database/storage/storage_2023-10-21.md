@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-21 09:19:57 Asia/Shanghai
+ Automated deployment @ 2023-10-21 20:36:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -22,7 +22,7 @@
 |**2023-10-19**|**Generative Flow Networks as Entropy-Regularized RL**|Daniil Tiapkin et.al.|[2310.12934v1](http://arxiv.org/abs/2310.12934v1)|null|
 |**2023-10-19**|**Digital Twin-Enabled Intelligent DDoS Detection Mechanism for Autonomous Core Networks**|Yagmur Yigit et.al.|[2310.12924v1](http://arxiv.org/abs/2310.12924v1)|null|
 |**2023-10-19**|**Atomistic Study of Irradiation-Induced Plastic and Lattice Strain in Tungsten**|Jintong Wu et.al.|[2310.12923v1](http://arxiv.org/abs/2310.12923v1)|null|
-|**2023-10-19**|**Generative Marginalization Models**|Sulin Liu et.al.|[2310.12920v1](http://arxiv.org/abs/2310.12920v1)|null|
+|**2023-10-19**|**Generative Marginalization Models**|Sulin Liu et.al.|[2310.12920v1](http://arxiv.org/abs/2310.12920v1)|[link](https://github.com/princetonlips/mam)|
 |**2023-10-19**|**Network-Aware AutoML Framework for Software-Defined Sensor Networks**|Emre Horsanali et.al.|[2310.12914v1](http://arxiv.org/abs/2310.12914v1)|null|
 |**2023-10-19**|**Impact of Relational Networks in Multi-Agent Learning: A Value-Based Factorization View**|Yasin Findik et.al.|[2310.12912v1](http://arxiv.org/abs/2310.12912v1)|null|
 |**2023-10-19**|**Influence of Team Interactions on Multi-Robot Cooperation: A Relational Network Perspective**|Yasin Findik et.al.|[2310.12910v1](http://arxiv.org/abs/2310.12910v1)|null|
@@ -42,40 +42,6 @@
 |**2023-10-19**|**Roughness and critical force for depinning at 3-loop order**|Mikhail N. Semeikin et.al.|[2310.12801v1](http://arxiv.org/abs/2310.12801v1)|null|
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
 |**2023-10-19**|**Edge of entanglement in non-ergodic states: a complexity parameter formulation**|Devanshu Shekhar et.al.|[2310.12796v1](http://arxiv.org/abs/2310.12796v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-19**|**Does Your Model Think Like an Engineer? Explainable AI for Bearing Fault Detection with Deep Learning**|Thomas Decker et.al.|[2310.12967v1](http://arxiv.org/abs/2310.12967v1)|null|
-|**2023-10-19**|**End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference**|Xinrui Ye et.al.|[2310.12937v1](http://arxiv.org/abs/2310.12937v1)|null|
-|**2023-10-19**|**Assisted metrology and preparation of macroscopic superpositions with split spin-squeezed states**|Jiajie Guo et.al.|[2310.12933v1](http://arxiv.org/abs/2310.12933v1)|null|
-|**2023-10-19**|**Digital Twin-Enabled Intelligent DDoS Detection Mechanism for Autonomous Core Networks**|Yagmur Yigit et.al.|[2310.12924v1](http://arxiv.org/abs/2310.12924v1)|null|
-|**2023-10-19**|**Validation of the Survey Simulator tool for the NEO Surveyor mission using NEOWISE data**|Joseph R. Masiero et.al.|[2310.12919v1](http://arxiv.org/abs/2310.12919v1)|null|
-|**2023-10-19**|**Network-Aware AutoML Framework for Software-Defined Sensor Networks**|Emre Horsanali et.al.|[2310.12914v1](http://arxiv.org/abs/2310.12914v1)|null|
-|**2023-10-19**|**Realization and detection of Kitaev quantum spin liquid with Rydberg atoms**|Yi-Hong Chen et.al.|[2310.12905v1](http://arxiv.org/abs/2310.12905v1)|null|
-|**2023-10-19**|**TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports**|Yagmur Yigit et.al.|[2310.12880v1](http://arxiv.org/abs/2310.12880v1)|null|
-|**2023-10-19**|**Information Theoretical Approach to Detecting Quantum Gravitational Corrections**|Behnam Pourhassan et.al.|[2310.12878v1](http://arxiv.org/abs/2310.12878v1)|null|
-|**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876v1](http://arxiv.org/abs/2310.12876v1)|null|
-|**2023-10-19**|**Quantum tailoring of electronic properties in covalently functionalized graphene: application to ammonia gas detection**|A. Dammak et.al.|[2310.12872v1](http://arxiv.org/abs/2310.12872v1)|null|
-|**2023-10-19**|**Performances of a new generation tracking detector: the MEG II cylindrical drfit chamber**|A. M. Baldini et.al.|[2310.12865v1](http://arxiv.org/abs/2310.12865v1)|null|
-|**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
-|**2023-10-19**|**A Two-component Jet Model for the TeV and Multi-wavelength Afterglows of GRB 221009A**|Jian-He Zheng et.al.|[2310.12856v1](http://arxiv.org/abs/2310.12856v1)|null|
-|**2023-10-19**|**Knowledge-Augmented Language Model Verification**|Jinheon Baek et.al.|[2310.12836v1](http://arxiv.org/abs/2310.12836v1)|null|
-|**2023-10-19**|**High Dynamic Range mmWave Massive MU-MIMO with Householder Reflections**|Victoria Palhares et.al.|[2310.12835v1](http://arxiv.org/abs/2310.12835v1)|null|
-|**2023-10-19**|**Generating collective counterfactual explanations in score-based classification via mathematical optimization**|Emilio Carrizosa et.al.|[2310.12822v1](http://arxiv.org/abs/2310.12822v1)|[link](https://github.com/jasoneramirez/collectivece)|
-|**2023-10-19**|**Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics**|Saray Bakker et.al.|[2310.12816v1](http://arxiv.org/abs/2310.12816v1)|null|
-|**2023-10-19**|**Probing modified gravitational-wave propagation with extreme mass-ratio inspirals**|Chang Liu et.al.|[2310.12813v1](http://arxiv.org/abs/2310.12813v1)|null|
-|**2023-10-19**|**X-ray, Near-Ultraviolet, and Optical Flares Produced By Colliding Magnetospheres in The Young High-Eccentricity Binary DQ Tau**|Konstantin V. Getman et.al.|[2310.12811v1](http://arxiv.org/abs/2310.12811v1)|null|
-|**2023-10-19**|**Detection and Evaluation of bias-inducing Features in Machine learning**|Moses Openja et.al.|[2310.12805v1](http://arxiv.org/abs/2310.12805v1)|null|
-|**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v1](http://arxiv.org/abs/2310.12790v1)|null|
-|**2023-10-19**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787v1](http://arxiv.org/abs/2310.12787v1)|null|
-|**2023-10-19**|**Lensing bias on cosmological parameters from bright standard sirens**|Sofia Canevarolo et.al.|[2310.12764v1](http://arxiv.org/abs/2310.12764v1)|null|
-|**2023-10-19**|**Multiwavelength Analysis of Fermi-LAT Blazars with High-Significance Periodicity: Detection of a Long-Term Rising Emission in PG 1553+113**|P. Peñil et.al.|[2310.12754v1](http://arxiv.org/abs/2310.12754v1)|null|
-|**2023-10-19**|**Effect of connectivity on the carrier transport and recombination dynamics of perovskite quantum dot networks**|David O. Tiede et.al.|[2310.12719v1](http://arxiv.org/abs/2310.12719v1)|null|
-|**2023-10-19**|**Exploiting Low-confidence Pseudo-labels for Source-free Object Detection**|Zhihong Chen et.al.|[2310.12705v1](http://arxiv.org/abs/2310.12705v1)|null|
-|**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692v1](http://arxiv.org/abs/2310.12692v1)|[link](https://github.com/sthalles/carp)|
-|**2023-10-19**|**Weakly Supervised Learning for Breast Cancer Prediction on Mammograms in Realistic Settings**|Shreyasi Pathak et.al.|[2310.12677v1](http://arxiv.org/abs/2310.12677v1)|null|
-|**2023-10-19**|**SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models**|Boyang Zhang et.al.|[2310.12665v1](http://arxiv.org/abs/2310.12665v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-10-11**|**Faster Location in Combinatorial Interaction Testing**|Ryan E. Dougherty et.al.|[2310.07448v1](http://arxiv.org/abs/2310.07448v1)|null|
 |**2023-10-11**|**Point Cloud Denoising and Outlier Detection with Local Geometric Structure by Dynamic Graph CNN**|Kosuke Nakayama et.al.|[2310.07376v1](http://arxiv.org/abs/2310.07376v1)|null|
 |**2023-10-11**|**Fault-tolerant $k$-Supplier with Outliers**|Deeparnab Chakrabarty et.al.|[2310.07208v1](http://arxiv.org/abs/2310.07208v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-19**|**Does Your Model Think Like an Engineer? Explainable AI for Bearing Fault Detection with Deep Learning**|Thomas Decker et.al.|[2310.12967v1](http://arxiv.org/abs/2310.12967v1)|null|
+|**2023-10-19**|**End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference**|Xinrui Ye et.al.|[2310.12937v1](http://arxiv.org/abs/2310.12937v1)|null|
+|**2023-10-19**|**Assisted metrology and preparation of macroscopic superpositions with split spin-squeezed states**|Jiajie Guo et.al.|[2310.12933v1](http://arxiv.org/abs/2310.12933v1)|null|
+|**2023-10-19**|**Digital Twin-Enabled Intelligent DDoS Detection Mechanism for Autonomous Core Networks**|Yagmur Yigit et.al.|[2310.12924v1](http://arxiv.org/abs/2310.12924v1)|null|
+|**2023-10-19**|**Validation of the Survey Simulator tool for the NEO Surveyor mission using NEOWISE data**|Joseph R. Masiero et.al.|[2310.12919v1](http://arxiv.org/abs/2310.12919v1)|null|
+|**2023-10-19**|**Network-Aware AutoML Framework for Software-Defined Sensor Networks**|Emre Horsanali et.al.|[2310.12914v1](http://arxiv.org/abs/2310.12914v1)|null|
+|**2023-10-19**|**Realization and detection of Kitaev quantum spin liquid with Rydberg atoms**|Yi-Hong Chen et.al.|[2310.12905v1](http://arxiv.org/abs/2310.12905v1)|null|
+|**2023-10-19**|**TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports**|Yagmur Yigit et.al.|[2310.12880v1](http://arxiv.org/abs/2310.12880v1)|null|
+|**2023-10-19**|**Information Theoretical Approach to Detecting Quantum Gravitational Corrections**|Behnam Pourhassan et.al.|[2310.12878v1](http://arxiv.org/abs/2310.12878v1)|null|
+|**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876v1](http://arxiv.org/abs/2310.12876v1)|null|
+|**2023-10-19**|**Quantum tailoring of electronic properties in covalently functionalized graphene: application to ammonia gas detection**|A. Dammak et.al.|[2310.12872v1](http://arxiv.org/abs/2310.12872v1)|null|
+|**2023-10-19**|**Performances of a new generation tracking detector: the MEG II cylindrical drfit chamber**|A. M. Baldini et.al.|[2310.12865v1](http://arxiv.org/abs/2310.12865v1)|null|
+|**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
+|**2023-10-19**|**A Two-component Jet Model for the TeV and Multi-wavelength Afterglows of GRB 221009A**|Jian-He Zheng et.al.|[2310.12856v1](http://arxiv.org/abs/2310.12856v1)|null|
+|**2023-10-19**|**Knowledge-Augmented Language Model Verification**|Jinheon Baek et.al.|[2310.12836v1](http://arxiv.org/abs/2310.12836v1)|null|
+|**2023-10-19**|**High Dynamic Range mmWave Massive MU-MIMO with Householder Reflections**|Victoria Palhares et.al.|[2310.12835v1](http://arxiv.org/abs/2310.12835v1)|null|
+|**2023-10-19**|**Generating collective counterfactual explanations in score-based classification via mathematical optimization**|Emilio Carrizosa et.al.|[2310.12822v1](http://arxiv.org/abs/2310.12822v1)|[link](https://github.com/jasoneramirez/collectivece)|
+|**2023-10-19**|**Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics**|Saray Bakker et.al.|[2310.12816v1](http://arxiv.org/abs/2310.12816v1)|[link](https://github.com/tud-amr/multi-robot-fabrics)|
+|**2023-10-19**|**Probing modified gravitational-wave propagation with extreme mass-ratio inspirals**|Chang Liu et.al.|[2310.12813v1](http://arxiv.org/abs/2310.12813v1)|null|
+|**2023-10-19**|**X-ray, Near-Ultraviolet, and Optical Flares Produced By Colliding Magnetospheres in The Young High-Eccentricity Binary DQ Tau**|Konstantin V. Getman et.al.|[2310.12811v1](http://arxiv.org/abs/2310.12811v1)|null|
+|**2023-10-19**|**Detection and Evaluation of bias-inducing Features in Machine learning**|Moses Openja et.al.|[2310.12805v1](http://arxiv.org/abs/2310.12805v1)|null|
+|**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v1](http://arxiv.org/abs/2310.12790v1)|null|
+|**2023-10-19**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787v1](http://arxiv.org/abs/2310.12787v1)|null|
+|**2023-10-19**|**Lensing bias on cosmological parameters from bright standard sirens**|Sofia Canevarolo et.al.|[2310.12764v1](http://arxiv.org/abs/2310.12764v1)|[link](https://github.com/canev001/gwlensing)|
+|**2023-10-19**|**Multiwavelength Analysis of Fermi-LAT Blazars with High-Significance Periodicity: Detection of a Long-Term Rising Emission in PG 1553+113**|P. Peñil et.al.|[2310.12754v1](http://arxiv.org/abs/2310.12754v1)|null|
+|**2023-10-19**|**Effect of connectivity on the carrier transport and recombination dynamics of perovskite quantum dot networks**|David O. Tiede et.al.|[2310.12719v1](http://arxiv.org/abs/2310.12719v1)|null|
+|**2023-10-19**|**Exploiting Low-confidence Pseudo-labels for Source-free Object Detection**|Zhihong Chen et.al.|[2310.12705v1](http://arxiv.org/abs/2310.12705v1)|null|
+|**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692v1](http://arxiv.org/abs/2310.12692v1)|[link](https://github.com/sthalles/carp)|
+|**2023-10-19**|**Weakly Supervised Learning for Breast Cancer Prediction on Mammograms in Realistic Settings**|Shreyasi Pathak et.al.|[2310.12677v1](http://arxiv.org/abs/2310.12677v1)|null|
+|**2023-10-19**|**SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models**|Boyang Zhang et.al.|[2310.12665v1](http://arxiv.org/abs/2310.12665v1)|[link](https://github.com/securitynet-research/securitynet)|
