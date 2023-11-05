@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-05 09:32:57 Asia/Shanghai
+ Automated deployment @ 2023-11-05 20:36:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
-|**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
-|**2023-11-01**|**NeuralGF: Unsupervised Point Normal Estimation by Learning Neural Gradient Function**|Qing Li et.al.|[2311.00389v1](http://arxiv.org/abs/2311.00389v1)|[link](https://github.com/leoqli/neuralgf)|
-|**2023-10-31**|**Improving Entropy-Based Test-Time Adaptation from a Clustering View**|Guoliang Lin et.al.|[2310.20327v1](http://arxiv.org/abs/2310.20327v1)|null|
-|**2023-10-31**|**Robust nonparametric regression based on deep ReLU neural networks**|Juntong Chen et.al.|[2310.20294v1](http://arxiv.org/abs/2310.20294v1)|null|
-|**2023-10-30**|**Multiscale Feature Attribution for Outliers**|Jeff Shen et.al.|[2310.20012v1](http://arxiv.org/abs/2310.20012v1)|null|
-|**2023-10-30**|**Investigating APOKASC Red Giant Stars with Abnormal Carbon to Nitrogen Ratios**|Erica Bufanda et.al.|[2310.19872v1](http://arxiv.org/abs/2310.19872v1)|null|
-|**2023-10-30**|**$e^{\text{RPCA}}$: Robust Principal Component Analysis for Exponential Family Distributions**|Xiaojun Zheng et.al.|[2310.19787v1](http://arxiv.org/abs/2310.19787v1)|null|
-|**2023-10-30**|**Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation**|Qintong Li et.al.|[2310.19740v1](http://arxiv.org/abs/2310.19740v1)|[link](https://github.com/qtli/coeval)|
-|**2023-10-30**|**Volterra black-box models identification methods: direct collocation vs least squares**|Denis Sidorov et.al.|[2310.19382v1](http://arxiv.org/abs/2310.19382v1)|null|
-|**2023-10-29**|**Subjective Quality Evaluation of Point Clouds Using a Head Mounted Display**|Joao Prazeres et.al.|[2310.19179v1](http://arxiv.org/abs/2310.19179v1)|null|
-|**2023-10-29**|**Outlier-robust additive matrix decomposition and robust matrix completion**|Philip Thompson et.al.|[2310.19136v1](http://arxiv.org/abs/2310.19136v1)|null|
-|**2023-10-29**|**Out-of-distribution Object Detection through Bayesian Uncertainty Estimation**|Tianhao Zhang et.al.|[2310.19119v1](http://arxiv.org/abs/2310.19119v1)|null|
-|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
-|**2023-10-27**|**Optimal Transport for Treatment Effect Estimation**|Hao Wang et.al.|[2310.18286v1](http://arxiv.org/abs/2310.18286v1)|null|
-|**2023-10-27**|**Dynamic Dynamic Time Warping**|Karl Bringmann et.al.|[2310.18128v2](http://arxiv.org/abs/2310.18128v2)|null|
-|**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879v1](http://arxiv.org/abs/2310.17879v1)|null|
-|**2023-10-26**|**Outlier Dimensions Encode Task-Specific Knowledge**|William Rudman et.al.|[2310.17715v1](http://arxiv.org/abs/2310.17715v1)|[link](https://github.com/wrudman/outlier_dimensions)|
-|**2023-10-25**|**StochGradAdam: Accelerating Neural Networks Training with Stochastic Gradient Sampling**|Juyoung Yun et.al.|[2310.17042v1](http://arxiv.org/abs/2310.17042v1)|null|
-|**2023-10-25**|**Detecting Pretraining Data from Large Language Models**|Weijia Shi et.al.|[2310.16789v1](http://arxiv.org/abs/2310.16789v1)|null|
-|**2023-10-25**|**On the Powerfulness of Textual Outlier Exposure for Visual OoD Detection**|Sangha Park et.al.|[2310.16492v1](http://arxiv.org/abs/2310.16492v1)|null|
-|**2023-10-24**|**Nonparametric estimators of inequality curves and inequality measures**|Alicja Jokiel-Rokita et.al.|[2310.16200v1](http://arxiv.org/abs/2310.16200v1)|null|
-|**2023-10-24**|**Habitat fragmentation reshapes genomic footprints of selection in a forest herb**|Frederik Van Daele et.al.|[2310.16004v1](http://arxiv.org/abs/2310.16004v1)|null|
-|**2023-10-24**|**New Mass and Radius Constraints on the LHS 1140 Planets -- LHS 1140 b is Either a Temperate Mini-Neptune or a Water World**|Charles Cadieux et.al.|[2310.15490v1](http://arxiv.org/abs/2310.15490v1)|null|
-|**2023-10-23**|**Visual Elements and Cognitive Biases Influence Interpretations of Trends in Scatter Plots**|Alexandre Filipowicz et.al.|[2310.15406v1](http://arxiv.org/abs/2310.15406v1)|null|
-|**2023-10-23**|**UWB Based Static Gesture Classification**|Abhishek Sebastian et.al.|[2310.15036v1](http://arxiv.org/abs/2310.15036v1)|null|
-|**2023-10-23**|**Robust Outlier Detection Method Based on Local Entropy and Global Density**|Kaituo Zhang et.al.|[2310.14960v1](http://arxiv.org/abs/2310.14960v1)|null|
-|**2023-10-23**|**Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks**|Marcus A. K. September et.al.|[2310.14720v1](http://arxiv.org/abs/2310.14720v1)|[link](https://github.com/marcusgh/edain_paper)|
-|**2023-10-23**|**Euclid preparation. XXXI. The effect of the variations in photometric passbands on photometric-redshift accuracy**|Euclid Collaboration et.al.|[2310.14716v1](http://arxiv.org/abs/2310.14716v1)|null|
-|**2023-10-22**|**BVARs and Stochastic Volatility**|Joshua Chan et.al.|[2310.14438v1](http://arxiv.org/abs/2310.14438v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-11-02**|**The TYPHOON stellar population synthesis survey: I. The young stellar population of the Great Barred Spiral NGC 1365**|Eva Sextl et.al.|[2311.01140v1](http://arxiv.org/abs/2311.01140v1)|null|
 |**2023-11-02**|**Sub-mJy radio emission from high-redshift active galactic nuclei in the footprint of the VLA Sky Survey**|Krisztina Perger et.al.|[2311.01128v1](http://arxiv.org/abs/2311.01128v1)|null|
 |**2023-11-02**|**Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation**|Vitjan Zavrtanik et.al.|[2311.01117v1](http://arxiv.org/abs/2311.01117v1)|[link](https://github.com/vitjanz/3dsr)|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
+|**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
+|**2023-11-01**|**NeuralGF: Unsupervised Point Normal Estimation by Learning Neural Gradient Function**|Qing Li et.al.|[2311.00389v1](http://arxiv.org/abs/2311.00389v1)|[link](https://github.com/leoqli/neuralgf)|
+|**2023-10-31**|**Improving Entropy-Based Test-Time Adaptation from a Clustering View**|Guoliang Lin et.al.|[2310.20327v1](http://arxiv.org/abs/2310.20327v1)|null|
+|**2023-10-31**|**Robust nonparametric regression based on deep ReLU neural networks**|Juntong Chen et.al.|[2310.20294v1](http://arxiv.org/abs/2310.20294v1)|null|
+|**2023-10-30**|**Multiscale Feature Attribution for Outliers**|Jeff Shen et.al.|[2310.20012v1](http://arxiv.org/abs/2310.20012v1)|null|
+|**2023-10-30**|**Investigating APOKASC Red Giant Stars with Abnormal Carbon to Nitrogen Ratios**|Erica Bufanda et.al.|[2310.19872v1](http://arxiv.org/abs/2310.19872v1)|null|
+|**2023-10-30**|**$e^{\text{RPCA}}$: Robust Principal Component Analysis for Exponential Family Distributions**|Xiaojun Zheng et.al.|[2310.19787v1](http://arxiv.org/abs/2310.19787v1)|null|
+|**2023-10-30**|**Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation**|Qintong Li et.al.|[2310.19740v1](http://arxiv.org/abs/2310.19740v1)|[link](https://github.com/qtli/coeval)|
+|**2023-10-30**|**Volterra black-box models identification methods: direct collocation vs least squares**|Denis Sidorov et.al.|[2310.19382v1](http://arxiv.org/abs/2310.19382v1)|null|
+|**2023-10-29**|**Subjective Quality Evaluation of Point Clouds Using a Head Mounted Display**|Joao Prazeres et.al.|[2310.19179v1](http://arxiv.org/abs/2310.19179v1)|null|
+|**2023-10-29**|**Outlier-robust additive matrix decomposition and robust matrix completion**|Philip Thompson et.al.|[2310.19136v1](http://arxiv.org/abs/2310.19136v1)|null|
+|**2023-10-29**|**Out-of-distribution Object Detection through Bayesian Uncertainty Estimation**|Tianhao Zhang et.al.|[2310.19119v1](http://arxiv.org/abs/2310.19119v1)|null|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
+|**2023-10-27**|**Optimal Transport for Treatment Effect Estimation**|Hao Wang et.al.|[2310.18286v1](http://arxiv.org/abs/2310.18286v1)|null|
+|**2023-10-27**|**Dynamic Dynamic Time Warping**|Karl Bringmann et.al.|[2310.18128v2](http://arxiv.org/abs/2310.18128v2)|null|
+|**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879v1](http://arxiv.org/abs/2310.17879v1)|null|
+|**2023-10-26**|**Outlier Dimensions Encode Task-Specific Knowledge**|William Rudman et.al.|[2310.17715v1](http://arxiv.org/abs/2310.17715v1)|[link](https://github.com/wrudman/outlier_dimensions)|
+|**2023-10-25**|**StochGradAdam: Accelerating Neural Networks Training with Stochastic Gradient Sampling**|Juyoung Yun et.al.|[2310.17042v1](http://arxiv.org/abs/2310.17042v1)|null|
+|**2023-10-25**|**Detecting Pretraining Data from Large Language Models**|Weijia Shi et.al.|[2310.16789v1](http://arxiv.org/abs/2310.16789v1)|null|
+|**2023-10-25**|**On the Powerfulness of Textual Outlier Exposure for Visual OoD Detection**|Sangha Park et.al.|[2310.16492v1](http://arxiv.org/abs/2310.16492v1)|null|
+|**2023-10-24**|**Nonparametric estimators of inequality curves and inequality measures**|Alicja Jokiel-Rokita et.al.|[2310.16200v1](http://arxiv.org/abs/2310.16200v1)|null|
+|**2023-10-24**|**Habitat fragmentation reshapes genomic footprints of selection in a forest herb**|Frederik Van Daele et.al.|[2310.16004v1](http://arxiv.org/abs/2310.16004v1)|null|
+|**2023-10-24**|**New Mass and Radius Constraints on the LHS 1140 Planets -- LHS 1140 b is Either a Temperate Mini-Neptune or a Water World**|Charles Cadieux et.al.|[2310.15490v1](http://arxiv.org/abs/2310.15490v1)|null|
+|**2023-10-23**|**Visual Elements and Cognitive Biases Influence Interpretations of Trends in Scatter Plots**|Alexandre Filipowicz et.al.|[2310.15406v1](http://arxiv.org/abs/2310.15406v1)|null|
+|**2023-10-23**|**UWB Based Static Gesture Classification**|Abhishek Sebastian et.al.|[2310.15036v1](http://arxiv.org/abs/2310.15036v1)|null|
+|**2023-10-23**|**Robust Outlier Detection Method Based on Local Entropy and Global Density**|Kaituo Zhang et.al.|[2310.14960v1](http://arxiv.org/abs/2310.14960v1)|null|
+|**2023-10-23**|**Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks**|Marcus A. K. September et.al.|[2310.14720v1](http://arxiv.org/abs/2310.14720v1)|[link](https://github.com/marcusgh/edain_paper)|
+|**2023-10-23**|**Euclid preparation. XXXI. The effect of the variations in photometric passbands on photometric-redshift accuracy**|Euclid Collaboration et.al.|[2310.14716v1](http://arxiv.org/abs/2310.14716v1)|null|
+|**2023-10-22**|**BVARs and Stochastic Volatility**|Joshua Chan et.al.|[2310.14438v1](http://arxiv.org/abs/2310.14438v1)|null|
