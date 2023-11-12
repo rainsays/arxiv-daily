@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-12 09:34:08 Asia/Shanghai
+ Automated deployment @ 2023-11-12 20:36:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-09**|**Outlier-Robust Wasserstein DRO**|Sloan Nietert et.al.|[2311.05573v1](http://arxiv.org/abs/2311.05573v1)|[link](https://github.com/sbnietert/outlier-robust-wdro)|
+|**2023-11-09**|**Do Ensembling and Meta-Learning Improve Outlier Detection in Randomized Controlled Trials?**|Walter Nelson et.al.|[2311.05473v1](http://arxiv.org/abs/2311.05473v1)|[link](https://github.com/hamilton-health-sciences/ml4h-traq)|
+|**2023-11-09**|**Unobscured central broad line regions in Type-1.9 AGN SDSS J1241+2602**|Zhang XueGuang et.al.|[2311.05138v1](http://arxiv.org/abs/2311.05138v1)|null|
+|**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634v1](http://arxiv.org/abs/2311.04634v1)|[link](https://github.com/lfranke/vet)|
+|**2023-11-07**|**The miniJPAS survey: Maximising the photo-z accuracy from multi-survey datasets with probability conflation**|A. Hernán-Caballero et.al.|[2311.04220v1](http://arxiv.org/abs/2311.04220v1)|null|
+|**2023-11-07**|**Outliers with Opposing Signals Have an Outsized Effect on Neural Network Optimization**|Elan Rosenfeld et.al.|[2311.04163v1](http://arxiv.org/abs/2311.04163v1)|null|
+|**2023-11-07**|**IoT-Based Environmental Control System for Fish Farms with Sensor Integration and Machine Learning Decision Support**|D. Dhinakaran et.al.|[2311.04258v1](http://arxiv.org/abs/2311.04258v1)|null|
+|**2023-11-07**|**User-level Differentially Private Stochastic Convex Optimization: Efficient Algorithms with Optimal Rates**|Hilal Asi et.al.|[2311.03797v1](http://arxiv.org/abs/2311.03797v1)|null|
+|**2023-11-06**|**Type Ia Supernova Progenitor Properties and Their Host Galaxies**|Sudeshna Chakraborty et.al.|[2311.03473v1](http://arxiv.org/abs/2311.03473v1)|null|
+|**2023-11-06**|**Parameter Estimation for Open Clusters using an Artificial Neural Network with a QuadTree-based Feature Extractor**|L. Cavallo et.al.|[2311.03009v1](http://arxiv.org/abs/2311.03009v1)|null|
+|**2023-11-06**|**Robust estimation of heteroscedastic regression models: a brief overview and new proposals**|Conceição Amado et.al.|[2311.02822v2](http://arxiv.org/abs/2311.02822v2)|null|
+|**2023-11-05**|**MirrorCalib: Utilizing Human Pose Information for Mirror-based Virtual Camera Calibration**|Longyun Liao et.al.|[2311.02791v1](http://arxiv.org/abs/2311.02791v1)|null|
+|**2023-11-05**|**Pointwise Data Depth for Univariate and Multivariate Functional Outlier Detection**|Cristian F. Jimenez-Varon et.al.|[2311.02634v1](http://arxiv.org/abs/2311.02634v1)|null|
+|**2023-11-05**|**Regionalization of China's PM2.5 through Robust Spatio temporal Functional Clustering Method**|Tingyin Wang et.al.|[2311.02618v1](http://arxiv.org/abs/2311.02618v1)|null|
+|**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552v1](http://arxiv.org/abs/2311.02552v1)|[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)|
+|**2023-11-04**|**Active Laser-Camera Scanning for High-Precision Fruit Localization in Robotic Harvesting: System Design and Calibration**|Kaixiang Zhang et.al.|[2311.02500v1](http://arxiv.org/abs/2311.02500v1)|null|
+|**2023-11-04**|**Factored-form Kalman-like implementations under maximum correntropy criterion**|Maria V. Kulikova et.al.|[2311.02440v1](http://arxiv.org/abs/2311.02440v1)|[link](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
+|**2023-11-03**|**Ensemble Principal Component Analysis**|Olga Dorabiala et.al.|[2311.01826v1](http://arxiv.org/abs/2311.01826v1)|[link](https://github.com/olgad400/epca)|
+|**2023-11-03**|**Improving full-waveform inversion based on sparse regularisation for geophysical data**|Jiahang Li et.al.|[2311.01688v1](http://arxiv.org/abs/2311.01688v1)|null|
+|**2023-11-02**|**Adapting Frechet Audio Distance for Generative Music Evaluation**|Azalea Gui et.al.|[2311.01616v1](http://arxiv.org/abs/2311.01616v1)|[link](https://github.com/microsoft/fadtk)|
+|**2023-11-02**|**Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization**|Björn Deiseroth et.al.|[2311.01544v1](http://arxiv.org/abs/2311.01544v1)|null|
+|**2023-11-02**|**The impact of outliers on pulsar timing arrays**|Giulia Fumagalli et.al.|[2311.01505v1](http://arxiv.org/abs/2311.01505v1)|null|
+|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
+|**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
+|**2023-11-01**|**NeuralGF: Unsupervised Point Normal Estimation by Learning Neural Gradient Function**|Qing Li et.al.|[2311.00389v1](http://arxiv.org/abs/2311.00389v1)|[link](https://github.com/leoqli/neuralgf)|
+|**2023-10-31**|**Improving Entropy-Based Test-Time Adaptation from a Clustering View**|Guoliang Lin et.al.|[2310.20327v3](http://arxiv.org/abs/2310.20327v3)|null|
+|**2023-10-31**|**Robust nonparametric regression based on deep ReLU neural networks**|Juntong Chen et.al.|[2310.20294v1](http://arxiv.org/abs/2310.20294v1)|null|
+|**2023-10-30**|**Multiscale Feature Attribution for Outliers**|Jeff Shen et.al.|[2310.20012v1](http://arxiv.org/abs/2310.20012v1)|null|
+|**2023-10-30**|**Investigating APOKASC Red Giant Stars with Abnormal Carbon to Nitrogen Ratios**|Erica Bufanda et.al.|[2310.19872v1](http://arxiv.org/abs/2310.19872v1)|null|
+|**2023-10-30**|**$e^{\text{RPCA}}$: Robust Principal Component Analysis for Exponential Family Distributions**|Xiaojun Zheng et.al.|[2310.19787v1](http://arxiv.org/abs/2310.19787v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,37 +110,3 @@
 |**2023-11-09**|**ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors**|Jingwen Chen et.al.|[2311.05463v1](http://arxiv.org/abs/2311.05463v1)|null|
 |**2023-11-09**|**Airfoil generation and feature extraction using the conditional VAE-WGAN-gp**|Kazuo Yonekura et.al.|[2311.05445v1](http://arxiv.org/abs/2311.05445v1)|null|
 |**2023-11-09**|**Firing rate distributions in plastic networks of spiking neurons**|Marina Vegué et.al.|[2311.05442v1](http://arxiv.org/abs/2311.05442v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-09**|**Outlier-Robust Wasserstein DRO**|Sloan Nietert et.al.|[2311.05573v1](http://arxiv.org/abs/2311.05573v1)|[link](https://github.com/sbnietert/outlier-robust-wdro)|
-|**2023-11-09**|**Do Ensembling and Meta-Learning Improve Outlier Detection in Randomized Controlled Trials?**|Walter Nelson et.al.|[2311.05473v1](http://arxiv.org/abs/2311.05473v1)|[link](https://github.com/hamilton-health-sciences/ml4h-traq)|
-|**2023-11-09**|**Unobscured central broad line regions in Type-1.9 AGN SDSS J1241+2602**|Zhang XueGuang et.al.|[2311.05138v1](http://arxiv.org/abs/2311.05138v1)|null|
-|**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634v1](http://arxiv.org/abs/2311.04634v1)|[link](https://github.com/lfranke/vet)|
-|**2023-11-07**|**The miniJPAS survey: Maximising the photo-z accuracy from multi-survey datasets with probability conflation**|A. Hernán-Caballero et.al.|[2311.04220v1](http://arxiv.org/abs/2311.04220v1)|null|
-|**2023-11-07**|**Outliers with Opposing Signals Have an Outsized Effect on Neural Network Optimization**|Elan Rosenfeld et.al.|[2311.04163v1](http://arxiv.org/abs/2311.04163v1)|null|
-|**2023-11-07**|**IoT-Based Environmental Control System for Fish Farms with Sensor Integration and Machine Learning Decision Support**|D. Dhinakaran et.al.|[2311.04258v1](http://arxiv.org/abs/2311.04258v1)|null|
-|**2023-11-07**|**User-level Differentially Private Stochastic Convex Optimization: Efficient Algorithms with Optimal Rates**|Hilal Asi et.al.|[2311.03797v1](http://arxiv.org/abs/2311.03797v1)|null|
-|**2023-11-06**|**Type Ia Supernova Progenitor Properties and Their Host Galaxies**|Sudeshna Chakraborty et.al.|[2311.03473v1](http://arxiv.org/abs/2311.03473v1)|null|
-|**2023-11-06**|**Parameter Estimation for Open Clusters using an Artificial Neural Network with a QuadTree-based Feature Extractor**|L. Cavallo et.al.|[2311.03009v1](http://arxiv.org/abs/2311.03009v1)|null|
-|**2023-11-06**|**Robust estimation of heteroscedastic regression models: a brief overview and new proposals**|Conceição Amado et.al.|[2311.02822v2](http://arxiv.org/abs/2311.02822v2)|null|
-|**2023-11-05**|**MirrorCalib: Utilizing Human Pose Information for Mirror-based Virtual Camera Calibration**|Longyun Liao et.al.|[2311.02791v1](http://arxiv.org/abs/2311.02791v1)|null|
-|**2023-11-05**|**Pointwise Data Depth for Univariate and Multivariate Functional Outlier Detection**|Cristian F. Jimenez-Varon et.al.|[2311.02634v1](http://arxiv.org/abs/2311.02634v1)|null|
-|**2023-11-05**|**Regionalization of China's PM2.5 through Robust Spatio temporal Functional Clustering Method**|Tingyin Wang et.al.|[2311.02618v1](http://arxiv.org/abs/2311.02618v1)|null|
-|**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552v1](http://arxiv.org/abs/2311.02552v1)|[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)|
-|**2023-11-04**|**Active Laser-Camera Scanning for High-Precision Fruit Localization in Robotic Harvesting: System Design and Calibration**|Kaixiang Zhang et.al.|[2311.02500v1](http://arxiv.org/abs/2311.02500v1)|null|
-|**2023-11-04**|**Factored-form Kalman-like implementations under maximum correntropy criterion**|Maria V. Kulikova et.al.|[2311.02440v1](http://arxiv.org/abs/2311.02440v1)|[link](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
-|**2023-11-03**|**Ensemble Principal Component Analysis**|Olga Dorabiala et.al.|[2311.01826v1](http://arxiv.org/abs/2311.01826v1)|[link](https://github.com/olgad400/epca)|
-|**2023-11-03**|**Improving full-waveform inversion based on sparse regularisation for geophysical data**|Jiahang Li et.al.|[2311.01688v1](http://arxiv.org/abs/2311.01688v1)|null|
-|**2023-11-02**|**Adapting Frechet Audio Distance for Generative Music Evaluation**|Azalea Gui et.al.|[2311.01616v1](http://arxiv.org/abs/2311.01616v1)|[link](https://github.com/microsoft/fadtk)|
-|**2023-11-02**|**Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization**|Björn Deiseroth et.al.|[2311.01544v1](http://arxiv.org/abs/2311.01544v1)|null|
-|**2023-11-02**|**The impact of outliers on pulsar timing arrays**|Giulia Fumagalli et.al.|[2311.01505v1](http://arxiv.org/abs/2311.01505v1)|null|
-|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
-|**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
-|**2023-11-01**|**NeuralGF: Unsupervised Point Normal Estimation by Learning Neural Gradient Function**|Qing Li et.al.|[2311.00389v1](http://arxiv.org/abs/2311.00389v1)|[link](https://github.com/leoqli/neuralgf)|
-|**2023-10-31**|**Improving Entropy-Based Test-Time Adaptation from a Clustering View**|Guoliang Lin et.al.|[2310.20327v3](http://arxiv.org/abs/2310.20327v3)|null|
-|**2023-10-31**|**Robust nonparametric regression based on deep ReLU neural networks**|Juntong Chen et.al.|[2310.20294v1](http://arxiv.org/abs/2310.20294v1)|null|
-|**2023-10-30**|**Multiscale Feature Attribution for Outliers**|Jeff Shen et.al.|[2310.20012v1](http://arxiv.org/abs/2310.20012v1)|null|
-|**2023-10-30**|**Investigating APOKASC Red Giant Stars with Abnormal Carbon to Nitrogen Ratios**|Erica Bufanda et.al.|[2310.19872v1](http://arxiv.org/abs/2310.19872v1)|null|
-|**2023-10-30**|**$e^{\text{RPCA}}$: Robust Principal Component Analysis for Exponential Family Distributions**|Xiaojun Zheng et.al.|[2310.19787v1](http://arxiv.org/abs/2310.19787v1)|null|
