@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-26 09:35:10 Asia/Shanghai
+ Automated deployment @ 2023-11-26 20:37:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|[link](https://github.com/ux-decoder/dinov)|
-|**2023-11-22**|**T-Rex: Counting by Visual Prompting**|Qing Jiang et.al.|[2311.13596v1](http://arxiv.org/abs/2311.13596v1)|null|
-|**2023-11-22**|**Detection of the relativistic Shapiro delay in a highly inclined millisecond pulsar binary PSR J1012$-$4235**|T. Gautam et.al.|[2311.13563v1](http://arxiv.org/abs/2311.13563v1)|null|
-|**2023-11-22**|**Transfer Learning-based Real-time Handgun Detection**|Youssef Elmir et.al.|[2311.13559v1](http://arxiv.org/abs/2311.13559v1)|null|
-|**2023-11-22**|**$β$ Pictoris b through the eyes of the upgraded CRIRES+**|Rico Landman et.al.|[2311.13527v1](http://arxiv.org/abs/2311.13527v1)|[link](https://github.com/tomasstolker/pycrires)|
-|**2023-11-22**|**Photon Number Resolving Detection with a Single-Photon Detector and Adaptive Storage Loop**|Nicholas M. Sullivan et.al.|[2311.13515v1](http://arxiv.org/abs/2311.13515v1)|null|
-|**2023-11-22**|**The SOPHIE search for northern extrasolar planets-XIX. A system including a cold sub-Neptune potentially transiting a V = 6.5 star HD88986**|N. Heidari et.al.|[2311.13513v1](http://arxiv.org/abs/2311.13513v1)|null|
-|**2023-11-22**|**Hybrid Whale-Mud-Ring Optimization for Precise Color Skin Cancer Image Segmentation**|Amir Hamza et.al.|[2311.13512v1](http://arxiv.org/abs/2311.13512v1)|null|
-|**2023-11-22**|**Quantum Sensing of Magnetic Fields with Molecular Spins**|Claudio Bonizzoni et.al.|[2311.13504v1](http://arxiv.org/abs/2311.13504v1)|null|
-|**2023-11-22**|**Current Topological and Machine Learning Applications for Bias Detection in Text**|Colleen Farrelly et.al.|[2311.13495v1](http://arxiv.org/abs/2311.13495v1)|null|
-|**2023-11-22**|**Generation of Explanations for Logic Reasoning**|Yanyi Pu et.al.|[2311.13455v1](http://arxiv.org/abs/2311.13455v1)|null|
-|**2023-11-22**|**Explaining high-dimensional text classifiers**|Odelia Melamed et.al.|[2311.13454v1](http://arxiv.org/abs/2311.13454v1)|null|
-|**2023-11-22**|**Fast vanishing cycles on perturbations of (complex) weighted-homogeneous germs**|Dmitry Kerner et.al.|[2311.13423v1](http://arxiv.org/abs/2311.13423v1)|null|
-|**2023-11-22**|**Coupling undetected sensing modes by quantum erasure**|Nathan R. Gemmell et.al.|[2311.13421v1](http://arxiv.org/abs/2311.13421v1)|null|
-|**2023-11-22**|**Isotropic spin and inverse spin Hall effect in epitaxial (111)-oriented Pt/Co bilayers**|Adrián Gudín et.al.|[2311.13400v1](http://arxiv.org/abs/2311.13400v1)|null|
-|**2023-11-22**|**Conflict Management in the Near-RT-RIC of Open RAN: A Game Theoretic Approach**|Abdul Wadud et.al.|[2311.13389v1](http://arxiv.org/abs/2311.13389v1)|[link](https://github.com/dewanwadud1/cmsoran)|
-|**2023-11-22**|**Point Projection Mapping System for Tracking, Registering, Labeling and Validating Optical Tissue Measurements**|Lianne Feenstra et.al.|[2311.13378v1](http://arxiv.org/abs/2311.13378v1)|null|
-|**2023-11-22**|**An Empirical Study of Uncertainty Estimation Techniques for Detecting Drift in Data Streams**|Anton Winter et.al.|[2311.13374v1](http://arxiv.org/abs/2311.13374v1)|null|
-|**2023-11-22**|**The GUAPOS project: G31.41+0.31 Unbiased ALMA sPectral Observational Survey. IV. Phosphorus-bearing molecules and their relation with shock tracers**|F. Fontani et.al.|[2311.13367v1](http://arxiv.org/abs/2311.13367v1)|null|
-|**2023-11-22**|**Unified Classification and Rejection: A One-versus-All Framework**|Zhen Cheng et.al.|[2311.13355v1](http://arxiv.org/abs/2311.13355v1)|null|
-|**2023-11-22**|**Rashba-splitting-induced topological flat band detected by anomalous resistance oscillations beyond the quantum limit in ZrTe$_5$**|Dong Xing et.al.|[2311.13346v1](http://arxiv.org/abs/2311.13346v1)|null|
-|**2023-11-22**|**Discovery of torque reversal in the Be/X-ray binary pulsar GX 304-1**|Amar Deo Chandra et.al.|[2311.13303v1](http://arxiv.org/abs/2311.13303v1)|null|
-|**2023-11-22**|**Perturbative analysis of the effect of a magnetic field on gravito-inertial modes**|François Lignières et.al.|[2311.13296v1](http://arxiv.org/abs/2311.13296v1)|null|
-|**2023-11-22**|**Spectroscopic and Interferometric Sum-Frequency Imaging of Strongly Coupled Phonon Polaritons in SiC Metasurfaces**|Richarda Niemann et.al.|[2311.13284v1](http://arxiv.org/abs/2311.13284v1)|null|
-|**2023-11-22**|**Impact of primordial black holes on heavy neutral leptons searches in the framework of resonant leptogenesis**|Roberta Calabrese et.al.|[2311.13276v1](http://arxiv.org/abs/2311.13276v1)|null|
-|**2023-11-22**|**Exoplanets detection limits using spectral cross-correlation with spectro-imaging. An analytical model applied to the case of ELT-HARMONI**|Alexis Bidot et.al.|[2311.13275v1](http://arxiv.org/abs/2311.13275v1)|null|
-|**2023-11-22**|**CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning**|Yaqi Liu et.al.|[2311.13263v1](http://arxiv.org/abs/2311.13263v1)|null|
-|**2023-11-22**|**A model-free approach to fingertip slip and disturbance detection for grasp stability inference**|Dounia Kitouni et.al.|[2311.13245v1](http://arxiv.org/abs/2311.13245v1)|null|
-|**2023-11-22**|**Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus**|Tianhang Zhang et.al.|[2311.13230v1](http://arxiv.org/abs/2311.13230v1)|[link](https://github.com/zthang/focus)|
-|**2023-11-22**|**Robot at the Mirror: Learning to Imitate via Associating Self-supervised Models**|Andrej Lúčny et.al.|[2311.13226v1](http://arxiv.org/abs/2311.13226v1)|[link](https://github.com/andylucny/learningimitation)|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,3 +76,37 @@
 |**2023-11-09**|**Outlier-Robust Wasserstein DRO**|Sloan Nietert et.al.|[2311.05573v1](http://arxiv.org/abs/2311.05573v1)|[link](https://github.com/sbnietert/outlier-robust-wdro)|
 |**2023-11-09**|**Do Ensembling and Meta-Learning Improve Outlier Detection in Randomized Controlled Trials?**|Walter Nelson et.al.|[2311.05473v1](http://arxiv.org/abs/2311.05473v1)|[link](https://github.com/hamilton-health-sciences/ml4h-traq)|
 |**2023-11-09**|**Unobscured central broad line regions in Type-1.9 AGN SDSS J1241+2602**|Zhang XueGuang et.al.|[2311.05138v1](http://arxiv.org/abs/2311.05138v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|[link](https://github.com/ux-decoder/dinov)|
+|**2023-11-22**|**T-Rex: Counting by Visual Prompting**|Qing Jiang et.al.|[2311.13596v1](http://arxiv.org/abs/2311.13596v1)|null|
+|**2023-11-22**|**Detection of the relativistic Shapiro delay in a highly inclined millisecond pulsar binary PSR J1012$-$4235**|T. Gautam et.al.|[2311.13563v1](http://arxiv.org/abs/2311.13563v1)|null|
+|**2023-11-22**|**Transfer Learning-based Real-time Handgun Detection**|Youssef Elmir et.al.|[2311.13559v1](http://arxiv.org/abs/2311.13559v1)|null|
+|**2023-11-22**|**$β$ Pictoris b through the eyes of the upgraded CRIRES+**|Rico Landman et.al.|[2311.13527v1](http://arxiv.org/abs/2311.13527v1)|[link](https://github.com/tomasstolker/pycrires)|
+|**2023-11-22**|**Photon Number Resolving Detection with a Single-Photon Detector and Adaptive Storage Loop**|Nicholas M. Sullivan et.al.|[2311.13515v1](http://arxiv.org/abs/2311.13515v1)|null|
+|**2023-11-22**|**The SOPHIE search for northern extrasolar planets-XIX. A system including a cold sub-Neptune potentially transiting a V = 6.5 star HD88986**|N. Heidari et.al.|[2311.13513v1](http://arxiv.org/abs/2311.13513v1)|null|
+|**2023-11-22**|**Hybrid Whale-Mud-Ring Optimization for Precise Color Skin Cancer Image Segmentation**|Amir Hamza et.al.|[2311.13512v1](http://arxiv.org/abs/2311.13512v1)|null|
+|**2023-11-22**|**Quantum Sensing of Magnetic Fields with Molecular Spins**|Claudio Bonizzoni et.al.|[2311.13504v1](http://arxiv.org/abs/2311.13504v1)|null|
+|**2023-11-22**|**Current Topological and Machine Learning Applications for Bias Detection in Text**|Colleen Farrelly et.al.|[2311.13495v1](http://arxiv.org/abs/2311.13495v1)|null|
+|**2023-11-22**|**Generation of Explanations for Logic Reasoning**|Yanyi Pu et.al.|[2311.13455v1](http://arxiv.org/abs/2311.13455v1)|null|
+|**2023-11-22**|**Explaining high-dimensional text classifiers**|Odelia Melamed et.al.|[2311.13454v1](http://arxiv.org/abs/2311.13454v1)|null|
+|**2023-11-22**|**Fast vanishing cycles on perturbations of (complex) weighted-homogeneous germs**|Dmitry Kerner et.al.|[2311.13423v1](http://arxiv.org/abs/2311.13423v1)|null|
+|**2023-11-22**|**Coupling undetected sensing modes by quantum erasure**|Nathan R. Gemmell et.al.|[2311.13421v1](http://arxiv.org/abs/2311.13421v1)|null|
+|**2023-11-22**|**Isotropic spin and inverse spin Hall effect in epitaxial (111)-oriented Pt/Co bilayers**|Adrián Gudín et.al.|[2311.13400v1](http://arxiv.org/abs/2311.13400v1)|null|
+|**2023-11-22**|**Conflict Management in the Near-RT-RIC of Open RAN: A Game Theoretic Approach**|Abdul Wadud et.al.|[2311.13389v1](http://arxiv.org/abs/2311.13389v1)|[link](https://github.com/dewanwadud1/cmsoran)|
+|**2023-11-22**|**Point Projection Mapping System for Tracking, Registering, Labeling and Validating Optical Tissue Measurements**|Lianne Feenstra et.al.|[2311.13378v1](http://arxiv.org/abs/2311.13378v1)|null|
+|**2023-11-22**|**An Empirical Study of Uncertainty Estimation Techniques for Detecting Drift in Data Streams**|Anton Winter et.al.|[2311.13374v1](http://arxiv.org/abs/2311.13374v1)|null|
+|**2023-11-22**|**The GUAPOS project: G31.41+0.31 Unbiased ALMA sPectral Observational Survey. IV. Phosphorus-bearing molecules and their relation with shock tracers**|F. Fontani et.al.|[2311.13367v1](http://arxiv.org/abs/2311.13367v1)|null|
+|**2023-11-22**|**Unified Classification and Rejection: A One-versus-All Framework**|Zhen Cheng et.al.|[2311.13355v1](http://arxiv.org/abs/2311.13355v1)|null|
+|**2023-11-22**|**Rashba-splitting-induced topological flat band detected by anomalous resistance oscillations beyond the quantum limit in ZrTe$_5$**|Dong Xing et.al.|[2311.13346v1](http://arxiv.org/abs/2311.13346v1)|null|
+|**2023-11-22**|**Discovery of torque reversal in the Be/X-ray binary pulsar GX 304-1**|Amar Deo Chandra et.al.|[2311.13303v1](http://arxiv.org/abs/2311.13303v1)|null|
+|**2023-11-22**|**Perturbative analysis of the effect of a magnetic field on gravito-inertial modes**|François Lignières et.al.|[2311.13296v1](http://arxiv.org/abs/2311.13296v1)|null|
+|**2023-11-22**|**Spectroscopic and Interferometric Sum-Frequency Imaging of Strongly Coupled Phonon Polaritons in SiC Metasurfaces**|Richarda Niemann et.al.|[2311.13284v1](http://arxiv.org/abs/2311.13284v1)|null|
+|**2023-11-22**|**Impact of primordial black holes on heavy neutral leptons searches in the framework of resonant leptogenesis**|Roberta Calabrese et.al.|[2311.13276v1](http://arxiv.org/abs/2311.13276v1)|null|
+|**2023-11-22**|**Exoplanets detection limits using spectral cross-correlation with spectro-imaging. An analytical model applied to the case of ELT-HARMONI**|Alexis Bidot et.al.|[2311.13275v1](http://arxiv.org/abs/2311.13275v1)|null|
+|**2023-11-22**|**CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning**|Yaqi Liu et.al.|[2311.13263v1](http://arxiv.org/abs/2311.13263v1)|null|
+|**2023-11-22**|**A model-free approach to fingertip slip and disturbance detection for grasp stability inference**|Dounia Kitouni et.al.|[2311.13245v1](http://arxiv.org/abs/2311.13245v1)|null|
+|**2023-11-22**|**Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus**|Tianhang Zhang et.al.|[2311.13230v1](http://arxiv.org/abs/2311.13230v1)|[link](https://github.com/zthang/focus)|
+|**2023-11-22**|**Robot at the Mirror: Learning to Imitate via Associating Self-supervised Models**|Andrej Lúčny et.al.|[2311.13226v1](http://arxiv.org/abs/2311.13226v1)|[link](https://github.com/andylucny/learningimitation)|
