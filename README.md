@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-03 09:35:28 Asia/Shanghai
+ Automated deployment @ 2023-12-03 20:37:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,40 +43,6 @@
 |**2023-11-19**|**TimeSQL: Improving Multivariate Time Series Forecasting with Multi-Scale Patching and Smooth Quadratic Loss**|Site Mo et.al.|[2311.11285v1](http://arxiv.org/abs/2311.11285v1)|null|
 |**2023-11-18**|**PACOL: Poisoning Attacks Against Continual Learners**|Huayu Li et.al.|[2311.10919v1](http://arxiv.org/abs/2311.10919v1)|null|
 
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
-|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
-|**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
-|**2023-11-30**|**Initializing Models with Larger Ones**|Zhiqiu Xu et.al.|[2311.18823v1](http://arxiv.org/abs/2311.18823v1)|[link](https://github.com/oscarxzq/weight-selection)|
-|**2023-11-30**|**Adversarial Attacks and Defenses for Wireless Signal Classifiers using CDI-aware GANs**|Sujata Sinha et.al.|[2311.18820v1](http://arxiv.org/abs/2311.18820v1)|null|
-|**2023-11-30**|**Convergence of Nonconvex PnP-ADMM with MMSE Denoisers**|Chicago Park et.al.|[2311.18810v1](http://arxiv.org/abs/2311.18810v1)|null|
-|**2023-11-30**|**Minimizing Weighted Sum Age of Information with Open-Loop Cyclic Scheduling**|Ege Orkun Gamgam et.al.|[2311.18791v1](http://arxiv.org/abs/2311.18791v1)|null|
-|**2023-11-30**|**Unsupervised learning architecture based on neural Darwinism and Hopfield networks recognizes symbols with high accuracy**|Mario Stepanik et.al.|[2311.18789v1](http://arxiv.org/abs/2311.18789v1)|[link](https://github.com/itsamemario11/neuronalgroupautomaton)|
-|**2023-11-30**|**Automated interpretation of congenital heart disease from multi-view echocardiograms**|Jing Wang et.al.|[2311.18788v1](http://arxiv.org/abs/2311.18788v1)|null|
-|**2023-11-30**|**Communication-Efficient Federated Optimization over Semi-Decentralized Networks**|He Wang et.al.|[2311.18787v1](http://arxiv.org/abs/2311.18787v1)|null|
-|**2023-11-30**|**Tensor network renormalization: application to dynamic correlation functions and non-hermitian systems**|Ying-Jie Wei et.al.|[2311.18785v1](http://arxiv.org/abs/2311.18785v1)|null|
-|**2023-11-30**|**TransCORALNet: A Two-Stream Transformer CORAL Networks for Supply Chain Credit Assessment Cold Start**|Jie Shi et.al.|[2311.18749v1](http://arxiv.org/abs/2311.18749v1)|[link](https://github.com/jiejieniu/transcoralnet)|
-|**2023-11-30**|**$\mathbb{Z}_2\times \mathbb{Z}_2$ Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks**|Zhongtian Dong et.al.|[2311.18744v1](http://arxiv.org/abs/2311.18744v1)|[link](https://github.com/zhongtiand/eqnn)|
-|**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741v1](http://arxiv.org/abs/2311.18741v1)|null|
-|**2023-11-30**|**Dimension Mixer: A Generalized Method for Structured Sparsity in Deep Neural Networks**|Suman Sapkota et.al.|[2311.18735v1](http://arxiv.org/abs/2311.18735v1)|null|
-|**2023-11-30**|**Matrix Product State Fixed Points of Non-Hermitian Transfer Matrices**|Wei Tang et.al.|[2311.18733v1](http://arxiv.org/abs/2311.18733v1)|null|
-|**2023-11-30**|**Indoor Millimeter Wave Localization using Multiple Self-Supervised Tiny Neural Networks**|Anish Shastri et.al.|[2311.18732v1](http://arxiv.org/abs/2311.18732v1)|null|
-|**2023-11-30**|**Meta-Prior: Meta learning for Adaptive Inverse Problem Solvers**|Matthieu Terris et.al.|[2311.18710v1](http://arxiv.org/abs/2311.18710v1)|null|
-|**2023-11-30**|**Quantifying metadata-structure relationships in networks using description length**|Lena Mangold et.al.|[2311.18705v1](http://arxiv.org/abs/2311.18705v1)|null|
-|**2023-11-30**|**Highly efficient and transferable interatomic potentials for α-iron and α-iron/hydrogen binary systems using deep neural networks**|Shihao Zhang et.al.|[2311.18686v1](http://arxiv.org/abs/2311.18686v1)|null|
-|**2023-11-30**|**Handling Cost and Constraints with Off-Policy Deep Reinforcement Learning**|Jared Markowitz et.al.|[2311.18684v1](http://arxiv.org/abs/2311.18684v1)|null|
-|**2023-11-30**|**DQSSA: A Quantum-Inspired Solution for Maximizing Influence in Online Social Networks (Student Abstract)**|Aryaman Rao et.al.|[2311.18676v1](http://arxiv.org/abs/2311.18676v1)|null|
-|**2023-11-30**|**Cascaded Interaction with Eroded Deep Supervision for Salient Object Detection**|Hewen Xiao et.al.|[2311.18675v1](http://arxiv.org/abs/2311.18675v1)|null|
-|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)|
-|**2023-11-30**|**Solution to an open problem on the closeness of graphs**|Fazal Hayat et.al.|[2311.18671v1](http://arxiv.org/abs/2311.18671v1)|null|
-|**2023-11-30**|**Local Geometry Determines Global Landscape in Low-rank Factorization for Synchronization**|Shuyang Ling et.al.|[2311.18670v1](http://arxiv.org/abs/2311.18670v1)|null|
-|**2023-11-30**|**Action Recognition in Video Recordings from Gynecologic Laparoscopy**|Sahar Nasirihaghighi et.al.|[2311.18666v1](http://arxiv.org/abs/2311.18666v1)|null|
-|**2023-11-30**|**Pose Estimation and Tracking for ASIST**|Ari Goodman et.al.|[2311.18665v1](http://arxiv.org/abs/2311.18665v1)|null|
-|**2023-11-30**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v1](http://arxiv.org/abs/2311.18662v1)|[link](https://github.com/danifuertes/top_transformer)|
-|**2023-11-30**|**OISA: Architecting an Optical In-Sensor Accelerator for Efficient Visual Computing**|Mehrdad Morsali et.al.|[2311.18655v1](http://arxiv.org/abs/2311.18655v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -110,3 +76,37 @@
 |**2023-11-30**|**RIS-Assisted Generalized Receive Quadrature Spatial Modulation**|Mohamad H. Dinan et.al.|[2311.18542v1](http://arxiv.org/abs/2311.18542v1)|null|
 |**2023-11-30**|**Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process**|Moses Ike et.al.|[2311.18539v1](http://arxiv.org/abs/2311.18539v1)|null|
 |**2023-11-30**|**Detecting Anomalous Network Communication Patterns Using Graph Convolutional Networks**|Yizhak Vaisman et.al.|[2311.18525v1](http://arxiv.org/abs/2311.18525v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
+|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
+|**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
+|**2023-11-30**|**Initializing Models with Larger Ones**|Zhiqiu Xu et.al.|[2311.18823v1](http://arxiv.org/abs/2311.18823v1)|[link](https://github.com/oscarxzq/weight-selection)|
+|**2023-11-30**|**Adversarial Attacks and Defenses for Wireless Signal Classifiers using CDI-aware GANs**|Sujata Sinha et.al.|[2311.18820v1](http://arxiv.org/abs/2311.18820v1)|null|
+|**2023-11-30**|**Convergence of Nonconvex PnP-ADMM with MMSE Denoisers**|Chicago Park et.al.|[2311.18810v1](http://arxiv.org/abs/2311.18810v1)|null|
+|**2023-11-30**|**Minimizing Weighted Sum Age of Information with Open-Loop Cyclic Scheduling**|Ege Orkun Gamgam et.al.|[2311.18791v1](http://arxiv.org/abs/2311.18791v1)|null|
+|**2023-11-30**|**Unsupervised learning architecture based on neural Darwinism and Hopfield networks recognizes symbols with high accuracy**|Mario Stepanik et.al.|[2311.18789v1](http://arxiv.org/abs/2311.18789v1)|[link](https://github.com/itsamemario11/neuronalgroupautomaton)|
+|**2023-11-30**|**Automated interpretation of congenital heart disease from multi-view echocardiograms**|Jing Wang et.al.|[2311.18788v1](http://arxiv.org/abs/2311.18788v1)|null|
+|**2023-11-30**|**Communication-Efficient Federated Optimization over Semi-Decentralized Networks**|He Wang et.al.|[2311.18787v1](http://arxiv.org/abs/2311.18787v1)|null|
+|**2023-11-30**|**Tensor network renormalization: application to dynamic correlation functions and non-hermitian systems**|Ying-Jie Wei et.al.|[2311.18785v1](http://arxiv.org/abs/2311.18785v1)|null|
+|**2023-11-30**|**TransCORALNet: A Two-Stream Transformer CORAL Networks for Supply Chain Credit Assessment Cold Start**|Jie Shi et.al.|[2311.18749v1](http://arxiv.org/abs/2311.18749v1)|[link](https://github.com/jiejieniu/transcoralnet)|
+|**2023-11-30**|**$\mathbb{Z}_2\times \mathbb{Z}_2$ Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks**|Zhongtian Dong et.al.|[2311.18744v1](http://arxiv.org/abs/2311.18744v1)|[link](https://github.com/zhongtiand/eqnn)|
+|**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741v1](http://arxiv.org/abs/2311.18741v1)|null|
+|**2023-11-30**|**Dimension Mixer: A Generalized Method for Structured Sparsity in Deep Neural Networks**|Suman Sapkota et.al.|[2311.18735v1](http://arxiv.org/abs/2311.18735v1)|null|
+|**2023-11-30**|**Matrix Product State Fixed Points of Non-Hermitian Transfer Matrices**|Wei Tang et.al.|[2311.18733v1](http://arxiv.org/abs/2311.18733v1)|null|
+|**2023-11-30**|**Indoor Millimeter Wave Localization using Multiple Self-Supervised Tiny Neural Networks**|Anish Shastri et.al.|[2311.18732v1](http://arxiv.org/abs/2311.18732v1)|null|
+|**2023-11-30**|**Meta-Prior: Meta learning for Adaptive Inverse Problem Solvers**|Matthieu Terris et.al.|[2311.18710v1](http://arxiv.org/abs/2311.18710v1)|null|
+|**2023-11-30**|**Quantifying metadata-structure relationships in networks using description length**|Lena Mangold et.al.|[2311.18705v1](http://arxiv.org/abs/2311.18705v1)|null|
+|**2023-11-30**|**Highly efficient and transferable interatomic potentials for α-iron and α-iron/hydrogen binary systems using deep neural networks**|Shihao Zhang et.al.|[2311.18686v1](http://arxiv.org/abs/2311.18686v1)|null|
+|**2023-11-30**|**Handling Cost and Constraints with Off-Policy Deep Reinforcement Learning**|Jared Markowitz et.al.|[2311.18684v1](http://arxiv.org/abs/2311.18684v1)|null|
+|**2023-11-30**|**DQSSA: A Quantum-Inspired Solution for Maximizing Influence in Online Social Networks (Student Abstract)**|Aryaman Rao et.al.|[2311.18676v1](http://arxiv.org/abs/2311.18676v1)|null|
+|**2023-11-30**|**Cascaded Interaction with Eroded Deep Supervision for Salient Object Detection**|Hewen Xiao et.al.|[2311.18675v1](http://arxiv.org/abs/2311.18675v1)|null|
+|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)|
+|**2023-11-30**|**Solution to an open problem on the closeness of graphs**|Fazal Hayat et.al.|[2311.18671v1](http://arxiv.org/abs/2311.18671v1)|null|
+|**2023-11-30**|**Local Geometry Determines Global Landscape in Low-rank Factorization for Synchronization**|Shuyang Ling et.al.|[2311.18670v1](http://arxiv.org/abs/2311.18670v1)|null|
+|**2023-11-30**|**Action Recognition in Video Recordings from Gynecologic Laparoscopy**|Sahar Nasirihaghighi et.al.|[2311.18666v1](http://arxiv.org/abs/2311.18666v1)|null|
+|**2023-11-30**|**Pose Estimation and Tracking for ASIST**|Ari Goodman et.al.|[2311.18665v1](http://arxiv.org/abs/2311.18665v1)|null|
+|**2023-11-30**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v1](http://arxiv.org/abs/2311.18662v1)|[link](https://github.com/danifuertes/top_transformer)|
+|**2023-11-30**|**OISA: Architecting an Optical In-Sensor Accelerator for Efficient Visual Computing**|Mehrdad Morsali et.al.|[2311.18655v1](http://arxiv.org/abs/2311.18655v1)|null|
