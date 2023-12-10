@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-10 09:36:51 Asia/Shanghai
+ Automated deployment @ 2023-12-10 20:36:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-07**|**Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs**|Finn Behrendt et.al.|[2312.04215v1](http://arxiv.org/abs/2312.04215v1)|[link](https://github.com/finnbehrendt/conditioned-diffusion-models-uad)|
+|**2023-12-06**|**HLoOP -- Hyperbolic 2-space Local Outlier Probabilities**|Clémence Allietta et.al.|[2312.03895v1](http://arxiv.org/abs/2312.03895v1)|null|
+|**2023-12-06**|**How Low Can You Go? Surfacing Prototypical In-Distribution Samples for Unsupervised Anomaly Detection**|Felix Meissen et.al.|[2312.03804v1](http://arxiv.org/abs/2312.03804v1)|null|
+|**2023-12-06**|**SmoothQuant+: Accurate and Efficient 4-bit Post-Training WeightQuantization for LLM**|Jiayi Pan et.al.|[2312.03788v1](http://arxiv.org/abs/2312.03788v1)|[link](https://github.com/adlik/smoothquant)|
+|**2023-12-05**|**Probing cosmic isotropy in the Local Universe**|Camila Franco et.al.|[2312.03152v1](http://arxiv.org/abs/2312.03152v1)|null|
+|**2023-12-05**|**Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study**|Karolis Ramanauskas et.al.|[2312.03762v1](http://arxiv.org/abs/2312.03762v1)|null|
+|**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
+|**2023-12-04**|**Adversarial Medical Image with Hierarchical Feature Hiding**|Qingsong Yao et.al.|[2312.01679v1](http://arxiv.org/abs/2312.01679v1)|[link](https://github.com/qsyao/hierarchical_feature_constraint)|
+|**2023-12-03**|**Moderate Dimension Reduction for $k$-Center Clustering**|Shaofeng H. -C. Jiang et.al.|[2312.01391v1](http://arxiv.org/abs/2312.01391v1)|null|
+|**2023-12-02**|**MacroPARAFAC for handling rowwise and cellwise outliers in incomplete multi-way data**|Mia Hubert et.al.|[2312.01168v1](http://arxiv.org/abs/2312.01168v1)|null|
+|**2023-12-02**|**Fast and Robust Sparsity-Aware Block Diagonal Representation**|Aylin Tastan et.al.|[2312.01137v1](http://arxiv.org/abs/2312.01137v1)|[link](https://github.com/a-tastan/frs-bdr)|
+|**2023-12-02**|**PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks**|Yisheng Zhong et.al.|[2312.01045v1](http://arxiv.org/abs/2312.01045v1)|null|
+|**2023-12-02**|**Improving Normative Modeling for Multi-modal Neuroimaging Data using mixture-of-product-of-experts variational autoencoders**|Sayantan Kumar et.al.|[2312.00992v1](http://arxiv.org/abs/2312.00992v1)|null|
+|**2023-12-02**|**Noisy probing dose facilitated dose prediction for pencil beam scanning proton therapy: physics enhances generalizability**|Lian Zhang et.al.|[2312.00975v1](http://arxiv.org/abs/2312.00975v1)|null|
+|**2023-12-01**|**Adaptive Parameter-Free Robust Learning using Latent Bernoulli Variables**|Aleksandr Karakulev et.al.|[2312.00585v1](http://arxiv.org/abs/2312.00585v1)|[link](https://github.com/akarakulev/rlvi)|
+|**2023-12-01**|**Heteroscedastic Uncertainty Estimation for Probabilistic Unsupervised Registration of Noisy Medical Images**|Xiaoran Zhang et.al.|[2312.00836v1](http://arxiv.org/abs/2312.00836v1)|null|
+|**2023-11-30**|**The Hubble Tension Survey: A Statistical Analysis of the 2012-2022 Measurements**|Bao Wang et.al.|[2311.18443v1](http://arxiv.org/abs/2311.18443v1)|null|
+|**2023-11-29**|**A Computing-in-Memory-based One-Class Hyperdimensional Computing Model for Outlier Detection**|Ruixuan Wang et.al.|[2311.17852v1](http://arxiv.org/abs/2311.17852v1)|null|
+|**2023-11-29**|**A phenomenological gravitational waveform model of binary black holes incorporating horizon fluxes**|Samanwaya Mukherjee et.al.|[2311.17554v1](http://arxiv.org/abs/2311.17554v1)|null|
+|**2023-11-28**|**Understanding the (Extra-)Ordinary: Validating Deep Model Decisions with Prototypical Concept-based Explanations**|Maximilian Dreyer et.al.|[2311.16681v1](http://arxiv.org/abs/2311.16681v1)|null|
+|**2023-11-28**|**Gaussian Processes for Monitoring Air-Quality in Kampala**|Clara Stoddart et.al.|[2311.16625v1](http://arxiv.org/abs/2311.16625v1)|[link](https://github.com/claramst/gps-kampala-airquality)|
+|**2023-11-28**|**Robust Diffusion GAN using Semi-Unbalanced Optimal Transport**|Quan Dao et.al.|[2311.17101v1](http://arxiv.org/abs/2311.17101v1)|null|
+|**2023-11-28**|**Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization**|Jinhao Li et.al.|[2311.16442v1](http://arxiv.org/abs/2311.16442v1)|null|
+|**2023-11-27**|**Individualized Treatment Allocations with Distributional Welfare**|Yifan Cui et.al.|[2311.15878v1](http://arxiv.org/abs/2311.15878v1)|null|
+|**2023-11-26**|**Robust and Automatic Data Clustering: Dirichlet Process meets Median-of-Means**|Supratik Basu et.al.|[2311.15384v1](http://arxiv.org/abs/2311.15384v1)|null|
+|**2023-11-26**|**BatchNorm-based Weakly Supervised Video Anomaly Detection**|Yixuan Zhou et.al.|[2311.15367v1](http://arxiv.org/abs/2311.15367v1)|[link](https://github.com/cool-xuan/bn-wvad)|
+|**2023-11-26**|**ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection**|Yichen Bai et.al.|[2311.15243v2](http://arxiv.org/abs/2311.15243v2)|null|
+|**2023-11-25**|**Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation**|Luca Eyring et.al.|[2311.15100v1](http://arxiv.org/abs/2311.15100v1)|null|
+|**2023-11-25**|**Enhancing Sentiment Analysis Results through Outlier Detection Optimization**|Yuetian Chen et.al.|[2311.16185v1](http://arxiv.org/abs/2311.16185v1)|null|
+|**2023-11-24**|**Measuring the Initial-Final Mass-Relation using wide double white dwarf binaries from Gaia DR3**|Mark A. Hollands et.al.|[2311.14801v1](http://arxiv.org/abs/2311.14801v1)|[link](https://github.com/mahollands/ifmr_dwds)|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,37 +110,3 @@
 |**2023-12-07**|**Balance Correlations, Agentic Zeros, and Networks: The Structure of 192 Years of War and Peace**|David Dekker et.al.|[2312.04358v1](http://arxiv.org/abs/2312.04358v1)|null|
 |**2023-12-07**|**NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and Bootstrapping**|Jae Hyung Ju et.al.|[2312.04356v1](http://arxiv.org/abs/2312.04356v1)|null|
 |**2023-12-07**|**Anomalous transport in 2D asymptotic quasiperiodic system**|Ting-Fung Jeffrey Poon et.al.|[2312.04349v1](http://arxiv.org/abs/2312.04349v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-07**|**Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs**|Finn Behrendt et.al.|[2312.04215v1](http://arxiv.org/abs/2312.04215v1)|[link](https://github.com/finnbehrendt/conditioned-diffusion-models-uad)|
-|**2023-12-06**|**HLoOP -- Hyperbolic 2-space Local Outlier Probabilities**|Clémence Allietta et.al.|[2312.03895v1](http://arxiv.org/abs/2312.03895v1)|null|
-|**2023-12-06**|**How Low Can You Go? Surfacing Prototypical In-Distribution Samples for Unsupervised Anomaly Detection**|Felix Meissen et.al.|[2312.03804v1](http://arxiv.org/abs/2312.03804v1)|null|
-|**2023-12-06**|**SmoothQuant+: Accurate and Efficient 4-bit Post-Training WeightQuantization for LLM**|Jiayi Pan et.al.|[2312.03788v1](http://arxiv.org/abs/2312.03788v1)|[link](https://github.com/adlik/smoothquant)|
-|**2023-12-05**|**Probing cosmic isotropy in the Local Universe**|Camila Franco et.al.|[2312.03152v1](http://arxiv.org/abs/2312.03152v1)|null|
-|**2023-12-05**|**Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study**|Karolis Ramanauskas et.al.|[2312.03762v1](http://arxiv.org/abs/2312.03762v1)|null|
-|**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
-|**2023-12-04**|**Adversarial Medical Image with Hierarchical Feature Hiding**|Qingsong Yao et.al.|[2312.01679v1](http://arxiv.org/abs/2312.01679v1)|[link](https://github.com/qsyao/hierarchical_feature_constraint)|
-|**2023-12-03**|**Moderate Dimension Reduction for $k$-Center Clustering**|Shaofeng H. -C. Jiang et.al.|[2312.01391v1](http://arxiv.org/abs/2312.01391v1)|null|
-|**2023-12-02**|**MacroPARAFAC for handling rowwise and cellwise outliers in incomplete multi-way data**|Mia Hubert et.al.|[2312.01168v1](http://arxiv.org/abs/2312.01168v1)|null|
-|**2023-12-02**|**Fast and Robust Sparsity-Aware Block Diagonal Representation**|Aylin Tastan et.al.|[2312.01137v1](http://arxiv.org/abs/2312.01137v1)|[link](https://github.com/a-tastan/frs-bdr)|
-|**2023-12-02**|**PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks**|Yisheng Zhong et.al.|[2312.01045v1](http://arxiv.org/abs/2312.01045v1)|null|
-|**2023-12-02**|**Improving Normative Modeling for Multi-modal Neuroimaging Data using mixture-of-product-of-experts variational autoencoders**|Sayantan Kumar et.al.|[2312.00992v1](http://arxiv.org/abs/2312.00992v1)|null|
-|**2023-12-02**|**Noisy probing dose facilitated dose prediction for pencil beam scanning proton therapy: physics enhances generalizability**|Lian Zhang et.al.|[2312.00975v1](http://arxiv.org/abs/2312.00975v1)|null|
-|**2023-12-01**|**Adaptive Parameter-Free Robust Learning using Latent Bernoulli Variables**|Aleksandr Karakulev et.al.|[2312.00585v1](http://arxiv.org/abs/2312.00585v1)|[link](https://github.com/akarakulev/rlvi)|
-|**2023-12-01**|**Heteroscedastic Uncertainty Estimation for Probabilistic Unsupervised Registration of Noisy Medical Images**|Xiaoran Zhang et.al.|[2312.00836v1](http://arxiv.org/abs/2312.00836v1)|null|
-|**2023-11-30**|**The Hubble Tension Survey: A Statistical Analysis of the 2012-2022 Measurements**|Bao Wang et.al.|[2311.18443v1](http://arxiv.org/abs/2311.18443v1)|null|
-|**2023-11-29**|**A Computing-in-Memory-based One-Class Hyperdimensional Computing Model for Outlier Detection**|Ruixuan Wang et.al.|[2311.17852v1](http://arxiv.org/abs/2311.17852v1)|null|
-|**2023-11-29**|**A phenomenological gravitational waveform model of binary black holes incorporating horizon fluxes**|Samanwaya Mukherjee et.al.|[2311.17554v1](http://arxiv.org/abs/2311.17554v1)|null|
-|**2023-11-28**|**Understanding the (Extra-)Ordinary: Validating Deep Model Decisions with Prototypical Concept-based Explanations**|Maximilian Dreyer et.al.|[2311.16681v1](http://arxiv.org/abs/2311.16681v1)|null|
-|**2023-11-28**|**Gaussian Processes for Monitoring Air-Quality in Kampala**|Clara Stoddart et.al.|[2311.16625v1](http://arxiv.org/abs/2311.16625v1)|[link](https://github.com/claramst/gps-kampala-airquality)|
-|**2023-11-28**|**Robust Diffusion GAN using Semi-Unbalanced Optimal Transport**|Quan Dao et.al.|[2311.17101v1](http://arxiv.org/abs/2311.17101v1)|null|
-|**2023-11-28**|**Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization**|Jinhao Li et.al.|[2311.16442v1](http://arxiv.org/abs/2311.16442v1)|null|
-|**2023-11-27**|**Individualized Treatment Allocations with Distributional Welfare**|Yifan Cui et.al.|[2311.15878v1](http://arxiv.org/abs/2311.15878v1)|null|
-|**2023-11-26**|**Robust and Automatic Data Clustering: Dirichlet Process meets Median-of-Means**|Supratik Basu et.al.|[2311.15384v1](http://arxiv.org/abs/2311.15384v1)|null|
-|**2023-11-26**|**BatchNorm-based Weakly Supervised Video Anomaly Detection**|Yixuan Zhou et.al.|[2311.15367v1](http://arxiv.org/abs/2311.15367v1)|[link](https://github.com/cool-xuan/bn-wvad)|
-|**2023-11-26**|**ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection**|Yichen Bai et.al.|[2311.15243v2](http://arxiv.org/abs/2311.15243v2)|null|
-|**2023-11-25**|**Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation**|Luca Eyring et.al.|[2311.15100v1](http://arxiv.org/abs/2311.15100v1)|null|
-|**2023-11-25**|**Enhancing Sentiment Analysis Results through Outlier Detection Optimization**|Yuetian Chen et.al.|[2311.16185v1](http://arxiv.org/abs/2311.16185v1)|null|
-|**2023-11-24**|**Measuring the Initial-Final Mass-Relation using wide double white dwarf binaries from Gaia DR3**|Mark A. Hollands et.al.|[2311.14801v1](http://arxiv.org/abs/2311.14801v1)|[link](https://github.com/mahollands/ifmr_dwds)|
