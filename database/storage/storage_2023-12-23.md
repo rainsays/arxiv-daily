@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-23 09:21:53 Asia/Shanghai
+ Automated deployment @ 2023-12-23 20:35:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,40 +43,6 @@
 |**2023-12-12**|**Meta-survey on outlier and anomaly detection**|Madalina Olteanu et.al.|[2312.07101v1](http://arxiv.org/abs/2312.07101v1)|[link](https://github.com/fabrice-rossi/outlier-anomaly-detection)|
 |**2023-12-11**|**Model Breadcrumbs: Scaling Multi-Task Model Merging with Sparse Masks**|MohammadReza Davari et.al.|[2312.06795v1](http://arxiv.org/abs/2312.06795v1)|null|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-21**|**New Constraints on Axion-Like Particles from IXPE Polarization Data for Magnetars**|Ephraim Gau et.al.|[2312.14153v1](http://arxiv.org/abs/2312.14153v1)|null|
-|**2023-12-21**|**A Dark Sink Enhances the Direct Detection of Freeze-in Dark Matter**|Prudhvi N. Bhattiprolu et.al.|[2312.14152v1](http://arxiv.org/abs/2312.14152v1)|null|
-|**2023-12-21**|**Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling**|Akel Hashim et.al.|[2312.14139v1](http://arxiv.org/abs/2312.14139v1)|null|
-|**2023-12-21**|**Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach**|Qinying Liu et.al.|[2312.14138v1](http://arxiv.org/abs/2312.14138v1)|[link](https://github.com/qinying-liu/case)|
-|**2023-12-21**|**Fast kernel half-space depth for data with non-convex supports**|Arturo Castellanos et.al.|[2312.14136v1](http://arxiv.org/abs/2312.14136v1)|null|
-|**2023-12-21**|**Morphologies of Bright Complex Fast Radio Bursts with CHIME/FRB Voltage Data**|Jakob T. Faber et.al.|[2312.14133v1](http://arxiv.org/abs/2312.14133v1)|null|
-|**2023-12-21**|**Low evidence for ringdown overtone in GW150914 when marginalizing over time and sky location uncertainty**|Alex Correia et.al.|[2312.14118v1](http://arxiv.org/abs/2312.14118v1)|null|
-|**2023-12-21**|**Magnetar-powered Neutrinos and Magnetic Moment Signatures at IceCube**|Ting Cheng et.al.|[2312.14113v1](http://arxiv.org/abs/2312.14113v1)|null|
-|**2023-12-21**|**Axionic defects in the CMB: birefringence and gravitational waves**|Ricardo Z. Ferreira et.al.|[2312.14104v1](http://arxiv.org/abs/2312.14104v1)|null|
-|**2023-12-21**|**Solar Eruptions Triggered by Flux Emergence Below or Near a Coronal Flux Rope**|T. Török et.al.|[2312.14092v1](http://arxiv.org/abs/2312.14092v1)|null|
-|**2023-12-21**|**FeynCalc 10: Do multiloop integrals dream of computer codes?**|Vladyslav Shtabovenko et.al.|[2312.14089v1](http://arxiv.org/abs/2312.14089v1)|null|
-|**2023-12-21**|**Spectral anomalies and broken symmetries in maximally chaotic quantum maps**|Laura Shou et.al.|[2312.14067v1](http://arxiv.org/abs/2312.14067v1)|null|
-|**2023-12-21**|**Near-ideal Microwave Photon to Electron Conversion in a High Impedance Quantum Circuit**|Ognjen Stanisavljević et.al.|[2312.14065v1](http://arxiv.org/abs/2312.14065v1)|null|
-|**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060v1](http://arxiv.org/abs/2312.14060v1)|null|
-|**2023-12-21**|**Protection of Vulnerable Road Users using Hybrid Vehicular Networks**|Oscar Amador et.al.|[2312.14059v1](http://arxiv.org/abs/2312.14059v1)|null|
-|**2023-12-21**|**OH as a probe of the warm water cycle in planet-forming disks**|Marion Zannese et.al.|[2312.14056v1](http://arxiv.org/abs/2312.14056v1)|null|
-|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053v1](http://arxiv.org/abs/2312.14053v1)|[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)|
-|**2023-12-21**|**Iteration on the Higgs-portal for vector Dark Matter and its effective field theory description**|Giorgio Arcadi et.al.|[2312.14052v1](http://arxiv.org/abs/2312.14052v1)|null|
-|**2023-12-21**|**Detectability of Finite-Temperature Effects From Neutron Star Mergers with Next-Generation Gravitational Wave Detectors**|Carolyn A. Raithel et.al.|[2312.14046v1](http://arxiv.org/abs/2312.14046v1)|null|
-|**2023-12-21**|**Deep mouse brain two-photon near-infrared fluorescence imaging using a superconducting nanowire single-photon detector array**|Amr Tamimi et.al.|[2312.14042v1](http://arxiv.org/abs/2312.14042v1)|null|
-|**2023-12-21**|**Distinctive GWBs from eccentric inspiraling SMBH binaries with a DM spike**|Li Hu et.al.|[2312.14041v1](http://arxiv.org/abs/2312.14041v1)|null|
-|**2023-12-21**|**Leveraging Visual Supervision for Array-based Active Speaker Detection and Localization**|Davide Berghi et.al.|[2312.14021v1](http://arxiv.org/abs/2312.14021v1)|[link](https://github.com/dberghi/leveraging-visual-supervision-for-array-based-asdl)|
-|**2023-12-21**|**Low-excitation transport and separation of high-mass-ratio mixed-species ion chains**|Francesco Lancellotti et.al.|[2312.14006v1](http://arxiv.org/abs/2312.14006v1)|null|
-|**2023-12-21**|**Open-Set: ID Card Presentation Attack Detection using Neural Transfer Style**|Reuben Markham et.al.|[2312.13993v1](http://arxiv.org/abs/2312.13993v1)|null|
-|**2023-12-21**|**Bayesian nonparametric boundary detection for income areal data**|Matteo Gianella et.al.|[2312.13992v1](http://arxiv.org/abs/2312.13992v1)|null|
-|**2023-12-21**|**Deep Learning Enabled Design of Terahertz High-Q Metamaterials**|Shan Yin et.al.|[2312.13986v1](http://arxiv.org/abs/2312.13986v1)|null|
-|**2023-12-21**|**The Sun as a target for axion dark matter detection**|Elisa Todarello et.al.|[2312.13984v1](http://arxiv.org/abs/2312.13984v1)|null|
-|**2023-12-21**|**The effectiveness of exoplanets and Brown Dwarfs as sub-GeV Dark Matter detectors**|Cosmin Ilie et.al.|[2312.13979v1](http://arxiv.org/abs/2312.13979v1)|null|
-|**2023-12-21**|**Non-Termination in Term Rewriting and Logic Programming**|Etienne Payet et.al.|[2312.13949v1](http://arxiv.org/abs/2312.13949v1)|null|
-|**2023-12-21**|**GVE-Leiden: Fast Leiden Algorithm for Community Detection in Shared Memory Setting**|Subhajit Sahu et.al.|[2312.13936v1](http://arxiv.org/abs/2312.13936v1)|null|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -110,3 +76,37 @@
 |**2023-12-21**|**Multi-Agent Probabilistic Ensembles with Trajectory Sampling for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2312.13910v1](http://arxiv.org/abs/2312.13910v1)|null|
 |**2023-12-21**|**Measures of Resilience to Cyber Contagion -- An Axiomatic Approach for Complex Systems**|Gregor Svindland et.al.|[2312.13884v1](http://arxiv.org/abs/2312.13884v1)|null|
 |**2023-12-21**|**Enhanced elastic stability of a topologically disordered crystalline metal--organic framework**|Emily G. Meekel et.al.|[2312.13846v1](http://arxiv.org/abs/2312.13846v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-21**|**New Constraints on Axion-Like Particles from IXPE Polarization Data for Magnetars**|Ephraim Gau et.al.|[2312.14153v1](http://arxiv.org/abs/2312.14153v1)|null|
+|**2023-12-21**|**A Dark Sink Enhances the Direct Detection of Freeze-in Dark Matter**|Prudhvi N. Bhattiprolu et.al.|[2312.14152v1](http://arxiv.org/abs/2312.14152v1)|null|
+|**2023-12-21**|**Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling**|Akel Hashim et.al.|[2312.14139v1](http://arxiv.org/abs/2312.14139v1)|null|
+|**2023-12-21**|**Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach**|Qinying Liu et.al.|[2312.14138v1](http://arxiv.org/abs/2312.14138v1)|[link](https://github.com/qinying-liu/case)|
+|**2023-12-21**|**Fast kernel half-space depth for data with non-convex supports**|Arturo Castellanos et.al.|[2312.14136v1](http://arxiv.org/abs/2312.14136v1)|null|
+|**2023-12-21**|**Morphologies of Bright Complex Fast Radio Bursts with CHIME/FRB Voltage Data**|Jakob T. Faber et.al.|[2312.14133v1](http://arxiv.org/abs/2312.14133v1)|null|
+|**2023-12-21**|**Low evidence for ringdown overtone in GW150914 when marginalizing over time and sky location uncertainty**|Alex Correia et.al.|[2312.14118v1](http://arxiv.org/abs/2312.14118v1)|null|
+|**2023-12-21**|**Magnetar-powered Neutrinos and Magnetic Moment Signatures at IceCube**|Ting Cheng et.al.|[2312.14113v1](http://arxiv.org/abs/2312.14113v1)|null|
+|**2023-12-21**|**Axionic defects in the CMB: birefringence and gravitational waves**|Ricardo Z. Ferreira et.al.|[2312.14104v1](http://arxiv.org/abs/2312.14104v1)|null|
+|**2023-12-21**|**Solar Eruptions Triggered by Flux Emergence Below or Near a Coronal Flux Rope**|T. Török et.al.|[2312.14092v1](http://arxiv.org/abs/2312.14092v1)|null|
+|**2023-12-21**|**FeynCalc 10: Do multiloop integrals dream of computer codes?**|Vladyslav Shtabovenko et.al.|[2312.14089v1](http://arxiv.org/abs/2312.14089v1)|null|
+|**2023-12-21**|**Spectral anomalies and broken symmetries in maximally chaotic quantum maps**|Laura Shou et.al.|[2312.14067v1](http://arxiv.org/abs/2312.14067v1)|null|
+|**2023-12-21**|**Near-ideal Microwave Photon to Electron Conversion in a High Impedance Quantum Circuit**|Ognjen Stanisavljević et.al.|[2312.14065v1](http://arxiv.org/abs/2312.14065v1)|null|
+|**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060v1](http://arxiv.org/abs/2312.14060v1)|null|
+|**2023-12-21**|**Protection of Vulnerable Road Users using Hybrid Vehicular Networks**|Oscar Amador et.al.|[2312.14059v1](http://arxiv.org/abs/2312.14059v1)|null|
+|**2023-12-21**|**OH as a probe of the warm water cycle in planet-forming disks**|Marion Zannese et.al.|[2312.14056v1](http://arxiv.org/abs/2312.14056v1)|null|
+|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053v1](http://arxiv.org/abs/2312.14053v1)|[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)|
+|**2023-12-21**|**Iteration on the Higgs-portal for vector Dark Matter and its effective field theory description**|Giorgio Arcadi et.al.|[2312.14052v1](http://arxiv.org/abs/2312.14052v1)|null|
+|**2023-12-21**|**Detectability of Finite-Temperature Effects From Neutron Star Mergers with Next-Generation Gravitational Wave Detectors**|Carolyn A. Raithel et.al.|[2312.14046v1](http://arxiv.org/abs/2312.14046v1)|null|
+|**2023-12-21**|**Deep mouse brain two-photon near-infrared fluorescence imaging using a superconducting nanowire single-photon detector array**|Amr Tamimi et.al.|[2312.14042v1](http://arxiv.org/abs/2312.14042v1)|null|
+|**2023-12-21**|**Distinctive GWBs from eccentric inspiraling SMBH binaries with a DM spike**|Li Hu et.al.|[2312.14041v1](http://arxiv.org/abs/2312.14041v1)|null|
+|**2023-12-21**|**Leveraging Visual Supervision for Array-based Active Speaker Detection and Localization**|Davide Berghi et.al.|[2312.14021v1](http://arxiv.org/abs/2312.14021v1)|[link](https://github.com/dberghi/leveraging-visual-supervision-for-array-based-asdl)|
+|**2023-12-21**|**Low-excitation transport and separation of high-mass-ratio mixed-species ion chains**|Francesco Lancellotti et.al.|[2312.14006v1](http://arxiv.org/abs/2312.14006v1)|null|
+|**2023-12-21**|**Open-Set: ID Card Presentation Attack Detection using Neural Transfer Style**|Reuben Markham et.al.|[2312.13993v1](http://arxiv.org/abs/2312.13993v1)|null|
+|**2023-12-21**|**Bayesian nonparametric boundary detection for income areal data**|Matteo Gianella et.al.|[2312.13992v1](http://arxiv.org/abs/2312.13992v1)|null|
+|**2023-12-21**|**Deep Learning Enabled Design of Terahertz High-Q Metamaterials**|Shan Yin et.al.|[2312.13986v1](http://arxiv.org/abs/2312.13986v1)|null|
+|**2023-12-21**|**The Sun as a target for axion dark matter detection**|Elisa Todarello et.al.|[2312.13984v1](http://arxiv.org/abs/2312.13984v1)|null|
+|**2023-12-21**|**The effectiveness of exoplanets and Brown Dwarfs as sub-GeV Dark Matter detectors**|Cosmin Ilie et.al.|[2312.13979v1](http://arxiv.org/abs/2312.13979v1)|null|
+|**2023-12-21**|**Non-Termination in Term Rewriting and Logic Programming**|Etienne Payet et.al.|[2312.13949v1](http://arxiv.org/abs/2312.13949v1)|null|
+|**2023-12-21**|**GVE-Leiden: Fast Leiden Algorithm for Community Detection in Shared Memory Setting**|Subhajit Sahu et.al.|[2312.13936v1](http://arxiv.org/abs/2312.13936v1)|null|
