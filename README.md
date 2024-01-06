@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-06 09:30:34 Asia/Shanghai
+ Automated deployment @ 2024-01-06 20:37:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414v1](http://arxiv.org/abs/2401.02414v1)|null|
-|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411v1](http://arxiv.org/abs/2401.02411v1)|null|
-|**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407v1](http://arxiv.org/abs/2401.02407v1)|null|
-|**2024-01-04**|**Real-Time 2D Temperature Field Prediction in Metal Additive Manufacturing Using Physics-Informed Neural Networks**|Pouyan Sajadi et.al.|[2401.02403v1](http://arxiv.org/abs/2401.02403v1)|null|
-|**2024-01-04**|**Generating synthetic data for neural operators**|Erisa Hasani et.al.|[2401.02398v1](http://arxiv.org/abs/2401.02398v1)|null|
-|**2024-01-04**|**Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai**|Scott A. Hale et.al.|[2401.02395v1](http://arxiv.org/abs/2401.02395v1)|null|
-|**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394v1](http://arxiv.org/abs/2401.02394v1)|null|
-|**2024-01-04**|**Detection and Discovery of Misinformation Sources using Attributed Webgraphs**|Peter Carragher et.al.|[2401.02379v1](http://arxiv.org/abs/2401.02379v1)|null|
-|**2024-01-04**|**Opinion formation in the world trade network**|Célestin Coquidé et.al.|[2401.02378v1](http://arxiv.org/abs/2401.02378v1)|null|
-|**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363v1](http://arxiv.org/abs/2401.02363v1)|null|
-|**2024-01-04**|**A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer**|Sandeep Angara et.al.|[2401.02358v1](http://arxiv.org/abs/2401.02358v1)|null|
-|**2024-01-04**|**A Survey Analyzing Generalization in Deep Reinforcement Learning**|Ezgi Korkmaz et.al.|[2401.02349v1](http://arxiv.org/abs/2401.02349v1)|null|
-|**2024-01-04**|**AERIAL-CORE: AI-Powered Aerial Robots for Inspection and Maintenance of Electrical Power Infrastructures**|Anibal Ollero et.al.|[2401.02343v1](http://arxiv.org/abs/2401.02343v1)|null|
-|**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329v1](http://arxiv.org/abs/2401.02329v1)|null|
-|**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323v1](http://arxiv.org/abs/2401.02323v1)|null|
-|**2024-01-04**|**First-principles Nonadiabatic Dynamics of Molecules at Metal Surfaces with Vibrationally Coupled Electron Transfer**|Gang Meng et.al.|[2401.02316v1](http://arxiv.org/abs/2401.02316v1)|null|
-|**2024-01-04**|**Fourier neural operator based fluid-structure interaction for predicting the vesicle dynamics**|Wang Xiao et.al.|[2401.02311v1](http://arxiv.org/abs/2401.02311v1)|null|
-|**2024-01-04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|null|
-|**2024-01-04**|**Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions**|H M Sabbir Ahmad et.al.|[2401.02306v1](http://arxiv.org/abs/2401.02306v1)|null|
-|**2024-01-04**|**Robust Physics Informed Neural Networks**|Marcin Łoś et.al.|[2401.02300v1](http://arxiv.org/abs/2401.02300v1)|null|
-|**2024-01-04**|**Training Single-Layer Morphological Perceptron Using Convex-Concave Programming**|Iara Cunha et.al.|[2401.02296v1](http://arxiv.org/abs/2401.02296v1)|null|
-|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292v1](http://arxiv.org/abs/2401.02292v1)|[link](https://github.com/list17/gridformer)|
-|**2024-01-04**|**Introduction and Status of Fermilab's ACORN Project**|D. Finstrom et.al.|[2401.02291v1](http://arxiv.org/abs/2401.02291v1)|null|
-|**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290v1](http://arxiv.org/abs/2401.02290v1)|null|
-|**2024-01-04**|**SFY -- A lightweight, high-frequency and phase-resolving wave-buoy for coastal waters**|Gaute Hope et.al.|[2401.02286v1](http://arxiv.org/abs/2401.02286v1)|null|
-|**2024-01-04**|**DEM: A Method for Certifying Deep Neural Network Classifier Outputs in Aerospace**|Guy Katz et.al.|[2401.02283v1](http://arxiv.org/abs/2401.02283v1)|null|
-|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281v1](http://arxiv.org/abs/2401.02281v1)|null|
-|**2024-01-04**|**Nonreciprocal entanglement in cavity magnomechanics exploiting chiral cavity-magnon coupling**|Zhi-Yuan Fan et.al.|[2401.02280v1](http://arxiv.org/abs/2401.02280v1)|null|
-|**2024-01-04**|**Universal Approximation Theorem for Vector- and Hypercomplex-Valued Neural Networks**|Marcos Eduardo Valle et.al.|[2401.02277v1](http://arxiv.org/abs/2401.02277v1)|null|
-|**2024-01-04**|**Robustness of topological order against disorder**|Lucas A. Oliveira et.al.|[2401.02270v1](http://arxiv.org/abs/2401.02270v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2023-12-21**|**Total variation in popular rap vocals from 2009-2023: extension of the analysis by Georgieva, Ripolles & McFee**|Kelvin L Walls et.al.|[2312.14036v1](http://arxiv.org/abs/2312.14036v1)|null|
 |**2023-12-20**|**ORBSLAM3-Enhanced Autonomous Toy Drones: Pioneering Indoor Exploration**|Murad Tukan et.al.|[2312.13385v1](http://arxiv.org/abs/2312.13385v1)|null|
 |**2023-12-20**|**User-Assisted Networked Sensing in OFDM Cellular Network with Erroneous Anchor Position Information**|Xianzhen Guo et.al.|[2312.13013v1](http://arxiv.org/abs/2312.13013v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414v1](http://arxiv.org/abs/2401.02414v1)|null|
+|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411v1](http://arxiv.org/abs/2401.02411v1)|null|
+|**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407v1](http://arxiv.org/abs/2401.02407v1)|null|
+|**2024-01-04**|**Real-Time 2D Temperature Field Prediction in Metal Additive Manufacturing Using Physics-Informed Neural Networks**|Pouyan Sajadi et.al.|[2401.02403v1](http://arxiv.org/abs/2401.02403v1)|null|
+|**2024-01-04**|**Generating synthetic data for neural operators**|Erisa Hasani et.al.|[2401.02398v1](http://arxiv.org/abs/2401.02398v1)|null|
+|**2024-01-04**|**Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai**|Scott A. Hale et.al.|[2401.02395v1](http://arxiv.org/abs/2401.02395v1)|null|
+|**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394v1](http://arxiv.org/abs/2401.02394v1)|null|
+|**2024-01-04**|**Detection and Discovery of Misinformation Sources using Attributed Webgraphs**|Peter Carragher et.al.|[2401.02379v1](http://arxiv.org/abs/2401.02379v1)|null|
+|**2024-01-04**|**Opinion formation in the world trade network**|Célestin Coquidé et.al.|[2401.02378v1](http://arxiv.org/abs/2401.02378v1)|null|
+|**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363v1](http://arxiv.org/abs/2401.02363v1)|null|
+|**2024-01-04**|**A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer**|Sandeep Angara et.al.|[2401.02358v1](http://arxiv.org/abs/2401.02358v1)|null|
+|**2024-01-04**|**A Survey Analyzing Generalization in Deep Reinforcement Learning**|Ezgi Korkmaz et.al.|[2401.02349v1](http://arxiv.org/abs/2401.02349v1)|null|
+|**2024-01-04**|**AERIAL-CORE: AI-Powered Aerial Robots for Inspection and Maintenance of Electrical Power Infrastructures**|Anibal Ollero et.al.|[2401.02343v1](http://arxiv.org/abs/2401.02343v1)|null|
+|**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329v1](http://arxiv.org/abs/2401.02329v1)|null|
+|**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323v1](http://arxiv.org/abs/2401.02323v1)|null|
+|**2024-01-04**|**First-principles Nonadiabatic Dynamics of Molecules at Metal Surfaces with Vibrationally Coupled Electron Transfer**|Gang Meng et.al.|[2401.02316v1](http://arxiv.org/abs/2401.02316v1)|null|
+|**2024-01-04**|**Fourier neural operator based fluid-structure interaction for predicting the vesicle dynamics**|Wang Xiao et.al.|[2401.02311v1](http://arxiv.org/abs/2401.02311v1)|null|
+|**2024-01-04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|null|
+|**2024-01-04**|**Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions**|H M Sabbir Ahmad et.al.|[2401.02306v1](http://arxiv.org/abs/2401.02306v1)|null|
+|**2024-01-04**|**Robust Physics Informed Neural Networks**|Marcin Łoś et.al.|[2401.02300v1](http://arxiv.org/abs/2401.02300v1)|null|
+|**2024-01-04**|**Training Single-Layer Morphological Perceptron Using Convex-Concave Programming**|Iara Cunha et.al.|[2401.02296v1](http://arxiv.org/abs/2401.02296v1)|null|
+|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292v1](http://arxiv.org/abs/2401.02292v1)|[link](https://github.com/list17/gridformer)|
+|**2024-01-04**|**Introduction and Status of Fermilab's ACORN Project**|D. Finstrom et.al.|[2401.02291v1](http://arxiv.org/abs/2401.02291v1)|null|
+|**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290v1](http://arxiv.org/abs/2401.02290v1)|null|
+|**2024-01-04**|**SFY -- A lightweight, high-frequency and phase-resolving wave-buoy for coastal waters**|Gaute Hope et.al.|[2401.02286v1](http://arxiv.org/abs/2401.02286v1)|null|
+|**2024-01-04**|**DEM: A Method for Certifying Deep Neural Network Classifier Outputs in Aerospace**|Guy Katz et.al.|[2401.02283v1](http://arxiv.org/abs/2401.02283v1)|null|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281v1](http://arxiv.org/abs/2401.02281v1)|null|
+|**2024-01-04**|**Nonreciprocal entanglement in cavity magnomechanics exploiting chiral cavity-magnon coupling**|Zhi-Yuan Fan et.al.|[2401.02280v1](http://arxiv.org/abs/2401.02280v1)|null|
+|**2024-01-04**|**Universal Approximation Theorem for Vector- and Hypercomplex-Valued Neural Networks**|Marcos Eduardo Valle et.al.|[2401.02277v1](http://arxiv.org/abs/2401.02277v1)|null|
+|**2024-01-04**|**Robustness of topological order against disorder**|Lucas A. Oliveira et.al.|[2401.02270v1](http://arxiv.org/abs/2401.02270v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
