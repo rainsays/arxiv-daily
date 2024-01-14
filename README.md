@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-14 09:38:39 Asia/Shanghai
+ Automated deployment @ 2024-01-14 20:37:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-11**|**Precise characterization of a silicon carbide waveguide fiber interface**|Marcel Krumrein et.al.|[2401.06096v1](http://arxiv.org/abs/2401.06096v1)|null|
-|**2024-01-11**|**2D Li$^{\bf +}$ ionic hopping in Li$_{\bf 3}$InCl$_{\bf 6}$ as revealed by diffusion-induced nuclear spin relaxation**|Florian Stainer et.al.|[2401.06090v1](http://arxiv.org/abs/2401.06090v1)|null|
-|**2024-01-11**|**Post-Newtonian effects in compact binaries with a dark matter spike: A Lagrangian approach**|Diego Montalvo et.al.|[2401.06084v1](http://arxiv.org/abs/2401.06084v1)|null|
-|**2024-01-11**|**Probing for Lorentz Invariance Violation in Pantheon Plus Dominated Cosmology**|Denitsa Staicova et.al.|[2401.06068v1](http://arxiv.org/abs/2401.06068v1)|null|
-|**2024-01-11**|**Finite-size effects in the two-dimensional BCS-BEC crossover**|M. Lanaro et.al.|[2401.06054v1](http://arxiv.org/abs/2401.06054v1)|null|
-|**2024-01-11**|**JWST/NIRCam Transmission Spectroscopy of the Nearby Sub-Earth GJ 341b**|James Kirk et.al.|[2401.06043v1](http://arxiv.org/abs/2401.06043v1)|null|
-|**2024-01-11**|**Novel photon detectors**|Peter Krizan et.al.|[2401.06033v1](http://arxiv.org/abs/2401.06033v1)|null|
-|**2024-01-11**|**Deciphering the Hidden Structures of HH 216 and Pillar IV in M16: Results from JWST and HST**|L. K. Dewangan et.al.|[2401.06016v1](http://arxiv.org/abs/2401.06016v1)|null|
-|**2024-01-11**|**Sea ice detection using concurrent multispectral and synthetic aperture radar imagery**|Martin S J Rogers et.al.|[2401.06009v1](http://arxiv.org/abs/2401.06009v1)|null|
-|**2024-01-11**|**Optical identification and follow-up observations of SRGA J213151.5+491400 -- a new magnetic cataclysmic variable discovered with SRG Observatory**|Ş. Balman et.al.|[2401.06001v1](http://arxiv.org/abs/2401.06001v1)|null|
-|**2024-01-11**|**A Multi-Embedding Convergence Network on Siamese Architecture for Fake Reviews**|Sankarshan Dasgupta et.al.|[2401.05995v1](http://arxiv.org/abs/2401.05995v1)|null|
-|**2024-01-11**|**HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control**|Hua Tong et.al.|[2401.05984v1](http://arxiv.org/abs/2401.05984v1)|null|
-|**2024-01-11**|**Shape-Dependence of Spontaneous Photon Emission by Quantum Electron Wavepackets and the QED Origin of Bunched Electron Beam Superradiance**|Bin Zhang et.al.|[2401.05978v1](http://arxiv.org/abs/2401.05978v1)|null|
-|**2024-01-11**|**Learning physics-based reduced models from data for the Hasegawa-Wakatani equations**|Constatin Gahr et.al.|[2401.05972v1](http://arxiv.org/abs/2401.05972v1)|null|
-|**2024-01-11**|**LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase**|Chujie Gao et.al.|[2401.05952v1](http://arxiv.org/abs/2401.05952v1)|[link](https://github.com/dongping-chen/mixset)|
-|**2024-01-11**|**Precision test of the weak interaction with slow muons**|Xin Chen et.al.|[2401.05945v1](http://arxiv.org/abs/2401.05945v1)|null|
-|**2024-01-11**|**Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs**|Ziyu Li et.al.|[2401.05940v1](http://arxiv.org/abs/2401.05940v1)|null|
-|**2024-01-11**|**Migration and Evolution of giant ExoPlanets (MEEP) I: Nine Newly Confirmed Hot Jupiters from the TESS Mission**|Jack Schulte et.al.|[2401.05923v1](http://arxiv.org/abs/2401.05923v1)|null|
-|**2024-01-11**|**Probing diversity of type II supernovae with the Chinese Space Station Telescope**|Han Lin et.al.|[2401.05910v1](http://arxiv.org/abs/2401.05910v1)|null|
-|**2024-01-11**|**Optimized Asymmetric Feedback Detection for Rate-adaptive HARQ with Unreliable Feedback**|Weihang Ding et.al.|[2401.05902v1](http://arxiv.org/abs/2401.05902v1)|null|
-|**2024-01-11**|**ConKeD: Multiview contrastive descriptor learning for keypoint-based retinal image registration**|David Rivas-Villar et.al.|[2401.05901v1](http://arxiv.org/abs/2401.05901v1)|null|
-|**2024-01-11**|**Gamma-rays and Neutrinos from Giant Molecular Cloud Populations in the Galactic Plane**|Abhijit Roy et.al.|[2401.05863v1](http://arxiv.org/abs/2401.05863v1)|null|
-|**2024-01-11**|**Contrastive Loss Based Frame-wise Feature disentanglement for Polyphonic Sound Event Detection**|Yadong Guan et.al.|[2401.05850v1](http://arxiv.org/abs/2401.05850v1)|null|
-|**2024-01-11**|**NIR spectral classification of the companion in the gamma-ray binary HESS J1832-093 as an O6 V star**|Brian van Soelen et.al.|[2401.05838v1](http://arxiv.org/abs/2401.05838v1)|null|
-|**2024-01-11**|**TAnet: A New Temporal Attention Network for EEG-based Auditory Spatial Attention Decoding with a Short Decision Window**|Yuting Ding et.al.|[2401.05819v1](http://arxiv.org/abs/2401.05819v1)|null|
-|**2024-01-11**|**Graph Spatiotemporal Process for Multivariate Time Series Anomaly Detection with Missing Values**|Yu Zheng et.al.|[2401.05800v1](http://arxiv.org/abs/2401.05800v1)|null|
-|**2024-01-11**|**Tunable terahertz photodetector using ferroelectric-integrated graphene plasmonics for portable spectrometer**|Lin Lin et.al.|[2401.05780v1](http://arxiv.org/abs/2401.05780v1)|null|
-|**2024-01-11**|**Evaluating Data Augmentation Techniques for Coffee Leaf Disease Classification**|Adrian Gheorghiu et.al.|[2401.05768v1](http://arxiv.org/abs/2401.05768v1)|null|
-|**2024-01-11**|**Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction**|Andrea Ramos et.al.|[2401.05763v1](http://arxiv.org/abs/2401.05763v1)|null|
-|**2024-01-11**|**AGNs in massive galaxy clusters: Role of galaxy merging, infalling groups, cluster mass, and dynamical state**|E. Koulouridis et.al.|[2401.05747v1](http://arxiv.org/abs/2401.05747v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2024-01-11**|**Combining Normalizing Flows and Quasi-Monte Carlo**|Charly Andral et.al.|[2401.05934v1](http://arxiv.org/abs/2401.05934v1)|[link](https://github.com/charlyandral/qmc_norm_flows)|
 |**2024-01-11**|**Time Series Forecasting of HIV/AIDS in the Philippines Using Deep Learning: Does COVID-19 Epidemic Matter?**|Sales G. Aribe Jr. et.al.|[2401.05933v1](http://arxiv.org/abs/2401.05933v1)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925v1](http://arxiv.org/abs/2401.05925v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-11**|**Precise characterization of a silicon carbide waveguide fiber interface**|Marcel Krumrein et.al.|[2401.06096v1](http://arxiv.org/abs/2401.06096v1)|null|
+|**2024-01-11**|**2D Li$^{\bf +}$ ionic hopping in Li$_{\bf 3}$InCl$_{\bf 6}$ as revealed by diffusion-induced nuclear spin relaxation**|Florian Stainer et.al.|[2401.06090v1](http://arxiv.org/abs/2401.06090v1)|null|
+|**2024-01-11**|**Post-Newtonian effects in compact binaries with a dark matter spike: A Lagrangian approach**|Diego Montalvo et.al.|[2401.06084v1](http://arxiv.org/abs/2401.06084v1)|null|
+|**2024-01-11**|**Probing for Lorentz Invariance Violation in Pantheon Plus Dominated Cosmology**|Denitsa Staicova et.al.|[2401.06068v1](http://arxiv.org/abs/2401.06068v1)|null|
+|**2024-01-11**|**Finite-size effects in the two-dimensional BCS-BEC crossover**|M. Lanaro et.al.|[2401.06054v1](http://arxiv.org/abs/2401.06054v1)|null|
+|**2024-01-11**|**JWST/NIRCam Transmission Spectroscopy of the Nearby Sub-Earth GJ 341b**|James Kirk et.al.|[2401.06043v1](http://arxiv.org/abs/2401.06043v1)|null|
+|**2024-01-11**|**Novel photon detectors**|Peter Krizan et.al.|[2401.06033v1](http://arxiv.org/abs/2401.06033v1)|null|
+|**2024-01-11**|**Deciphering the Hidden Structures of HH 216 and Pillar IV in M16: Results from JWST and HST**|L. K. Dewangan et.al.|[2401.06016v1](http://arxiv.org/abs/2401.06016v1)|null|
+|**2024-01-11**|**Sea ice detection using concurrent multispectral and synthetic aperture radar imagery**|Martin S J Rogers et.al.|[2401.06009v1](http://arxiv.org/abs/2401.06009v1)|null|
+|**2024-01-11**|**Optical identification and follow-up observations of SRGA J213151.5+491400 -- a new magnetic cataclysmic variable discovered with SRG Observatory**|Ş. Balman et.al.|[2401.06001v1](http://arxiv.org/abs/2401.06001v1)|null|
+|**2024-01-11**|**A Multi-Embedding Convergence Network on Siamese Architecture for Fake Reviews**|Sankarshan Dasgupta et.al.|[2401.05995v1](http://arxiv.org/abs/2401.05995v1)|null|
+|**2024-01-11**|**HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control**|Hua Tong et.al.|[2401.05984v1](http://arxiv.org/abs/2401.05984v1)|null|
+|**2024-01-11**|**Shape-Dependence of Spontaneous Photon Emission by Quantum Electron Wavepackets and the QED Origin of Bunched Electron Beam Superradiance**|Bin Zhang et.al.|[2401.05978v1](http://arxiv.org/abs/2401.05978v1)|null|
+|**2024-01-11**|**Learning physics-based reduced models from data for the Hasegawa-Wakatani equations**|Constatin Gahr et.al.|[2401.05972v1](http://arxiv.org/abs/2401.05972v1)|null|
+|**2024-01-11**|**LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase**|Chujie Gao et.al.|[2401.05952v1](http://arxiv.org/abs/2401.05952v1)|[link](https://github.com/dongping-chen/mixset)|
+|**2024-01-11**|**Precision test of the weak interaction with slow muons**|Xin Chen et.al.|[2401.05945v1](http://arxiv.org/abs/2401.05945v1)|null|
+|**2024-01-11**|**Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs**|Ziyu Li et.al.|[2401.05940v1](http://arxiv.org/abs/2401.05940v1)|null|
+|**2024-01-11**|**Migration and Evolution of giant ExoPlanets (MEEP) I: Nine Newly Confirmed Hot Jupiters from the TESS Mission**|Jack Schulte et.al.|[2401.05923v1](http://arxiv.org/abs/2401.05923v1)|null|
+|**2024-01-11**|**Probing diversity of type II supernovae with the Chinese Space Station Telescope**|Han Lin et.al.|[2401.05910v1](http://arxiv.org/abs/2401.05910v1)|null|
+|**2024-01-11**|**Optimized Asymmetric Feedback Detection for Rate-adaptive HARQ with Unreliable Feedback**|Weihang Ding et.al.|[2401.05902v1](http://arxiv.org/abs/2401.05902v1)|null|
+|**2024-01-11**|**ConKeD: Multiview contrastive descriptor learning for keypoint-based retinal image registration**|David Rivas-Villar et.al.|[2401.05901v1](http://arxiv.org/abs/2401.05901v1)|null|
+|**2024-01-11**|**Gamma-rays and Neutrinos from Giant Molecular Cloud Populations in the Galactic Plane**|Abhijit Roy et.al.|[2401.05863v1](http://arxiv.org/abs/2401.05863v1)|null|
+|**2024-01-11**|**Contrastive Loss Based Frame-wise Feature disentanglement for Polyphonic Sound Event Detection**|Yadong Guan et.al.|[2401.05850v1](http://arxiv.org/abs/2401.05850v1)|null|
+|**2024-01-11**|**NIR spectral classification of the companion in the gamma-ray binary HESS J1832-093 as an O6 V star**|Brian van Soelen et.al.|[2401.05838v1](http://arxiv.org/abs/2401.05838v1)|null|
+|**2024-01-11**|**TAnet: A New Temporal Attention Network for EEG-based Auditory Spatial Attention Decoding with a Short Decision Window**|Yuting Ding et.al.|[2401.05819v1](http://arxiv.org/abs/2401.05819v1)|null|
+|**2024-01-11**|**Graph Spatiotemporal Process for Multivariate Time Series Anomaly Detection with Missing Values**|Yu Zheng et.al.|[2401.05800v1](http://arxiv.org/abs/2401.05800v1)|null|
+|**2024-01-11**|**Tunable terahertz photodetector using ferroelectric-integrated graphene plasmonics for portable spectrometer**|Lin Lin et.al.|[2401.05780v1](http://arxiv.org/abs/2401.05780v1)|null|
+|**2024-01-11**|**Evaluating Data Augmentation Techniques for Coffee Leaf Disease Classification**|Adrian Gheorghiu et.al.|[2401.05768v1](http://arxiv.org/abs/2401.05768v1)|null|
+|**2024-01-11**|**Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction**|Andrea Ramos et.al.|[2401.05763v1](http://arxiv.org/abs/2401.05763v1)|null|
+|**2024-01-11**|**AGNs in massive galaxy clusters: Role of galaxy merging, infalling groups, cluster mass, and dynamical state**|E. Koulouridis et.al.|[2401.05747v1](http://arxiv.org/abs/2401.05747v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
