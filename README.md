@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-27 09:19:27 Asia/Shanghai
+ Automated deployment @ 2024-01-27 20:33:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,40 +43,6 @@
 |**2024-01-25**|**The Boundaries of Tractability in Hierarchical Task Network Planning**|Cornelius Brand et.al.|[2401.14174v1](http://arxiv.org/abs/2401.14174v1)|null|
 |**2024-01-25**|**Multicasting Optical Reconfigurable Switch**|Niyazi Ulas Dinc et.al.|[2401.14173v1](http://arxiv.org/abs/2401.14173v1)|null|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
-|**2024-01-25**|**Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination**|Qiang Heng et.al.|[2401.14359v1](http://arxiv.org/abs/2401.14359v1)|null|
-|**2024-01-25**|**Skyline-based exploration of temporal property graphs**|Evangelia Tsoukanara et.al.|[2401.14352v1](http://arxiv.org/abs/2401.14352v1)|null|
-|**2024-01-25**|**SunBlock: Cloudless Protection for IoT Systems**|Vadim Safronov et.al.|[2401.14332v1](http://arxiv.org/abs/2401.14332v1)|null|
-|**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325v1](http://arxiv.org/abs/2401.14325v1)|null|
-|**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314v1](http://arxiv.org/abs/2401.14314v1)|null|
-|**2024-01-25**|**Quantum Electrometer for Time-Resolved Material Science at the Atomic Lattice Scale**|Gregor Pieplow et.al.|[2401.14290v1](http://arxiv.org/abs/2401.14290v1)|null|
-|**2024-01-25**|**Modelling Micro-Doppler Signature of Drone Propellers in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2401.14287v1](http://arxiv.org/abs/2401.14287v1)|null|
-|**2024-01-25**|**Information Leakage Detection through Approximate Bayes-optimal Prediction**|Pritha Gupta et.al.|[2401.14283v1](http://arxiv.org/abs/2401.14283v1)|null|
-|**2024-01-25**|**Room temperature nonlocal detection of charge-spin interconversion in a topological insulator**|Anamul Md. Hoque et.al.|[2401.14262v1](http://arxiv.org/abs/2401.14262v1)|null|
-|**2024-01-25**|**Accurate ab initio spectroscopic studies of promising interstellar ethanolamine iminic precursors**|D. Alberton et.al.|[2401.14258v1](http://arxiv.org/abs/2401.14258v1)|null|
-|**2024-01-25**|**On mission Twitter Profiles: A Study of Selective Toxic Behavior**|Hina Qayyum et.al.|[2401.14252v1](http://arxiv.org/abs/2401.14252v1)|null|
-|**2024-01-25**|**On generalisability of segment anything model for nuclear instance segmentation in histology images**|Kesi Xu et.al.|[2401.14248v1](http://arxiv.org/abs/2401.14248v1)|null|
-|**2024-01-25**|**Contract Usage and Evolution in Android Mobile Applications**|David R. Ferreira et.al.|[2401.14244v1](http://arxiv.org/abs/2401.14244v1)|null|
-|**2024-01-25**|**Enhanced Labeling Technique for Reddit Text and Fine-Tuned Longformer Models for Classifying Depression Severity in English and Luganda**|Richard Kimera et.al.|[2401.14240v1](http://arxiv.org/abs/2401.14240v1)|null|
-|**2024-01-25**|**Velocity acoustic oscillations on Cosmic Dawn 21 cm power spectrum as a probe of small-scale density fluctuations**|Xin Zhang et.al.|[2401.14234v1](http://arxiv.org/abs/2401.14234v1)|null|
-|**2024-01-25**|**On the well-posedness of inverse problems under information field theory: application to model-form error detection**|Alex Alberts et.al.|[2401.14224v1](http://arxiv.org/abs/2401.14224v1)|null|
-|**2024-01-25**|**InfiniteEn: A Multi-Source Energy Harvesting System with Load Monitoring Module for Batteryless Internet of Things**|Priyesh Pappinisseri Puluckul et.al.|[2401.14216v1](http://arxiv.org/abs/2401.14216v1)|null|
-|**2024-01-25**|**Investigating Organic Carbon and Thermal History of CM Carbonaceous Chondrites Using Spectroscopy and Laboratory Techniques**|Safoura Tanbakouei et.al.|[2401.14201v1](http://arxiv.org/abs/2401.14201v1)|null|
-|**2024-01-25**|**Sensitivity of two-mode SRF cavity to generic electromagnetic interactions of ultralight dark matter**|Chang-Jie Dai et.al.|[2401.14195v1](http://arxiv.org/abs/2401.14195v1)|null|
-|**2024-01-25**|**Clinical Melanoma Diagnosis with Artificial Intelligence: Insights from a Prospective Multicenter Study**|Lukas Heinlein et.al.|[2401.14193v1](http://arxiv.org/abs/2401.14193v1)|null|
-|**2024-01-25**|**Copilot Refinement: Addressing Code Smells in Copilot-Generated Python Code**|Beiqi Zhang et.al.|[2401.14176v1](http://arxiv.org/abs/2401.14176v1)|null|
-|**2024-01-25**|**Predicting Hypoxia in Brain Tumors from Multiparametric MRI**|Daniele Perlo et.al.|[2401.14171v1](http://arxiv.org/abs/2401.14171v1)|null|
-|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159v1](http://arxiv.org/abs/2401.14159v1)|null|
-|**2024-01-25**|**Alleviating Structural Distribution Shift in Graph Anomaly Detection**|Yuan Gao et.al.|[2401.14155v1](http://arxiv.org/abs/2401.14155v1)|[link](https://github.com/blacksingular/wsdm_gdn)|
-|**2024-01-25**|**Concept: Dynamic Risk Assessment for AI-Controlled Robotic Systems**|Philipp Grimmeisen et.al.|[2401.14147v1](http://arxiv.org/abs/2401.14147v1)|null|
-|**2024-01-25**|**A note on cohomological vanishing theorems**|Mohsen Asgharzadeh et.al.|[2401.14133v1](http://arxiv.org/abs/2401.14133v1)|null|
-|**2024-01-25**|**Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease**|Yihao Lin et.al.|[2401.14130v1](http://arxiv.org/abs/2401.14130v1)|null|
-|**2024-01-25**|**Spatially Resolved High Voltage Kelvin Probe Force Microcopy: A Novel Avenue for Examining Electrical Phenomena at Nanoscale**|Conor J. McCluskey et.al.|[2401.14124v1](http://arxiv.org/abs/2401.14124v1)|null|
-|**2024-01-25**|**Development of a Silicon Drift Detector Array to Search for keV-scale Sterile Neutrinos with the KATRIN Experiment**|Daniel Siegmann et.al.|[2401.14114v1](http://arxiv.org/abs/2401.14114v1)|null|
-
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -110,3 +76,37 @@
 |**2024-01-12**|**Projective Averages for Summarizing Redistricting Ensembles**|Cory McCartan et.al.|[2401.06381v1](http://arxiv.org/abs/2401.06381v1)|[link](https://github.com/CoryMcCartan/proj-avg)|
 |**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
 |**2024-01-11**|**Silhouette Aggregation: From Micro to Macro**|Georgios Vardakas et.al.|[2401.05831v2](http://arxiv.org/abs/2401.05831v2)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
+|**2024-01-25**|**Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination**|Qiang Heng et.al.|[2401.14359v1](http://arxiv.org/abs/2401.14359v1)|null|
+|**2024-01-25**|**Skyline-based exploration of temporal property graphs**|Evangelia Tsoukanara et.al.|[2401.14352v1](http://arxiv.org/abs/2401.14352v1)|null|
+|**2024-01-25**|**SunBlock: Cloudless Protection for IoT Systems**|Vadim Safronov et.al.|[2401.14332v1](http://arxiv.org/abs/2401.14332v1)|null|
+|**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325v1](http://arxiv.org/abs/2401.14325v1)|null|
+|**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314v1](http://arxiv.org/abs/2401.14314v1)|null|
+|**2024-01-25**|**Quantum Electrometer for Time-Resolved Material Science at the Atomic Lattice Scale**|Gregor Pieplow et.al.|[2401.14290v1](http://arxiv.org/abs/2401.14290v1)|null|
+|**2024-01-25**|**Modelling Micro-Doppler Signature of Drone Propellers in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2401.14287v1](http://arxiv.org/abs/2401.14287v1)|null|
+|**2024-01-25**|**Information Leakage Detection through Approximate Bayes-optimal Prediction**|Pritha Gupta et.al.|[2401.14283v1](http://arxiv.org/abs/2401.14283v1)|null|
+|**2024-01-25**|**Room temperature nonlocal detection of charge-spin interconversion in a topological insulator**|Anamul Md. Hoque et.al.|[2401.14262v1](http://arxiv.org/abs/2401.14262v1)|null|
+|**2024-01-25**|**Accurate ab initio spectroscopic studies of promising interstellar ethanolamine iminic precursors**|D. Alberton et.al.|[2401.14258v1](http://arxiv.org/abs/2401.14258v1)|null|
+|**2024-01-25**|**On mission Twitter Profiles: A Study of Selective Toxic Behavior**|Hina Qayyum et.al.|[2401.14252v1](http://arxiv.org/abs/2401.14252v1)|null|
+|**2024-01-25**|**On generalisability of segment anything model for nuclear instance segmentation in histology images**|Kesi Xu et.al.|[2401.14248v1](http://arxiv.org/abs/2401.14248v1)|null|
+|**2024-01-25**|**Contract Usage and Evolution in Android Mobile Applications**|David R. Ferreira et.al.|[2401.14244v1](http://arxiv.org/abs/2401.14244v1)|null|
+|**2024-01-25**|**Enhanced Labeling Technique for Reddit Text and Fine-Tuned Longformer Models for Classifying Depression Severity in English and Luganda**|Richard Kimera et.al.|[2401.14240v1](http://arxiv.org/abs/2401.14240v1)|null|
+|**2024-01-25**|**Velocity acoustic oscillations on Cosmic Dawn 21 cm power spectrum as a probe of small-scale density fluctuations**|Xin Zhang et.al.|[2401.14234v1](http://arxiv.org/abs/2401.14234v1)|null|
+|**2024-01-25**|**On the well-posedness of inverse problems under information field theory: application to model-form error detection**|Alex Alberts et.al.|[2401.14224v1](http://arxiv.org/abs/2401.14224v1)|null|
+|**2024-01-25**|**InfiniteEn: A Multi-Source Energy Harvesting System with Load Monitoring Module for Batteryless Internet of Things**|Priyesh Pappinisseri Puluckul et.al.|[2401.14216v1](http://arxiv.org/abs/2401.14216v1)|null|
+|**2024-01-25**|**Investigating Organic Carbon and Thermal History of CM Carbonaceous Chondrites Using Spectroscopy and Laboratory Techniques**|Safoura Tanbakouei et.al.|[2401.14201v1](http://arxiv.org/abs/2401.14201v1)|null|
+|**2024-01-25**|**Sensitivity of two-mode SRF cavity to generic electromagnetic interactions of ultralight dark matter**|Chang-Jie Dai et.al.|[2401.14195v1](http://arxiv.org/abs/2401.14195v1)|null|
+|**2024-01-25**|**Clinical Melanoma Diagnosis with Artificial Intelligence: Insights from a Prospective Multicenter Study**|Lukas Heinlein et.al.|[2401.14193v1](http://arxiv.org/abs/2401.14193v1)|null|
+|**2024-01-25**|**Copilot Refinement: Addressing Code Smells in Copilot-Generated Python Code**|Beiqi Zhang et.al.|[2401.14176v1](http://arxiv.org/abs/2401.14176v1)|null|
+|**2024-01-25**|**Predicting Hypoxia in Brain Tumors from Multiparametric MRI**|Daniele Perlo et.al.|[2401.14171v1](http://arxiv.org/abs/2401.14171v1)|null|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159v1](http://arxiv.org/abs/2401.14159v1)|[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)|
+|**2024-01-25**|**Alleviating Structural Distribution Shift in Graph Anomaly Detection**|Yuan Gao et.al.|[2401.14155v1](http://arxiv.org/abs/2401.14155v1)|[link](https://github.com/blacksingular/wsdm_gdn)|
+|**2024-01-25**|**Concept: Dynamic Risk Assessment for AI-Controlled Robotic Systems**|Philipp Grimmeisen et.al.|[2401.14147v1](http://arxiv.org/abs/2401.14147v1)|null|
+|**2024-01-25**|**A note on cohomological vanishing theorems**|Mohsen Asgharzadeh et.al.|[2401.14133v1](http://arxiv.org/abs/2401.14133v1)|null|
+|**2024-01-25**|**Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease**|Yihao Lin et.al.|[2401.14130v1](http://arxiv.org/abs/2401.14130v1)|null|
+|**2024-01-25**|**Spatially Resolved High Voltage Kelvin Probe Force Microcopy: A Novel Avenue for Examining Electrical Phenomena at Nanoscale**|Conor J. McCluskey et.al.|[2401.14124v1](http://arxiv.org/abs/2401.14124v1)|null|
+|**2024-01-25**|**Development of a Silicon Drift Detector Array to Search for keV-scale Sterile Neutrinos with the KATRIN Experiment**|Daniel Siegmann et.al.|[2401.14114v1](http://arxiv.org/abs/2401.14114v1)|null|
