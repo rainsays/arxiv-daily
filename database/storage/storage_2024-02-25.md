@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-25 09:29:36 Asia/Shanghai
+ Automated deployment @ 2024-02-25 20:34:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -44,40 +44,6 @@
 |**2024-02-22**|**Quantifying neural network uncertainty under volatility clustering**|Steven Y. K. Wong et.al.|[2402.14476v1](http://arxiv.org/abs/2402.14476v1)|null|
 |**2024-02-22**|**DynGMA: a robust approach for learning stochastic differential equations from data**|Aiqing Zhu et.al.|[2402.14475v1](http://arxiv.org/abs/2402.14475v1)|[link](https://github.com/aiqing-zhu/dyngma)|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-22**|**Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging**|Yuzhe Yang et.al.|[2402.14815v1](http://arxiv.org/abs/2402.14815v1)|[link](https://github.com/yyzharry/vlm-fairness)|
-|**2024-02-22**|**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**|Nikhil Prakash et.al.|[2402.14811v1](http://arxiv.org/abs/2402.14811v1)|null|
-|**2024-02-22**|**WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**|Lianghui Zhu et.al.|[2402.14812v1](http://arxiv.org/abs/2402.14812v1)|[link](https://github.com/hustvl/weaksam)|
-|**2024-02-22**|**Mochi: Fast \& Exact Collision Detection**|Durga Keerthi Mandarapu et.al.|[2402.14801v1](http://arxiv.org/abs/2402.14801v1)|null|
-|**2024-02-22**|**Antisymmetric galaxy cross-correlations in and beyond $Λ$CDM**|Eleonora Vanzan et.al.|[2402.14782v1](http://arxiv.org/abs/2402.14782v1)|null|
-|**2024-02-22**|**Functional Spatial Autoregressive Models**|Tadao Hoshino et.al.|[2402.14763v1](http://arxiv.org/abs/2402.14763v1)|null|
-|**2024-02-22**|**SHM-Traffic: DRL and Transfer learning based UAV Control for Structural Health Monitoring of Bridges with Traffic**|Divija Swetha Gadiraju et.al.|[2402.14757v1](http://arxiv.org/abs/2402.14757v1)|null|
-|**2024-02-22**|**Entanglement Detection by Approximate Entanglement Witnesses**|Samuel Dai et.al.|[2402.14755v1](http://arxiv.org/abs/2402.14755v1)|null|
-|**2024-02-22**|**Epimorphisms between finitely generated algebras**|Luca Carai et.al.|[2402.14745v1](http://arxiv.org/abs/2402.14745v1)|null|
-|**2024-02-22**|**Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**|Daniel Capellán-Martín et.al.|[2402.14741v1](http://arxiv.org/abs/2402.14741v1)|null|
-|**2024-02-22**|**Signals of Detailed Balance Violation in Nonequilibrium Stationary States: Subtle, Manifest, and Extraordinary**|R. K. P. Zia et.al.|[2402.14738v1](http://arxiv.org/abs/2402.14738v1)|null|
-|**2024-02-22**|**A Transformer Model for Boundary Detection in Continuous Sign Language**|Razieh Rastgoo et.al.|[2402.14720v1](http://arxiv.org/abs/2402.14720v1)|null|
-|**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708v1](http://arxiv.org/abs/2402.14708v1)|null|
-|**2024-02-22**|**Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening**|Zhenrong Shen et.al.|[2402.14707v1](http://arxiv.org/abs/2402.14707v1)|null|
-|**2024-02-22**|**Birth of Rapidly Spinning, Overmassive Black Holes in the Early Universe**|Kohei Inayoshi et.al.|[2402.14706v1](http://arxiv.org/abs/2402.14706v1)|null|
-|**2024-02-22**|**InfFeed: Influence Functions as a Feedback to Improve the Performance of Subjective Tasks**|Somnath Banerjee et.al.|[2402.14702v1](http://arxiv.org/abs/2402.14702v1)|null|
-|**2024-02-22**|**ConPA: A Contention-free Mechanism with Power Adaptation for Beyond Listen-Before-Talk**|Francesc Wilhelmi et.al.|[2402.14667v1](http://arxiv.org/abs/2402.14667v1)|null|
-|**2024-02-22**|**Multi-HMR: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot**|Fabien Baradel et.al.|[2402.14654v1](http://arxiv.org/abs/2402.14654v1)|[link](https://github.com/naver/multi-hmr)|
-|**2024-02-22**|**Upper Limits of $^{44}$Ti Decay Emission in Four Nearby Thermonuclear Supernova Remnants**|Jianbin Weng et.al.|[2402.14637v1](http://arxiv.org/abs/2402.14637v1)|null|
-|**2024-02-22**|**Measuring NAT64 Usage in the Wild**|Elizabeth Boswell et.al.|[2402.14632v1](http://arxiv.org/abs/2402.14632v1)|null|
-|**2024-02-22**|**Enhancing SCADA Security: Developing a Host-Based Intrusion Detection System to Safeguard Against Cyberattacks**|Omer Sen et.al.|[2402.14599v1](http://arxiv.org/abs/2402.14599v1)|null|
-|**2024-02-22**|**High-Speed Detector For Low-Powered Devices In Aerial Grasping**|Ashish Kumar et.al.|[2402.14591v1](http://arxiv.org/abs/2402.14591v1)|null|
-|**2024-02-22**|**Radiative Corrections in Super Rosenbluth Experiments**|Quinn Stefan et.al.|[2402.14570v1](http://arxiv.org/abs/2402.14570v1)|null|
-|**2024-02-22**|**CesASMe and Staticdeps: static detection of memory-carried dependencies for code analyzers**|Théophile Bastian et.al.|[2402.14567v1](http://arxiv.org/abs/2402.14567v1)|null|
-|**2024-02-22**|**{A New Hope}: Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation**|Shidong Pan et.al.|[2402.14544v1](http://arxiv.org/abs/2402.14544v1)|null|
-|**2024-02-22**|**Detecting the Féeton Fifth Force by Superconducting Josephson Junctions**|Yu Cheng et.al.|[2402.14514v1](http://arxiv.org/abs/2402.14514v1)|null|
-|**2024-02-22**|**Ferroelectric texture of individual barium titanate nanocrystals**|Athulya Muraleedharan et.al.|[2402.14502v1](http://arxiv.org/abs/2402.14502v1)|null|
-|**2024-02-22**|**Does the Generator Mind its Contexts? An Analysis of Generative Model Faithfulness under Context Transfer**|Xinshuo Hu et.al.|[2402.14488v1](http://arxiv.org/abs/2402.14488v1)|null|
-|**2024-02-22**|**MeTMaP: Metamorphic Testing for Detecting False Vector Matching Problems in LLM Augmented Generation**|Guanyu Wang et.al.|[2402.14480v1](http://arxiv.org/abs/2402.14480v1)|null|
-|**2024-02-22**|**Mid-Infrared Properties of Narrow-Line Seyfert 1 Galaxies Detected by LoTSS DR2**|Xu-Liang Fan et.al.|[2402.14472v1](http://arxiv.org/abs/2402.14472v1)|null|
-
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -111,3 +77,37 @@
 |**2024-02-07**|**Beyond explaining: XAI-based Adaptive Learning with SHAP Clustering for Energy Consumption Prediction**|Tobias Clement et.al.|[2402.04982v1](http://arxiv.org/abs/2402.04982v1)|null|
 |**2024-02-07**|**Collective Counterfactual Explanations via Optimal Transport**|Ahmad-Reza Ehyaei et.al.|[2402.04579v1](http://arxiv.org/abs/2402.04579v1)|null|
 |**2024-02-06**|**Instance by Instance: An Iterative Framework for Multi-instance 3D Registration**|Xinyue Cao et.al.|[2402.04195v1](http://arxiv.org/abs/2402.04195v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-22**|**Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging**|Yuzhe Yang et.al.|[2402.14815v1](http://arxiv.org/abs/2402.14815v1)|[link](https://github.com/yyzharry/vlm-fairness)|
+|**2024-02-22**|**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**|Nikhil Prakash et.al.|[2402.14811v1](http://arxiv.org/abs/2402.14811v1)|null|
+|**2024-02-22**|**WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**|Lianghui Zhu et.al.|[2402.14812v1](http://arxiv.org/abs/2402.14812v1)|[link](https://github.com/hustvl/weaksam)|
+|**2024-02-22**|**Mochi: Fast \& Exact Collision Detection**|Durga Keerthi Mandarapu et.al.|[2402.14801v1](http://arxiv.org/abs/2402.14801v1)|null|
+|**2024-02-22**|**Antisymmetric galaxy cross-correlations in and beyond $Λ$CDM**|Eleonora Vanzan et.al.|[2402.14782v1](http://arxiv.org/abs/2402.14782v1)|null|
+|**2024-02-22**|**Functional Spatial Autoregressive Models**|Tadao Hoshino et.al.|[2402.14763v1](http://arxiv.org/abs/2402.14763v1)|null|
+|**2024-02-22**|**SHM-Traffic: DRL and Transfer learning based UAV Control for Structural Health Monitoring of Bridges with Traffic**|Divija Swetha Gadiraju et.al.|[2402.14757v1](http://arxiv.org/abs/2402.14757v1)|null|
+|**2024-02-22**|**Entanglement Detection by Approximate Entanglement Witnesses**|Samuel Dai et.al.|[2402.14755v1](http://arxiv.org/abs/2402.14755v1)|null|
+|**2024-02-22**|**Epimorphisms between finitely generated algebras**|Luca Carai et.al.|[2402.14745v1](http://arxiv.org/abs/2402.14745v1)|null|
+|**2024-02-22**|**Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**|Daniel Capellán-Martín et.al.|[2402.14741v1](http://arxiv.org/abs/2402.14741v1)|null|
+|**2024-02-22**|**Signals of Detailed Balance Violation in Nonequilibrium Stationary States: Subtle, Manifest, and Extraordinary**|R. K. P. Zia et.al.|[2402.14738v1](http://arxiv.org/abs/2402.14738v1)|null|
+|**2024-02-22**|**A Transformer Model for Boundary Detection in Continuous Sign Language**|Razieh Rastgoo et.al.|[2402.14720v1](http://arxiv.org/abs/2402.14720v1)|null|
+|**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708v1](http://arxiv.org/abs/2402.14708v1)|null|
+|**2024-02-22**|**Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening**|Zhenrong Shen et.al.|[2402.14707v1](http://arxiv.org/abs/2402.14707v1)|null|
+|**2024-02-22**|**Birth of Rapidly Spinning, Overmassive Black Holes in the Early Universe**|Kohei Inayoshi et.al.|[2402.14706v1](http://arxiv.org/abs/2402.14706v1)|null|
+|**2024-02-22**|**InfFeed: Influence Functions as a Feedback to Improve the Performance of Subjective Tasks**|Somnath Banerjee et.al.|[2402.14702v1](http://arxiv.org/abs/2402.14702v1)|null|
+|**2024-02-22**|**ConPA: A Contention-free Mechanism with Power Adaptation for Beyond Listen-Before-Talk**|Francesc Wilhelmi et.al.|[2402.14667v1](http://arxiv.org/abs/2402.14667v1)|null|
+|**2024-02-22**|**Multi-HMR: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot**|Fabien Baradel et.al.|[2402.14654v1](http://arxiv.org/abs/2402.14654v1)|[link](https://github.com/naver/multi-hmr)|
+|**2024-02-22**|**Upper Limits of $^{44}$Ti Decay Emission in Four Nearby Thermonuclear Supernova Remnants**|Jianbin Weng et.al.|[2402.14637v1](http://arxiv.org/abs/2402.14637v1)|null|
+|**2024-02-22**|**Measuring NAT64 Usage in the Wild**|Elizabeth Boswell et.al.|[2402.14632v1](http://arxiv.org/abs/2402.14632v1)|null|
+|**2024-02-22**|**Enhancing SCADA Security: Developing a Host-Based Intrusion Detection System to Safeguard Against Cyberattacks**|Omer Sen et.al.|[2402.14599v1](http://arxiv.org/abs/2402.14599v1)|null|
+|**2024-02-22**|**High-Speed Detector For Low-Powered Devices In Aerial Grasping**|Ashish Kumar et.al.|[2402.14591v1](http://arxiv.org/abs/2402.14591v1)|null|
+|**2024-02-22**|**Radiative Corrections in Super Rosenbluth Experiments**|Quinn Stefan et.al.|[2402.14570v1](http://arxiv.org/abs/2402.14570v1)|null|
+|**2024-02-22**|**CesASMe and Staticdeps: static detection of memory-carried dependencies for code analyzers**|Théophile Bastian et.al.|[2402.14567v1](http://arxiv.org/abs/2402.14567v1)|null|
+|**2024-02-22**|**{A New Hope}: Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation**|Shidong Pan et.al.|[2402.14544v1](http://arxiv.org/abs/2402.14544v1)|null|
+|**2024-02-22**|**Detecting the Féeton Fifth Force by Superconducting Josephson Junctions**|Yu Cheng et.al.|[2402.14514v1](http://arxiv.org/abs/2402.14514v1)|null|
+|**2024-02-22**|**Ferroelectric texture of individual barium titanate nanocrystals**|Athulya Muraleedharan et.al.|[2402.14502v1](http://arxiv.org/abs/2402.14502v1)|null|
+|**2024-02-22**|**Does the Generator Mind its Contexts? An Analysis of Generative Model Faithfulness under Context Transfer**|Xinshuo Hu et.al.|[2402.14488v1](http://arxiv.org/abs/2402.14488v1)|null|
+|**2024-02-22**|**MeTMaP: Metamorphic Testing for Detecting False Vector Matching Problems in LLM Augmented Generation**|Guanyu Wang et.al.|[2402.14480v1](http://arxiv.org/abs/2402.14480v1)|null|
+|**2024-02-22**|**Mid-Infrared Properties of Narrow-Line Seyfert 1 Galaxies Detected by LoTSS DR2**|Xu-Liang Fan et.al.|[2402.14472v1](http://arxiv.org/abs/2402.14472v1)|null|
