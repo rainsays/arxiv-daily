@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-16 09:18:47 Asia/Shanghai
+ Automated deployment @ 2024-03-16 20:36:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -9,6 +9,40 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v1](http://arxiv.org/abs/2402.07408v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-14**|**Outlier Robust Multivariate Polynomial Regression**|Vipul Arora et.al.|[2403.09465v1](http://arxiv.org/abs/2403.09465v1)|null|
+|**2024-03-14**|**SD-Net: Symmetric-Aware Keypoint Prediction and Domain Adaptation for 6D Pose Estimation In Bin-picking Scenarios**|Ding-Tao Huang et.al.|[2403.09317v1](http://arxiv.org/abs/2403.09317v1)|[link](https://github.com/dingthuang/sd-net)|
+|**2024-03-13**|**A Generalized Framework with Adaptive Weighted Soft-Margin for Imbalanced SVM Classification**|Lu Jiang et.al.|[2403.08378v1](http://arxiv.org/abs/2403.08378v1)|null|
+|**2024-03-13**|**Validating and Exploring Large Geographic Corpora**|Jonathan Dunn et.al.|[2403.08198v1](http://arxiv.org/abs/2403.08198v1)|null|
+|**2024-03-12**|**McCatch: Scalable Microcluster Detection in Dimensional and Nondimensional Datasets**|Braulio V. Sánchez Vinces et.al.|[2403.08027v1](http://arxiv.org/abs/2403.08027v1)|null|
+|**2024-03-12**|**The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing**|Jianchen Wang et.al.|[2403.07825v1](http://arxiv.org/abs/2403.07825v1)|null|
+|**2024-03-12**|**A robust SVM-based approach with feature selection and outliers detection for classification problems**|Marta Baldomero-Naranjo et.al.|[2403.07753v1](http://arxiv.org/abs/2403.07753v1)|null|
+|**2024-03-12**|**Tightening big Ms in integer programming formulations for support vector machines with ramp loss**|Marta Baldomero-Naranjo et.al.|[2403.07736v1](http://arxiv.org/abs/2403.07736v1)|null|
+|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706v1](http://arxiv.org/abs/2403.07706v1)|null|
+|**2024-03-11**|**Shrinkage MMSE estimators of covariances beyond the zero-mean and stationary variance assumptions**|Olivier Flasseur et.al.|[2403.07104v1](http://arxiv.org/abs/2403.07104v1)|null|
+|**2024-03-11**|**Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph**|Justin Engelmann et.al.|[2403.06950v1](http://arxiv.org/abs/2403.06950v1)|null|
+|**2024-03-11**|**QuantTune: Optimizing Model Quantization with Adaptive Outlier-Driven Fine Tuning**|Jiun-Man Chen et.al.|[2403.06497v1](http://arxiv.org/abs/2403.06497v1)|null|
+|**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457v1](http://arxiv.org/abs/2403.06457v1)|null|
+|**2024-03-11**|**Latent Semantic Consensus For Deterministic Geometric Model Fitting**|Guobao Xiao et.al.|[2403.06444v1](http://arxiv.org/abs/2403.06444v1)|[link](https://github.com/guobaoxiao/lsc)|
+|**2024-03-10**|**FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers' Preference Elicitation**|Hanfang Lyu et.al.|[2403.06267v1](http://arxiv.org/abs/2403.06267v1)|null|
+|**2024-03-09**|**The rise and fall of WallStreetBets: social roles and opinion leaders across the GameStop saga**|Anna Mancini et.al.|[2403.05876v1](http://arxiv.org/abs/2403.05876v1)|[link](https://github.com/complexconnectionslab/rise_and_fall_of_wallstreetbets)|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527v2](http://arxiv.org/abs/2403.05527v2)|[link](https://github.com/haokang-timmy/gear)|
+|**2024-03-08**|**Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation**|Chenhui Zhao et.al.|[2403.05433v1](http://arxiv.org/abs/2403.05433v1)|null|
+|**2024-03-08**|**Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds**|Tianrui Lou et.al.|[2403.05247v1](http://arxiv.org/abs/2403.05247v1)|null|
+|**2024-03-08**|**Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning**|Hang Du et.al.|[2403.05117v1](http://arxiv.org/abs/2403.05117v1)|[link](https://github.com/hikvision-research/3dvision)|
+|**2024-03-07**|**A Sub-Quadratic Time Algorithm for Robust Sparse Mean Estimation**|Ankit Pensia et.al.|[2403.04726v1](http://arxiv.org/abs/2403.04726v1)|null|
+|**2024-03-07**|**QAQ: Quality Adaptive Quantization for LLM KV Cache**|Shichen Dong et.al.|[2403.04643v1](http://arxiv.org/abs/2403.04643v1)|[link](https://github.com/clubiedong/kvcachequantization)|
+|**2024-03-06**|**Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks**|Jing Gu et.al.|[2403.04010v1](http://arxiv.org/abs/2403.04010v1)|[link](https://github.com/jing-ds/hnn_gad)|
+|**2024-03-06**|**The Cosmic Ultraviolet Baryon Survey (CUBS) VIII: Group Environment of the Most Luminous Quasars at $z\approx1$**|Jennifer I. Li et.al.|[2403.03983v1](http://arxiv.org/abs/2403.03983v1)|null|
+|**2024-03-06**|**Robust covariance estimation and explainable outlier detection for matrix-valued data**|Marcus Mayrhofer et.al.|[2403.03975v1](http://arxiv.org/abs/2403.03975v1)|null|
+|**2024-03-06**|**A machine learning workflow to address credit default prediction**|Rambod Rahmani et.al.|[2403.03785v1](http://arxiv.org/abs/2403.03785v1)|null|
+|**2024-03-06**|**Is Distance Correlation Robust?**|Sarah Leyder et.al.|[2403.03722v1](http://arxiv.org/abs/2403.03722v1)|null|
+|**2024-03-06**|**Spectral Phase Transition and Optimal PCA in Block-Structured Spiked models**|Pierre Mergny et.al.|[2403.03695v1](http://arxiv.org/abs/2403.03695v1)|null|
+|**2024-03-05**|**Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data**|Joseph Gatto et.al.|[2403.03304v1](http://arxiv.org/abs/2403.03304v1)|null|
+|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -77,37 +111,3 @@
 |**2024-03-14**|**Charting Censorship Resilience & Global Internet Reachability: A Quantitative Approach**|Marina Ivanović et.al.|[2403.09447v1](http://arxiv.org/abs/2403.09447v1)|null|
 |**2024-03-14**|**Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency**|Hallgrimur Thorsteinsson et.al.|[2403.09441v1](http://arxiv.org/abs/2403.09441v1)|[link](https://github.com/saintslab/adver-fine)|
 |**2024-03-14**|**3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**|Frank Zhang et.al.|[2403.09439v1](http://arxiv.org/abs/2403.09439v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-14**|**Outlier Robust Multivariate Polynomial Regression**|Vipul Arora et.al.|[2403.09465v1](http://arxiv.org/abs/2403.09465v1)|null|
-|**2024-03-14**|**SD-Net: Symmetric-Aware Keypoint Prediction and Domain Adaptation for 6D Pose Estimation In Bin-picking Scenarios**|Ding-Tao Huang et.al.|[2403.09317v1](http://arxiv.org/abs/2403.09317v1)|[link](https://github.com/dingthuang/sd-net)|
-|**2024-03-13**|**A Generalized Framework with Adaptive Weighted Soft-Margin for Imbalanced SVM Classification**|Lu Jiang et.al.|[2403.08378v1](http://arxiv.org/abs/2403.08378v1)|null|
-|**2024-03-13**|**Validating and Exploring Large Geographic Corpora**|Jonathan Dunn et.al.|[2403.08198v1](http://arxiv.org/abs/2403.08198v1)|null|
-|**2024-03-12**|**McCatch: Scalable Microcluster Detection in Dimensional and Nondimensional Datasets**|Braulio V. Sánchez Vinces et.al.|[2403.08027v1](http://arxiv.org/abs/2403.08027v1)|null|
-|**2024-03-12**|**The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing**|Jianchen Wang et.al.|[2403.07825v1](http://arxiv.org/abs/2403.07825v1)|null|
-|**2024-03-12**|**A robust SVM-based approach with feature selection and outliers detection for classification problems**|Marta Baldomero-Naranjo et.al.|[2403.07753v1](http://arxiv.org/abs/2403.07753v1)|null|
-|**2024-03-12**|**Tightening big Ms in integer programming formulations for support vector machines with ramp loss**|Marta Baldomero-Naranjo et.al.|[2403.07736v1](http://arxiv.org/abs/2403.07736v1)|null|
-|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706v1](http://arxiv.org/abs/2403.07706v1)|null|
-|**2024-03-11**|**Shrinkage MMSE estimators of covariances beyond the zero-mean and stationary variance assumptions**|Olivier Flasseur et.al.|[2403.07104v1](http://arxiv.org/abs/2403.07104v1)|null|
-|**2024-03-11**|**Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph**|Justin Engelmann et.al.|[2403.06950v1](http://arxiv.org/abs/2403.06950v1)|null|
-|**2024-03-11**|**QuantTune: Optimizing Model Quantization with Adaptive Outlier-Driven Fine Tuning**|Jiun-Man Chen et.al.|[2403.06497v1](http://arxiv.org/abs/2403.06497v1)|null|
-|**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457v1](http://arxiv.org/abs/2403.06457v1)|null|
-|**2024-03-11**|**Latent Semantic Consensus For Deterministic Geometric Model Fitting**|Guobao Xiao et.al.|[2403.06444v1](http://arxiv.org/abs/2403.06444v1)|[link](https://github.com/guobaoxiao/lsc)|
-|**2024-03-10**|**FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers' Preference Elicitation**|Hanfang Lyu et.al.|[2403.06267v1](http://arxiv.org/abs/2403.06267v1)|null|
-|**2024-03-09**|**The rise and fall of WallStreetBets: social roles and opinion leaders across the GameStop saga**|Anna Mancini et.al.|[2403.05876v1](http://arxiv.org/abs/2403.05876v1)|[link](https://github.com/complexconnectionslab/rise_and_fall_of_wallstreetbets)|
-|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527v2](http://arxiv.org/abs/2403.05527v2)|[link](https://github.com/haokang-timmy/gear)|
-|**2024-03-08**|**Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation**|Chenhui Zhao et.al.|[2403.05433v1](http://arxiv.org/abs/2403.05433v1)|null|
-|**2024-03-08**|**Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds**|Tianrui Lou et.al.|[2403.05247v1](http://arxiv.org/abs/2403.05247v1)|null|
-|**2024-03-08**|**Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning**|Hang Du et.al.|[2403.05117v1](http://arxiv.org/abs/2403.05117v1)|[link](https://github.com/hikvision-research/3dvision)|
-|**2024-03-07**|**A Sub-Quadratic Time Algorithm for Robust Sparse Mean Estimation**|Ankit Pensia et.al.|[2403.04726v1](http://arxiv.org/abs/2403.04726v1)|null|
-|**2024-03-07**|**QAQ: Quality Adaptive Quantization for LLM KV Cache**|Shichen Dong et.al.|[2403.04643v1](http://arxiv.org/abs/2403.04643v1)|[link](https://github.com/clubiedong/kvcachequantization)|
-|**2024-03-06**|**Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks**|Jing Gu et.al.|[2403.04010v1](http://arxiv.org/abs/2403.04010v1)|[link](https://github.com/jing-ds/hnn_gad)|
-|**2024-03-06**|**The Cosmic Ultraviolet Baryon Survey (CUBS) VIII: Group Environment of the Most Luminous Quasars at $z\approx1$**|Jennifer I. Li et.al.|[2403.03983v1](http://arxiv.org/abs/2403.03983v1)|null|
-|**2024-03-06**|**Robust covariance estimation and explainable outlier detection for matrix-valued data**|Marcus Mayrhofer et.al.|[2403.03975v1](http://arxiv.org/abs/2403.03975v1)|null|
-|**2024-03-06**|**A machine learning workflow to address credit default prediction**|Rambod Rahmani et.al.|[2403.03785v1](http://arxiv.org/abs/2403.03785v1)|null|
-|**2024-03-06**|**Is Distance Correlation Robust?**|Sarah Leyder et.al.|[2403.03722v1](http://arxiv.org/abs/2403.03722v1)|null|
-|**2024-03-06**|**Spectral Phase Transition and Optimal PCA in Block-Structured Spiked models**|Pierre Mergny et.al.|[2403.03695v1](http://arxiv.org/abs/2403.03695v1)|null|
-|**2024-03-05**|**Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data**|Joseph Gatto et.al.|[2403.03304v1](http://arxiv.org/abs/2403.03304v1)|null|
-|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
