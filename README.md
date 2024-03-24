@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-24 09:32:41 Asia/Shanghai
+ Automated deployment @ 2024-03-24 20:37:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -44,40 +44,6 @@
 |**2024-03-21**|**Random Graph Modeling: A survey of the concepts**|Mikhail Drobyshevskiy et.al.|[2403.14415v1](http://arxiv.org/abs/2403.14415v1)|null|
 |**2024-03-21**|**Efficient Model Learning and Adaptive Tracking Control of Magnetic Micro-Robots for Non-Contact Manipulation**|Yongyi Jia et.al.|[2403.14414v1](http://arxiv.org/abs/2403.14414v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-21**|**SoftPatch: Unsupervised Anomaly Detection with Noisy Data**|Xi Jiang et.al.|[2403.14233v1](http://arxiv.org/abs/2403.14233v1)|[link](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)|
-|**2024-03-21**|**Automatic Outlier Rectification via Optimal Transport**|Jose Blanchet et.al.|[2403.14067v1](http://arxiv.org/abs/2403.14067v1)|null|
-|**2024-03-20**|**LFS-Aware Surface Reconstruction from Unoriented 3D Point Clouds**|Rao Fu et.al.|[2403.13924v1](http://arxiv.org/abs/2403.13924v1)|[link](https://github.com/bizerfr/lfs-aware-reconstruction)|
-|**2024-03-20**|**DOR3D-Net: Dense Ordinal Regression Network for 3D Hand Pose Estimation**|Yamin Mao et.al.|[2403.13405v1](http://arxiv.org/abs/2403.13405v1)|null|
-|**2024-03-18**|**The Power of Few: Accelerating and Enhancing Data Reweighting with Coreset Selection**|Mohammad Jafari et.al.|[2403.12166v2](http://arxiv.org/abs/2403.12166v2)|null|
-|**2024-03-18**|**Triaxial Schwarzschild Models of NGC 708: a 10-billion solar mass black hole in a low dispersion galaxy with a Kroupa IMF**|Stefano de Nicola et.al.|[2403.12144v1](http://arxiv.org/abs/2403.12144v1)|null|
-|**2024-03-18**|**Machine Learning LSST 3x2pt analyses -- forecasting the impact of systematics on cosmological constraints using neural networks**|Supranta S. Boruah et.al.|[2403.11797v1](http://arxiv.org/abs/2403.11797v1)|null|
-|**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v1](http://arxiv.org/abs/2403.11679v1)|null|
-|**2024-03-17**|**A sample of 25 radio galaxies with highly unusual radio morphologies, selected from the LoTSS-DR2 survey at 144 MHz**|Gopal-Krishna et.al.|[2403.11290v1](http://arxiv.org/abs/2403.11290v1)|null|
-|**2024-03-16**|**Improved Algorithm and Bounds for Successive Projection**|Jiashun Jin et.al.|[2403.11013v1](http://arxiv.org/abs/2403.11013v1)|[link](https://github.com/gabriel78110/vertexhunting)|
-|**2024-03-16**|**DTOR: Decision Tree Outlier Regressor to explain anomalies**|Riccardo Crupi et.al.|[2403.10903v2](http://arxiv.org/abs/2403.10903v2)|[link](https://github.com/rcrupiisp/dtor)|
-|**2024-03-16**|**Characterizing the Solana NFT Ecosystem**|Dechao Kong et.al.|[2403.10879v1](http://arxiv.org/abs/2403.10879v1)|null|
-|**2024-03-15**|**XMM-NuSTAR Observation and Multiwavelength SED Modeling of Blazar 4FGL J1520.8-0348**|Garima Rajguru et.al.|[2403.10703v1](http://arxiv.org/abs/2403.10703v1)|null|
-|**2024-03-15**|**URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields**|Bo Xu et.al.|[2403.10119v1](http://arxiv.org/abs/2403.10119v1)|null|
-|**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085v1](http://arxiv.org/abs/2403.10085v1)|[link](https://github.com/guiyuzhao/vrhcf)|
-|**2024-03-14**|**Outlier Robust Multivariate Polynomial Regression**|Vipul Arora et.al.|[2403.09465v1](http://arxiv.org/abs/2403.09465v1)|null|
-|**2024-03-14**|**SD-Net: Symmetric-Aware Keypoint Prediction and Domain Adaptation for 6D Pose Estimation In Bin-picking Scenarios**|Ding-Tao Huang et.al.|[2403.09317v1](http://arxiv.org/abs/2403.09317v1)|[link](https://github.com/dingthuang/sd-net)|
-|**2024-03-13**|**A Generalized Framework with Adaptive Weighted Soft-Margin for Imbalanced SVM Classification**|Lu Jiang et.al.|[2403.08378v1](http://arxiv.org/abs/2403.08378v1)|null|
-|**2024-03-13**|**Validating and Exploring Large Geographic Corpora**|Jonathan Dunn et.al.|[2403.08198v1](http://arxiv.org/abs/2403.08198v1)|null|
-|**2024-03-12**|**McCatch: Scalable Microcluster Detection in Dimensional and Nondimensional Datasets**|Braulio V. Sánchez Vinces et.al.|[2403.08027v1](http://arxiv.org/abs/2403.08027v1)|null|
-|**2024-03-12**|**The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing**|Jianchen Wang et.al.|[2403.07825v1](http://arxiv.org/abs/2403.07825v1)|null|
-|**2024-03-12**|**A robust SVM-based approach with feature selection and outliers detection for classification problems**|Marta Baldomero-Naranjo et.al.|[2403.07753v1](http://arxiv.org/abs/2403.07753v1)|null|
-|**2024-03-12**|**Tightening big Ms in integer programming formulations for support vector machines with ramp loss**|Marta Baldomero-Naranjo et.al.|[2403.07736v1](http://arxiv.org/abs/2403.07736v1)|null|
-|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706v2](http://arxiv.org/abs/2403.07706v2)|null|
-|**2024-03-12**|**Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**|Shuyao Li et.al.|[2403.10547v1](http://arxiv.org/abs/2403.10547v1)|null|
-|**2024-03-11**|**Shrinkage MMSE estimators of covariances beyond the zero-mean and stationary variance assumptions**|Olivier Flasseur et.al.|[2403.07104v1](http://arxiv.org/abs/2403.07104v1)|null|
-|**2024-03-11**|**Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph**|Justin Engelmann et.al.|[2403.06950v1](http://arxiv.org/abs/2403.06950v1)|null|
-|**2024-03-11**|**QuantTune: Optimizing Model Quantization with Adaptive Outlier-Driven Fine Tuning**|Jiun-Man Chen et.al.|[2403.06497v1](http://arxiv.org/abs/2403.06497v1)|null|
-|**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457v1](http://arxiv.org/abs/2403.06457v1)|null|
-|**2024-03-11**|**Latent Semantic Consensus For Deterministic Geometric Model Fitting**|Guobao Xiao et.al.|[2403.06444v1](http://arxiv.org/abs/2403.06444v1)|[link](https://github.com/guobaoxiao/lsc)|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -111,3 +77,37 @@
 |**2024-03-21**|**Multi-role Consensus through LLMs Discussions for Vulnerability Detection**|Zhenyu Mao et.al.|[2403.14274v1](http://arxiv.org/abs/2403.14274v1)|null|
 |**2024-03-21**|**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**|Tim Salzmann et.al.|[2403.14270v1](http://arxiv.org/abs/2403.14270v1)|null|
 |**2024-03-21**|**Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection**|Finn Behrendt et.al.|[2403.14262v1](http://arxiv.org/abs/2403.14262v1)|[link](https://github.com/finnbehrendt/ensembled-ssim-for-unsupervised-anomaly-detection)|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-21**|**SoftPatch: Unsupervised Anomaly Detection with Noisy Data**|Xi Jiang et.al.|[2403.14233v1](http://arxiv.org/abs/2403.14233v1)|[link](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)|
+|**2024-03-21**|**Automatic Outlier Rectification via Optimal Transport**|Jose Blanchet et.al.|[2403.14067v1](http://arxiv.org/abs/2403.14067v1)|null|
+|**2024-03-20**|**LFS-Aware Surface Reconstruction from Unoriented 3D Point Clouds**|Rao Fu et.al.|[2403.13924v1](http://arxiv.org/abs/2403.13924v1)|[link](https://github.com/bizerfr/lfs-aware-reconstruction)|
+|**2024-03-20**|**DOR3D-Net: Dense Ordinal Regression Network for 3D Hand Pose Estimation**|Yamin Mao et.al.|[2403.13405v1](http://arxiv.org/abs/2403.13405v1)|null|
+|**2024-03-18**|**The Power of Few: Accelerating and Enhancing Data Reweighting with Coreset Selection**|Mohammad Jafari et.al.|[2403.12166v2](http://arxiv.org/abs/2403.12166v2)|null|
+|**2024-03-18**|**Triaxial Schwarzschild Models of NGC 708: a 10-billion solar mass black hole in a low dispersion galaxy with a Kroupa IMF**|Stefano de Nicola et.al.|[2403.12144v1](http://arxiv.org/abs/2403.12144v1)|null|
+|**2024-03-18**|**Machine Learning LSST 3x2pt analyses -- forecasting the impact of systematics on cosmological constraints using neural networks**|Supranta S. Boruah et.al.|[2403.11797v1](http://arxiv.org/abs/2403.11797v1)|null|
+|**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v1](http://arxiv.org/abs/2403.11679v1)|null|
+|**2024-03-17**|**A sample of 25 radio galaxies with highly unusual radio morphologies, selected from the LoTSS-DR2 survey at 144 MHz**|Gopal-Krishna et.al.|[2403.11290v1](http://arxiv.org/abs/2403.11290v1)|null|
+|**2024-03-16**|**Improved Algorithm and Bounds for Successive Projection**|Jiashun Jin et.al.|[2403.11013v1](http://arxiv.org/abs/2403.11013v1)|[link](https://github.com/gabriel78110/vertexhunting)|
+|**2024-03-16**|**DTOR: Decision Tree Outlier Regressor to explain anomalies**|Riccardo Crupi et.al.|[2403.10903v2](http://arxiv.org/abs/2403.10903v2)|[link](https://github.com/rcrupiisp/dtor)|
+|**2024-03-16**|**Characterizing the Solana NFT Ecosystem**|Dechao Kong et.al.|[2403.10879v1](http://arxiv.org/abs/2403.10879v1)|null|
+|**2024-03-15**|**XMM-NuSTAR Observation and Multiwavelength SED Modeling of Blazar 4FGL J1520.8-0348**|Garima Rajguru et.al.|[2403.10703v1](http://arxiv.org/abs/2403.10703v1)|null|
+|**2024-03-15**|**URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields**|Bo Xu et.al.|[2403.10119v1](http://arxiv.org/abs/2403.10119v1)|null|
+|**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085v1](http://arxiv.org/abs/2403.10085v1)|[link](https://github.com/guiyuzhao/vrhcf)|
+|**2024-03-14**|**Outlier Robust Multivariate Polynomial Regression**|Vipul Arora et.al.|[2403.09465v1](http://arxiv.org/abs/2403.09465v1)|null|
+|**2024-03-14**|**SD-Net: Symmetric-Aware Keypoint Prediction and Domain Adaptation for 6D Pose Estimation In Bin-picking Scenarios**|Ding-Tao Huang et.al.|[2403.09317v1](http://arxiv.org/abs/2403.09317v1)|[link](https://github.com/dingthuang/sd-net)|
+|**2024-03-13**|**A Generalized Framework with Adaptive Weighted Soft-Margin for Imbalanced SVM Classification**|Lu Jiang et.al.|[2403.08378v1](http://arxiv.org/abs/2403.08378v1)|null|
+|**2024-03-13**|**Validating and Exploring Large Geographic Corpora**|Jonathan Dunn et.al.|[2403.08198v1](http://arxiv.org/abs/2403.08198v1)|null|
+|**2024-03-12**|**McCatch: Scalable Microcluster Detection in Dimensional and Nondimensional Datasets**|Braulio V. Sánchez Vinces et.al.|[2403.08027v1](http://arxiv.org/abs/2403.08027v1)|null|
+|**2024-03-12**|**The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing**|Jianchen Wang et.al.|[2403.07825v1](http://arxiv.org/abs/2403.07825v1)|null|
+|**2024-03-12**|**A robust SVM-based approach with feature selection and outliers detection for classification problems**|Marta Baldomero-Naranjo et.al.|[2403.07753v1](http://arxiv.org/abs/2403.07753v1)|null|
+|**2024-03-12**|**Tightening big Ms in integer programming formulations for support vector machines with ramp loss**|Marta Baldomero-Naranjo et.al.|[2403.07736v1](http://arxiv.org/abs/2403.07736v1)|null|
+|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706v2](http://arxiv.org/abs/2403.07706v2)|null|
+|**2024-03-12**|**Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**|Shuyao Li et.al.|[2403.10547v1](http://arxiv.org/abs/2403.10547v1)|null|
+|**2024-03-11**|**Shrinkage MMSE estimators of covariances beyond the zero-mean and stationary variance assumptions**|Olivier Flasseur et.al.|[2403.07104v1](http://arxiv.org/abs/2403.07104v1)|null|
+|**2024-03-11**|**Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph**|Justin Engelmann et.al.|[2403.06950v1](http://arxiv.org/abs/2403.06950v1)|null|
+|**2024-03-11**|**QuantTune: Optimizing Model Quantization with Adaptive Outlier-Driven Fine Tuning**|Jiun-Man Chen et.al.|[2403.06497v1](http://arxiv.org/abs/2403.06497v1)|null|
+|**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457v1](http://arxiv.org/abs/2403.06457v1)|null|
+|**2024-03-11**|**Latent Semantic Consensus For Deterministic Geometric Model Fitting**|Guobao Xiao et.al.|[2403.06444v1](http://arxiv.org/abs/2403.06444v1)|[link](https://github.com/guobaoxiao/lsc)|
