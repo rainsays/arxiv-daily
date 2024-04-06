@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-06 09:20:12 Asia/Shanghai
+ Automated deployment @ 2024-04-06 20:35:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -13,7 +13,7 @@
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605v1](http://arxiv.org/abs/2404.03605v1)|null|
+|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605v1](http://arxiv.org/abs/2404.03605v1)|[link](https://github.com/aninrusimha/qat-pretrain)|
 |**2024-04-04**|**About Test-time training for outlier detection**|Simon Klüttermann et.al.|[2404.03495v1](http://arxiv.org/abs/2404.03495v1)|null|
 |**2024-04-04**|**Robust inference for linear regression models with possibly skewed error distribution**|Amarnath Nandy et.al.|[2404.03404v1](http://arxiv.org/abs/2404.03404v1)|null|
 |**2024-04-04**|**Data harvesting vs data farming: A study of the importance of variation vs sample size in deep learning-based auto-segmentation for breast cancer patients**|ES Buhl et.al.|[2404.03369v1](http://arxiv.org/abs/2404.03369v1)|null|
@@ -43,40 +43,6 @@
 |**2024-03-22**|**A data-informed mathematical model of microglial cell dynamics during ischemic stroke in the middle cerebral artery**|Sara Amato et.al.|[2403.15284v1](http://arxiv.org/abs/2403.15284v1)|null|
 |**2024-03-22**|**Hyperbolic Metric Learning for Visual Outlier Detection**|Alvaro Gonzalez-Jimenez et.al.|[2403.15260v1](http://arxiv.org/abs/2403.15260v1)|null|
 |**2024-03-22**|**Active Learning for Regression based on Wasserstein distance and GroupSort Neural Networks**|Benjamin Bobbia et.al.|[2403.15108v1](http://arxiv.org/abs/2403.15108v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657v1](http://arxiv.org/abs/2404.03657v1)|null|
-|**2024-04-04**|**Deriving Compact QUBO Models via Multilevel Constraint Transformation**|Oksana Pichugina et.al.|[2404.03610v1](http://arxiv.org/abs/2404.03610v1)|null|
-|**2024-04-04**|**Evaluating LLMs at Detecting Errors in LLM Responses**|Ryo Kamoi et.al.|[2404.03602v1](http://arxiv.org/abs/2404.03602v1)|[link](https://github.com/psunlpgroup/realmistake)|
-|**2024-04-04**|**Deformation-induced CPT violation in entangled pairs of neutral kaons**|Andrea Bevilacqua et.al.|[2404.03600v1](http://arxiv.org/abs/2404.03600v1)|null|
-|**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598v1](http://arxiv.org/abs/2404.03598v1)|[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)|
-|**2024-04-04**|**DiffDet4SAR: Diffusion-based Aircraft Target Detection Network for SAR Images**|Zhou Jie et.al.|[2404.03595v1](http://arxiv.org/abs/2404.03595v1)|[link](https://github.com/JoyeZLearning/DiffDet4SAR)|
-|**2024-04-04**|**The CCube reconstruction algorithm for the SoLid experiment**|The SoLid collaboration et.al.|[2404.03580v1](http://arxiv.org/abs/2404.03580v1)|null|
-|**2024-04-04**|**The Rise of Faint, Red AGN at $z>4$: A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields**|Dale D. Kocevski et.al.|[2404.03576v1](http://arxiv.org/abs/2404.03576v1)|null|
-|**2024-04-04**|**Factored Task and Motion Planning with Combined Optimization, Sampling and Learning**|Joaquim Ortiz-Haro et.al.|[2404.03567v1](http://arxiv.org/abs/2404.03567v1)|null|
-|**2024-04-04**|**Robot Safety Monitoring using Programmable Light Curtains**|Karnik Ram et.al.|[2404.03556v1](http://arxiv.org/abs/2404.03556v1)|null|
-|**2024-04-04**|**Alzheimer's disease detection in PSG signals**|Lorena Gallego-Viñarás et.al.|[2404.03549v1](http://arxiv.org/abs/2404.03549v1)|null|
-|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539v1](http://arxiv.org/abs/2404.03539v1)|[link](https://github.com/lorebianchi98/fg-clip)|
-|**2024-04-04**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507v1](http://arxiv.org/abs/2404.03507v1)|null|
-|**2024-04-04**|**Correlation and Spectral Density Functions in Mode-Stirred Reverberation -- III. Measurements**|Luk R. Arnaut et.al.|[2404.03497v1](http://arxiv.org/abs/2404.03497v1)|null|
-|**2024-04-04**|**About Test-time training for outlier detection**|Simon Klüttermann et.al.|[2404.03495v1](http://arxiv.org/abs/2404.03495v1)|null|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
-|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|[link](https://github.com/wvu-robotics/Stickbug_2024)|
-|**2024-04-04**|**Reevaluating Bias Detection in Language Models: The Role of Implicit Norm**|Farnaz Kohankhaki et.al.|[2404.03471v1](http://arxiv.org/abs/2404.03471v1)|null|
-|**2024-04-04**|**Shell-type Tidal Features Are More Frequently Detected in Slowly Rotating Early-type Galaxies than Stream- and Tail-type Features**|Yongmin Yoon et.al.|[2404.03459v1](http://arxiv.org/abs/2404.03459v1)|null|
-|**2024-04-04**|**Simultaneous State Estimation and Contact Detection for Legged Robots by Multiple-Model Kalman Filtering**|Marcel Menner et.al.|[2404.03444v1](http://arxiv.org/abs/2404.03444v1)|null|
-|**2024-04-04**|**Piecemeal Quantum Telescope with Superresolution**|Jian Leng et.al.|[2404.03432v1](http://arxiv.org/abs/2404.03432v1)|null|
-|**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v1](http://arxiv.org/abs/2404.03425v1)|[link](https://github.com/chenhongruixuan/mambacd)|
-|**2024-04-04**|**NMF-Based Analysis of Mobile Eye-Tracking Data**|Daniel Klötzl et.al.|[2404.03417v1](http://arxiv.org/abs/2404.03417v1)|null|
-|**2024-04-04**|**Chandra X-ray Analysis of Herbig Ae/Be Stars**|Hema Anilkumar et.al.|[2404.03403v1](http://arxiv.org/abs/2404.03403v1)|null|
-|**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368v1](http://arxiv.org/abs/2404.03368v1)|null|
-|**2024-04-04**|**Photonic Quantum Computing**|Jacquiline Romero et.al.|[2404.03367v1](http://arxiv.org/abs/2404.03367v1)|null|
-|**2024-04-04**|**First detection in space of the high-energy isomer of cyanomethanimine: H2CNCN**|David San Andrés et.al.|[2404.03334v1](http://arxiv.org/abs/2404.03334v1)|null|
-|**2024-04-04**|**A classification of well-behaved graph clustering schemes**|Vilhelm Agdur et.al.|[2404.03332v1](http://arxiv.org/abs/2404.03332v1)|null|
-|**2024-04-04**|**MPOFI: Multichannel Partially Observed Functional Modeling for Defect Classification with Imbalanced Dataset via Deep Metric Learning**|Yukun Xie et.al.|[2404.03329v1](http://arxiv.org/abs/2404.03329v1)|null|
-|**2024-04-04**|**Early warning systems for financial markets of emerging economies**|Artem Kraevskiy et.al.|[2404.03319v1](http://arxiv.org/abs/2404.03319v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -111,3 +77,37 @@
 |**2024-04-04**|**Learning From Simplicial Data Based on Random Walks and 1D Convolutions**|Florian Frantzen et.al.|[2404.03434v1](http://arxiv.org/abs/2404.03434v1)|[link](https://git.rwth-aachen.de/netsci/scrawl)|
 |**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v1](http://arxiv.org/abs/2404.03425v1)|[link](https://github.com/chenhongruixuan/mambacd)|
 |**2024-04-04**|**RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling**|Charles Dawson et.al.|[2404.03412v1](http://arxiv.org/abs/2404.03412v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657v1](http://arxiv.org/abs/2404.03657v1)|null|
+|**2024-04-04**|**Deriving Compact QUBO Models via Multilevel Constraint Transformation**|Oksana Pichugina et.al.|[2404.03610v1](http://arxiv.org/abs/2404.03610v1)|null|
+|**2024-04-04**|**Evaluating LLMs at Detecting Errors in LLM Responses**|Ryo Kamoi et.al.|[2404.03602v1](http://arxiv.org/abs/2404.03602v1)|[link](https://github.com/psunlpgroup/realmistake)|
+|**2024-04-04**|**Deformation-induced CPT violation in entangled pairs of neutral kaons**|Andrea Bevilacqua et.al.|[2404.03600v1](http://arxiv.org/abs/2404.03600v1)|null|
+|**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598v1](http://arxiv.org/abs/2404.03598v1)|[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)|
+|**2024-04-04**|**DiffDet4SAR: Diffusion-based Aircraft Target Detection Network for SAR Images**|Zhou Jie et.al.|[2404.03595v1](http://arxiv.org/abs/2404.03595v1)|[link](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|**2024-04-04**|**The CCube reconstruction algorithm for the SoLid experiment**|The SoLid collaboration et.al.|[2404.03580v1](http://arxiv.org/abs/2404.03580v1)|null|
+|**2024-04-04**|**The Rise of Faint, Red AGN at $z>4$: A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields**|Dale D. Kocevski et.al.|[2404.03576v1](http://arxiv.org/abs/2404.03576v1)|null|
+|**2024-04-04**|**Factored Task and Motion Planning with Combined Optimization, Sampling and Learning**|Joaquim Ortiz-Haro et.al.|[2404.03567v1](http://arxiv.org/abs/2404.03567v1)|null|
+|**2024-04-04**|**Robot Safety Monitoring using Programmable Light Curtains**|Karnik Ram et.al.|[2404.03556v1](http://arxiv.org/abs/2404.03556v1)|null|
+|**2024-04-04**|**Alzheimer's disease detection in PSG signals**|Lorena Gallego-Viñarás et.al.|[2404.03549v1](http://arxiv.org/abs/2404.03549v1)|null|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539v1](http://arxiv.org/abs/2404.03539v1)|[link](https://github.com/lorebianchi98/fg-clip)|
+|**2024-04-04**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507v1](http://arxiv.org/abs/2404.03507v1)|null|
+|**2024-04-04**|**Correlation and Spectral Density Functions in Mode-Stirred Reverberation -- III. Measurements**|Luk R. Arnaut et.al.|[2404.03497v1](http://arxiv.org/abs/2404.03497v1)|null|
+|**2024-04-04**|**About Test-time training for outlier detection**|Simon Klüttermann et.al.|[2404.03495v1](http://arxiv.org/abs/2404.03495v1)|null|
+|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|[link](https://github.com/wvu-robotics/Stickbug_2024)|
+|**2024-04-04**|**Reevaluating Bias Detection in Language Models: The Role of Implicit Norm**|Farnaz Kohankhaki et.al.|[2404.03471v1](http://arxiv.org/abs/2404.03471v1)|null|
+|**2024-04-04**|**Shell-type Tidal Features Are More Frequently Detected in Slowly Rotating Early-type Galaxies than Stream- and Tail-type Features**|Yongmin Yoon et.al.|[2404.03459v1](http://arxiv.org/abs/2404.03459v1)|null|
+|**2024-04-04**|**Simultaneous State Estimation and Contact Detection for Legged Robots by Multiple-Model Kalman Filtering**|Marcel Menner et.al.|[2404.03444v1](http://arxiv.org/abs/2404.03444v1)|null|
+|**2024-04-04**|**Piecemeal Quantum Telescope with Superresolution**|Jian Leng et.al.|[2404.03432v1](http://arxiv.org/abs/2404.03432v1)|null|
+|**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v1](http://arxiv.org/abs/2404.03425v1)|[link](https://github.com/chenhongruixuan/mambacd)|
+|**2024-04-04**|**NMF-Based Analysis of Mobile Eye-Tracking Data**|Daniel Klötzl et.al.|[2404.03417v1](http://arxiv.org/abs/2404.03417v1)|null|
+|**2024-04-04**|**Chandra X-ray Analysis of Herbig Ae/Be Stars**|Hema Anilkumar et.al.|[2404.03403v1](http://arxiv.org/abs/2404.03403v1)|null|
+|**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368v1](http://arxiv.org/abs/2404.03368v1)|null|
+|**2024-04-04**|**Photonic Quantum Computing**|Jacquiline Romero et.al.|[2404.03367v1](http://arxiv.org/abs/2404.03367v1)|null|
+|**2024-04-04**|**First detection in space of the high-energy isomer of cyanomethanimine: H2CNCN**|David San Andrés et.al.|[2404.03334v1](http://arxiv.org/abs/2404.03334v1)|null|
+|**2024-04-04**|**A classification of well-behaved graph clustering schemes**|Vilhelm Agdur et.al.|[2404.03332v1](http://arxiv.org/abs/2404.03332v1)|null|
+|**2024-04-04**|**MPOFI: Multichannel Partially Observed Functional Modeling for Defect Classification with Imbalanced Dataset via Deep Metric Learning**|Yukun Xie et.al.|[2404.03329v1](http://arxiv.org/abs/2404.03329v1)|null|
+|**2024-04-04**|**Early warning systems for financial markets of emerging economies**|Artem Kraevskiy et.al.|[2404.03319v1](http://arxiv.org/abs/2404.03319v1)|null|
