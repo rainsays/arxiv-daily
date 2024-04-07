@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-07 09:33:02 Asia/Shanghai
+ Automated deployment @ 2024-04-07 20:34:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -9,6 +9,40 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v1](http://arxiv.org/abs/2402.07408v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605v1](http://arxiv.org/abs/2404.03605v1)|[link](https://github.com/aninrusimha/qat-pretrain)|
+|**2024-04-04**|**About Test-time training for outlier detection**|Simon Klüttermann et.al.|[2404.03495v1](http://arxiv.org/abs/2404.03495v1)|null|
+|**2024-04-04**|**Robust inference for linear regression models with possibly skewed error distribution**|Amarnath Nandy et.al.|[2404.03404v1](http://arxiv.org/abs/2404.03404v1)|null|
+|**2024-04-04**|**Data harvesting vs data farming: A study of the importance of variation vs sample size in deep learning-based auto-segmentation for breast cancer patients**|ES Buhl et.al.|[2404.03369v1](http://arxiv.org/abs/2404.03369v1)|null|
+|**2024-04-04**|**Multi-task learning via robust regularized clustering with non-convex group penalties**|Akira Okazaki et.al.|[2404.03250v1](http://arxiv.org/abs/2404.03250v1)|null|
+|**2024-04-04**|**Learning Transferable Negative Prompts for Out-of-Distribution Detection**|Tianqi Li et.al.|[2404.03248v1](http://arxiv.org/abs/2404.03248v1)|[link](https://github.com/mala-lab/negprompt)|
+|**2024-04-03**|**Semi-Supervised Unconstrained Head Pose Estimation in the Wild**|Huayi Zhou et.al.|[2404.02544v1](http://arxiv.org/abs/2404.02544v1)|[link](https://github.com/hnuzhy/semiuhpe)|
+|**2024-04-02**|**Machine Learning-Based Identification of Contaminated Images in Light Curves Data Preprocessing**|Hui Li et.al.|[2404.01691v1](http://arxiv.org/abs/2404.01691v1)|null|
+|**2024-04-02**|**Blind QSO reconstruction challenge: Exploring methods to reconstruct the Ly$α$ emission line of QSOs**|Bradley Greig et.al.|[2404.01556v1](http://arxiv.org/abs/2404.01556v1)|null|
+|**2024-04-01**|**Scalable 3D Registration via Truncated Entry-wise Absolute Residuals**|Tianyu Huang et.al.|[2404.00915v1](http://arxiv.org/abs/2404.00915v1)|[link](https://github.com/tyhuang98/tear-release)|
+|**2024-03-30**|**QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs**|Saleh Ashkboos et.al.|[2404.00456v1](http://arxiv.org/abs/2404.00456v1)|[link](https://github.com/spcl/quarot)|
+|**2024-03-30**|**A Context-Sensitive, Outlier-Based Static Analysis to Find Kernel Race Conditions**|Niels Dossche et.al.|[2404.00350v1](http://arxiv.org/abs/2404.00350v1)|null|
+|**2024-03-30**|**CLIP-driven Outliers Synthesis for few-shot OOD detection**|Hao Sun et.al.|[2404.00323v1](http://arxiv.org/abs/2404.00323v1)|null|
+|**2024-03-29**|**Modeling Large-Scale Walking and Cycling Networks: A Machine Learning Approach Using Mobile Phone and Crowdsourced Data**|Meead Saberi et.al.|[2404.00162v2](http://arxiv.org/abs/2404.00162v2)|null|
+|**2024-03-29**|**Accurate Block Quantization in LLMs with Outliers**|Nikita Trukhanov et.al.|[2403.20137v1](http://arxiv.org/abs/2403.20137v1)|null|
+|**2024-03-29**|**Nonparametric Bellman Mappings for Reinforcement Learning: Application to Robust Adaptive Filtering**|Yuki Akiyama et.al.|[2403.20020v1](http://arxiv.org/abs/2403.20020v1)|null|
+|**2024-03-28**|**CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network**|Jie Wen et.al.|[2403.19514v1](http://arxiv.org/abs/2403.19514v1)|null|
+|**2024-03-27**|**Computationally and Memory-Efficient Robust Predictive Analytics Using Big Data**|Daniel Menges et.al.|[2403.19721v1](http://arxiv.org/abs/2403.19721v1)|null|
+|**2024-03-27**|**Transfer matrix analysis of non-hermitian Hamiltonians: asymptotic spectra and topological eigenvalues**|Lars Koekenbier et.al.|[2403.18942v1](http://arxiv.org/abs/2403.18942v1)|null|
+|**2024-03-27**|**Theoretical Guarantees for the Subspace-Constrained Tyler's Estimator**|Gilad Lerman et.al.|[2403.18658v1](http://arxiv.org/abs/2403.18658v1)|null|
+|**2024-03-27**|**Few-shot Online Anomaly Detection and Segmentation**|Shenxing Wei et.al.|[2403.18201v1](http://arxiv.org/abs/2403.18201v1)|null|
+|**2024-03-26**|**Can patient-specific acquisition protocol improve performance on defect detection task in myocardial perfusion SPECT?**|Nu Ri Choi et.al.|[2403.17764v1](http://arxiv.org/abs/2403.17764v1)|null|
+|**2024-03-25**|**AXES-SDSS: comparison of SDSS galaxy groups with All-sky X-ray Extended Sources**|S. Damsted et.al.|[2403.17055v1](http://arxiv.org/abs/2403.17055v1)|null|
+|**2024-03-25**|**Resistant Inference in Instrumental Variable Models**|Jens Klooster et.al.|[2403.16844v1](http://arxiv.org/abs/2403.16844v1)|null|
+|**2024-03-25**|**RKFNet: A Novel Neural Network Aided Robust Kalman Filter**|Pengcheng Hao et.al.|[2403.16756v1](http://arxiv.org/abs/2403.16756v1)|null|
+|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728v1](http://arxiv.org/abs/2403.16728v1)|[link](https://github.com/kabachuha/SPHL-for-stable-diffusion)|
+|**2024-03-25**|**Distributed collaborative anomalous sound detection by embedding sharing**|Kota Dohi et.al.|[2403.16610v1](http://arxiv.org/abs/2403.16610v1)|null|
+|**2024-03-22**|**A data-informed mathematical model of microglial cell dynamics during ischemic stroke in the middle cerebral artery**|Sara Amato et.al.|[2403.15284v1](http://arxiv.org/abs/2403.15284v1)|null|
+|**2024-03-22**|**Hyperbolic Metric Learning for Visual Outlier Detection**|Alvaro Gonzalez-Jimenez et.al.|[2403.15260v1](http://arxiv.org/abs/2403.15260v1)|null|
+|**2024-03-22**|**Active Learning for Regression based on Wasserstein distance and GroupSort Neural Networks**|Benjamin Bobbia et.al.|[2403.15108v1](http://arxiv.org/abs/2403.15108v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -77,37 +111,3 @@
 |**2024-04-04**|**Learning From Simplicial Data Based on Random Walks and 1D Convolutions**|Florian Frantzen et.al.|[2404.03434v1](http://arxiv.org/abs/2404.03434v1)|[link](https://git.rwth-aachen.de/netsci/scrawl)|
 |**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v1](http://arxiv.org/abs/2404.03425v1)|[link](https://github.com/chenhongruixuan/mambacd)|
 |**2024-04-04**|**RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling**|Charles Dawson et.al.|[2404.03412v1](http://arxiv.org/abs/2404.03412v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605v1](http://arxiv.org/abs/2404.03605v1)|[link](https://github.com/aninrusimha/qat-pretrain)|
-|**2024-04-04**|**About Test-time training for outlier detection**|Simon Klüttermann et.al.|[2404.03495v1](http://arxiv.org/abs/2404.03495v1)|null|
-|**2024-04-04**|**Robust inference for linear regression models with possibly skewed error distribution**|Amarnath Nandy et.al.|[2404.03404v1](http://arxiv.org/abs/2404.03404v1)|null|
-|**2024-04-04**|**Data harvesting vs data farming: A study of the importance of variation vs sample size in deep learning-based auto-segmentation for breast cancer patients**|ES Buhl et.al.|[2404.03369v1](http://arxiv.org/abs/2404.03369v1)|null|
-|**2024-04-04**|**Multi-task learning via robust regularized clustering with non-convex group penalties**|Akira Okazaki et.al.|[2404.03250v1](http://arxiv.org/abs/2404.03250v1)|null|
-|**2024-04-04**|**Learning Transferable Negative Prompts for Out-of-Distribution Detection**|Tianqi Li et.al.|[2404.03248v1](http://arxiv.org/abs/2404.03248v1)|[link](https://github.com/mala-lab/negprompt)|
-|**2024-04-03**|**Semi-Supervised Unconstrained Head Pose Estimation in the Wild**|Huayi Zhou et.al.|[2404.02544v1](http://arxiv.org/abs/2404.02544v1)|[link](https://github.com/hnuzhy/semiuhpe)|
-|**2024-04-02**|**Machine Learning-Based Identification of Contaminated Images in Light Curves Data Preprocessing**|Hui Li et.al.|[2404.01691v1](http://arxiv.org/abs/2404.01691v1)|null|
-|**2024-04-02**|**Blind QSO reconstruction challenge: Exploring methods to reconstruct the Ly$α$ emission line of QSOs**|Bradley Greig et.al.|[2404.01556v1](http://arxiv.org/abs/2404.01556v1)|null|
-|**2024-04-01**|**Scalable 3D Registration via Truncated Entry-wise Absolute Residuals**|Tianyu Huang et.al.|[2404.00915v1](http://arxiv.org/abs/2404.00915v1)|[link](https://github.com/tyhuang98/tear-release)|
-|**2024-03-30**|**QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs**|Saleh Ashkboos et.al.|[2404.00456v1](http://arxiv.org/abs/2404.00456v1)|[link](https://github.com/spcl/quarot)|
-|**2024-03-30**|**A Context-Sensitive, Outlier-Based Static Analysis to Find Kernel Race Conditions**|Niels Dossche et.al.|[2404.00350v1](http://arxiv.org/abs/2404.00350v1)|null|
-|**2024-03-30**|**CLIP-driven Outliers Synthesis for few-shot OOD detection**|Hao Sun et.al.|[2404.00323v1](http://arxiv.org/abs/2404.00323v1)|null|
-|**2024-03-29**|**Modeling Large-Scale Walking and Cycling Networks: A Machine Learning Approach Using Mobile Phone and Crowdsourced Data**|Meead Saberi et.al.|[2404.00162v2](http://arxiv.org/abs/2404.00162v2)|null|
-|**2024-03-29**|**Accurate Block Quantization in LLMs with Outliers**|Nikita Trukhanov et.al.|[2403.20137v1](http://arxiv.org/abs/2403.20137v1)|null|
-|**2024-03-29**|**Nonparametric Bellman Mappings for Reinforcement Learning: Application to Robust Adaptive Filtering**|Yuki Akiyama et.al.|[2403.20020v1](http://arxiv.org/abs/2403.20020v1)|null|
-|**2024-03-28**|**CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network**|Jie Wen et.al.|[2403.19514v1](http://arxiv.org/abs/2403.19514v1)|null|
-|**2024-03-27**|**Computationally and Memory-Efficient Robust Predictive Analytics Using Big Data**|Daniel Menges et.al.|[2403.19721v1](http://arxiv.org/abs/2403.19721v1)|null|
-|**2024-03-27**|**Transfer matrix analysis of non-hermitian Hamiltonians: asymptotic spectra and topological eigenvalues**|Lars Koekenbier et.al.|[2403.18942v1](http://arxiv.org/abs/2403.18942v1)|null|
-|**2024-03-27**|**Theoretical Guarantees for the Subspace-Constrained Tyler's Estimator**|Gilad Lerman et.al.|[2403.18658v1](http://arxiv.org/abs/2403.18658v1)|null|
-|**2024-03-27**|**Few-shot Online Anomaly Detection and Segmentation**|Shenxing Wei et.al.|[2403.18201v1](http://arxiv.org/abs/2403.18201v1)|null|
-|**2024-03-26**|**Can patient-specific acquisition protocol improve performance on defect detection task in myocardial perfusion SPECT?**|Nu Ri Choi et.al.|[2403.17764v1](http://arxiv.org/abs/2403.17764v1)|null|
-|**2024-03-25**|**AXES-SDSS: comparison of SDSS galaxy groups with All-sky X-ray Extended Sources**|S. Damsted et.al.|[2403.17055v1](http://arxiv.org/abs/2403.17055v1)|null|
-|**2024-03-25**|**Resistant Inference in Instrumental Variable Models**|Jens Klooster et.al.|[2403.16844v1](http://arxiv.org/abs/2403.16844v1)|null|
-|**2024-03-25**|**RKFNet: A Novel Neural Network Aided Robust Kalman Filter**|Pengcheng Hao et.al.|[2403.16756v1](http://arxiv.org/abs/2403.16756v1)|null|
-|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728v1](http://arxiv.org/abs/2403.16728v1)|[link](https://github.com/kabachuha/SPHL-for-stable-diffusion)|
-|**2024-03-25**|**Distributed collaborative anomalous sound detection by embedding sharing**|Kota Dohi et.al.|[2403.16610v1](http://arxiv.org/abs/2403.16610v1)|null|
-|**2024-03-22**|**A data-informed mathematical model of microglial cell dynamics during ischemic stroke in the middle cerebral artery**|Sara Amato et.al.|[2403.15284v1](http://arxiv.org/abs/2403.15284v1)|null|
-|**2024-03-22**|**Hyperbolic Metric Learning for Visual Outlier Detection**|Alvaro Gonzalez-Jimenez et.al.|[2403.15260v1](http://arxiv.org/abs/2403.15260v1)|null|
-|**2024-03-22**|**Active Learning for Regression based on Wasserstein distance and GroupSort Neural Networks**|Benjamin Bobbia et.al.|[2403.15108v1](http://arxiv.org/abs/2403.15108v1)|null|
