@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-27 09:22:31 Asia/Shanghai
+ Automated deployment @ 2024-04-27 20:35:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -9,40 +9,6 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v1](http://arxiv.org/abs/2402.07408v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-25**|**Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing**|Frank J. Qu et.al.|[2404.16805v1](http://arxiv.org/abs/2404.16805v1)|null|
-|**2024-04-25**|**Model-free inference of memory in conformational dynamics of a multi-domain protein**|Leonie Vollmar et.al.|[2404.16799v1](http://arxiv.org/abs/2404.16799v1)|null|
-|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795v1](http://arxiv.org/abs/2404.16795v1)|null|
-|**2024-04-25**|**Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms**|Parsa H. S. Panahi et.al.|[2404.16787v1](http://arxiv.org/abs/2404.16787v1)|null|
-|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776v1](http://arxiv.org/abs/2404.16776v1)|null|
-|**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771v1](http://arxiv.org/abs/2404.16771v1)|[link](https://github.com/JackAILab/ConsistentID)|
-|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767v1](http://arxiv.org/abs/2404.16767v1)|null|
-|**2024-04-25**|**Analysis of Ethanol Blending Effects on Auto-Ignition and Heat Release in n-Heptane/Ethanol Non-Premixed Flames**|Liang Ji et.al.|[2404.16762v1](http://arxiv.org/abs/2404.16762v1)|null|
-|**2024-04-25**|**Beyond Boolean networks, a multi-valued approach**|J. García Galofre et.al.|[2404.16760v1](http://arxiv.org/abs/2404.16760v1)|null|
-|**2024-04-25**|**Characterizing Solar Center-to-Limb Radial-Velocity Variability with SDO**|Michael L. Palumbo III et.al.|[2404.16747v1](http://arxiv.org/abs/2404.16747v1)|null|
-|**2024-04-25**|**Parameterized Complexity of Efficient Sortation**|Robert Ganian et.al.|[2404.16741v1](http://arxiv.org/abs/2404.16741v1)|null|
-|**2024-04-25**|**Approximation Algorithms for Hop Constrained and Buy-at-Bulk Network Design via Hop Constrained Oblivious Routing**|Chandra Chekuri et.al.|[2404.16725v1](http://arxiv.org/abs/2404.16725v1)|null|
-|**2024-04-25**|**Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**|Min Kyu Shin et.al.|[2404.16721v1](http://arxiv.org/abs/2404.16721v1)|null|
-|**2024-04-25**|**Log-normal glide and the formation of misfit dislocation networks in heteroepitaxial ZnS on GaP**|Alexandra Fonseca Montenegro et.al.|[2404.16714v1](http://arxiv.org/abs/2404.16714v1)|null|
-|**2024-04-25**|**SHINE: Social Homology Identification for Navigation in Crowded Environments**|Diego Martinez-Baselga et.al.|[2404.16705v1](http://arxiv.org/abs/2404.16705v1)|null|
-|**2024-04-25**|**Fidelity and criticality in the nonreciprocal Aubry-Andr{é}-Harper model**|Chen-Chang Zeng et.al.|[2404.16704v1](http://arxiv.org/abs/2404.16704v1)|null|
-|**2024-04-25**|**Reusing Deep Learning Models: Challenges and Directions in Software Engineering**|James C. Davis et.al.|[2404.16688v1](http://arxiv.org/abs/2404.16688v1)|null|
-|**2024-04-25**|**Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation**|Huiyu Zhai et.al.|[2404.16685v1](http://arxiv.org/abs/2404.16685v1)|[link](https://github.com/alexyangxx/mcfnet)|
-|**2024-04-25**|**A candidate period of 4.605 day for FRB 20121102A and one possible implication of its origin**|Jixuan Li et.al.|[2404.16669v1](http://arxiv.org/abs/2404.16669v1)|null|
-|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664v1](http://arxiv.org/abs/2404.16664v1)|null|
-|**2024-04-25**|**A Self-Organizing Clustering System for Unsupervised Distribution Shift Detection**|Sebastián Basterrech et.al.|[2404.16656v1](http://arxiv.org/abs/2404.16656v1)|null|
-|**2024-04-25**|**Two-state transfer: a generalization of pair and plus state transfer**|Sooyeong Kim et.al.|[2404.16654v1](http://arxiv.org/abs/2404.16654v1)|null|
-|**2024-04-25**|**Application of RESNET50 Convolution Neural Network for the Extraction of Optical Parameters in Scattering Media**|Bowen Deng et.al.|[2404.16647v1](http://arxiv.org/abs/2404.16647v1)|null|
-|**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633v1](http://arxiv.org/abs/2404.16633v1)|[link](https://github.com/IMPLabUniPr/mmdetection)|
-|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627v1](http://arxiv.org/abs/2404.16627v1)|null|
-|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v1](http://arxiv.org/abs/2404.16617v1)|null|
-|**2024-04-25**|**Towards Symbiotic SAGIN Through Inter-operator Resource and Service Sharing: Joint Orchestration of User Association and Radio Resources**|Shizhao He et.al.|[2404.16611v1](http://arxiv.org/abs/2404.16611v1)|null|
-|**2024-04-25**|**SFMViT: SlowFast Meet ViT in Chaotic World**|Jiaying Lin et.al.|[2404.16609v1](http://arxiv.org/abs/2404.16609v1)|[link](https://github.com/jfightyr/slowfast-meet-vit)|
-|**2024-04-25**|**Uninterrupted Maximum Flow on Signalized Traffic Networks**|Melvin H. Friedman et.al.|[2404.16592v1](http://arxiv.org/abs/2404.16592v1)|null|
-|**2024-04-25**|**Directional intermodular coupling enriches functional complexity in biological neuronal networks**|Nobuaki Monma et.al.|[2404.16582v1](http://arxiv.org/abs/2404.16582v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -111,3 +77,37 @@
 |**2024-04-25**|**In Situ Characterisation of Graphene Growth on Liquid Copper-Gallium Alloys: Paving the Path for Cost-Effective Synthesis**|Valentina Rein et.al.|[2404.16465v1](http://arxiv.org/abs/2404.16465v1)|null|
 |**2024-04-25**|**Stabilizing quantum simulations of lattice gauge theories by dissipation**|Tobias Schmale et.al.|[2404.16454v1](http://arxiv.org/abs/2404.16454v1)|null|
 |**2024-04-25**|**Quantification of 2D Interfaces: Quality of heterostructures, and what is inside a nanobubble**|Mainak Mondal et.al.|[2404.16441v1](http://arxiv.org/abs/2404.16441v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-25**|**Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing**|Frank J. Qu et.al.|[2404.16805v1](http://arxiv.org/abs/2404.16805v1)|null|
+|**2024-04-25**|**Model-free inference of memory in conformational dynamics of a multi-domain protein**|Leonie Vollmar et.al.|[2404.16799v1](http://arxiv.org/abs/2404.16799v1)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795v1](http://arxiv.org/abs/2404.16795v1)|null|
+|**2024-04-25**|**Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms**|Parsa H. S. Panahi et.al.|[2404.16787v1](http://arxiv.org/abs/2404.16787v1)|null|
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776v1](http://arxiv.org/abs/2404.16776v1)|null|
+|**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771v1](http://arxiv.org/abs/2404.16771v1)|[link](https://github.com/JackAILab/ConsistentID)|
+|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767v1](http://arxiv.org/abs/2404.16767v1)|null|
+|**2024-04-25**|**Analysis of Ethanol Blending Effects on Auto-Ignition and Heat Release in n-Heptane/Ethanol Non-Premixed Flames**|Liang Ji et.al.|[2404.16762v1](http://arxiv.org/abs/2404.16762v1)|null|
+|**2024-04-25**|**Beyond Boolean networks, a multi-valued approach**|J. García Galofre et.al.|[2404.16760v1](http://arxiv.org/abs/2404.16760v1)|null|
+|**2024-04-25**|**Characterizing Solar Center-to-Limb Radial-Velocity Variability with SDO**|Michael L. Palumbo III et.al.|[2404.16747v1](http://arxiv.org/abs/2404.16747v1)|null|
+|**2024-04-25**|**Parameterized Complexity of Efficient Sortation**|Robert Ganian et.al.|[2404.16741v1](http://arxiv.org/abs/2404.16741v1)|null|
+|**2024-04-25**|**Approximation Algorithms for Hop Constrained and Buy-at-Bulk Network Design via Hop Constrained Oblivious Routing**|Chandra Chekuri et.al.|[2404.16725v1](http://arxiv.org/abs/2404.16725v1)|null|
+|**2024-04-25**|**Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**|Min Kyu Shin et.al.|[2404.16721v1](http://arxiv.org/abs/2404.16721v1)|null|
+|**2024-04-25**|**Log-normal glide and the formation of misfit dislocation networks in heteroepitaxial ZnS on GaP**|Alexandra Fonseca Montenegro et.al.|[2404.16714v1](http://arxiv.org/abs/2404.16714v1)|null|
+|**2024-04-25**|**SHINE: Social Homology Identification for Navigation in Crowded Environments**|Diego Martinez-Baselga et.al.|[2404.16705v1](http://arxiv.org/abs/2404.16705v1)|null|
+|**2024-04-25**|**Fidelity and criticality in the nonreciprocal Aubry-Andr{é}-Harper model**|Chen-Chang Zeng et.al.|[2404.16704v1](http://arxiv.org/abs/2404.16704v1)|null|
+|**2024-04-25**|**Reusing Deep Learning Models: Challenges and Directions in Software Engineering**|James C. Davis et.al.|[2404.16688v1](http://arxiv.org/abs/2404.16688v1)|null|
+|**2024-04-25**|**Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation**|Huiyu Zhai et.al.|[2404.16685v1](http://arxiv.org/abs/2404.16685v1)|[link](https://github.com/alexyangxx/mcfnet)|
+|**2024-04-25**|**A candidate period of 4.605 day for FRB 20121102A and one possible implication of its origin**|Jixuan Li et.al.|[2404.16669v1](http://arxiv.org/abs/2404.16669v1)|null|
+|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664v1](http://arxiv.org/abs/2404.16664v1)|null|
+|**2024-04-25**|**A Self-Organizing Clustering System for Unsupervised Distribution Shift Detection**|Sebastián Basterrech et.al.|[2404.16656v1](http://arxiv.org/abs/2404.16656v1)|null|
+|**2024-04-25**|**Two-state transfer: a generalization of pair and plus state transfer**|Sooyeong Kim et.al.|[2404.16654v1](http://arxiv.org/abs/2404.16654v1)|null|
+|**2024-04-25**|**Application of RESNET50 Convolution Neural Network for the Extraction of Optical Parameters in Scattering Media**|Bowen Deng et.al.|[2404.16647v1](http://arxiv.org/abs/2404.16647v1)|null|
+|**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633v1](http://arxiv.org/abs/2404.16633v1)|[link](https://github.com/IMPLabUniPr/mmdetection)|
+|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627v1](http://arxiv.org/abs/2404.16627v1)|null|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v1](http://arxiv.org/abs/2404.16617v1)|null|
+|**2024-04-25**|**Towards Symbiotic SAGIN Through Inter-operator Resource and Service Sharing: Joint Orchestration of User Association and Radio Resources**|Shizhao He et.al.|[2404.16611v1](http://arxiv.org/abs/2404.16611v1)|null|
+|**2024-04-25**|**SFMViT: SlowFast Meet ViT in Chaotic World**|Jiaying Lin et.al.|[2404.16609v1](http://arxiv.org/abs/2404.16609v1)|[link](https://github.com/jfightyr/slowfast-meet-vit)|
+|**2024-04-25**|**Uninterrupted Maximum Flow on Signalized Traffic Networks**|Melvin H. Friedman et.al.|[2404.16592v1](http://arxiv.org/abs/2404.16592v1)|null|
+|**2024-04-25**|**Directional intermodular coupling enriches functional complexity in biological neuronal networks**|Nobuaki Monma et.al.|[2404.16582v1](http://arxiv.org/abs/2404.16582v1)|null|
