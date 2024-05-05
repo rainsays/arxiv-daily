@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-05 09:35:06 Asia/Shanghai
+ Automated deployment @ 2024-05-05 20:36:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,6 +10,40 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v1](http://arxiv.org/abs/2402.07408v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-02**|**Modeling of Granulation in Red Supergiants in the Magellanic Clouds with the Gaussian Process Regressions**|Zehao Zhang et.al.|[2405.01405v1](http://arxiv.org/abs/2405.01405v1)|null|
+|**2024-05-02**|**Exponentially Consistent Outlier Hypothesis Testing for Continuous Sequences**|Lina Zhu et.al.|[2405.01161v1](http://arxiv.org/abs/2405.01161v1)|null|
+|**2024-05-01**|**Deep Metric Learning-Based Out-of-Distribution Detection with Synthetic Outlier Exposure**|Assefa Seyoum Wahd et.al.|[2405.00631v1](http://arxiv.org/abs/2405.00631v1)|null|
+|**2024-04-30**|**Rockafellian Relaxation for PDE-Constrained Optimization with Distributional Uncertainty**|Harbir Antil et.al.|[2405.00176v1](http://arxiv.org/abs/2405.00176v1)|null|
+|**2024-04-30**|**Dynamic Human Trust Modeling of Autonomous Agents With Varying Capability and Strategy**|Jason Dekarske et.al.|[2404.19291v1](http://arxiv.org/abs/2404.19291v1)|null|
+|**2024-04-30**|**Improved AutoEncoder with LSTM module and KL divergence**|Wei Huang et.al.|[2404.19247v1](http://arxiv.org/abs/2404.19247v1)|null|
+|**2024-04-29**|**A comprehensive kinematic model of the LMC disk from star clusters and field stars using Gaia DR3: Tracing the disk characteristics, rotation, bar, and the outliers**|S. R. Dhanush et.al.|[2404.18658v1](http://arxiv.org/abs/2404.18658v1)|null|
+|**2024-04-29**|**Enhancing RSS-Based Visible Light Positioning by Optimal Calibrating the LED Tilt and Gain**|Fan Wu et.al.|[2404.18650v1](http://arxiv.org/abs/2404.18650v1)|null|
+|**2024-04-28**|**Advancing Supervised Learning with the Wave Loss Function: A Robust and Smooth Approach**|Mushir Akhtar et.al.|[2404.18101v1](http://arxiv.org/abs/2404.18101v1)|[link](https://github.com/mtanveer1/wave-svm)|
+|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993v1](http://arxiv.org/abs/2404.17993v1)|[link](https://github.com/disungatullina/minbackprop)|
+|**2024-04-27**|**A Method of Moments Embedding Constraint and its Application to Semi-Supervised Learning**|Michael Majurski et.al.|[2404.17978v1](http://arxiv.org/abs/2404.17978v1)|null|
+|**2024-04-27**|**Critical Review for One-class Classification: recent advances and the reality behind them**|Toshitaka Hayashi et.al.|[2404.17931v1](http://arxiv.org/abs/2404.17931v1)|null|
+|**2024-04-26**|**On the spectral edge of non-Hermitian random matrices**|Andrew Campbell et.al.|[2404.17512v1](http://arxiv.org/abs/2404.17512v1)|null|
+|**2024-04-26**|**Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm**|Qianqian Qi et.al.|[2404.17380v1](http://arxiv.org/abs/2404.17380v1)|[link](https://github.com/qianqianqi28/ca-outlier)|
+|**2024-04-25**|**A Self-Organizing Clustering System for Unsupervised Distribution Shift Detection**|Sebastián Basterrech et.al.|[2404.16656v1](http://arxiv.org/abs/2404.16656v1)|null|
+|**2024-04-25**|**DAVE -- A Detect-and-Verify Paradigm for Low-Shot Counting**|Jer Pelhan et.al.|[2404.16622v1](http://arxiv.org/abs/2404.16622v1)|[link](https://github.com/jerpelhan/dave)|
+|**2024-04-25**|**Robust Capped lp-Norm Support Vector Ordinal Regression**|Haorui Xiang et.al.|[2404.16616v1](http://arxiv.org/abs/2404.16616v1)|null|
+|**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471v1](http://arxiv.org/abs/2404.16471v1)|[link](https://github.com/pansap99/cobra)|
+|**2024-04-25**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
+|**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017v1](http://arxiv.org/abs/2404.16017v1)|[link](https://github.com/mirthAI/RetinaRegNet)|
+|**2024-04-24**|**Noise Variance Optimization in Differential Privacy: A Game-Theoretic Approach Through Per-Instance Differential Privacy**|Sehyun Ryu et.al.|[2404.15686v2](http://arxiv.org/abs/2404.15686v2)|null|
+|**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274v1](http://arxiv.org/abs/2404.15274v1)|[link](https://github.com/matthewyccheung/conformal-metric)|
+|**2024-04-23**|**Fin-Fed-OD: Federated Outlier Detection on Financial Tabular Data**|Dayananda Herurkar et.al.|[2404.14933v1](http://arxiv.org/abs/2404.14933v1)|null|
+|**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634v1](http://arxiv.org/abs/2404.14634v1)|null|
+|**2024-04-22**|**RESFM: Robust Equivariant Multiview Structure from Motion**|Fadi Khatib et.al.|[2404.14280v1](http://arxiv.org/abs/2404.14280v1)|null|
+|**2024-04-22**|**Sequential Outlier Hypothesis Testing under Universality Constraints**|Jun Diao et.al.|[2404.14221v2](http://arxiv.org/abs/2404.14221v2)|null|
+|**2024-04-22**|**Stable coexistence in indefinitely large systems of competing species**|M. N. Mooij et.al.|[2404.14031v1](http://arxiv.org/abs/2404.14031v1)|null|
+|**2024-04-22**|**Temporal genomics help in deciphering neutral and adaptive patterns in the contemporary evolution of kelp populations**|Lauric Reynes et.al.|[2404.14003v1](http://arxiv.org/abs/2404.14003v1)|null|
+|**2024-04-22**|**PeLiCal: Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility**|Jaeho Shin et.al.|[2404.13949v2](http://arxiv.org/abs/2404.13949v2)|[link](https://github.com/joomeok/pelical)|
+|**2024-04-20**|**Generative Subspace Adversarial Active Learning for Outlier Detection in Multiple Views of High-dimensional Data**|Jose Cribeiro-Ramallo et.al.|[2404.14451v1](http://arxiv.org/abs/2404.14451v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,37 +112,3 @@
 |**2024-05-02**|**Graph is all you need? Lightweight data-agnostic neural architecture search without training**|Zhenhan Huang et.al.|[2405.01306v1](http://arxiv.org/abs/2405.01306v1)|null|
 |**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305v1](http://arxiv.org/abs/2405.01305v1)|null|
 |**2024-05-02**|**Misclassification bounds for PAC-Bayesian sparse deep learning**|The Tien Mai et.al.|[2405.01304v1](http://arxiv.org/abs/2405.01304v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-02**|**Modeling of Granulation in Red Supergiants in the Magellanic Clouds with the Gaussian Process Regressions**|Zehao Zhang et.al.|[2405.01405v1](http://arxiv.org/abs/2405.01405v1)|null|
-|**2024-05-02**|**Exponentially Consistent Outlier Hypothesis Testing for Continuous Sequences**|Lina Zhu et.al.|[2405.01161v1](http://arxiv.org/abs/2405.01161v1)|null|
-|**2024-05-01**|**Deep Metric Learning-Based Out-of-Distribution Detection with Synthetic Outlier Exposure**|Assefa Seyoum Wahd et.al.|[2405.00631v1](http://arxiv.org/abs/2405.00631v1)|null|
-|**2024-04-30**|**Rockafellian Relaxation for PDE-Constrained Optimization with Distributional Uncertainty**|Harbir Antil et.al.|[2405.00176v1](http://arxiv.org/abs/2405.00176v1)|null|
-|**2024-04-30**|**Dynamic Human Trust Modeling of Autonomous Agents With Varying Capability and Strategy**|Jason Dekarske et.al.|[2404.19291v1](http://arxiv.org/abs/2404.19291v1)|null|
-|**2024-04-30**|**Improved AutoEncoder with LSTM module and KL divergence**|Wei Huang et.al.|[2404.19247v1](http://arxiv.org/abs/2404.19247v1)|null|
-|**2024-04-29**|**A comprehensive kinematic model of the LMC disk from star clusters and field stars using Gaia DR3: Tracing the disk characteristics, rotation, bar, and the outliers**|S. R. Dhanush et.al.|[2404.18658v1](http://arxiv.org/abs/2404.18658v1)|null|
-|**2024-04-29**|**Enhancing RSS-Based Visible Light Positioning by Optimal Calibrating the LED Tilt and Gain**|Fan Wu et.al.|[2404.18650v1](http://arxiv.org/abs/2404.18650v1)|null|
-|**2024-04-28**|**Advancing Supervised Learning with the Wave Loss Function: A Robust and Smooth Approach**|Mushir Akhtar et.al.|[2404.18101v1](http://arxiv.org/abs/2404.18101v1)|[link](https://github.com/mtanveer1/wave-svm)|
-|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993v1](http://arxiv.org/abs/2404.17993v1)|[link](https://github.com/disungatullina/minbackprop)|
-|**2024-04-27**|**A Method of Moments Embedding Constraint and its Application to Semi-Supervised Learning**|Michael Majurski et.al.|[2404.17978v1](http://arxiv.org/abs/2404.17978v1)|null|
-|**2024-04-27**|**Critical Review for One-class Classification: recent advances and the reality behind them**|Toshitaka Hayashi et.al.|[2404.17931v1](http://arxiv.org/abs/2404.17931v1)|null|
-|**2024-04-26**|**On the spectral edge of non-Hermitian random matrices**|Andrew Campbell et.al.|[2404.17512v1](http://arxiv.org/abs/2404.17512v1)|null|
-|**2024-04-26**|**Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm**|Qianqian Qi et.al.|[2404.17380v1](http://arxiv.org/abs/2404.17380v1)|[link](https://github.com/qianqianqi28/ca-outlier)|
-|**2024-04-25**|**A Self-Organizing Clustering System for Unsupervised Distribution Shift Detection**|Sebastián Basterrech et.al.|[2404.16656v1](http://arxiv.org/abs/2404.16656v1)|null|
-|**2024-04-25**|**DAVE -- A Detect-and-Verify Paradigm for Low-Shot Counting**|Jer Pelhan et.al.|[2404.16622v1](http://arxiv.org/abs/2404.16622v1)|[link](https://github.com/jerpelhan/dave)|
-|**2024-04-25**|**Robust Capped lp-Norm Support Vector Ordinal Regression**|Haorui Xiang et.al.|[2404.16616v1](http://arxiv.org/abs/2404.16616v1)|null|
-|**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471v1](http://arxiv.org/abs/2404.16471v1)|[link](https://github.com/pansap99/cobra)|
-|**2024-04-25**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
-|**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017v1](http://arxiv.org/abs/2404.16017v1)|[link](https://github.com/mirthAI/RetinaRegNet)|
-|**2024-04-24**|**Noise Variance Optimization in Differential Privacy: A Game-Theoretic Approach Through Per-Instance Differential Privacy**|Sehyun Ryu et.al.|[2404.15686v2](http://arxiv.org/abs/2404.15686v2)|null|
-|**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274v1](http://arxiv.org/abs/2404.15274v1)|[link](https://github.com/matthewyccheung/conformal-metric)|
-|**2024-04-23**|**Fin-Fed-OD: Federated Outlier Detection on Financial Tabular Data**|Dayananda Herurkar et.al.|[2404.14933v1](http://arxiv.org/abs/2404.14933v1)|null|
-|**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634v1](http://arxiv.org/abs/2404.14634v1)|null|
-|**2024-04-22**|**RESFM: Robust Equivariant Multiview Structure from Motion**|Fadi Khatib et.al.|[2404.14280v1](http://arxiv.org/abs/2404.14280v1)|null|
-|**2024-04-22**|**Sequential Outlier Hypothesis Testing under Universality Constraints**|Jun Diao et.al.|[2404.14221v2](http://arxiv.org/abs/2404.14221v2)|null|
-|**2024-04-22**|**Stable coexistence in indefinitely large systems of competing species**|M. N. Mooij et.al.|[2404.14031v1](http://arxiv.org/abs/2404.14031v1)|null|
-|**2024-04-22**|**Temporal genomics help in deciphering neutral and adaptive patterns in the contemporary evolution of kelp populations**|Lauric Reynes et.al.|[2404.14003v1](http://arxiv.org/abs/2404.14003v1)|null|
-|**2024-04-22**|**PeLiCal: Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility**|Jaeho Shin et.al.|[2404.13949v2](http://arxiv.org/abs/2404.13949v2)|[link](https://github.com/joomeok/pelical)|
-|**2024-04-20**|**Generative Subspace Adversarial Active Learning for Outlier Detection in Multiple Views of High-dimensional Data**|Jose Cribeiro-Ramallo et.al.|[2404.14451v1](http://arxiv.org/abs/2404.14451v1)|null|
