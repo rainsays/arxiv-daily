@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-12 09:37:34 Asia/Shanghai
+ Automated deployment @ 2024-05-12 20:38:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,6 +10,40 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v1](http://arxiv.org/abs/2402.07408v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|[link](https://github.com/eqtpartners/tsde)|
+|**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v1](http://arxiv.org/abs/2405.05944v1)|null|
+|**2024-05-09**|**Deep Multi-Task Learning for Malware Image Classification**|Ahmed Bensaoud et.al.|[2405.05906v1](http://arxiv.org/abs/2405.05906v1)|null|
+|**2024-05-09**|**A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking**|Mohamed Mahmoud et.al.|[2405.05900v1](http://arxiv.org/abs/2405.05900v1)|null|
+|**2024-05-09**|**Exploiting Autoencoder's Weakness to Generate Pseudo Anomalies**|Marcella Astrid et.al.|[2405.05886v1](http://arxiv.org/abs/2405.05886v1)|null|
+|**2024-05-09**|**Informed Decision-Making through Advancements in Open Set Recognition and Unknown Sample Detection**|Atefeh Mahdavi et.al.|[2405.05836v1](http://arxiv.org/abs/2405.05836v1)|null|
+|**2024-05-09**|**A Sagittarius-like simulated dwarf spheroidal galaxy from TNG50**|Ewa L. Lokas et.al.|[2405.05805v1](http://arxiv.org/abs/2405.05805v1)|null|
+|**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795v1](http://arxiv.org/abs/2405.05795v1)|null|
+|**2024-05-09**|**Determining the population of Large Meteoroids in Major Meteor Showers**|Kasia Wisniewski et.al.|[2405.05788v1](http://arxiv.org/abs/2405.05788v1)|null|
+|**2024-05-09**|**JADES -- The small blue bump in GN-z11: insights into the nuclear region of a galaxy at z=10.6**|Xihan Ji et.al.|[2405.05772v1](http://arxiv.org/abs/2405.05772v1)|null|
+|**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
+|**2024-05-09**|**The mechanisms behind extreme susceptibility of photon avalanche emission to quenching**|Martyna Majak et.al.|[2405.05764v1](http://arxiv.org/abs/2405.05764v1)|null|
+|**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755v1](http://arxiv.org/abs/2405.05755v1)|null|
+|**2024-05-09**|**Nonlinear vibrational spectrometer for bioapplications featuring narrowband 1-$μ$m pulses and a recycled OPA pump beam**|Zsuzsanna Heiner et.al.|[2405.05729v1](http://arxiv.org/abs/2405.05729v1)|null|
+|**2024-05-09**|**Incoherent Fermionic Dark Matter Absorption with Nucleon Fermi Motion**|Shao-Feng Ge et.al.|[2405.05728v1](http://arxiv.org/abs/2405.05728v1)|null|
+|**2024-05-09**|**Private Online Community Detection for Censored Block Models**|Mohamed Seif et.al.|[2405.05724v1](http://arxiv.org/abs/2405.05724v1)|null|
+|**2024-05-09**|**Bimodal Plasmonic Refractive Index Sensors Based on SU-8 Waveguides**|Omkar Bhalerao et.al.|[2405.05716v1](http://arxiv.org/abs/2405.05716v1)|null|
+|**2024-05-09**|**Detecting Statements in Text: A Domain-Agnostic Few-Shot Solution**|Sandrine Chausson et.al.|[2405.05705v1](http://arxiv.org/abs/2405.05705v1)|[link](https://github.com/s-l-chausson/easyclaimsdetection)|
+|**2024-05-09**|**Detecting environmental effects in gravitational waves from binaries perturbed by periodic forces**|Lorenz Zwick et.al.|[2405.05698v1](http://arxiv.org/abs/2405.05698v1)|null|
+|**2024-05-09**|**Matter Asymmetries in the $Z_N$ Dark matter -companion Models**|Shao-Long Chen et.al.|[2405.05694v1](http://arxiv.org/abs/2405.05694v1)|null|
+|**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|null|
+|**2024-05-09**|**Evaluation of the X-ray SOI pixel detector with the on-chip ADC**|Hiroumi Matsuhashi et.al.|[2405.05649v1](http://arxiv.org/abs/2405.05649v1)|null|
+|**2024-05-09**|**ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera**|Jun Shi et.al.|[2405.05648v1](http://arxiv.org/abs/2405.05648v1)|null|
+|**2024-05-09**|**Channel Estimation for Holographic MIMO: Wavenumber-Domain Sparsity Inspired Approaches**|Yuqing Guo et.al.|[2405.05641v1](http://arxiv.org/abs/2405.05641v1)|null|
+|**2024-05-09**|**An Automatic Prompt Generation System for Tabular Data Tasks**|Ashlesha Akella et.al.|[2405.05618v1](http://arxiv.org/abs/2405.05618v1)|null|
+|**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614v1](http://arxiv.org/abs/2405.05614v1)|null|
+|**2024-05-09**|**Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems**|Amin Aminifar et.al.|[2405.05611v1](http://arxiv.org/abs/2405.05611v1)|[link](https://github.com/shokri-matin/fed-eglass)|
+|**2024-05-09**|**Identification of problematic epochs in Astronomical Time Series through Transfer Learning**|Stefano Cavuoti et.al.|[2405.05591v1](http://arxiv.org/abs/2405.05591v1)|[link](https://github.com/cavuoti/AnomalyInTimeSeries)|
+|**2024-05-09**|**Extension of graph-accelerated non-intrusive polynomial chaos to high-dimensional uncertainty quantification through the active subspace method**|Bingran Wang et.al.|[2405.05556v1](http://arxiv.org/abs/2405.05556v1)|null|
+|**2024-05-09**|**RELICS: a REactor neutrino LIquid xenon Coherent elastic Scattering experiment**|Chang Cai et.al.|[2405.05554v1](http://arxiv.org/abs/2405.05554v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,37 +112,3 @@
 |**2024-04-24**|**Noise Variance Optimization in Differential Privacy: A Game-Theoretic Approach Through Per-Instance Differential Privacy**|Sehyun Ryu et.al.|[2404.15686v2](http://arxiv.org/abs/2404.15686v2)|null|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274v1](http://arxiv.org/abs/2404.15274v1)|[link](https://github.com/matthewyccheung/conformal-metric)|
 |**2024-04-23**|**Fin-Fed-OD: Federated Outlier Detection on Financial Tabular Data**|Dayananda Herurkar et.al.|[2404.14933v1](http://arxiv.org/abs/2404.14933v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|[link](https://github.com/eqtpartners/tsde)|
-|**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v1](http://arxiv.org/abs/2405.05944v1)|null|
-|**2024-05-09**|**Deep Multi-Task Learning for Malware Image Classification**|Ahmed Bensaoud et.al.|[2405.05906v1](http://arxiv.org/abs/2405.05906v1)|null|
-|**2024-05-09**|**A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking**|Mohamed Mahmoud et.al.|[2405.05900v1](http://arxiv.org/abs/2405.05900v1)|null|
-|**2024-05-09**|**Exploiting Autoencoder's Weakness to Generate Pseudo Anomalies**|Marcella Astrid et.al.|[2405.05886v1](http://arxiv.org/abs/2405.05886v1)|null|
-|**2024-05-09**|**Informed Decision-Making through Advancements in Open Set Recognition and Unknown Sample Detection**|Atefeh Mahdavi et.al.|[2405.05836v1](http://arxiv.org/abs/2405.05836v1)|null|
-|**2024-05-09**|**A Sagittarius-like simulated dwarf spheroidal galaxy from TNG50**|Ewa L. Lokas et.al.|[2405.05805v1](http://arxiv.org/abs/2405.05805v1)|null|
-|**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795v1](http://arxiv.org/abs/2405.05795v1)|null|
-|**2024-05-09**|**Determining the population of Large Meteoroids in Major Meteor Showers**|Kasia Wisniewski et.al.|[2405.05788v1](http://arxiv.org/abs/2405.05788v1)|null|
-|**2024-05-09**|**JADES -- The small blue bump in GN-z11: insights into the nuclear region of a galaxy at z=10.6**|Xihan Ji et.al.|[2405.05772v1](http://arxiv.org/abs/2405.05772v1)|null|
-|**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
-|**2024-05-09**|**The mechanisms behind extreme susceptibility of photon avalanche emission to quenching**|Martyna Majak et.al.|[2405.05764v1](http://arxiv.org/abs/2405.05764v1)|null|
-|**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755v1](http://arxiv.org/abs/2405.05755v1)|null|
-|**2024-05-09**|**Nonlinear vibrational spectrometer for bioapplications featuring narrowband 1-$μ$m pulses and a recycled OPA pump beam**|Zsuzsanna Heiner et.al.|[2405.05729v1](http://arxiv.org/abs/2405.05729v1)|null|
-|**2024-05-09**|**Incoherent Fermionic Dark Matter Absorption with Nucleon Fermi Motion**|Shao-Feng Ge et.al.|[2405.05728v1](http://arxiv.org/abs/2405.05728v1)|null|
-|**2024-05-09**|**Private Online Community Detection for Censored Block Models**|Mohamed Seif et.al.|[2405.05724v1](http://arxiv.org/abs/2405.05724v1)|null|
-|**2024-05-09**|**Bimodal Plasmonic Refractive Index Sensors Based on SU-8 Waveguides**|Omkar Bhalerao et.al.|[2405.05716v1](http://arxiv.org/abs/2405.05716v1)|null|
-|**2024-05-09**|**Detecting Statements in Text: A Domain-Agnostic Few-Shot Solution**|Sandrine Chausson et.al.|[2405.05705v1](http://arxiv.org/abs/2405.05705v1)|[link](https://github.com/s-l-chausson/easyclaimsdetection)|
-|**2024-05-09**|**Detecting environmental effects in gravitational waves from binaries perturbed by periodic forces**|Lorenz Zwick et.al.|[2405.05698v1](http://arxiv.org/abs/2405.05698v1)|null|
-|**2024-05-09**|**Matter Asymmetries in the $Z_N$ Dark matter -companion Models**|Shao-Long Chen et.al.|[2405.05694v1](http://arxiv.org/abs/2405.05694v1)|null|
-|**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|null|
-|**2024-05-09**|**Evaluation of the X-ray SOI pixel detector with the on-chip ADC**|Hiroumi Matsuhashi et.al.|[2405.05649v1](http://arxiv.org/abs/2405.05649v1)|null|
-|**2024-05-09**|**ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera**|Jun Shi et.al.|[2405.05648v1](http://arxiv.org/abs/2405.05648v1)|null|
-|**2024-05-09**|**Channel Estimation for Holographic MIMO: Wavenumber-Domain Sparsity Inspired Approaches**|Yuqing Guo et.al.|[2405.05641v1](http://arxiv.org/abs/2405.05641v1)|null|
-|**2024-05-09**|**An Automatic Prompt Generation System for Tabular Data Tasks**|Ashlesha Akella et.al.|[2405.05618v1](http://arxiv.org/abs/2405.05618v1)|null|
-|**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614v1](http://arxiv.org/abs/2405.05614v1)|null|
-|**2024-05-09**|**Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems**|Amin Aminifar et.al.|[2405.05611v1](http://arxiv.org/abs/2405.05611v1)|[link](https://github.com/shokri-matin/fed-eglass)|
-|**2024-05-09**|**Identification of problematic epochs in Astronomical Time Series through Transfer Learning**|Stefano Cavuoti et.al.|[2405.05591v1](http://arxiv.org/abs/2405.05591v1)|[link](https://github.com/cavuoti/AnomalyInTimeSeries)|
-|**2024-05-09**|**Extension of graph-accelerated non-intrusive polynomial chaos to high-dimensional uncertainty quantification through the active subspace method**|Bingran Wang et.al.|[2405.05556v1](http://arxiv.org/abs/2405.05556v1)|null|
-|**2024-05-09**|**RELICS: a REactor neutrino LIquid xenon Coherent elastic Scattering experiment**|Chang Cai et.al.|[2405.05554v1](http://arxiv.org/abs/2405.05554v1)|null|
