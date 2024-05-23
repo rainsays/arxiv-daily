@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-23 09:32:41 Asia/Shanghai
+ Automated deployment @ 2024-05-23 20:40:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,6 +10,40 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v1](http://arxiv.org/abs/2402.07408v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**Implication of jet physics from MeV line emission of GRB 221009A**|Zhen Zhang et.al.|[2405.12977v1](http://arxiv.org/abs/2405.12977v1)|null|
+|**2024-05-21**|**BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once**|Theodore Zhao et.al.|[2405.12971v1](http://arxiv.org/abs/2405.12971v1)|null|
+|**2024-05-21**|**GA-NIFS: Witnessing the complex assembly of a massive star-forming system at $z=5.7$**|Gareth C. Jones et.al.|[2405.12955v1](http://arxiv.org/abs/2405.12955v1)|null|
+|**2024-05-21**|**Strategic Deployment of Honeypots in Blockchain-based IoT Systems**|Daniel Commey et.al.|[2405.12951v1](http://arxiv.org/abs/2405.12951v1)|null|
+|**2024-05-21**|**AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection**|Zizhao Chen et.al.|[2405.12944v1](http://arxiv.org/abs/2405.12944v1)|[link](https://github.com/bigD233/AMFD)|
+|**2024-05-21**|**Pytorch-Wildlife: A Collaborative Deep Learning Framework for Conservation**|Andres Hernandez et.al.|[2405.12930v1](http://arxiv.org/abs/2405.12930v1)|[link](https://github.com/microsoft/cameratraps)|
+|**2024-05-21**|**Code-mixed Sentiment and Hate-speech Prediction**|Anjali Yadav et.al.|[2405.12929v1](http://arxiv.org/abs/2405.12929v1)|null|
+|**2024-05-21**|**Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra**|Álvaro Tovar-Pardo et.al.|[2405.12918v1](http://arxiv.org/abs/2405.12918v1)|null|
+|**2024-05-21**|**Genuine $k$-partite correlations and entanglement in the ground state of the Dicke model for interacting qubits**|Antônio C. Lourenço et.al.|[2405.12916v1](http://arxiv.org/abs/2405.12916v1)|null|
+|**2024-05-21**|**Deep HST/UVIS imaging of the candidate dark galaxy CDG-1**|Pieter van Dokkum et.al.|[2405.12907v1](http://arxiv.org/abs/2405.12907v1)|null|
+|**2024-05-21**|**Catalog of Broad Hα and H\b{eta} Active Galactic Nuclei in MaNGA**|James Negus et.al.|[2405.12873v1](http://arxiv.org/abs/2405.12873v1)|null|
+|**2024-05-21**|**Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image**|Zerui Zhang et.al.|[2405.12872v1](http://arxiv.org/abs/2405.12872v1)|null|
+|**2024-05-21**|**A Quick Guide to Nearby Young Association**|Jonathan Gagné et.al.|[2405.12860v1](http://arxiv.org/abs/2405.12860v1)|null|
+|**2024-05-21**|**Open-Path Detection of Organic Vapors via Quantum Infrared Spectroscopy**|Simon Neves et.al.|[2405.12822v1](http://arxiv.org/abs/2405.12822v1)|null|
+|**2024-05-21**|**Multiphoton Quantum Imaging using Natural Light**|Fatemeh Mostafavi et.al.|[2405.12794v1](http://arxiv.org/abs/2405.12794v1)|null|
+|**2024-05-21**|**Expanded Sample of Small Magellanic Cloud Ultraviolet Dust Extinction Curves: Correlations between the 2175 A bump, q_pah, UV extinction shape, and N(HI)/A(V)**|Karl D. Gordon et.al.|[2405.12792v1](http://arxiv.org/abs/2405.12792v1)|null|
+|**2024-05-21**|**A conclusive non-detection of magnetic field in the Am star o Peg with high-precision near-infrared spectroscopy**|O. Kochukhov et.al.|[2405.12778v1](http://arxiv.org/abs/2405.12778v1)|null|
+|**2024-05-21**|**Blind Separation of Vibration Sources using Deep Learning and Deconvolution**|Igor Makienko et.al.|[2405.12774v1](http://arxiv.org/abs/2405.12774v1)|null|
+|**2024-05-21**|**Test Oracle Automation in the era of LLMs**|Facundo Molina et.al.|[2405.12766v1](http://arxiv.org/abs/2405.12766v1)|null|
+|**2024-05-21**|**Detecting and Mitigating Bias in Algorithms Used to Disseminate Information in Social Networks**|Vedran Sekara et.al.|[2405.12764v1](http://arxiv.org/abs/2405.12764v1)|null|
+|**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750v1](http://arxiv.org/abs/2405.12750v1)|null|
+|**2024-05-21**|**Predicting the Influence of Adverse Weather on Pedestrian Detection with Automotive Radar and Lidar Sensors**|Daniel Weihmayr et.al.|[2405.12736v1](http://arxiv.org/abs/2405.12736v1)|null|
+|**2024-05-21**|**From Today's Code to Tomorrow's Symphony: The AI Transformation of Developer's Routine by 2030**|Matteo Ciniselli et.al.|[2405.12731v1](http://arxiv.org/abs/2405.12731v1)|null|
+|**2024-05-21**|**A note on the Thom morphism for the classifying space of certain Lie groups and gauge groups**|Eiolf Kaspersen et.al.|[2405.12717v1](http://arxiv.org/abs/2405.12717v1)|null|
+|**2024-05-21**|**Multimodal video analysis for crowd anomaly detection using open access tourism cameras**|Alejandro Dionis-Ros et.al.|[2405.12708v1](http://arxiv.org/abs/2405.12708v1)|null|
+|**2024-05-21**|**Demystifying 5G NR Downlink Synchronization for Tactical Networks**|Karthik Upadhya et.al.|[2405.12704v1](http://arxiv.org/abs/2405.12704v1)|null|
+|**2024-05-21**|**Spotting AI's Touch: Identifying LLM-Paraphrased Spans in Text**|Yafu Li et.al.|[2405.12689v1](http://arxiv.org/abs/2405.12689v1)|null|
+|**2024-05-21**|**Medial axis detects non-Lipschitz normally embedded points**|Adam Białożyt et.al.|[2405.12682v1](http://arxiv.org/abs/2405.12682v1)|null|
+|**2024-05-21**|**Spatial Mode Multiplexing for Fiber-Coupled IM/DD Optical Wireless Links with Misalignment**|Jinzhe Che et.al.|[2405.12667v1](http://arxiv.org/abs/2405.12667v1)|null|
+|**2024-05-21**|**Comprehensive mm-Wave FMCW Radar Dataset for Vital Sign Monitoring: Embracing Extreme Physiological Scenarios**|Ehsan Sadeghi et.al.|[2405.12659v1](http://arxiv.org/abs/2405.12659v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,37 +112,3 @@
 |**2024-05-08**|**A fast and accurate inferential method for complex parametric models: the implicit bootstrap**|Samuel Orso et.al.|[2405.05403v1](http://arxiv.org/abs/2405.05403v1)|null|
 |**2024-05-07**|**Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment**|Aobo Li et.al.|[2405.04167v1](http://arxiv.org/abs/2405.04167v1)|null|
 |**2024-05-06**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869v2](http://arxiv.org/abs/2405.03869v2)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-21**|**Implication of jet physics from MeV line emission of GRB 221009A**|Zhen Zhang et.al.|[2405.12977v1](http://arxiv.org/abs/2405.12977v1)|null|
-|**2024-05-21**|**BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once**|Theodore Zhao et.al.|[2405.12971v1](http://arxiv.org/abs/2405.12971v1)|null|
-|**2024-05-21**|**GA-NIFS: Witnessing the complex assembly of a massive star-forming system at $z=5.7$**|Gareth C. Jones et.al.|[2405.12955v1](http://arxiv.org/abs/2405.12955v1)|null|
-|**2024-05-21**|**Strategic Deployment of Honeypots in Blockchain-based IoT Systems**|Daniel Commey et.al.|[2405.12951v1](http://arxiv.org/abs/2405.12951v1)|null|
-|**2024-05-21**|**AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection**|Zizhao Chen et.al.|[2405.12944v1](http://arxiv.org/abs/2405.12944v1)|[link](https://github.com/bigD233/AMFD)|
-|**2024-05-21**|**Pytorch-Wildlife: A Collaborative Deep Learning Framework for Conservation**|Andres Hernandez et.al.|[2405.12930v1](http://arxiv.org/abs/2405.12930v1)|[link](https://github.com/microsoft/cameratraps)|
-|**2024-05-21**|**Code-mixed Sentiment and Hate-speech Prediction**|Anjali Yadav et.al.|[2405.12929v1](http://arxiv.org/abs/2405.12929v1)|null|
-|**2024-05-21**|**Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra**|Álvaro Tovar-Pardo et.al.|[2405.12918v1](http://arxiv.org/abs/2405.12918v1)|null|
-|**2024-05-21**|**Genuine $k$-partite correlations and entanglement in the ground state of the Dicke model for interacting qubits**|Antônio C. Lourenço et.al.|[2405.12916v1](http://arxiv.org/abs/2405.12916v1)|null|
-|**2024-05-21**|**Deep HST/UVIS imaging of the candidate dark galaxy CDG-1**|Pieter van Dokkum et.al.|[2405.12907v1](http://arxiv.org/abs/2405.12907v1)|null|
-|**2024-05-21**|**Catalog of Broad Hα and H\b{eta} Active Galactic Nuclei in MaNGA**|James Negus et.al.|[2405.12873v1](http://arxiv.org/abs/2405.12873v1)|null|
-|**2024-05-21**|**Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image**|Zerui Zhang et.al.|[2405.12872v1](http://arxiv.org/abs/2405.12872v1)|null|
-|**2024-05-21**|**A Quick Guide to Nearby Young Association**|Jonathan Gagné et.al.|[2405.12860v1](http://arxiv.org/abs/2405.12860v1)|null|
-|**2024-05-21**|**Open-Path Detection of Organic Vapors via Quantum Infrared Spectroscopy**|Simon Neves et.al.|[2405.12822v1](http://arxiv.org/abs/2405.12822v1)|null|
-|**2024-05-21**|**Multiphoton Quantum Imaging using Natural Light**|Fatemeh Mostafavi et.al.|[2405.12794v1](http://arxiv.org/abs/2405.12794v1)|null|
-|**2024-05-21**|**Expanded Sample of Small Magellanic Cloud Ultraviolet Dust Extinction Curves: Correlations between the 2175 A bump, q_pah, UV extinction shape, and N(HI)/A(V)**|Karl D. Gordon et.al.|[2405.12792v1](http://arxiv.org/abs/2405.12792v1)|null|
-|**2024-05-21**|**A conclusive non-detection of magnetic field in the Am star o Peg with high-precision near-infrared spectroscopy**|O. Kochukhov et.al.|[2405.12778v1](http://arxiv.org/abs/2405.12778v1)|null|
-|**2024-05-21**|**Blind Separation of Vibration Sources using Deep Learning and Deconvolution**|Igor Makienko et.al.|[2405.12774v1](http://arxiv.org/abs/2405.12774v1)|null|
-|**2024-05-21**|**Test Oracle Automation in the era of LLMs**|Facundo Molina et.al.|[2405.12766v1](http://arxiv.org/abs/2405.12766v1)|null|
-|**2024-05-21**|**Detecting and Mitigating Bias in Algorithms Used to Disseminate Information in Social Networks**|Vedran Sekara et.al.|[2405.12764v1](http://arxiv.org/abs/2405.12764v1)|null|
-|**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750v1](http://arxiv.org/abs/2405.12750v1)|null|
-|**2024-05-21**|**Predicting the Influence of Adverse Weather on Pedestrian Detection with Automotive Radar and Lidar Sensors**|Daniel Weihmayr et.al.|[2405.12736v1](http://arxiv.org/abs/2405.12736v1)|null|
-|**2024-05-21**|**From Today's Code to Tomorrow's Symphony: The AI Transformation of Developer's Routine by 2030**|Matteo Ciniselli et.al.|[2405.12731v1](http://arxiv.org/abs/2405.12731v1)|null|
-|**2024-05-21**|**A note on the Thom morphism for the classifying space of certain Lie groups and gauge groups**|Eiolf Kaspersen et.al.|[2405.12717v1](http://arxiv.org/abs/2405.12717v1)|null|
-|**2024-05-21**|**Multimodal video analysis for crowd anomaly detection using open access tourism cameras**|Alejandro Dionis-Ros et.al.|[2405.12708v1](http://arxiv.org/abs/2405.12708v1)|null|
-|**2024-05-21**|**Demystifying 5G NR Downlink Synchronization for Tactical Networks**|Karthik Upadhya et.al.|[2405.12704v1](http://arxiv.org/abs/2405.12704v1)|null|
-|**2024-05-21**|**Spotting AI's Touch: Identifying LLM-Paraphrased Spans in Text**|Yafu Li et.al.|[2405.12689v1](http://arxiv.org/abs/2405.12689v1)|null|
-|**2024-05-21**|**Medial axis detects non-Lipschitz normally embedded points**|Adam Białożyt et.al.|[2405.12682v1](http://arxiv.org/abs/2405.12682v1)|null|
-|**2024-05-21**|**Spatial Mode Multiplexing for Fiber-Coupled IM/DD Optical Wireless Links with Misalignment**|Jinzhe Che et.al.|[2405.12667v1](http://arxiv.org/abs/2405.12667v1)|null|
-|**2024-05-21**|**Comprehensive mm-Wave FMCW Radar Dataset for Vital Sign Monitoring: Embracing Extreme Physiological Scenarios**|Ehsan Sadeghi et.al.|[2405.12659v1](http://arxiv.org/abs/2405.12659v1)|null|
