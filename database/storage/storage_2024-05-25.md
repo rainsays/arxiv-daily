@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-25 09:31:54 Asia/Shanghai
+ Automated deployment @ 2024-05-25 20:38:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v1](http://arxiv.org/abs/2402.07408v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-23**|**Federated Online Adaptation for Deep Stereo**|Matteo Poggi et.al.|[2405.14873v1](http://arxiv.org/abs/2405.14873v1)|null|
-|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871v1](http://arxiv.org/abs/2405.14871v1)|null|
-|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854v1](http://arxiv.org/abs/2405.14854v1)|[link](https://github.com/Lucky-Lance/TerDiT)|
-|**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851v1](http://arxiv.org/abs/2405.14851v1)|null|
-|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847v1](http://arxiv.org/abs/2405.14847v1)|null|
-|**2024-05-23**|**A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image Analysis**|Yue Yang et.al.|[2405.14839v1](http://arxiv.org/abs/2405.14839v1)|null|
-|**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837v1](http://arxiv.org/abs/2405.14837v1)|null|
-|**2024-05-23**|**Deep learning lattice gauge theories**|Anuj Apte et.al.|[2405.14830v1](http://arxiv.org/abs/2405.14830v1)|null|
-|**2024-05-23**|**Accelerated First-Principles Exploration of Structure and Reactivity in Graphene Oxide**|Zakariya El-Machachi et.al.|[2405.14814v1](http://arxiv.org/abs/2405.14814v1)|null|
-|**2024-05-23**|**Scalable Optimization in the Modular Norm**|Tim Large et.al.|[2405.14813v1](http://arxiv.org/abs/2405.14813v1)|[link](https://github.com/jxbz/modula)|
-|**2024-05-23**|**Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics**|Jonas Spinner et.al.|[2405.14806v1](http://arxiv.org/abs/2405.14806v1)|null|
-|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v1](http://arxiv.org/abs/2405.14802v1)|null|
-|**2024-05-23**|**A Bayesian Approach to Estimate Causal Peer Influence Accounting for Latent Network Homophily**|Seungha Um et.al.|[2405.14789v1](http://arxiv.org/abs/2405.14789v1)|null|
-|**2024-05-23**|**Low-Energy Line Codes for On-Chip Networks**|Beyza Dabak et.al.|[2405.14783v1](http://arxiv.org/abs/2405.14783v1)|null|
-|**2024-05-23**|**Unified Neural Backdoor Removal with Only Few Clean Samples through Unlearning and Relearning**|Nay Myat Min et.al.|[2405.14781v1](http://arxiv.org/abs/2405.14781v1)|null|
-|**2024-05-23**|**Kinetics of orbital ordering in cooperative Jahn-Teller models: Machine-learning enabled large-scale simulations**|Supriyo Ghosh et.al.|[2405.14776v1](http://arxiv.org/abs/2405.14776v1)|null|
-|**2024-05-23**|**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**|Peng Wang et.al.|[2405.14768v1](http://arxiv.org/abs/2405.14768v1)|[link](https://github.com/zjunlp/easyedit)|
-|**2024-05-23**|**Extreme Solar Flare Prediction Using Residual Networks with HMI Magnetograms and Intensitygrams**|Juyoung Yun et.al.|[2405.14750v1](http://arxiv.org/abs/2405.14750v1)|null|
-|**2024-05-23**|**AnyLoss: Transforming Classification Metrics into Loss Functions**|Doheon Han et.al.|[2405.14745v1](http://arxiv.org/abs/2405.14745v1)|null|
-|**2024-05-23**|**A Duty-Cycle-Efficient Synchronization Protocol for Slotted-Aloha in LoRaWAN**|Amavi Dossa et.al.|[2405.14740v1](http://arxiv.org/abs/2405.14740v1)|null|
-|**2024-05-23**|**Generalized all-optical complex exponential operator**|Baiqiao Chen et.al.|[2405.14735v1](http://arxiv.org/abs/2405.14735v1)|null|
-|**2024-05-23**|**Intervention and Conditioning in Causal Bayesian Networks**|Sainyam Galhotra et.al.|[2405.14728v1](http://arxiv.org/abs/2405.14728v1)|null|
-|**2024-05-23**|**Learning-Based Intermittent CSI Estimation with Adaptive Intervals in Integrated Sensing and Communication Systems**|Jie Chen et.al.|[2405.14724v1](http://arxiv.org/abs/2405.14724v1)|null|
-|**2024-05-23**|**Convolutional Neural Network Model Observers Discount Signal-like Anatomical Structures During Search in Virtual Digital Breast Tomosynthesis Phantoms**|Aditya Jonnalagadda et.al.|[2405.14720v1](http://arxiv.org/abs/2405.14720v1)|null|
-|**2024-05-23**|**HTN-Based Tutors: A New Intelligent Tutoring Framework Based on Hierarchical Task Networks**|Momin N. Siddiqui et.al.|[2405.14716v1](http://arxiv.org/abs/2405.14716v1)|null|
-|**2024-05-23**|**Loschmidt echo, emerging dual unitarity and scaling of generalized temporal entropies after quenches to the critical point**|Stefano Carignano et.al.|[2405.14706v1](http://arxiv.org/abs/2405.14706v1)|null|
-|**2024-05-23**|**Cascade of phase transitions in the training of Energy-based models**|Dimitrios Bachtis et.al.|[2405.14689v1](http://arxiv.org/abs/2405.14689v1)|null|
-|**2024-05-23**|**Engineering ultra-strong electron-phonon coupling and nonclassical electron transport in crystalline gold with nanoscale interfaces**|Shreya Kumbhakar et.al.|[2405.14684v1](http://arxiv.org/abs/2405.14684v1)|null|
-|**2024-05-23**|**Development of a Gaussian Approximation Potential to Study Structure and Thermodynamics of Nickel Nanoclusters**|Suvo Banik et.al.|[2405.14683v1](http://arxiv.org/abs/2405.14683v1)|null|
-|**2024-05-23**|**Overcoming the Challenges of Batch Normalization in Federated Learning**|Rachid Guerraoui et.al.|[2405.14670v1](http://arxiv.org/abs/2405.14670v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +44,40 @@
 |**2024-05-23**|**Emergence of metastability in frustrated oscillatory networks: the key role of hierarchical modularity**|Enrico Caprioglio et.al.|[2405.14542v1](http://arxiv.org/abs/2405.14542v1)|null|
 |**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529v1](http://arxiv.org/abs/2405.14529v1)|null|
 |**2024-05-23**|**A New Formulation for Zeroth-Order Optimization of Adversarial EXEmples in Malware Detection**|Marco Rando et.al.|[2405.14519v1](http://arxiv.org/abs/2405.14519v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-23**|**Federated Online Adaptation for Deep Stereo**|Matteo Poggi et.al.|[2405.14873v1](http://arxiv.org/abs/2405.14873v1)|null|
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871v1](http://arxiv.org/abs/2405.14871v1)|null|
+|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854v1](http://arxiv.org/abs/2405.14854v1)|[link](https://github.com/Lucky-Lance/TerDiT)|
+|**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851v1](http://arxiv.org/abs/2405.14851v1)|null|
+|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847v1](http://arxiv.org/abs/2405.14847v1)|null|
+|**2024-05-23**|**A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image Analysis**|Yue Yang et.al.|[2405.14839v1](http://arxiv.org/abs/2405.14839v1)|null|
+|**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837v1](http://arxiv.org/abs/2405.14837v1)|null|
+|**2024-05-23**|**Deep learning lattice gauge theories**|Anuj Apte et.al.|[2405.14830v1](http://arxiv.org/abs/2405.14830v1)|null|
+|**2024-05-23**|**Accelerated First-Principles Exploration of Structure and Reactivity in Graphene Oxide**|Zakariya El-Machachi et.al.|[2405.14814v1](http://arxiv.org/abs/2405.14814v1)|null|
+|**2024-05-23**|**Scalable Optimization in the Modular Norm**|Tim Large et.al.|[2405.14813v1](http://arxiv.org/abs/2405.14813v1)|[link](https://github.com/jxbz/modula)|
+|**2024-05-23**|**Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics**|Jonas Spinner et.al.|[2405.14806v1](http://arxiv.org/abs/2405.14806v1)|null|
+|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v1](http://arxiv.org/abs/2405.14802v1)|null|
+|**2024-05-23**|**A Bayesian Approach to Estimate Causal Peer Influence Accounting for Latent Network Homophily**|Seungha Um et.al.|[2405.14789v1](http://arxiv.org/abs/2405.14789v1)|null|
+|**2024-05-23**|**Low-Energy Line Codes for On-Chip Networks**|Beyza Dabak et.al.|[2405.14783v1](http://arxiv.org/abs/2405.14783v1)|null|
+|**2024-05-23**|**Unified Neural Backdoor Removal with Only Few Clean Samples through Unlearning and Relearning**|Nay Myat Min et.al.|[2405.14781v1](http://arxiv.org/abs/2405.14781v1)|null|
+|**2024-05-23**|**Kinetics of orbital ordering in cooperative Jahn-Teller models: Machine-learning enabled large-scale simulations**|Supriyo Ghosh et.al.|[2405.14776v1](http://arxiv.org/abs/2405.14776v1)|null|
+|**2024-05-23**|**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**|Peng Wang et.al.|[2405.14768v1](http://arxiv.org/abs/2405.14768v1)|[link](https://github.com/zjunlp/easyedit)|
+|**2024-05-23**|**Extreme Solar Flare Prediction Using Residual Networks with HMI Magnetograms and Intensitygrams**|Juyoung Yun et.al.|[2405.14750v1](http://arxiv.org/abs/2405.14750v1)|null|
+|**2024-05-23**|**AnyLoss: Transforming Classification Metrics into Loss Functions**|Doheon Han et.al.|[2405.14745v1](http://arxiv.org/abs/2405.14745v1)|null|
+|**2024-05-23**|**A Duty-Cycle-Efficient Synchronization Protocol for Slotted-Aloha in LoRaWAN**|Amavi Dossa et.al.|[2405.14740v1](http://arxiv.org/abs/2405.14740v1)|null|
+|**2024-05-23**|**Generalized all-optical complex exponential operator**|Baiqiao Chen et.al.|[2405.14735v1](http://arxiv.org/abs/2405.14735v1)|null|
+|**2024-05-23**|**Intervention and Conditioning in Causal Bayesian Networks**|Sainyam Galhotra et.al.|[2405.14728v1](http://arxiv.org/abs/2405.14728v1)|null|
+|**2024-05-23**|**Learning-Based Intermittent CSI Estimation with Adaptive Intervals in Integrated Sensing and Communication Systems**|Jie Chen et.al.|[2405.14724v1](http://arxiv.org/abs/2405.14724v1)|null|
+|**2024-05-23**|**Convolutional Neural Network Model Observers Discount Signal-like Anatomical Structures During Search in Virtual Digital Breast Tomosynthesis Phantoms**|Aditya Jonnalagadda et.al.|[2405.14720v1](http://arxiv.org/abs/2405.14720v1)|null|
+|**2024-05-23**|**HTN-Based Tutors: A New Intelligent Tutoring Framework Based on Hierarchical Task Networks**|Momin N. Siddiqui et.al.|[2405.14716v1](http://arxiv.org/abs/2405.14716v1)|null|
+|**2024-05-23**|**Loschmidt echo, emerging dual unitarity and scaling of generalized temporal entropies after quenches to the critical point**|Stefano Carignano et.al.|[2405.14706v1](http://arxiv.org/abs/2405.14706v1)|null|
+|**2024-05-23**|**Cascade of phase transitions in the training of Energy-based models**|Dimitrios Bachtis et.al.|[2405.14689v1](http://arxiv.org/abs/2405.14689v1)|null|
+|**2024-05-23**|**Engineering ultra-strong electron-phonon coupling and nonclassical electron transport in crystalline gold with nanoscale interfaces**|Shreya Kumbhakar et.al.|[2405.14684v1](http://arxiv.org/abs/2405.14684v1)|null|
+|**2024-05-23**|**Development of a Gaussian Approximation Potential to Study Structure and Thermodynamics of Nickel Nanoclusters**|Suvo Banik et.al.|[2405.14683v1](http://arxiv.org/abs/2405.14683v1)|null|
+|**2024-05-23**|**Overcoming the Challenges of Batch Normalization in Federated Learning**|Rachid Guerraoui et.al.|[2405.14670v1](http://arxiv.org/abs/2405.14670v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
