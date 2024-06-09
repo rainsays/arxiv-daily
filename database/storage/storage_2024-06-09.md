@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-09 09:42:41 Asia/Shanghai
+ Automated deployment @ 2024-06-09 20:40:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -11,39 +11,39 @@
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
 
-### Traffic
+### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
-|**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340v1](http://arxiv.org/abs/2406.04340v1)|[link](https://github.com/cvg/glace)|
-|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336v1](http://arxiv.org/abs/2406.04336v1)|[link](https://github.com/LingxiaoShawn/EPNN-Experiments)|
-|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|[link](https://github.com/sebulo/PuTT)|
-|**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330v1](http://arxiv.org/abs/2406.04330v1)|[link](https://github.com/opengvlab/piip)|
-|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
-|**2024-06-06**|**Neural Networks Assisted Metropolis-Hastings for Bayesian Estimation of Critical Exponent on Elliptic Black Hole Solution in 4D Using Quantum Perturbation Theory**|Armin Hatefi et.al.|[2406.04310v1](http://arxiv.org/abs/2406.04310v1)|null|
-|**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
-|**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299v1](http://arxiv.org/abs/2406.04299v1)|[link](https://github.com/eaglelab-zju/noisygl)|
-|**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277v1](http://arxiv.org/abs/2406.04277v1)|[link](https://github.com/yangling0818/videotetris)|
-|**2024-06-06**|**Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks**|Han Zhang et.al.|[2406.04276v1](http://arxiv.org/abs/2406.04276v1)|null|
-|**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
-|**2024-06-06**|**Embedding induced trees in sparse expanding graphs**|António Girão et.al.|[2406.04260v1](http://arxiv.org/abs/2406.04260v1)|null|
-|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v1](http://arxiv.org/abs/2406.04254v1)|null|
-|**2024-06-06**|**An adaptive parameter estimator for poor-quality spectral data of white dwarfs**|Duo Xie et.al.|[2406.04248v1](http://arxiv.org/abs/2406.04248v1)|null|
-|**2024-06-06**|**Machine Learning-Driven Microwave Imaging for Soil Moisture Estimation near Leaky Pipe**|Mohammad Ramezaninia et.al.|[2406.04193v1](http://arxiv.org/abs/2406.04193v1)|null|
-|**2024-06-06**|**Digital Twin Aided RIS Communication: Robust Beamforming and Interference Management**|Sadjad Alikhani et.al.|[2406.04188v1](http://arxiv.org/abs/2406.04188v1)|null|
-|**2024-06-06**|**Manipulating the Relaxation Time of Boundary-Dissipative Systems through Bond Dissipation**|Yi Peng et.al.|[2406.04183v1](http://arxiv.org/abs/2406.04183v1)|null|
-|**2024-06-06**|**On the zeros of partition functions with multi-spin interactions**|Alexander Barvinok et.al.|[2406.04179v1](http://arxiv.org/abs/2406.04179v1)|null|
-|**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178v1](http://arxiv.org/abs/2406.04178v1)|null|
-|**2024-06-06**|**A Voxel-based Approach for Simulating Microbial Decomposition in Soil: Comparison with LBM and Improvement of Morphological Models**|Mouad Klai et.al.|[2406.04177v1](http://arxiv.org/abs/2406.04177v1)|null|
-|**2024-06-06**|**Element-wise Multiplication Based Physics-informed Neural Networks**|Feilong Jiang et.al.|[2406.04170v1](http://arxiv.org/abs/2406.04170v1)|null|
-|**2024-06-06**|**Parametric Intrusive Reduced Order Models enhanced with Machine Learning Correction Terms**|Anna Ivagnes et.al.|[2406.04169v1](http://arxiv.org/abs/2406.04169v1)|null|
-|**2024-06-06**|**Photometric Classification of Stars Around the Milky Way's Central Black Hole: I. Central Parsec**|E. Gallego-Cano et.al.|[2406.04166v1](http://arxiv.org/abs/2406.04166v1)|null|
-|**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158v1](http://arxiv.org/abs/2406.04158v1)|null|
-|**2024-06-06**|**Pointer-Guided Pre-Training: Infusing Large Language Models with Paragraph-Level Contextual Awareness**|Lars Hillebrand et.al.|[2406.04156v1](http://arxiv.org/abs/2406.04156v1)|[link](https://github.com/LarsHill/pointer-guided-pre-training)|
-|**2024-06-06**|**The 3D-PC: a benchmark for visual perspective taking in humans and machines**|Drew Linsley et.al.|[2406.04138v1](http://arxiv.org/abs/2406.04138v1)|[link](https://github.com/serre-lab/VPT)|
-|**2024-06-06**|**UrbanSARFloods: Sentinel-1 SLC-Based Benchmark Dataset for Urban and Open-Area Flood Mapping**|Jie Zhao et.al.|[2406.04111v1](http://arxiv.org/abs/2406.04111v1)|null|
-|**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105v1](http://arxiv.org/abs/2406.04105v1)|[link](https://github.com/haizailache999/image-registration)|
-|**2024-06-06**|**Symplectic Methods in Deep Learning**|Sofya Maslovskaya et.al.|[2406.04104v1](http://arxiv.org/abs/2406.04104v1)|null|
+|**2024-06-06**|**A novel robust meta-analysis model using the $t$ distribution for outlier accommodation and detection**|Yue Wang et.al.|[2406.04150v1](http://arxiv.org/abs/2406.04150v1)|null|
+|**2024-06-06**|**Meta-learning for Positive-unlabeled Classification**|Atsutoshi Kumagai et.al.|[2406.03680v1](http://arxiv.org/abs/2406.03680v1)|null|
+|**2024-06-05**|**ZeroPur: Succinct Training-Free Adversarial Purification**|Xiuli Bi et.al.|[2406.03143v1](http://arxiv.org/abs/2406.03143v1)|[link](https://github.com/fra31/auto-attack)|
+|**2024-06-05**|**Patterns of co-occurrent skills in UK job adverts**|Zhaolu Liu et.al.|[2406.03139v1](http://arxiv.org/abs/2406.03139v1)|null|
+|**2024-06-04**|**Tolerant Algorithms for Learning with Arbitrary Covariate Shift**|Surbhi Goel et.al.|[2406.02742v1](http://arxiv.org/abs/2406.02742v1)|null|
+|**2024-06-04**|**Synthetic Data Outliers: Navigating Identity Disclosure**|Carolina Trindade et.al.|[2406.02736v1](http://arxiv.org/abs/2406.02736v1)|null|
+|**2024-06-04**|**Cluster-Aware Similarity Diffusion for Instance Retrieval**|Jifei Luo et.al.|[2406.02343v2](http://arxiv.org/abs/2406.02343v2)|null|
+|**2024-06-04**|**Differentially private exact recovery for stochastic block models**|Dung Nguyen et.al.|[2406.02644v1](http://arxiv.org/abs/2406.02644v1)|null|
+|**2024-06-04**|**Can Dense Connectivity Benefit Outlier Detection? An Odyssey with NAS**|Hao Fu et.al.|[2406.01975v1](http://arxiv.org/abs/2406.01975v1)|null|
+|**2024-06-04**|**The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**|Yuanhao Ban et.al.|[2406.01970v1](http://arxiv.org/abs/2406.01970v1)|null|
+|**2024-06-03**|**Interbeat Interval Filtering**|Ilker Bayram et.al.|[2406.01846v1](http://arxiv.org/abs/2406.01846v1)|null|
+|**2024-06-03**|**Deep asymmetric mixture model for unsupervised cell segmentation**|Yang Nan et.al.|[2406.01815v1](http://arxiv.org/abs/2406.01815v1)|null|
+|**2024-06-03**|**Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs**|Haokun Lin et.al.|[2406.01721v1](http://arxiv.org/abs/2406.01721v1)|null|
+|**2024-06-03**|**Imputation of Missing Photometric Data and Photometric Redshift Estimation for CSST**|Zhijian Luo et.al.|[2406.01719v1](http://arxiv.org/abs/2406.01719v1)|null|
+|**2024-06-03**|**Convolutional Unscented Kalman Filter for Multi-Object Tracking with Outliers**|Shiqi Liu et.al.|[2406.01380v1](http://arxiv.org/abs/2406.01380v1)|null|
+|**2024-06-03**|**Zero-Shot Out-of-Distribution Detection with Outlier Label Exposure**|Choubo Ding et.al.|[2406.01170v1](http://arxiv.org/abs/2406.01170v1)|[link](https://github.com/Choubo/OLE)|
+|**2024-06-02**|**Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection**|Chentao Cao et.al.|[2406.00806v1](http://arxiv.org/abs/2406.00806v1)|null|
+|**2024-06-02**|**MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization**|Aozhong Zhang et.al.|[2406.00800v1](http://arxiv.org/abs/2406.00800v1)|null|
+|**2024-06-02**|**ViCTORIA project: The LOFAR-MeerKAT view of AGN in Virgo cluster early-type galaxies**|A. Spasic et.al.|[2406.00781v1](http://arxiv.org/abs/2406.00781v1)|null|
+|**2024-06-02**|**Robust Visual Tracking via Iterative Gradient Descent and Threshold Selection**|Zhuang Qi et.al.|[2406.00589v1](http://arxiv.org/abs/2406.00589v1)|null|
+|**2024-06-01**|**A Gaussian Process-based Streaming Algorithm for Prediction of Time Series With Regimes and Outliers**|Daniel Waxman et.al.|[2406.00570v1](http://arxiv.org/abs/2406.00570v1)|[link](https://github.com/DanWaxman/Lintel)|
+|**2024-06-01**|**Adapting Fine-Grained Cross-View Localization to Areas without Fine Ground Truth**|Zimin Xia et.al.|[2406.00474v1](http://arxiv.org/abs/2406.00474v1)|null|
+|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v3](http://arxiv.org/abs/2405.20835v3)|null|
+|**2024-05-30**|**Black Hole Mass and Eddington Ratio Distribution of Hot Dust-Obscured Galaxies**|Guodong Li et.al.|[2405.20479v1](http://arxiv.org/abs/2405.20479v1)|null|
+|**2024-05-30**|**The Solar System Notification Alert Processing System (SNAPS): Asteroid Population Outlier Detection**|Michael Gowanlock et.al.|[2405.20176v1](http://arxiv.org/abs/2405.20176v1)|null|
+|**2024-05-30**|**Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification**|Hossam M. Zawbaa et.al.|[2405.19967v2](http://arxiv.org/abs/2405.19967v2)|[link](https://github.com/Hossam-Mohammed-tech/Intent_Classification_OOS)|
+|**2024-05-30**|**HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization**|Wenxuan Liu et.al.|[2405.19751v2](http://arxiv.org/abs/2405.19751v2)|null|
+|**2024-05-29**|**Multidimensional hierarchical tests of general relativity with gravitational waves**|Haowen Zhong et.al.|[2405.19556v1](http://arxiv.org/abs/2405.19556v1)|null|
+|**2024-05-29**|**Understanding and Minimising Outlier Features in Neural Network Training**|Bobby He et.al.|[2405.19279v1](http://arxiv.org/abs/2405.19279v1)|null|
+|**2024-05-29**|**Comparative Study of Neighbor-based Methods for Local Outlier Detection**|Zhuang Qi et.al.|[2405.19247v1](http://arxiv.org/abs/2405.19247v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -79,36 +79,36 @@
 |**2024-06-06**|**Reassessing How to Compare and Improve the Calibration of Machine Learning Models**|Muthu Chidambaram et.al.|[2406.04068v1](http://arxiv.org/abs/2406.04068v1)|[link](https://github.com/2014mchidamb/reassessing-calibration)|
 |**2024-06-06**|**Magnon sensing of NO, NO$_2$ and NH$_3$ gas capture on CrSBr monolayer**|Gonzalo Rivero-Carracedo et.al.|[2406.04067v1](http://arxiv.org/abs/2406.04067v1)|null|
 
-### Outlier
+### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**A novel robust meta-analysis model using the $t$ distribution for outlier accommodation and detection**|Yue Wang et.al.|[2406.04150v1](http://arxiv.org/abs/2406.04150v1)|null|
-|**2024-06-06**|**Meta-learning for Positive-unlabeled Classification**|Atsutoshi Kumagai et.al.|[2406.03680v1](http://arxiv.org/abs/2406.03680v1)|null|
-|**2024-06-05**|**ZeroPur: Succinct Training-Free Adversarial Purification**|Xiuli Bi et.al.|[2406.03143v1](http://arxiv.org/abs/2406.03143v1)|[link](https://github.com/fra31/auto-attack)|
-|**2024-06-05**|**Patterns of co-occurrent skills in UK job adverts**|Zhaolu Liu et.al.|[2406.03139v1](http://arxiv.org/abs/2406.03139v1)|null|
-|**2024-06-04**|**Tolerant Algorithms for Learning with Arbitrary Covariate Shift**|Surbhi Goel et.al.|[2406.02742v1](http://arxiv.org/abs/2406.02742v1)|null|
-|**2024-06-04**|**Synthetic Data Outliers: Navigating Identity Disclosure**|Carolina Trindade et.al.|[2406.02736v1](http://arxiv.org/abs/2406.02736v1)|null|
-|**2024-06-04**|**Cluster-Aware Similarity Diffusion for Instance Retrieval**|Jifei Luo et.al.|[2406.02343v2](http://arxiv.org/abs/2406.02343v2)|null|
-|**2024-06-04**|**Differentially private exact recovery for stochastic block models**|Dung Nguyen et.al.|[2406.02644v1](http://arxiv.org/abs/2406.02644v1)|null|
-|**2024-06-04**|**Can Dense Connectivity Benefit Outlier Detection? An Odyssey with NAS**|Hao Fu et.al.|[2406.01975v1](http://arxiv.org/abs/2406.01975v1)|null|
-|**2024-06-04**|**The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**|Yuanhao Ban et.al.|[2406.01970v1](http://arxiv.org/abs/2406.01970v1)|null|
-|**2024-06-03**|**Interbeat Interval Filtering**|Ilker Bayram et.al.|[2406.01846v1](http://arxiv.org/abs/2406.01846v1)|null|
-|**2024-06-03**|**Deep asymmetric mixture model for unsupervised cell segmentation**|Yang Nan et.al.|[2406.01815v1](http://arxiv.org/abs/2406.01815v1)|null|
-|**2024-06-03**|**Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs**|Haokun Lin et.al.|[2406.01721v1](http://arxiv.org/abs/2406.01721v1)|null|
-|**2024-06-03**|**Imputation of Missing Photometric Data and Photometric Redshift Estimation for CSST**|Zhijian Luo et.al.|[2406.01719v1](http://arxiv.org/abs/2406.01719v1)|null|
-|**2024-06-03**|**Convolutional Unscented Kalman Filter for Multi-Object Tracking with Outliers**|Shiqi Liu et.al.|[2406.01380v1](http://arxiv.org/abs/2406.01380v1)|null|
-|**2024-06-03**|**Zero-Shot Out-of-Distribution Detection with Outlier Label Exposure**|Choubo Ding et.al.|[2406.01170v1](http://arxiv.org/abs/2406.01170v1)|[link](https://github.com/Choubo/OLE)|
-|**2024-06-02**|**Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection**|Chentao Cao et.al.|[2406.00806v1](http://arxiv.org/abs/2406.00806v1)|null|
-|**2024-06-02**|**MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization**|Aozhong Zhang et.al.|[2406.00800v1](http://arxiv.org/abs/2406.00800v1)|null|
-|**2024-06-02**|**ViCTORIA project: The LOFAR-MeerKAT view of AGN in Virgo cluster early-type galaxies**|A. Spasic et.al.|[2406.00781v1](http://arxiv.org/abs/2406.00781v1)|null|
-|**2024-06-02**|**Robust Visual Tracking via Iterative Gradient Descent and Threshold Selection**|Zhuang Qi et.al.|[2406.00589v1](http://arxiv.org/abs/2406.00589v1)|null|
-|**2024-06-01**|**A Gaussian Process-based Streaming Algorithm for Prediction of Time Series With Regimes and Outliers**|Daniel Waxman et.al.|[2406.00570v1](http://arxiv.org/abs/2406.00570v1)|[link](https://github.com/DanWaxman/Lintel)|
-|**2024-06-01**|**Adapting Fine-Grained Cross-View Localization to Areas without Fine Ground Truth**|Zimin Xia et.al.|[2406.00474v1](http://arxiv.org/abs/2406.00474v1)|null|
-|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v3](http://arxiv.org/abs/2405.20835v3)|null|
-|**2024-05-30**|**Black Hole Mass and Eddington Ratio Distribution of Hot Dust-Obscured Galaxies**|Guodong Li et.al.|[2405.20479v1](http://arxiv.org/abs/2405.20479v1)|null|
-|**2024-05-30**|**The Solar System Notification Alert Processing System (SNAPS): Asteroid Population Outlier Detection**|Michael Gowanlock et.al.|[2405.20176v1](http://arxiv.org/abs/2405.20176v1)|null|
-|**2024-05-30**|**Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification**|Hossam M. Zawbaa et.al.|[2405.19967v2](http://arxiv.org/abs/2405.19967v2)|[link](https://github.com/Hossam-Mohammed-tech/Intent_Classification_OOS)|
-|**2024-05-30**|**HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization**|Wenxuan Liu et.al.|[2405.19751v2](http://arxiv.org/abs/2405.19751v2)|null|
-|**2024-05-29**|**Multidimensional hierarchical tests of general relativity with gravitational waves**|Haowen Zhong et.al.|[2405.19556v1](http://arxiv.org/abs/2405.19556v1)|null|
-|**2024-05-29**|**Understanding and Minimising Outlier Features in Neural Network Training**|Bobby He et.al.|[2405.19279v1](http://arxiv.org/abs/2405.19279v1)|null|
-|**2024-05-29**|**Comparative Study of Neighbor-based Methods for Local Outlier Detection**|Zhuang Qi et.al.|[2405.19247v1](http://arxiv.org/abs/2405.19247v1)|null|
+|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
+|**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340v1](http://arxiv.org/abs/2406.04340v1)|[link](https://github.com/cvg/glace)|
+|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336v1](http://arxiv.org/abs/2406.04336v1)|[link](https://github.com/LingxiaoShawn/EPNN-Experiments)|
+|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|[link](https://github.com/sebulo/PuTT)|
+|**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330v1](http://arxiv.org/abs/2406.04330v1)|[link](https://github.com/opengvlab/piip)|
+|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
+|**2024-06-06**|**Neural Networks Assisted Metropolis-Hastings for Bayesian Estimation of Critical Exponent on Elliptic Black Hole Solution in 4D Using Quantum Perturbation Theory**|Armin Hatefi et.al.|[2406.04310v1](http://arxiv.org/abs/2406.04310v1)|null|
+|**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
+|**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299v1](http://arxiv.org/abs/2406.04299v1)|[link](https://github.com/eaglelab-zju/noisygl)|
+|**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277v1](http://arxiv.org/abs/2406.04277v1)|[link](https://github.com/yangling0818/videotetris)|
+|**2024-06-06**|**Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks**|Han Zhang et.al.|[2406.04276v1](http://arxiv.org/abs/2406.04276v1)|null|
+|**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
+|**2024-06-06**|**Embedding induced trees in sparse expanding graphs**|António Girão et.al.|[2406.04260v1](http://arxiv.org/abs/2406.04260v1)|null|
+|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v1](http://arxiv.org/abs/2406.04254v1)|null|
+|**2024-06-06**|**An adaptive parameter estimator for poor-quality spectral data of white dwarfs**|Duo Xie et.al.|[2406.04248v1](http://arxiv.org/abs/2406.04248v1)|null|
+|**2024-06-06**|**Machine Learning-Driven Microwave Imaging for Soil Moisture Estimation near Leaky Pipe**|Mohammad Ramezaninia et.al.|[2406.04193v1](http://arxiv.org/abs/2406.04193v1)|null|
+|**2024-06-06**|**Digital Twin Aided RIS Communication: Robust Beamforming and Interference Management**|Sadjad Alikhani et.al.|[2406.04188v1](http://arxiv.org/abs/2406.04188v1)|null|
+|**2024-06-06**|**Manipulating the Relaxation Time of Boundary-Dissipative Systems through Bond Dissipation**|Yi Peng et.al.|[2406.04183v1](http://arxiv.org/abs/2406.04183v1)|null|
+|**2024-06-06**|**On the zeros of partition functions with multi-spin interactions**|Alexander Barvinok et.al.|[2406.04179v1](http://arxiv.org/abs/2406.04179v1)|null|
+|**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178v1](http://arxiv.org/abs/2406.04178v1)|null|
+|**2024-06-06**|**A Voxel-based Approach for Simulating Microbial Decomposition in Soil: Comparison with LBM and Improvement of Morphological Models**|Mouad Klai et.al.|[2406.04177v1](http://arxiv.org/abs/2406.04177v1)|null|
+|**2024-06-06**|**Element-wise Multiplication Based Physics-informed Neural Networks**|Feilong Jiang et.al.|[2406.04170v1](http://arxiv.org/abs/2406.04170v1)|null|
+|**2024-06-06**|**Parametric Intrusive Reduced Order Models enhanced with Machine Learning Correction Terms**|Anna Ivagnes et.al.|[2406.04169v1](http://arxiv.org/abs/2406.04169v1)|null|
+|**2024-06-06**|**Photometric Classification of Stars Around the Milky Way's Central Black Hole: I. Central Parsec**|E. Gallego-Cano et.al.|[2406.04166v1](http://arxiv.org/abs/2406.04166v1)|null|
+|**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158v1](http://arxiv.org/abs/2406.04158v1)|null|
+|**2024-06-06**|**Pointer-Guided Pre-Training: Infusing Large Language Models with Paragraph-Level Contextual Awareness**|Lars Hillebrand et.al.|[2406.04156v1](http://arxiv.org/abs/2406.04156v1)|[link](https://github.com/LarsHill/pointer-guided-pre-training)|
+|**2024-06-06**|**The 3D-PC: a benchmark for visual perspective taking in humans and machines**|Drew Linsley et.al.|[2406.04138v1](http://arxiv.org/abs/2406.04138v1)|[link](https://github.com/serre-lab/VPT)|
+|**2024-06-06**|**UrbanSARFloods: Sentinel-1 SLC-Based Benchmark Dataset for Urban and Open-Area Flood Mapping**|Jie Zhao et.al.|[2406.04111v1](http://arxiv.org/abs/2406.04111v1)|null|
+|**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105v1](http://arxiv.org/abs/2406.04105v1)|[link](https://github.com/haizailache999/image-registration)|
+|**2024-06-06**|**Symplectic Methods in Deep Learning**|Sofya Maslovskaya et.al.|[2406.04104v1](http://arxiv.org/abs/2406.04104v1)|null|
