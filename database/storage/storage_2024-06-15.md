@@ -1,9 +1,13 @@
 # arxiv-daily
- Automated deployment @ 2024-06-15 09:35:44 Asia/Shanghai
+ Automated deployment @ 2024-06-15 20:40:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## NIDS
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
 
 ### webshell
 |Publish Date|Title|Authors|PDF|Code|
@@ -14,9 +18,5 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 ### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-
-### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
