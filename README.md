@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-20 09:34:56 Asia/Shanghai
+ Automated deployment @ 2024-06-20 20:43:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-18**|**Adaptive Collaborative Correlation Learning-based Semi-Supervised Multi-Label Feature Selection**|Yanyong Huang et.al.|[2406.12193v1](http://arxiv.org/abs/2406.12193v1)|null|
-|**2024-06-17**|**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**|Seungwoo Son et.al.|[2406.12016v1](http://arxiv.org/abs/2406.12016v1)|null|
-|**2024-06-17**|**Statistical Evolution of ODI Cricket: Analyzing Performance Trends and Effect Sizes**|Pratik Mullick et.al.|[2406.11652v1](http://arxiv.org/abs/2406.11652v1)|null|
-|**2024-06-17**|**Operator Deep Smoothing for Implied Volatility**|Lukas Gonon et.al.|[2406.11520v1](http://arxiv.org/abs/2406.11520v1)|null|
-|**2024-06-17**|**Matrix Concentration Inequalities and Free Probability II. Two-sided Bounds and Applications**|Afonso S. Bandeira et.al.|[2406.11453v1](http://arxiv.org/abs/2406.11453v1)|null|
-|**2024-06-16**|**Outlier Reduction with Gated Attention for Improved Post-training Quantization in Large Sequence-to-sequence Speech Foundation Models**|Dominik Wagner et.al.|[2406.11022v1](http://arxiv.org/abs/2406.11022v1)|null|
-|**2024-06-15**|**Enhancing Anomaly Detection Generalization through Knowledge Exposure: The Dual Effects of Augmentation**|Mohammad Akhavan Anvari et.al.|[2406.10617v1](http://arxiv.org/abs/2406.10617v1)|null|
-|**2024-06-15**|**Validating an Instrument for Teachers' Acceptance of Artificial Intelligence in Education**|Shuchen Guo et.al.|[2406.10506v1](http://arxiv.org/abs/2406.10506v1)|null|
-|**2024-06-14**|**Outlier detection in maritime environments using AIS data and deep recurrent architectures**|Constantine Maganaris et.al.|[2406.09966v1](http://arxiv.org/abs/2406.09966v1)|null|
-|**2024-06-14**|**Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation**|Jonas Fischer et.al.|[2406.09876v1](http://arxiv.org/abs/2406.09876v1)|null|
-|**2024-06-14**|**Dataset Condensation with Latent Quantile Matching**|Wei Wei et.al.|[2406.09860v1](http://arxiv.org/abs/2406.09860v1)|null|
-|**2024-06-13**|**Spectroscopic Shifts in Deuterated Methanol Induced by Variation of me/mp**|J. S. Vorotyntseva et.al.|[2406.10299v1](http://arxiv.org/abs/2406.10299v1)|null|
-|**2024-06-13**|**Potion: Towards Poison Unlearning**|Stefan Schoepf et.al.|[2406.09173v1](http://arxiv.org/abs/2406.09173v1)|[link](https://github.com/if-loops/towards_poison_unlearning)|
-|**2024-06-13**|**A Robust Bayesian approach for reliability prognosis of one-shot devices under cumulative risk model**|Shanya Baghel et.al.|[2406.08867v1](http://arxiv.org/abs/2406.08867v1)|null|
-|**2024-06-12**|**A minimalistic and general weighted averaging method for inconsistent data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|null|
-|**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164v1](http://arxiv.org/abs/2406.08164v1)|[link](https://github.com/jmiemirza/conme)|
-|**2024-06-12**|**Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark**|Pingzhi Li et.al.|[2406.08155v1](http://arxiv.org/abs/2406.08155v1)|null|
-|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
-|**2024-06-11**|**Treeffuser: Probabilistic Predictions via Conditional Diffusions with Gradient-Boosted Trees**|Nicolas Beltran-Velez et.al.|[2406.07658v1](http://arxiv.org/abs/2406.07658v1)|[link](https://github.com/blei-lab/treeffuser)|
-|**2024-06-11**|**Accelerating Ill-conditioned Hankel Matrix Recovery via Structured Newton-like Descent**|HanQin Cai et.al.|[2406.07409v1](http://arxiv.org/abs/2406.07409v1)|[link](https://github.com/caesarcai/HSNLD)|
-|**2024-06-11**|**Decoding planetary surfaces by counting cracks**|S. Silver et.al.|[2406.07376v1](http://arxiv.org/abs/2406.07376v1)|null|
-|**2024-06-11**|**TernaryLLM: Ternarized Large Language Model**|Tianqi Chen et.al.|[2406.07177v1](http://arxiv.org/abs/2406.07177v1)|null|
-|**2024-06-11**|**DecoR: Deconfounding Time Series with Robust Regression**|Felix Schur et.al.|[2406.07005v1](http://arxiv.org/abs/2406.07005v1)|[link](https://github.com/fschur/robust_deconfounding)|
-|**2024-06-10**|**Data-driven Power Flow Linearization: Simulation**|Mengshuo Jia et.al.|[2406.06833v1](http://arxiv.org/abs/2406.06833v1)|null|
-|**2024-06-10**|**ULV: A robust statistical method for clustered data, with applications to multisubject, single-cell omics data**|Mingyu Du et.al.|[2406.06767v1](http://arxiv.org/abs/2406.06767v1)|null|
-|**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370v1](http://arxiv.org/abs/2406.06370v1)|null|
-|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644v1](http://arxiv.org/abs/2406.06644v1)|null|
-|**2024-06-07**|**Root Cause Analysis of Outliers with Missing Structural Knowledge**|Nastaran Okati et.al.|[2406.05014v1](http://arxiv.org/abs/2406.05014v1)|null|
-|**2024-06-07**|**VERA: Generating Visual Explanations of Two-Dimensional Embeddings via Region Annotation**|Pavlin G. Poličar et.al.|[2406.04808v1](http://arxiv.org/abs/2406.04808v1)|null|
-|**2024-06-06**|**A novel robust meta-analysis model using the $t$ distribution for outlier accommodation and detection**|Yue Wang et.al.|[2406.04150v1](http://arxiv.org/abs/2406.04150v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-06-18**|**Applying Ensemble Methods to Model-Agnostic Machine-Generated Text Detection**|Ivan Ong et.al.|[2406.12570v1](http://arxiv.org/abs/2406.12570v1)|null|
 |**2024-06-18**|**Analysing India's Cyber Warfare Readiness and Developing a Defence Strategy**|Yohan Fernandes et.al.|[2406.12568v1](http://arxiv.org/abs/2406.12568v1)|null|
 |**2024-06-18**|**MultiSocial: Multilingual Benchmark of Machine-Generated Text Detection of Social-Media Texts**|Dominik Macko et.al.|[2406.12549v1](http://arxiv.org/abs/2406.12549v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**Adaptive Collaborative Correlation Learning-based Semi-Supervised Multi-Label Feature Selection**|Yanyong Huang et.al.|[2406.12193v1](http://arxiv.org/abs/2406.12193v1)|null|
+|**2024-06-17**|**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**|Seungwoo Son et.al.|[2406.12016v1](http://arxiv.org/abs/2406.12016v1)|null|
+|**2024-06-17**|**Statistical Evolution of ODI Cricket: Analyzing Performance Trends and Effect Sizes**|Pratik Mullick et.al.|[2406.11652v1](http://arxiv.org/abs/2406.11652v1)|null|
+|**2024-06-17**|**Operator Deep Smoothing for Implied Volatility**|Lukas Gonon et.al.|[2406.11520v1](http://arxiv.org/abs/2406.11520v1)|null|
+|**2024-06-17**|**Matrix Concentration Inequalities and Free Probability II. Two-sided Bounds and Applications**|Afonso S. Bandeira et.al.|[2406.11453v1](http://arxiv.org/abs/2406.11453v1)|null|
+|**2024-06-16**|**Outlier Reduction with Gated Attention for Improved Post-training Quantization in Large Sequence-to-sequence Speech Foundation Models**|Dominik Wagner et.al.|[2406.11022v1](http://arxiv.org/abs/2406.11022v1)|null|
+|**2024-06-15**|**Enhancing Anomaly Detection Generalization through Knowledge Exposure: The Dual Effects of Augmentation**|Mohammad Akhavan Anvari et.al.|[2406.10617v1](http://arxiv.org/abs/2406.10617v1)|null|
+|**2024-06-15**|**Validating an Instrument for Teachers' Acceptance of Artificial Intelligence in Education**|Shuchen Guo et.al.|[2406.10506v1](http://arxiv.org/abs/2406.10506v1)|null|
+|**2024-06-14**|**Outlier detection in maritime environments using AIS data and deep recurrent architectures**|Constantine Maganaris et.al.|[2406.09966v1](http://arxiv.org/abs/2406.09966v1)|null|
+|**2024-06-14**|**Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation**|Jonas Fischer et.al.|[2406.09876v1](http://arxiv.org/abs/2406.09876v1)|null|
+|**2024-06-14**|**Dataset Condensation with Latent Quantile Matching**|Wei Wei et.al.|[2406.09860v1](http://arxiv.org/abs/2406.09860v1)|null|
+|**2024-06-13**|**Spectroscopic Shifts in Deuterated Methanol Induced by Variation of me/mp**|J. S. Vorotyntseva et.al.|[2406.10299v1](http://arxiv.org/abs/2406.10299v1)|null|
+|**2024-06-13**|**Potion: Towards Poison Unlearning**|Stefan Schoepf et.al.|[2406.09173v1](http://arxiv.org/abs/2406.09173v1)|[link](https://github.com/if-loops/towards_poison_unlearning)|
+|**2024-06-13**|**A Robust Bayesian approach for reliability prognosis of one-shot devices under cumulative risk model**|Shanya Baghel et.al.|[2406.08867v1](http://arxiv.org/abs/2406.08867v1)|null|
+|**2024-06-12**|**A minimalistic and general weighted averaging method for inconsistent data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|null|
+|**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164v1](http://arxiv.org/abs/2406.08164v1)|[link](https://github.com/jmiemirza/conme)|
+|**2024-06-12**|**Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark**|Pingzhi Li et.al.|[2406.08155v1](http://arxiv.org/abs/2406.08155v1)|null|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
+|**2024-06-11**|**Treeffuser: Probabilistic Predictions via Conditional Diffusions with Gradient-Boosted Trees**|Nicolas Beltran-Velez et.al.|[2406.07658v1](http://arxiv.org/abs/2406.07658v1)|[link](https://github.com/blei-lab/treeffuser)|
+|**2024-06-11**|**Accelerating Ill-conditioned Hankel Matrix Recovery via Structured Newton-like Descent**|HanQin Cai et.al.|[2406.07409v1](http://arxiv.org/abs/2406.07409v1)|[link](https://github.com/caesarcai/HSNLD)|
+|**2024-06-11**|**Decoding planetary surfaces by counting cracks**|S. Silver et.al.|[2406.07376v1](http://arxiv.org/abs/2406.07376v1)|null|
+|**2024-06-11**|**TernaryLLM: Ternarized Large Language Model**|Tianqi Chen et.al.|[2406.07177v1](http://arxiv.org/abs/2406.07177v1)|null|
+|**2024-06-11**|**DecoR: Deconfounding Time Series with Robust Regression**|Felix Schur et.al.|[2406.07005v1](http://arxiv.org/abs/2406.07005v1)|[link](https://github.com/fschur/robust_deconfounding)|
+|**2024-06-10**|**Data-driven Power Flow Linearization: Simulation**|Mengshuo Jia et.al.|[2406.06833v1](http://arxiv.org/abs/2406.06833v1)|null|
+|**2024-06-10**|**ULV: A robust statistical method for clustered data, with applications to multisubject, single-cell omics data**|Mingyu Du et.al.|[2406.06767v1](http://arxiv.org/abs/2406.06767v1)|null|
+|**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370v1](http://arxiv.org/abs/2406.06370v1)|null|
+|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644v1](http://arxiv.org/abs/2406.06644v1)|null|
+|**2024-06-07**|**Root Cause Analysis of Outliers with Missing Structural Knowledge**|Nastaran Okati et.al.|[2406.05014v1](http://arxiv.org/abs/2406.05014v1)|null|
+|**2024-06-07**|**VERA: Generating Visual Explanations of Two-Dimensional Embeddings via Region Annotation**|Pavlin G. Poličar et.al.|[2406.04808v1](http://arxiv.org/abs/2406.04808v1)|null|
+|**2024-06-06**|**A novel robust meta-analysis model using the $t$ distribution for outlier accommodation and detection**|Yue Wang et.al.|[2406.04150v1](http://arxiv.org/abs/2406.04150v1)|null|
