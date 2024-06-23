@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-23 09:41:22 Asia/Shanghai
+ Automated deployment @ 2024-06-23 20:40:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-20**|**Exploring the no-hair theorem with LISA**|Chantal Pitte et.al.|[2406.14552v1](http://arxiv.org/abs/2406.14552v1)|null|
-|**2024-06-20**|**Roman FFP Revolution: Two, Three, Many Plutos**|Andrew Gould et.al.|[2406.14531v1](http://arxiv.org/abs/2406.14531v1)|null|
-|**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526v1](http://arxiv.org/abs/2406.14526v1)|null|
-|**2024-06-20**|**Photoacoustic methane detection assisted by a gas-filled anti-resonant hollow-core fiber laser**|Cuiling Zhang et.al.|[2406.14521v1](http://arxiv.org/abs/2406.14521v1)|null|
-|**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520v1](http://arxiv.org/abs/2406.14520v1)|null|
-|**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519v1](http://arxiv.org/abs/2406.14519v1)|[link](https://github.com/yaojian95/ForSEplus)|
-|**2024-06-20**|**PostMark: A Robust Blackbox Watermark for Large Language Models**|Yapei Chang et.al.|[2406.14517v1](http://arxiv.org/abs/2406.14517v1)|[link](https://github.com/lilakk/postmark)|
-|**2024-06-20**|**Quantum limits of superconducting-photonic links and their extension to mm-waves**|Kevin K. S. Multani et.al.|[2406.14501v1](http://arxiv.org/abs/2406.14501v1)|null|
-|**2024-06-20**|**Finite Groups of Symplectic Automorphisms of Supersingular K3 surfaces in Odd Characteristics**|Bin Wang et.al.|[2406.14499v1](http://arxiv.org/abs/2406.14499v1)|null|
-|**2024-06-20**|**Rule-based outlier detection of AI-generated anatomy segmentations**|Deepa Krishnaswamy et.al.|[2406.14486v1](http://arxiv.org/abs/2406.14486v1)|null|
-|**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482v1](http://arxiv.org/abs/2406.14482v1)|[link](https://github.com/xinyiying24/rgbt-tiny)|
-|**2024-06-20**|**The feasibility of weak lensing and 21cm intensity mapping cross-correlation measurements**|Anut Sangka et.al.|[2406.14475v1](http://arxiv.org/abs/2406.14475v1)|null|
-|**2024-06-20**|**Explicit and Implicit Large Language Model Personas Generate Opinions but Fail to Replicate Deeper Perceptions and Biases**|Salvatore Giorgi et.al.|[2406.14462v1](http://arxiv.org/abs/2406.14462v1)|null|
-|**2024-06-20**|**Complex Dark Photon Dark Matter EFT**|Enrico Bertuzzo et.al.|[2406.14437v1](http://arxiv.org/abs/2406.14437v1)|null|
-|**2024-06-20**|**Structural and Electrical Properties of Grafted Si/GaAsSb Heterojunction**|Haris Naeem Abbasi et.al.|[2406.14433v1](http://arxiv.org/abs/2406.14433v1)|null|
-|**2024-06-20**|**Dynamical Morse entropy**|Mélanie Bertelson et.al.|[2406.14410v1](http://arxiv.org/abs/2406.14410v1)|null|
-|**2024-06-20**|**ATAC-Net: Zoomed view works better for Anomaly Detection**|Shaurya Gupta et.al.|[2406.14398v1](http://arxiv.org/abs/2406.14398v1)|null|
-|**2024-06-20**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393v1](http://arxiv.org/abs/2406.14393v1)|null|
-|**2024-06-20**|**Exploring new physics via effective interactions**|Ekata Singh et.al.|[2406.14389v1](http://arxiv.org/abs/2406.14389v1)|null|
-|**2024-06-20**|**X-ray view of Dissipative Warm Corona in AGN**|B. Palit et.al.|[2406.14378v1](http://arxiv.org/abs/2406.14378v1)|null|
-|**2024-06-20**|**Computation-Efficient Semi-Supervised Learning for ECG-based Cardiovascular Diseases Detection**|Rushuang Zhou et.al.|[2406.14377v1](http://arxiv.org/abs/2406.14377v1)|null|
-|**2024-06-20**|**Enhanced Bank Check Security: Introducing a Novel Dataset and Transformer-Based Approach for Detection and Verification**|Muhammad Saif Ullah Khan et.al.|[2406.14370v1](http://arxiv.org/abs/2406.14370v1)|[link](https://github.com/saifkhichi96/ssbi-dataset)|
-|**2024-06-20**|**GRB 211211A: The Case for Engine Powered over r-Process Powered Blue Kilonova**|Hamid Hamidani et.al.|[2406.14366v1](http://arxiv.org/abs/2406.14366v1)|null|
-|**2024-06-20**|**Analysis of Differences between ICME catalogues and Construction of a Unified Catalogue**|Anton Shiryaev et.al.|[2406.14363v1](http://arxiv.org/abs/2406.14363v1)|null|
-|**2024-06-20**|**HoTPP Benchmark: Are We Good at the Long Horizon Events Forecasting?**|Ivan Karpukhin et.al.|[2406.14341v1](http://arxiv.org/abs/2406.14341v1)|[link](https://github.com/ivan-chai/hotpp-benchmark)|
-|**2024-06-20**|**Emerging-properties Mapping Using Spatial Embedding Statistics: EMUSES**|Chris Foulon et.al.|[2406.14309v1](http://arxiv.org/abs/2406.14309v1)|null|
-|**2024-06-20**|**AI in Space for Scientific Missions: Strategies for Minimizing Neural-Network Model Upload**|Jonah Ekelund et.al.|[2406.14297v1](http://arxiv.org/abs/2406.14297v1)|null|
-|**2024-06-20**|**Post-Newtonian expansions of extreme mass ratio inspirals of spinning bodies into Schwarzschild black holes**|Viktor Skoupý et.al.|[2406.14291v1](http://arxiv.org/abs/2406.14291v1)|null|
-|**2024-06-20**|**Examining the Implications of Deepfakes for Election Integrity**|Hriday Ranka et.al.|[2406.14290v1](http://arxiv.org/abs/2406.14290v1)|null|
-|**2024-06-20**|**Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective**|Yunfei Liu et.al.|[2406.14288v1](http://arxiv.org/abs/2406.14288v1)|[link](https://github.com/edisonleeeee/magi)|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +44,40 @@
 |**2024-06-20**|**Can you trust your explanations? A robustness test for feature attribution methods**|Ilaria Vascotto et.al.|[2406.14349v1](http://arxiv.org/abs/2406.14349v1)|null|
 |**2024-06-20**|**$\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347v1](http://arxiv.org/abs/2406.14347v1)|null|
 |**2024-06-20**|**HoTPP Benchmark: Are We Good at the Long Horizon Events Forecasting?**|Ivan Karpukhin et.al.|[2406.14341v1](http://arxiv.org/abs/2406.14341v1)|[link](https://github.com/ivan-chai/hotpp-benchmark)|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-20**|**Exploring the no-hair theorem with LISA**|Chantal Pitte et.al.|[2406.14552v1](http://arxiv.org/abs/2406.14552v1)|null|
+|**2024-06-20**|**Roman FFP Revolution: Two, Three, Many Plutos**|Andrew Gould et.al.|[2406.14531v1](http://arxiv.org/abs/2406.14531v1)|null|
+|**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526v1](http://arxiv.org/abs/2406.14526v1)|null|
+|**2024-06-20**|**Photoacoustic methane detection assisted by a gas-filled anti-resonant hollow-core fiber laser**|Cuiling Zhang et.al.|[2406.14521v1](http://arxiv.org/abs/2406.14521v1)|null|
+|**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520v1](http://arxiv.org/abs/2406.14520v1)|null|
+|**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519v1](http://arxiv.org/abs/2406.14519v1)|[link](https://github.com/yaojian95/ForSEplus)|
+|**2024-06-20**|**PostMark: A Robust Blackbox Watermark for Large Language Models**|Yapei Chang et.al.|[2406.14517v1](http://arxiv.org/abs/2406.14517v1)|[link](https://github.com/lilakk/postmark)|
+|**2024-06-20**|**Quantum limits of superconducting-photonic links and their extension to mm-waves**|Kevin K. S. Multani et.al.|[2406.14501v1](http://arxiv.org/abs/2406.14501v1)|null|
+|**2024-06-20**|**Finite Groups of Symplectic Automorphisms of Supersingular K3 surfaces in Odd Characteristics**|Bin Wang et.al.|[2406.14499v1](http://arxiv.org/abs/2406.14499v1)|null|
+|**2024-06-20**|**Rule-based outlier detection of AI-generated anatomy segmentations**|Deepa Krishnaswamy et.al.|[2406.14486v1](http://arxiv.org/abs/2406.14486v1)|null|
+|**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482v1](http://arxiv.org/abs/2406.14482v1)|[link](https://github.com/xinyiying24/rgbt-tiny)|
+|**2024-06-20**|**The feasibility of weak lensing and 21cm intensity mapping cross-correlation measurements**|Anut Sangka et.al.|[2406.14475v1](http://arxiv.org/abs/2406.14475v1)|null|
+|**2024-06-20**|**Explicit and Implicit Large Language Model Personas Generate Opinions but Fail to Replicate Deeper Perceptions and Biases**|Salvatore Giorgi et.al.|[2406.14462v1](http://arxiv.org/abs/2406.14462v1)|null|
+|**2024-06-20**|**Complex Dark Photon Dark Matter EFT**|Enrico Bertuzzo et.al.|[2406.14437v1](http://arxiv.org/abs/2406.14437v1)|null|
+|**2024-06-20**|**Structural and Electrical Properties of Grafted Si/GaAsSb Heterojunction**|Haris Naeem Abbasi et.al.|[2406.14433v1](http://arxiv.org/abs/2406.14433v1)|null|
+|**2024-06-20**|**Dynamical Morse entropy**|Mélanie Bertelson et.al.|[2406.14410v1](http://arxiv.org/abs/2406.14410v1)|null|
+|**2024-06-20**|**ATAC-Net: Zoomed view works better for Anomaly Detection**|Shaurya Gupta et.al.|[2406.14398v1](http://arxiv.org/abs/2406.14398v1)|null|
+|**2024-06-20**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393v1](http://arxiv.org/abs/2406.14393v1)|null|
+|**2024-06-20**|**Exploring new physics via effective interactions**|Ekata Singh et.al.|[2406.14389v1](http://arxiv.org/abs/2406.14389v1)|null|
+|**2024-06-20**|**X-ray view of Dissipative Warm Corona in AGN**|B. Palit et.al.|[2406.14378v1](http://arxiv.org/abs/2406.14378v1)|null|
+|**2024-06-20**|**Computation-Efficient Semi-Supervised Learning for ECG-based Cardiovascular Diseases Detection**|Rushuang Zhou et.al.|[2406.14377v1](http://arxiv.org/abs/2406.14377v1)|null|
+|**2024-06-20**|**Enhanced Bank Check Security: Introducing a Novel Dataset and Transformer-Based Approach for Detection and Verification**|Muhammad Saif Ullah Khan et.al.|[2406.14370v1](http://arxiv.org/abs/2406.14370v1)|[link](https://github.com/saifkhichi96/ssbi-dataset)|
+|**2024-06-20**|**GRB 211211A: The Case for Engine Powered over r-Process Powered Blue Kilonova**|Hamid Hamidani et.al.|[2406.14366v1](http://arxiv.org/abs/2406.14366v1)|null|
+|**2024-06-20**|**Analysis of Differences between ICME catalogues and Construction of a Unified Catalogue**|Anton Shiryaev et.al.|[2406.14363v1](http://arxiv.org/abs/2406.14363v1)|null|
+|**2024-06-20**|**HoTPP Benchmark: Are We Good at the Long Horizon Events Forecasting?**|Ivan Karpukhin et.al.|[2406.14341v1](http://arxiv.org/abs/2406.14341v1)|[link](https://github.com/ivan-chai/hotpp-benchmark)|
+|**2024-06-20**|**Emerging-properties Mapping Using Spatial Embedding Statistics: EMUSES**|Chris Foulon et.al.|[2406.14309v1](http://arxiv.org/abs/2406.14309v1)|null|
+|**2024-06-20**|**AI in Space for Scientific Missions: Strategies for Minimizing Neural-Network Model Upload**|Jonah Ekelund et.al.|[2406.14297v1](http://arxiv.org/abs/2406.14297v1)|null|
+|**2024-06-20**|**Post-Newtonian expansions of extreme mass ratio inspirals of spinning bodies into Schwarzschild black holes**|Viktor Skoupý et.al.|[2406.14291v1](http://arxiv.org/abs/2406.14291v1)|null|
+|**2024-06-20**|**Examining the Implications of Deepfakes for Election Integrity**|Hriday Ranka et.al.|[2406.14290v1](http://arxiv.org/abs/2406.14290v1)|null|
+|**2024-06-20**|**Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective**|Yunfei Liu et.al.|[2406.14288v1](http://arxiv.org/abs/2406.14288v1)|[link](https://github.com/edisonleeeee/magi)|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
