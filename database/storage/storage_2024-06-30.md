@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-30 09:43:37 Asia/Shanghai
+ Automated deployment @ 2024-06-30 20:40:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-27**|**HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**|Liujuan Cao et.al.|[2406.19394v1](http://arxiv.org/abs/2406.19394v1)|[link](https://github.com/shenyunhang/huwsod)|
-|**2024-06-27**|**Robust Hilbert space fragmentation in group-valued loop models**|Alexey Khudorozhkov et.al.|[2406.19386v1](http://arxiv.org/abs/2406.19386v1)|null|
-|**2024-06-27**|**A Novel Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase**|Mohamad Mousa et.al.|[2406.19372v1](http://arxiv.org/abs/2406.19372v1)|null|
-|**2024-06-27**|**Unconditional Stability Analysis of N-Port Networks Based on Structured Singular Value Computation**|Aimar Mateo et.al.|[2406.19342v1](http://arxiv.org/abs/2406.19342v1)|null|
-|**2024-06-27**|**Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation**|Yushun Tang et.al.|[2406.19341v1](http://arxiv.org/abs/2406.19341v1)|null|
-|**2024-06-27**|**Synthetic Embedding of Hidden Information in Industrial Control System Network Protocols for Evaluation of Steganographic Malware**|Tom Neubert et.al.|[2406.19338v1](http://arxiv.org/abs/2406.19338v1)|null|
-|**2024-06-27**|**LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**|Kaushalya Sivayogaraj et.al.|[2406.19336v1](http://arxiv.org/abs/2406.19336v1)|null|
-|**2024-06-27**|**Multi-RIS-Empowered Multiple Access: A Distributed Sum-Rate Maximization Approach**|Konstantinos D. Katsanos et.al.|[2406.19334v1](http://arxiv.org/abs/2406.19334v1)|null|
-|**2024-06-27**|**Understanding Routing-Induced Censorship Changes Globally**|Abhishek Bhaskar et.al.|[2406.19304v1](http://arxiv.org/abs/2406.19304v1)|null|
-|**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301v1](http://arxiv.org/abs/2406.19301v1)|null|
-|**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299v1](http://arxiv.org/abs/2406.19299v1)|null|
-|**2024-06-27**|**Vehicle-to-Grid Technology meets Packetized Energy Management: A Co-Simulation Study**|Freddy Tuxworth et.al.|[2406.19296v1](http://arxiv.org/abs/2406.19296v1)|null|
-|**2024-06-27**|**Secure quantum-enhanced measurements on a network of sensors**|Sean William Moore et.al.|[2406.19285v1](http://arxiv.org/abs/2406.19285v1)|null|
-|**2024-06-27**|**The Emergence of Threads: The Birth of a New Social Network**|Peixian Zhang et.al.|[2406.19277v1](http://arxiv.org/abs/2406.19277v1)|null|
-|**2024-06-27**|**OCC-MP: A Max-Pressure framework to prioritize transit and high occupancy vehicles**|Tanveer Ahmed et.al.|[2406.19269v1](http://arxiv.org/abs/2406.19269v1)|null|
-|**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258v1](http://arxiv.org/abs/2406.19258v1)|null|
-|**2024-06-27**|**Advection Augmented Convolutional Neural Networks**|Niloufar Zakariaei et.al.|[2406.19253v1](http://arxiv.org/abs/2406.19253v1)|null|
-|**2024-06-27**|**NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification**|Jinsong Chen et.al.|[2406.19249v1](http://arxiv.org/abs/2406.19249v1)|null|
-|**2024-06-27**|**An Interpretable and Efficient Sleep Staging Algorithm: DetectsleepNet**|Shengwei Guo et.al.|[2406.19246v1](http://arxiv.org/abs/2406.19246v1)|null|
-|**2024-06-27**|**Improving the Expressiveness of $K$-hop Message-Passing GNNs by Injecting Contextualized Substructure Information**|Tianjun Yao et.al.|[2406.19244v1](http://arxiv.org/abs/2406.19244v1)|[link](https://github.com/tianyao-aka/expresive_k_hop_gnns)|
-|**2024-06-27**|**Application of ASV for Voice Identification after VC and Duration Predictor Improvement in TTS Models**|Borodin Kirill Nikolayevich et.al.|[2406.19243v1](http://arxiv.org/abs/2406.19243v1)|null|
-|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230v1](http://arxiv.org/abs/2406.19230v1)|null|
-|**2024-06-27**|**Quantum-like product states constructed from classical networks**|Gregory D. Scholes et.al.|[2406.19221v1](http://arxiv.org/abs/2406.19221v1)|null|
-|**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217v1](http://arxiv.org/abs/2406.19217v1)|null|
-|**2024-06-27**|**OTFS-NOMA System for MIMO Communication Networks with Spatial Diversity**|Wafa Hedhly et.al.|[2406.19216v1](http://arxiv.org/abs/2406.19216v1)|null|
-|**2024-06-27**|**CoDiNG -- Naming Game with Continuous Latent State of Agents**|Mateusz Nurek et.al.|[2406.19204v1](http://arxiv.org/abs/2406.19204v1)|null|
-|**2024-06-27**|**Evolving reservoir computers reveals bidirectional coupling between predictive power and emergent dynamics**|Hanna M. Tolle et.al.|[2406.19201v1](http://arxiv.org/abs/2406.19201v1)|null|
-|**2024-06-27**|**Heterogeneous Causal Metapath Graph Neural Network for Gene-Microbe-Disease Association Prediction**|Kexin Zhang et.al.|[2406.19156v1](http://arxiv.org/abs/2406.19156v1)|null|
-|**2024-06-27**|**Advancing operational PM2.5 forecasting with dual deep neural networks (D-DNet)**|Shengjuan Cai et.al.|[2406.19154v1](http://arxiv.org/abs/2406.19154v1)|null|
-|**2024-06-27**|**"A network of mutualities of being": socio-material archaeological networks and biological ties at Çatalhöyük**|Camilla Mazzucato et.al.|[2406.19149v1](http://arxiv.org/abs/2406.19149v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +44,40 @@
 |**2024-06-17**|**Security in IS and social engineering -- an overview and state of the art**|Florence Sèdes et.al.|[2406.12938v1](http://arxiv.org/abs/2406.12938v1)|null|
 |**2024-06-17**|**Operator Deep Smoothing for Implied Volatility**|Lukas Gonon et.al.|[2406.11520v1](http://arxiv.org/abs/2406.11520v1)|[link](https://github.com/rwicl/operator-deep-smoothing-for-implied-volatility)|
 |**2024-06-17**|**Matrix Concentration Inequalities and Free Probability II. Two-sided Bounds and Applications**|Afonso S. Bandeira et.al.|[2406.11453v1](http://arxiv.org/abs/2406.11453v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-27**|**HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**|Liujuan Cao et.al.|[2406.19394v1](http://arxiv.org/abs/2406.19394v1)|[link](https://github.com/shenyunhang/huwsod)|
+|**2024-06-27**|**Robust Hilbert space fragmentation in group-valued loop models**|Alexey Khudorozhkov et.al.|[2406.19386v1](http://arxiv.org/abs/2406.19386v1)|null|
+|**2024-06-27**|**A Novel Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase**|Mohamad Mousa et.al.|[2406.19372v1](http://arxiv.org/abs/2406.19372v1)|null|
+|**2024-06-27**|**Unconditional Stability Analysis of N-Port Networks Based on Structured Singular Value Computation**|Aimar Mateo et.al.|[2406.19342v1](http://arxiv.org/abs/2406.19342v1)|null|
+|**2024-06-27**|**Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation**|Yushun Tang et.al.|[2406.19341v1](http://arxiv.org/abs/2406.19341v1)|null|
+|**2024-06-27**|**Synthetic Embedding of Hidden Information in Industrial Control System Network Protocols for Evaluation of Steganographic Malware**|Tom Neubert et.al.|[2406.19338v1](http://arxiv.org/abs/2406.19338v1)|null|
+|**2024-06-27**|**LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**|Kaushalya Sivayogaraj et.al.|[2406.19336v1](http://arxiv.org/abs/2406.19336v1)|null|
+|**2024-06-27**|**Multi-RIS-Empowered Multiple Access: A Distributed Sum-Rate Maximization Approach**|Konstantinos D. Katsanos et.al.|[2406.19334v1](http://arxiv.org/abs/2406.19334v1)|null|
+|**2024-06-27**|**Understanding Routing-Induced Censorship Changes Globally**|Abhishek Bhaskar et.al.|[2406.19304v1](http://arxiv.org/abs/2406.19304v1)|null|
+|**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301v1](http://arxiv.org/abs/2406.19301v1)|null|
+|**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299v1](http://arxiv.org/abs/2406.19299v1)|null|
+|**2024-06-27**|**Vehicle-to-Grid Technology meets Packetized Energy Management: A Co-Simulation Study**|Freddy Tuxworth et.al.|[2406.19296v1](http://arxiv.org/abs/2406.19296v1)|null|
+|**2024-06-27**|**Secure quantum-enhanced measurements on a network of sensors**|Sean William Moore et.al.|[2406.19285v1](http://arxiv.org/abs/2406.19285v1)|null|
+|**2024-06-27**|**The Emergence of Threads: The Birth of a New Social Network**|Peixian Zhang et.al.|[2406.19277v1](http://arxiv.org/abs/2406.19277v1)|null|
+|**2024-06-27**|**OCC-MP: A Max-Pressure framework to prioritize transit and high occupancy vehicles**|Tanveer Ahmed et.al.|[2406.19269v1](http://arxiv.org/abs/2406.19269v1)|null|
+|**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258v1](http://arxiv.org/abs/2406.19258v1)|null|
+|**2024-06-27**|**Advection Augmented Convolutional Neural Networks**|Niloufar Zakariaei et.al.|[2406.19253v1](http://arxiv.org/abs/2406.19253v1)|null|
+|**2024-06-27**|**NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification**|Jinsong Chen et.al.|[2406.19249v1](http://arxiv.org/abs/2406.19249v1)|null|
+|**2024-06-27**|**An Interpretable and Efficient Sleep Staging Algorithm: DetectsleepNet**|Shengwei Guo et.al.|[2406.19246v1](http://arxiv.org/abs/2406.19246v1)|null|
+|**2024-06-27**|**Improving the Expressiveness of $K$-hop Message-Passing GNNs by Injecting Contextualized Substructure Information**|Tianjun Yao et.al.|[2406.19244v1](http://arxiv.org/abs/2406.19244v1)|[link](https://github.com/tianyao-aka/expresive_k_hop_gnns)|
+|**2024-06-27**|**Application of ASV for Voice Identification after VC and Duration Predictor Improvement in TTS Models**|Borodin Kirill Nikolayevich et.al.|[2406.19243v1](http://arxiv.org/abs/2406.19243v1)|null|
+|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230v1](http://arxiv.org/abs/2406.19230v1)|null|
+|**2024-06-27**|**Quantum-like product states constructed from classical networks**|Gregory D. Scholes et.al.|[2406.19221v1](http://arxiv.org/abs/2406.19221v1)|null|
+|**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217v1](http://arxiv.org/abs/2406.19217v1)|null|
+|**2024-06-27**|**OTFS-NOMA System for MIMO Communication Networks with Spatial Diversity**|Wafa Hedhly et.al.|[2406.19216v1](http://arxiv.org/abs/2406.19216v1)|null|
+|**2024-06-27**|**CoDiNG -- Naming Game with Continuous Latent State of Agents**|Mateusz Nurek et.al.|[2406.19204v1](http://arxiv.org/abs/2406.19204v1)|null|
+|**2024-06-27**|**Evolving reservoir computers reveals bidirectional coupling between predictive power and emergent dynamics**|Hanna M. Tolle et.al.|[2406.19201v1](http://arxiv.org/abs/2406.19201v1)|null|
+|**2024-06-27**|**Heterogeneous Causal Metapath Graph Neural Network for Gene-Microbe-Disease Association Prediction**|Kexin Zhang et.al.|[2406.19156v1](http://arxiv.org/abs/2406.19156v1)|null|
+|**2024-06-27**|**Advancing operational PM2.5 forecasting with dual deep neural networks (D-DNet)**|Shengjuan Cai et.al.|[2406.19154v1](http://arxiv.org/abs/2406.19154v1)|null|
+|**2024-06-27**|**"A network of mutualities of being": socio-material archaeological networks and biological ties at Çatalhöyük**|Camilla Mazzucato et.al.|[2406.19149v1](http://arxiv.org/abs/2406.19149v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
