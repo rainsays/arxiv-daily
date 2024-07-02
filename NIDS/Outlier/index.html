@@ -1,0 +1,756 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../NIDS/">
+      
+      
+        <link rel="next" href="../Traffic/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.27">
+    
+    
+      
+        <title>Outlier - arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6543a935.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","UA-145083103-1",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#outlier" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Outlier
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/beiyuouo/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/beiyuouo/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    NIDS
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            NIDS
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../NIDS/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NIDS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Outlier
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Outlier
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#outlier" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outlier
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Traffic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Traffic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../webshell/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Webshell
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#outlier" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outlier
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+  <h1>Outlier</h1>
+
+<h3 id="outlier">Outlier</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-06-28</strong></td>
+<td style="text-align: center;"><strong>HAITCH: A Framework for Distortion and Motion Correction in Fetal Multi-Shell Diffusion-Weighted MRI</strong></td>
+<td style="text-align: center;">Haykel Snoussi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.20042v1">2406.20042v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-27</strong></td>
+<td style="text-align: center;"><strong>pop-cosmos: Scaleable inference of galaxy properties and redshifts with a data-driven population model</strong></td>
+<td style="text-align: center;">Stephen Thorp et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.19437v1">2406.19437v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-27</strong></td>
+<td style="text-align: center;"><strong>AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI</strong></td>
+<td style="text-align: center;">Kaveen Hiniduma et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.19256v1">2406.19256v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-27</strong></td>
+<td style="text-align: center;"><strong>Robust Classification of Dynamic Bichromatic point Sets in R2</strong></td>
+<td style="text-align: center;">Erwin Glazenburg et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.19161v2">2406.19161v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-27</strong></td>
+<td style="text-align: center;"><strong>Improving Taxonomic Image-based Out-of-distribution Detection With DNA Barcodes</strong></td>
+<td style="text-align: center;">Mikko Impiö et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.18999v1">2406.18999v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/mikkoim/dnaimg-ood">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-27</strong></td>
+<td style="text-align: center;"><strong>Statistical Test for Data Analysis Pipeline by Selective Inference</strong></td>
+<td style="text-align: center;">Tomohiro Shiraishi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.18902v1">2406.18902v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/shirara1016/statistical_test_for_data_analysis_pipeline">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-27</strong></td>
+<td style="text-align: center;"><strong>RAVE: A Framework for Radar Ego-Velocity Estimation</strong></td>
+<td style="text-align: center;">Vlaho-Josip Štironja et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.18850v1">2406.18850v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-27</strong></td>
+<td style="text-align: center;"><strong>OutlierTune: Efficient Channel-Wise Quantization for Large Language Models</strong></td>
+<td style="text-align: center;">Jinguang Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.18832v1">2406.18832v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-26</strong></td>
+<td style="text-align: center;"><strong>A Closer Look into Mixture-of-Experts in Large Language Models</strong></td>
+<td style="text-align: center;">Ka Man Lo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.18219v1">2406.18219v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/kamanphoebe/look-into-moes">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-25</strong></td>
+<td style="text-align: center;"><strong>A Matrix Product State Model for Simultaneous Classification and Generation</strong></td>
+<td style="text-align: center;">Alex Mossi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.17441v1">2406.17441v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-25</strong></td>
+<td style="text-align: center;"><strong>Consensus Learning with Deep Sets for Essential Matrix Estimation</strong></td>
+<td style="text-align: center;">Dror Moran et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.17414v1">2406.17414v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>Meta-GCN: A Dynamically Weighted Loss Minimization Method for Dealing with the Data Imbalance in Graph Neural Networks</strong></td>
+<td style="text-align: center;">Mahdi Mohammadizadeh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.17073v2">2406.17073v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking</strong></td>
+<td style="text-align: center;">Lorenzo Shaikewitz et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16837v1">2406.16837v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/mit-spark/certifiable_tracking">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>Determination of dark matter distribution in Ursa Major III and constraints on dark matter annihilation</strong></td>
+<td style="text-align: center;">Yi Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16769v1">2406.16769v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>North-PHASE: Studying Periodicity, Hot Spots, Accretion Stability and Early Evolution in young stars in the northern hemisphere</strong></td>
+<td style="text-align: center;">A. Sicilia-Aguilar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16702v1">2406.16702v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>OAML: Outlier Aware Metric Learning for OOD Detection Enhancement</strong></td>
+<td style="text-align: center;">Heng Gao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16525v1">2406.16525v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/henggao12/oaml">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>Distance-based Chatterjee correlation: a new generalized robust measure of directed association for multivariate real and complex-valued data</strong></td>
+<td style="text-align: center;">Roberto D. Pascual-Marqui et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16458v2">2406.16458v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>Compact Model Parameter Extraction via Derivative-Free Optimization</strong></td>
+<td style="text-align: center;">Rafael Perez Martinez et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16355v1">2406.16355v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/rafapm/dfo_parameter_extraction">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Noise-free Text-Image Corruption and Evaluation</strong></td>
+<td style="text-align: center;">Michal Golovanevsky et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16320v1">2406.16320v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/wrudman/NOTICE">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-24</strong></td>
+<td style="text-align: center;"><strong>Anomaly Detection of Tabular Data Using LLMs</strong></td>
+<td style="text-align: center;">Aodong Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.16308v1">2406.16308v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-21</strong></td>
+<td style="text-align: center;"><strong>Robust Reinforcement Learning from Corrupted Human Feedback</strong></td>
+<td style="text-align: center;">Alexander Bukharin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.15568v1">2406.15568v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-21</strong></td>
+<td style="text-align: center;"><strong>Colorful Priority $k$-Supplier</strong></td>
+<td style="text-align: center;">Chandra Chekuri et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.14984v1">2406.14984v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-20</strong></td>
+<td style="text-align: center;"><strong>Rule-based outlier detection of AI-generated anatomy segmentations</strong></td>
+<td style="text-align: center;">Deepa Krishnaswamy et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.14486v1">2406.14486v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/imagingdatacommons/cloudsegmentatorresults">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-20</strong></td>
+<td style="text-align: center;"><strong>MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization</strong></td>
+<td style="text-align: center;">Zhaozhe Hu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.14259v1">2406.14259v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/huzhaozhe00/Median-ensemble-AT">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-19</strong></td>
+<td style="text-align: center;"><strong>Simultaneous Map and Object Reconstruction</strong></td>
+<td style="text-align: center;">Nathaniel Chodosh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.13896v1">2406.13896v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-19</strong></td>
+<td style="text-align: center;"><strong>Robust Time Series Forecasting with Non-Heavy-Tailed Gaussian Loss-Weighted Sampler</strong></td>
+<td style="text-align: center;">Jiang You et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.13871v1">2406.13871v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-18</strong></td>
+<td style="text-align: center;"><strong>Adaptive Collaborative Correlation Learning-based Semi-Supervised Multi-Label Feature Selection</strong></td>
+<td style="text-align: center;">Yanyong Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.12193v2">2406.12193v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-17</strong></td>
+<td style="text-align: center;"><strong>Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization</strong></td>
+<td style="text-align: center;">Seungwoo Son et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.12016v1">2406.12016v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-17</strong></td>
+<td style="text-align: center;"><strong>Statistical Evolution of ODI Cricket: Analyzing Performance Trends and Effect Sizes</strong></td>
+<td style="text-align: center;">Pratik Mullick et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.11652v1">2406.11652v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-06-17</strong></td>
+<td style="text-align: center;"><strong>Security in IS and social engineering -- an overview and state of the art</strong></td>
+<td style="text-align: center;">Florence Sèdes et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2406.12938v1">2406.12938v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ad660dcc.min.js"></script>
+      
+    
+  </body>
+</html>
