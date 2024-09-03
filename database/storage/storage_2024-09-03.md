@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-03 09:45:39 Asia/Shanghai
+ Automated deployment @ 2024-09-03 20:47:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-30**|**From free idempotent monoids to free multiplicatively idempotent rigs**|Morgan Rogers et.al.|[2408.17440v1](http://arxiv.org/abs/2408.17440v1)|null|
-|**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430v1](http://arxiv.org/abs/2408.17430v1)|null|
-|**2024-08-30**|**Neural network-based closure models for large-eddy simulations with explicit filtering**|Mark Benjamin et.al.|[2408.17429v1](http://arxiv.org/abs/2408.17429v1)|null|
-|**2024-08-30**|**Weighted Regression with Sybil Networks**|Nihar Shah et.al.|[2408.17426v1](http://arxiv.org/abs/2408.17426v1)|null|
-|**2024-08-30**|**Hybrid encoder for discrete and continuous variable QKD**|Mattia Sabatini et.al.|[2408.17412v1](http://arxiv.org/abs/2408.17412v1)|null|
-|**2024-08-30**|**Semi-supervised permutation invariant particle-level anomaly detection**|Gabriel Matos et.al.|[2408.17409v1](http://arxiv.org/abs/2408.17409v1)|null|
-|**2024-08-30**|**End-to-End Learning for Task-Oriented Semantic Communications Over MIMO Channels: An Information-Theoretic Framework**|Chang Cai et.al.|[2408.17397v1](http://arxiv.org/abs/2408.17397v1)|null|
-|**2024-08-30**|**Continual learning with the neural tangent ensemble**|Ari S. Benjamin et.al.|[2408.17394v1](http://arxiv.org/abs/2408.17394v1)|null|
-|**2024-08-30**|**Dynamical Properties of Random Boolean Hypernetworks**|Kevin M. Stoltz et.al.|[2408.17388v1](http://arxiv.org/abs/2408.17388v1)|null|
-|**2024-08-30**|**LASSO-MOGAT: A Multi-Omics Graph Attention Framework for Cancer Classification**|Fadi Alharbi et.al.|[2408.17384v1](http://arxiv.org/abs/2408.17384v1)|null|
-|**2024-08-30**|**Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control**|Zihao Sheng et.al.|[2408.17380v1](http://arxiv.org/abs/2408.17380v1)|[link](https://github.com/zihaosheng/traffic-expertise-rl)|
-|**2024-08-30**|**Upward Pointset Embeddings of Planar st-Graphs**|Carlos Alegria et.al.|[2408.17369v1](http://arxiv.org/abs/2408.17369v1)|null|
-|**2024-08-30**|**Configuration Monitor Synthesis**|Maximilian A. Köhl et.al.|[2408.17368v1](http://arxiv.org/abs/2408.17368v1)|null|
-|**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366v1](http://arxiv.org/abs/2408.17366v1)|null|
-|**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364v1](http://arxiv.org/abs/2408.17364v1)|null|
-|**2024-08-30**|**Non-reciprocal spin-glass transition and aging**|Giulia Garcia Lorenzana et.al.|[2408.17360v1](http://arxiv.org/abs/2408.17360v1)|null|
-|**2024-08-30**|**C-RADAR: A Centralized Deep Learning System for Intrusion Detection in Software Defined Networks**|Osama Mustafa et.al.|[2408.17356v1](http://arxiv.org/abs/2408.17356v1)|null|
-|**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352v1](http://arxiv.org/abs/2408.17352v1)|null|
-|**2024-08-30**|**Wave: A Split OS Architecture for Application Engines**|Jack Tigar Humphries et.al.|[2408.17351v1](http://arxiv.org/abs/2408.17351v1)|null|
-|**2024-08-30**|**Evaluating Reliability in Medical DNNs: A Critical Analysis of Feature and Confidence-Based OOD Detection**|Harry Anthony et.al.|[2408.17337v1](http://arxiv.org/abs/2408.17337v1)|[link](https://github.com/harryanthony/evaluating_ood_detection)|
-|**2024-08-30**|**Impact of ChatGPT on the writing style of condensed matter physicists**|Shaojun Xu et.al.|[2408.17325v1](http://arxiv.org/abs/2408.17325v1)|null|
-|**2024-08-30**|**Hybridizing Base-Line 2D-CNN Model with Cat Swarm Optimization for Enhanced Advanced Persistent Threat Detection**|Ali M. Bakhiet et.al.|[2408.17307v1](http://arxiv.org/abs/2408.17307v1)|null|
-|**2024-08-30**|**Accelerating the discovery of steady-states of planetary interior dynamics with machine learning**|Siddhant Agarwal et.al.|[2408.17298v1](http://arxiv.org/abs/2408.17298v1)|null|
-|**2024-08-30**|**The Transferability of Downsampling Sparse Graph Convolutional Networks**|Qinji Shu et.al.|[2408.17274v1](http://arxiv.org/abs/2408.17274v1)|null|
-|**2024-08-30**|**Equation identification for fluid flows via physics-informed neural networks**|Alexander New et.al.|[2408.17271v1](http://arxiv.org/abs/2408.17271v1)|null|
-|**2024-08-30**|**Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach**|Tong Nie et.al.|[2408.17258v1](http://arxiv.org/abs/2408.17258v1)|null|
-|**2024-08-30**|**Self-supervised learning for crystal property prediction via denoising**|Alexander New et.al.|[2408.17255v1](http://arxiv.org/abs/2408.17255v1)|null|
-|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v1](http://arxiv.org/abs/2408.17252v1)|null|
-|**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251v1](http://arxiv.org/abs/2408.17251v1)|[link](https://github.com/bosonphoton/abstractedgaussianprototypes)|
-|**2024-08-30**|**Gellan-Based Hydrogels and Microgels for culturage heritage: a rheological perspective**|Silvia Franco et.al.|[2408.17247v1](http://arxiv.org/abs/2408.17247v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-08-20**|**New horizon in the statistical physics of earthquakes: Dragon-king theory and dragon-king earthquakes**|Jiawei Li et.al.|[2408.10857v1](http://arxiv.org/abs/2408.10857v1)|null|
 |**2024-08-20**|**LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models**|Yupeng Su et.al.|[2408.10631v1](http://arxiv.org/abs/2408.10631v1)|[link](https://github.com/yupengsu/llm-barber)|
 |**2024-08-20**|**On a fundamental difference between Bayesian and frequentist approaches to robustness**|Philippe Gagnon et.al.|[2408.10478v1](http://arxiv.org/abs/2408.10478v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-30**|**From free idempotent monoids to free multiplicatively idempotent rigs**|Morgan Rogers et.al.|[2408.17440v1](http://arxiv.org/abs/2408.17440v1)|null|
+|**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430v1](http://arxiv.org/abs/2408.17430v1)|null|
+|**2024-08-30**|**Neural network-based closure models for large-eddy simulations with explicit filtering**|Mark Benjamin et.al.|[2408.17429v1](http://arxiv.org/abs/2408.17429v1)|null|
+|**2024-08-30**|**Weighted Regression with Sybil Networks**|Nihar Shah et.al.|[2408.17426v1](http://arxiv.org/abs/2408.17426v1)|null|
+|**2024-08-30**|**Hybrid encoder for discrete and continuous variable QKD**|Mattia Sabatini et.al.|[2408.17412v1](http://arxiv.org/abs/2408.17412v1)|null|
+|**2024-08-30**|**Semi-supervised permutation invariant particle-level anomaly detection**|Gabriel Matos et.al.|[2408.17409v1](http://arxiv.org/abs/2408.17409v1)|null|
+|**2024-08-30**|**End-to-End Learning for Task-Oriented Semantic Communications Over MIMO Channels: An Information-Theoretic Framework**|Chang Cai et.al.|[2408.17397v1](http://arxiv.org/abs/2408.17397v1)|null|
+|**2024-08-30**|**Continual learning with the neural tangent ensemble**|Ari S. Benjamin et.al.|[2408.17394v1](http://arxiv.org/abs/2408.17394v1)|null|
+|**2024-08-30**|**Dynamical Properties of Random Boolean Hypernetworks**|Kevin M. Stoltz et.al.|[2408.17388v1](http://arxiv.org/abs/2408.17388v1)|null|
+|**2024-08-30**|**LASSO-MOGAT: A Multi-Omics Graph Attention Framework for Cancer Classification**|Fadi Alharbi et.al.|[2408.17384v1](http://arxiv.org/abs/2408.17384v1)|null|
+|**2024-08-30**|**Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control**|Zihao Sheng et.al.|[2408.17380v1](http://arxiv.org/abs/2408.17380v1)|[link](https://github.com/zihaosheng/traffic-expertise-rl)|
+|**2024-08-30**|**Upward Pointset Embeddings of Planar st-Graphs**|Carlos Alegria et.al.|[2408.17369v1](http://arxiv.org/abs/2408.17369v1)|null|
+|**2024-08-30**|**Configuration Monitor Synthesis**|Maximilian A. Köhl et.al.|[2408.17368v1](http://arxiv.org/abs/2408.17368v1)|null|
+|**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366v1](http://arxiv.org/abs/2408.17366v1)|null|
+|**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364v1](http://arxiv.org/abs/2408.17364v1)|null|
+|**2024-08-30**|**Non-reciprocal spin-glass transition and aging**|Giulia Garcia Lorenzana et.al.|[2408.17360v1](http://arxiv.org/abs/2408.17360v1)|null|
+|**2024-08-30**|**C-RADAR: A Centralized Deep Learning System for Intrusion Detection in Software Defined Networks**|Osama Mustafa et.al.|[2408.17356v1](http://arxiv.org/abs/2408.17356v1)|null|
+|**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352v1](http://arxiv.org/abs/2408.17352v1)|null|
+|**2024-08-30**|**Wave: A Split OS Architecture for Application Engines**|Jack Tigar Humphries et.al.|[2408.17351v1](http://arxiv.org/abs/2408.17351v1)|null|
+|**2024-08-30**|**Evaluating Reliability in Medical DNNs: A Critical Analysis of Feature and Confidence-Based OOD Detection**|Harry Anthony et.al.|[2408.17337v1](http://arxiv.org/abs/2408.17337v1)|[link](https://github.com/harryanthony/evaluating_ood_detection)|
+|**2024-08-30**|**Impact of ChatGPT on the writing style of condensed matter physicists**|Shaojun Xu et.al.|[2408.17325v1](http://arxiv.org/abs/2408.17325v1)|null|
+|**2024-08-30**|**Hybridizing Base-Line 2D-CNN Model with Cat Swarm Optimization for Enhanced Advanced Persistent Threat Detection**|Ali M. Bakhiet et.al.|[2408.17307v1](http://arxiv.org/abs/2408.17307v1)|null|
+|**2024-08-30**|**Accelerating the discovery of steady-states of planetary interior dynamics with machine learning**|Siddhant Agarwal et.al.|[2408.17298v1](http://arxiv.org/abs/2408.17298v1)|null|
+|**2024-08-30**|**The Transferability of Downsampling Sparse Graph Convolutional Networks**|Qinji Shu et.al.|[2408.17274v1](http://arxiv.org/abs/2408.17274v1)|null|
+|**2024-08-30**|**Equation identification for fluid flows via physics-informed neural networks**|Alexander New et.al.|[2408.17271v1](http://arxiv.org/abs/2408.17271v1)|null|
+|**2024-08-30**|**Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach**|Tong Nie et.al.|[2408.17258v1](http://arxiv.org/abs/2408.17258v1)|null|
+|**2024-08-30**|**Self-supervised learning for crystal property prediction via denoising**|Alexander New et.al.|[2408.17255v1](http://arxiv.org/abs/2408.17255v1)|null|
+|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v1](http://arxiv.org/abs/2408.17252v1)|null|
+|**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251v1](http://arxiv.org/abs/2408.17251v1)|[link](https://github.com/bosonphoton/abstractedgaussianprototypes)|
+|**2024-08-30**|**Gellan-Based Hydrogels and Microgels for culturage heritage: a rheological perspective**|Silvia Franco et.al.|[2408.17247v1](http://arxiv.org/abs/2408.17247v1)|null|
