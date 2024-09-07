@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-07 09:45:13 Asia/Shanghai
+ Automated deployment @ 2024-09-07 20:43:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -45,40 +45,6 @@
 |**2024-09-05**|**A Silicon Photonic Neural Network for Chromatic Dispersion Compensation in 20 Gbps PAM4 Signal at 125 km and Its Scalability up to 100 Gbps**|Emiliano Staffoli et.al.|[2409.03547v1](http://arxiv.org/abs/2409.03547v1)|null|
 |**2024-09-05**|**CTMBIDS: Convolutional Tsetlin Machine Based Intrusion Detection System for DDoS attacks in an SDN environment**|Rasoul Jafari Gohari et.al.|[2409.03544v1](http://arxiv.org/abs/2409.03544v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-05**|**Detecting Spatial Dependence in Transcriptomics Data using Vectorised Persistence Diagrams**|Katharina Limbeck et.al.|[2409.03575v1](http://arxiv.org/abs/2409.03575v1)|null|
-|**2024-09-05**|**A Deceptively Simple Quadratic Recurrence**|Steven Finch et.al.|[2409.03510v1](http://arxiv.org/abs/2409.03510v1)|null|
-|**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
-|**2024-09-04**|**Meal-taking activity monitoring in the elderly based on sensor data: Comparison of unsupervised classification methods**|Abderrahim Derouiche et.al.|[2409.02971v1](http://arxiv.org/abs/2409.02971v1)|null|
-|**2024-09-03**|**Generalized implementation of invariant coordinate selection with positive semi-definite scatter matrices**|Aurore Archimbaud et.al.|[2409.02258v1](http://arxiv.org/abs/2409.02258v1)|null|
-|**2024-09-03**|**Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates**|Alice Williams et.al.|[2409.02079v1](http://arxiv.org/abs/2409.02079v1)|null|
-|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011v1](http://arxiv.org/abs/2409.02011v1)|null|
-|**2024-09-03**|**Training on the Benchmark Is Not All You Need**|Shiwen Ni et.al.|[2409.01790v1](http://arxiv.org/abs/2409.01790v1)|[link](https://github.com/nishiwen1214/Benchmark-leakage-detection)|
-|**2024-09-03**|**Interpreting Outliers in Time Series Data through Decoding Autoencoder**|Patrick Knab et.al.|[2409.01713v1](http://arxiv.org/abs/2409.01713v1)|null|
-|**2024-09-01**|**Time-series Crime Prediction Across the United States Based on Socioeconomic and Political Factors**|Patricia Dao et.al.|[2409.00640v1](http://arxiv.org/abs/2409.00640v1)|null|
-|**2024-09-01**|**IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching**|Gangwei Xu et.al.|[2409.00638v1](http://arxiv.org/abs/2409.00638v1)|[link](https://github.com/gangweix/igev)|
-|**2024-08-31**|**Mathematical Optimization-Based Period Estimation with Outliers and Missing Observations**|Romain Puech et.al.|[2409.00526v1](http://arxiv.org/abs/2409.00526v1)|null|
-|**2024-08-31**|**Separation of Body and Background in Radiological Images. A Practical Python Code**|Seyedeh Fahimeh Hosseini et.al.|[2409.00442v1](http://arxiv.org/abs/2409.00442v1)|[link](https://github.com/Behzad-Amanpour/medical_image_pre-processing/tree/main/Body_Background_Separation)|
-|**2024-08-30**|**Common Steps in Machine Learning Might Hinder The Explainability Aims in Medicine**|Ahmed M Salih et.al.|[2409.00155v1](http://arxiv.org/abs/2409.00155v1)|null|
-|**2024-08-29**|**The PAU Survey: Enhancing photometric redshift estimation using DEEPz**|I. V. Daza-Perilla et.al.|[2408.16864v1](http://arxiv.org/abs/2408.16864v1)|null|
-|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v2](http://arxiv.org/abs/2408.16757v2)|[link](https://github.com/visual-ai/dissect-ood-osr)|
-|**2024-08-29**|**Sparse Approximation of the Subdivision-Rips Bifiltration for Doubling Metrics**|Michael Lesnick et.al.|[2408.16716v1](http://arxiv.org/abs/2408.16716v1)|null|
-|**2024-08-29**|**GL-TSVM: A robust and smooth twin support vector machine with guardian loss function**|Mushir Akhtar et.al.|[2408.16336v1](http://arxiv.org/abs/2408.16336v1)|[link](https://github.com/mtanveer1/gl-tsvm)|
-|**2024-08-28**|**Separating Super-Puffs vs. Hot Jupiters Among Young Puffy Planets**|Amalia Karalis et.al.|[2408.16793v1](http://arxiv.org/abs/2408.16793v1)|null|
-|**2024-08-28**|**Comparing the Pearson and Spearman Correlation Coefficients Across Distributions and Sample Sizes: A Tutorial Using Simulations and Empirical Data**|J. C. F. de Winter et.al.|[2408.15979v1](http://arxiv.org/abs/2408.15979v1)|null|
-|**2024-08-28**|**Generating Binary Species Range Maps**|Filip Dorm et.al.|[2408.15956v1](http://arxiv.org/abs/2408.15956v1)|[link](https://github.com/filipgdorm/binary_range_maps)|
-|**2024-08-28**|**Robust Statistical Scaling of Outlier Scores: Improving the Quality of Outlier Probabilities for Outliers (Extended Version)**|Philipp Röchner et.al.|[2408.15874v2](http://arxiv.org/abs/2408.15874v2)|null|
-|**2024-08-28**|**Robust discriminant analysis**|Mia Hubert et.al.|[2408.15701v1](http://arxiv.org/abs/2408.15701v1)|null|
-|**2024-08-28**|**Hierarchical Visual Categories Modeling: A Joint Representation Learning and Density Estimation Framework for Out-of-Distribution Detection**|Jinglun Li et.al.|[2408.15580v1](http://arxiv.org/abs/2408.15580v1)|null|
-|**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|null|
-|**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
-|**2024-08-27**|**Bayesian spatiotemporal modelling of political violence and conflict events using discrete-time Hawkes processes**|Raiha Browning et.al.|[2408.14940v1](http://arxiv.org/abs/2408.14940v1)|[link](https://github.com/raihatuitaura/st-hawkes-thesis)|
-|**2024-08-27**|**Diffusion based Semantic Outlier Generation via Nuisance Awareness for Out-of-Distribution Detection**|Suhee Yoon et.al.|[2408.14841v1](http://arxiv.org/abs/2408.14841v1)|null|
-|**2024-08-27**|**Residual-based Adaptive Huber Loss (RAHL) -- Design of an improved Huber loss for CQI prediction in 5G networks**|Mina Kaviani et.al.|[2408.14718v1](http://arxiv.org/abs/2408.14718v1)|null|
-|**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081v1](http://arxiv.org/abs/2408.14081v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,3 +78,37 @@
 |**2024-09-05**|**Shapiro steps in strongly-interacting Fermi gases**|Giulia Del Pace et.al.|[2409.03448v1](http://arxiv.org/abs/2409.03448v1)|null|
 |**2024-09-05**|**Light-curve analysis and shape models of NEAs 7335, 7822, 154244 and 159402**|Javier Rodríguez Rodríguez et.al.|[2409.03446v1](http://arxiv.org/abs/2409.03446v1)|null|
 |**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-05**|**Detecting Spatial Dependence in Transcriptomics Data using Vectorised Persistence Diagrams**|Katharina Limbeck et.al.|[2409.03575v1](http://arxiv.org/abs/2409.03575v1)|null|
+|**2024-09-05**|**A Deceptively Simple Quadratic Recurrence**|Steven Finch et.al.|[2409.03510v1](http://arxiv.org/abs/2409.03510v1)|null|
+|**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
+|**2024-09-04**|**Meal-taking activity monitoring in the elderly based on sensor data: Comparison of unsupervised classification methods**|Abderrahim Derouiche et.al.|[2409.02971v1](http://arxiv.org/abs/2409.02971v1)|null|
+|**2024-09-03**|**Generalized implementation of invariant coordinate selection with positive semi-definite scatter matrices**|Aurore Archimbaud et.al.|[2409.02258v1](http://arxiv.org/abs/2409.02258v1)|null|
+|**2024-09-03**|**Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates**|Alice Williams et.al.|[2409.02079v1](http://arxiv.org/abs/2409.02079v1)|null|
+|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011v1](http://arxiv.org/abs/2409.02011v1)|null|
+|**2024-09-03**|**Training on the Benchmark Is Not All You Need**|Shiwen Ni et.al.|[2409.01790v1](http://arxiv.org/abs/2409.01790v1)|[link](https://github.com/nishiwen1214/Benchmark-leakage-detection)|
+|**2024-09-03**|**Interpreting Outliers in Time Series Data through Decoding Autoencoder**|Patrick Knab et.al.|[2409.01713v1](http://arxiv.org/abs/2409.01713v1)|null|
+|**2024-09-01**|**Time-series Crime Prediction Across the United States Based on Socioeconomic and Political Factors**|Patricia Dao et.al.|[2409.00640v1](http://arxiv.org/abs/2409.00640v1)|null|
+|**2024-09-01**|**IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching**|Gangwei Xu et.al.|[2409.00638v1](http://arxiv.org/abs/2409.00638v1)|[link](https://github.com/gangweix/igev)|
+|**2024-08-31**|**Mathematical Optimization-Based Period Estimation with Outliers and Missing Observations**|Romain Puech et.al.|[2409.00526v1](http://arxiv.org/abs/2409.00526v1)|null|
+|**2024-08-31**|**Separation of Body and Background in Radiological Images. A Practical Python Code**|Seyedeh Fahimeh Hosseini et.al.|[2409.00442v1](http://arxiv.org/abs/2409.00442v1)|[link](https://github.com/Behzad-Amanpour/medical_image_pre-processing/tree/main/Body_Background_Separation)|
+|**2024-08-30**|**Common Steps in Machine Learning Might Hinder The Explainability Aims in Medicine**|Ahmed M Salih et.al.|[2409.00155v1](http://arxiv.org/abs/2409.00155v1)|null|
+|**2024-08-29**|**The PAU Survey: Enhancing photometric redshift estimation using DEEPz**|I. V. Daza-Perilla et.al.|[2408.16864v1](http://arxiv.org/abs/2408.16864v1)|null|
+|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v2](http://arxiv.org/abs/2408.16757v2)|[link](https://github.com/visual-ai/dissect-ood-osr)|
+|**2024-08-29**|**Sparse Approximation of the Subdivision-Rips Bifiltration for Doubling Metrics**|Michael Lesnick et.al.|[2408.16716v1](http://arxiv.org/abs/2408.16716v1)|null|
+|**2024-08-29**|**GL-TSVM: A robust and smooth twin support vector machine with guardian loss function**|Mushir Akhtar et.al.|[2408.16336v1](http://arxiv.org/abs/2408.16336v1)|[link](https://github.com/mtanveer1/gl-tsvm)|
+|**2024-08-28**|**Separating Super-Puffs vs. Hot Jupiters Among Young Puffy Planets**|Amalia Karalis et.al.|[2408.16793v1](http://arxiv.org/abs/2408.16793v1)|null|
+|**2024-08-28**|**Comparing the Pearson and Spearman Correlation Coefficients Across Distributions and Sample Sizes: A Tutorial Using Simulations and Empirical Data**|J. C. F. de Winter et.al.|[2408.15979v1](http://arxiv.org/abs/2408.15979v1)|null|
+|**2024-08-28**|**Generating Binary Species Range Maps**|Filip Dorm et.al.|[2408.15956v1](http://arxiv.org/abs/2408.15956v1)|[link](https://github.com/filipgdorm/binary_range_maps)|
+|**2024-08-28**|**Robust Statistical Scaling of Outlier Scores: Improving the Quality of Outlier Probabilities for Outliers (Extended Version)**|Philipp Röchner et.al.|[2408.15874v2](http://arxiv.org/abs/2408.15874v2)|null|
+|**2024-08-28**|**Robust discriminant analysis**|Mia Hubert et.al.|[2408.15701v1](http://arxiv.org/abs/2408.15701v1)|null|
+|**2024-08-28**|**Hierarchical Visual Categories Modeling: A Joint Representation Learning and Density Estimation Framework for Out-of-Distribution Detection**|Jinglun Li et.al.|[2408.15580v1](http://arxiv.org/abs/2408.15580v1)|null|
+|**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|null|
+|**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
+|**2024-08-27**|**Bayesian spatiotemporal modelling of political violence and conflict events using discrete-time Hawkes processes**|Raiha Browning et.al.|[2408.14940v1](http://arxiv.org/abs/2408.14940v1)|[link](https://github.com/raihatuitaura/st-hawkes-thesis)|
+|**2024-08-27**|**Diffusion based Semantic Outlier Generation via Nuisance Awareness for Out-of-Distribution Detection**|Suhee Yoon et.al.|[2408.14841v1](http://arxiv.org/abs/2408.14841v1)|null|
+|**2024-08-27**|**Residual-based Adaptive Huber Loss (RAHL) -- Design of an improved Huber loss for CQI prediction in 5G networks**|Mina Kaviani et.al.|[2408.14718v1](http://arxiv.org/abs/2408.14718v1)|null|
+|**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081v1](http://arxiv.org/abs/2408.14081v1)|null|
