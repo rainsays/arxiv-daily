@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-14 09:46:12 Asia/Shanghai
+ Automated deployment @ 2024-09-14 20:44:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-12**|**Cellwise outlier detection in heterogeneous populations**|Giorgia Zaccaria et.al.|[2409.07881v1](http://arxiv.org/abs/2409.07881v1)|null|
-|**2024-09-12**|**DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**|Zhenyuan Dong et.al.|[2409.07756v1](http://arxiv.org/abs/2409.07756v1)|null|
-|**2024-09-11**|**Determining number of factors under stability considerations**|Sze Ming Lee et.al.|[2409.07617v1](http://arxiv.org/abs/2409.07617v1)|null|
-|**2024-09-11**|**Robust Square Root Unscented Kalman filter of graph signals**|Jinhui Hu et.al.|[2409.06981v1](http://arxiv.org/abs/2409.06981v1)|null|
-|**2024-09-10**|**A Likelihood Ratio-Based Approach to Segmenting Unknown Objects**|Nazir Nayal et.al.|[2409.06424v1](http://arxiv.org/abs/2409.06424v1)|null|
-|**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407v1](http://arxiv.org/abs/2409.06407v1)|[link](https://github.com/aaltoml/uncertainty-nerf-gs)|
-|**2024-09-10**|**Sifting the debris: Patterns in the SNR population with unsupervised ML methods**|F. Bufano et.al.|[2409.06383v1](http://arxiv.org/abs/2409.06383v1)|null|
-|**2024-09-09**|**RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec**|Anna de Graaff et.al.|[2409.05948v1](http://arxiv.org/abs/2409.05948v1)|null|
-|**2024-09-09**|**Jackknife Empirical Likelihood Ratio Test for Cauchy Distribution**|Avhad Ganesh Vishnu et.al.|[2409.05764v1](http://arxiv.org/abs/2409.05764v1)|null|
-|**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v1](http://arxiv.org/abs/2409.05672v1)|null|
-|**2024-09-09**|**Adversarial Attacks on Data Attribution**|Xinhe Wang et.al.|[2409.05657v1](http://arxiv.org/abs/2409.05657v1)|null|
-|**2024-09-09**|**Outlier Removal in Cryo-EM via Radial Profiles**|Lev Kapnulin et.al.|[2409.05523v1](http://arxiv.org/abs/2409.05523v1)|null|
-|**2024-09-09**|**Beyond Flatland: A Geometric Take on Matching Methods for Treatment Effect Estimation**|Melanie F. Pradier et.al.|[2409.05459v1](http://arxiv.org/abs/2409.05459v1)|null|
-|**2024-09-09**|**Robust Non-adaptive Group Testing under Errors in Group Membership Specifications**|Shuvayan Banerjee et.al.|[2409.05345v1](http://arxiv.org/abs/2409.05345v1)|null|
-|**2024-09-08**|**Two Channels of Metal-Rich Compact Stellar System Formation: Starbursts Under High Ram Pressure vs. Tidal Stripping**|Yuan Bian et.al.|[2409.05229v1](http://arxiv.org/abs/2409.05229v1)|null|
-|**2024-09-08**|**Deep Generic Representations for Domain-Generalized Anomalous Sound Detection**|Phurich Saengthong et.al.|[2409.05035v1](http://arxiv.org/abs/2409.05035v1)|null|
-|**2024-09-07**|**Enhancing Outlier Knowledge for Few-Shot Out-of-Distribution Detection with Extensible Local Prompts**|Fanhu Zeng et.al.|[2409.04796v1](http://arxiv.org/abs/2409.04796v1)|null|
-|**2024-09-07**|**A Sample Efficient Alternating Minimization-based Algorithm For Robust Phase Retrieval**|Adarsh Barik et.al.|[2409.04733v1](http://arxiv.org/abs/2409.04733v1)|null|
-|**2024-09-07**|**First joint X-ray solar microflare observations with NuSTAR and Solar Orbiter/STIX**|Natália Bajnoková et.al.|[2409.04722v1](http://arxiv.org/abs/2409.04722v1)|null|
-|**2024-09-07**|**Hierarchical Sparse Representation Clustering for High-Dimensional Data Streams**|Jie Chen et.al.|[2409.04698v1](http://arxiv.org/abs/2409.04698v1)|[link](https://github.com/chenjie20/hsrc)|
-|**2024-09-06**|**OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902v1](http://arxiv.org/abs/2409.05902v1)|null|
-|**2024-09-06**|**Benchmarking Basis Sets for Density Functional Theory Thermochemistry Calculations: Why unpolarised basis sets and the polarised 6-311G family should be avoided**|Samuel J. Pitman et.al.|[2409.03964v1](http://arxiv.org/abs/2409.03964v1)|null|
-|**2024-09-05**|**An analysis of spectroscopic, seismological, astrometric, and photometric masses of pulsating white dwarf stars**|Leila M. Calcaferro et.al.|[2409.03896v1](http://arxiv.org/abs/2409.03896v1)|null|
-|**2024-09-05**|**Detecting Spatial Dependence in Transcriptomics Data using Vectorised Persistence Diagrams**|Katharina Limbeck et.al.|[2409.03575v1](http://arxiv.org/abs/2409.03575v1)|null|
-|**2024-09-05**|**A Deceptively Simple Quadratic Recurrence**|Steven Finch et.al.|[2409.03510v2](http://arxiv.org/abs/2409.03510v2)|null|
-|**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
-|**2024-09-04**|**Meal-taking activity monitoring in the elderly based on sensor data: Comparison of unsupervised classification methods**|Abderrahim Derouiche et.al.|[2409.02971v1](http://arxiv.org/abs/2409.02971v1)|null|
-|**2024-09-03**|**Generalized implementation of invariant coordinate selection with positive semi-definite scatter matrices**|Aurore Archimbaud et.al.|[2409.02258v1](http://arxiv.org/abs/2409.02258v1)|null|
-|**2024-09-03**|**Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates**|Alice Williams et.al.|[2409.02079v1](http://arxiv.org/abs/2409.02079v1)|null|
-|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011v1](http://arxiv.org/abs/2409.02011v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +44,40 @@
 |**2024-09-12**|**A Riemannian Approach to the Lindbladian Dynamics of a Locally Purified Tensor Network**|Emiliano Godinez-Ramirez et.al.|[2409.08127v1](http://arxiv.org/abs/2409.08127v1)|null|
 |**2024-09-12**|**Magnetic Field Evolution of the Solar Active Region 13664**|Robert Jarolim et.al.|[2409.08124v1](http://arxiv.org/abs/2409.08124v1)|null|
 |**2024-09-12**|**Diffusion, Long-Time Tails, and Localization in Classical and Quantum Lorentz Models: A Unifying Hydrodynamic Approach**|T. R. Kirkpatrick et.al.|[2409.08123v1](http://arxiv.org/abs/2409.08123v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-12**|**Cellwise outlier detection in heterogeneous populations**|Giorgia Zaccaria et.al.|[2409.07881v1](http://arxiv.org/abs/2409.07881v1)|null|
+|**2024-09-12**|**DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**|Zhenyuan Dong et.al.|[2409.07756v1](http://arxiv.org/abs/2409.07756v1)|null|
+|**2024-09-11**|**Determining number of factors under stability considerations**|Sze Ming Lee et.al.|[2409.07617v1](http://arxiv.org/abs/2409.07617v1)|null|
+|**2024-09-11**|**Robust Square Root Unscented Kalman filter of graph signals**|Jinhui Hu et.al.|[2409.06981v1](http://arxiv.org/abs/2409.06981v1)|null|
+|**2024-09-10**|**A Likelihood Ratio-Based Approach to Segmenting Unknown Objects**|Nazir Nayal et.al.|[2409.06424v1](http://arxiv.org/abs/2409.06424v1)|null|
+|**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407v1](http://arxiv.org/abs/2409.06407v1)|[link](https://github.com/aaltoml/uncertainty-nerf-gs)|
+|**2024-09-10**|**Sifting the debris: Patterns in the SNR population with unsupervised ML methods**|F. Bufano et.al.|[2409.06383v1](http://arxiv.org/abs/2409.06383v1)|null|
+|**2024-09-09**|**RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec**|Anna de Graaff et.al.|[2409.05948v1](http://arxiv.org/abs/2409.05948v1)|null|
+|**2024-09-09**|**Jackknife Empirical Likelihood Ratio Test for Cauchy Distribution**|Avhad Ganesh Vishnu et.al.|[2409.05764v1](http://arxiv.org/abs/2409.05764v1)|null|
+|**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v1](http://arxiv.org/abs/2409.05672v1)|null|
+|**2024-09-09**|**Adversarial Attacks on Data Attribution**|Xinhe Wang et.al.|[2409.05657v1](http://arxiv.org/abs/2409.05657v1)|null|
+|**2024-09-09**|**Outlier Removal in Cryo-EM via Radial Profiles**|Lev Kapnulin et.al.|[2409.05523v1](http://arxiv.org/abs/2409.05523v1)|null|
+|**2024-09-09**|**Beyond Flatland: A Geometric Take on Matching Methods for Treatment Effect Estimation**|Melanie F. Pradier et.al.|[2409.05459v1](http://arxiv.org/abs/2409.05459v1)|null|
+|**2024-09-09**|**Robust Non-adaptive Group Testing under Errors in Group Membership Specifications**|Shuvayan Banerjee et.al.|[2409.05345v1](http://arxiv.org/abs/2409.05345v1)|null|
+|**2024-09-08**|**Two Channels of Metal-Rich Compact Stellar System Formation: Starbursts Under High Ram Pressure vs. Tidal Stripping**|Yuan Bian et.al.|[2409.05229v1](http://arxiv.org/abs/2409.05229v1)|null|
+|**2024-09-08**|**Deep Generic Representations for Domain-Generalized Anomalous Sound Detection**|Phurich Saengthong et.al.|[2409.05035v1](http://arxiv.org/abs/2409.05035v1)|null|
+|**2024-09-07**|**Enhancing Outlier Knowledge for Few-Shot Out-of-Distribution Detection with Extensible Local Prompts**|Fanhu Zeng et.al.|[2409.04796v1](http://arxiv.org/abs/2409.04796v1)|null|
+|**2024-09-07**|**A Sample Efficient Alternating Minimization-based Algorithm For Robust Phase Retrieval**|Adarsh Barik et.al.|[2409.04733v1](http://arxiv.org/abs/2409.04733v1)|null|
+|**2024-09-07**|**First joint X-ray solar microflare observations with NuSTAR and Solar Orbiter/STIX**|Natália Bajnoková et.al.|[2409.04722v1](http://arxiv.org/abs/2409.04722v1)|null|
+|**2024-09-07**|**Hierarchical Sparse Representation Clustering for High-Dimensional Data Streams**|Jie Chen et.al.|[2409.04698v1](http://arxiv.org/abs/2409.04698v1)|[link](https://github.com/chenjie20/hsrc)|
+|**2024-09-06**|**OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902v1](http://arxiv.org/abs/2409.05902v1)|null|
+|**2024-09-06**|**Benchmarking Basis Sets for Density Functional Theory Thermochemistry Calculations: Why unpolarised basis sets and the polarised 6-311G family should be avoided**|Samuel J. Pitman et.al.|[2409.03964v1](http://arxiv.org/abs/2409.03964v1)|null|
+|**2024-09-05**|**An analysis of spectroscopic, seismological, astrometric, and photometric masses of pulsating white dwarf stars**|Leila M. Calcaferro et.al.|[2409.03896v1](http://arxiv.org/abs/2409.03896v1)|null|
+|**2024-09-05**|**Detecting Spatial Dependence in Transcriptomics Data using Vectorised Persistence Diagrams**|Katharina Limbeck et.al.|[2409.03575v1](http://arxiv.org/abs/2409.03575v1)|null|
+|**2024-09-05**|**A Deceptively Simple Quadratic Recurrence**|Steven Finch et.al.|[2409.03510v2](http://arxiv.org/abs/2409.03510v2)|null|
+|**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
+|**2024-09-04**|**Meal-taking activity monitoring in the elderly based on sensor data: Comparison of unsupervised classification methods**|Abderrahim Derouiche et.al.|[2409.02971v1](http://arxiv.org/abs/2409.02971v1)|null|
+|**2024-09-03**|**Generalized implementation of invariant coordinate selection with positive semi-definite scatter matrices**|Aurore Archimbaud et.al.|[2409.02258v1](http://arxiv.org/abs/2409.02258v1)|null|
+|**2024-09-03**|**Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates**|Alice Williams et.al.|[2409.02079v1](http://arxiv.org/abs/2409.02079v1)|null|
+|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011v1](http://arxiv.org/abs/2409.02011v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
