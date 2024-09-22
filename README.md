@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-22 09:58:12 Asia/Shanghai
+ Automated deployment @ 2024-09-22 20:45:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**SPECTER: An Instrument Concept for CMB Spectral Distortion Measurements with Enhanced Sensitivity**|Alina Sabyr et.al.|[2409.12188v1](http://arxiv.org/abs/2409.12188v1)|null|
-|**2024-09-18**|**Exoplanet accretion monitoring spectroscopic survey (ENTROPY) I. Evidence for magnetospheric accretion in the young isolated planetary-mass object 2MASS J11151597+1937266**|Gayathri Viswanath et.al.|[2409.12187v1](http://arxiv.org/abs/2409.12187v1)|null|
-|**2024-09-18**|**Experimental Evidence That Conversational Artificial Intelligence Can Steer Consumer Behavior Without Detection**|Tobias Werner et.al.|[2409.12143v1](http://arxiv.org/abs/2409.12143v1)|null|
-|**2024-09-18**|**The Low-Redshift Lyman Continuum Survey: The Roles of Stellar Feedback and ISM Geometry in LyC Escape**|Sophia R. Flury et.al.|[2409.12118v1](http://arxiv.org/abs/2409.12118v1)|null|
-|**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111v1](http://arxiv.org/abs/2409.12111v1)|null|
-|**2024-09-18**|**Performance of Quantum Approximate Optimization with Quantum Error Detection**|Zichang He et.al.|[2409.12104v1](http://arxiv.org/abs/2409.12104v1)|null|
-|**2024-09-18**|**The Impact of Element Ordering on LM Agent Performance**|Wayne Chi et.al.|[2409.12089v2](http://arxiv.org/abs/2409.12089v2)|[link](https://github.com/waynchi/gui-agent)|
-|**2024-09-18**|**Unsupervised Domain Adaptation Via Data Pruning**|Andrea Napoli et.al.|[2409.12076v1](http://arxiv.org/abs/2409.12076v1)|null|
-|**2024-09-18**|**Probing the Possible Causes of the Transit Timing Variation for TrES-2b in TESS Era**|Shraddha Biswas et.al.|[2409.12069v1](http://arxiv.org/abs/2409.12069v1)|null|
-|**2024-09-18**|**PARAPHRASUS : A Comprehensive Benchmark for Evaluating Paraphrase Detection Models**|Andrianos Michail et.al.|[2409.12060v1](http://arxiv.org/abs/2409.12060v1)|null|
-|**2024-09-18**|**Quantum-like nonlinear interferometry with frequency-engineered classical light**|Romain Dalidet et.al.|[2409.12049v1](http://arxiv.org/abs/2409.12049v1)|null|
-|**2024-09-18**|**Surface Phonon Polariton Ellipsometry**|Giulia Carini et.al.|[2409.12035v1](http://arxiv.org/abs/2409.12035v1)|null|
-|**2024-09-18**|**Multi-Sensor Deep Learning for Glacier Mapping**|Codruţ-Andrei Diaconu et.al.|[2409.12034v1](http://arxiv.org/abs/2409.12034v1)|null|
-|**2024-09-18**|**Asymptotics for conformal inference**|Ulysse Gazin et.al.|[2409.12019v1](http://arxiv.org/abs/2409.12019v1)|null|
-|**2024-09-18**|**Computational Imaging for Long-Term Prediction of Solar Irradiance**|Leron Julian et.al.|[2409.12016v1](http://arxiv.org/abs/2409.12016v1)|[link](https://github.com/image-science-lab-cmu/skycam)|
-|**2024-09-18**|**Additive-feature-attribution methods: a review on explainable artificial intelligence for fluid dynamics and heat transfer**|Andrés Cremades et.al.|[2409.11992v1](http://arxiv.org/abs/2409.11992v1)|null|
-|**2024-09-18**|**Equimetrics -- Applying HAR principles to equestrian activities**|Jonas Pöhler et.al.|[2409.11989v1](http://arxiv.org/abs/2409.11989v1)|[link](https://github.com/limlug/equimetrics)|
-|**2024-09-18**|**End-to-End Learning of Transmitter and Receiver Filters in Bandwidth Limited Fiber Optic Communication Systems**|Søren Føns Nielsen et.al.|[2409.11980v1](http://arxiv.org/abs/2409.11980v1)|null|
-|**2024-09-18**|**SWEET-Cat: A view on the planetary mass-radius relation**|S. G. Sousa et.al.|[2409.11965v1](http://arxiv.org/abs/2409.11965v1)|null|
-|**2024-09-18**|**Data Efficient Acoustic Scene Classification using Teacher-Informed Confusing Class Instruction**|Jin Jie Sean Yeo et.al.|[2409.11964v1](http://arxiv.org/abs/2409.11964v1)|null|
-|**2024-09-18**|**Atmospheric Turbulence-Immune Free Space Optical Communication System based on Discrete-Time Analog Transmission**|Hongyu Huang et.al.|[2409.11928v1](http://arxiv.org/abs/2409.11928v1)|null|
-|**2024-09-18**|**Optical intensity-gradient torque due to chiral multipole interplay**|Jiquan Wen et.al.|[2409.11924v1](http://arxiv.org/abs/2409.11924v1)|null|
-|**2024-09-18**|**Agglomerative Token Clustering**|Joakim Bruslund Haurum et.al.|[2409.11923v1](http://arxiv.org/abs/2409.11923v1)|null|
-|**2024-09-18**|**Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0**|Zhiyong Wang et.al.|[2409.11909v1](http://arxiv.org/abs/2409.11909v1)|null|
-|**2024-09-18**|**Less Memory Means smaller GPUs: Backpropagation with Compressed Activations**|Daniel Barley et.al.|[2409.11902v1](http://arxiv.org/abs/2409.11902v1)|null|
-|**2024-09-18**|**Origin of the non-Fermi-liquid behavior in CeRh2As2**|P. Khanenko et.al.|[2409.11894v1](http://arxiv.org/abs/2409.11894v1)|null|
-|**2024-09-18**|**Log2graphs: An Unsupervised Framework for Log Anomaly Detection with Efficient Feature Extraction**|Caihong Wang et.al.|[2409.11890v1](http://arxiv.org/abs/2409.11890v1)|null|
-|**2024-09-18**|**Recent Advances in OOD Detection: Problems and Approaches**|Shuo Lu et.al.|[2409.11884v1](http://arxiv.org/abs/2409.11884v1)|null|
-|**2024-09-18**|**QUBO-based SVM for credit card fraud detection on a real QPU**|Ettore Canonici et.al.|[2409.11876v1](http://arxiv.org/abs/2409.11876v1)|null|
-|**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870v1](http://arxiv.org/abs/2409.11870v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-09-08**|**Two Channels of Metal-Rich Compact Stellar System Formation: Starbursts Under High Ram Pressure vs. Tidal Stripping**|Yuan Bian et.al.|[2409.05229v1](http://arxiv.org/abs/2409.05229v1)|null|
 |**2024-09-08**|**Deep Generic Representations for Domain-Generalized Anomalous Sound Detection**|Phurich Saengthong et.al.|[2409.05035v1](http://arxiv.org/abs/2409.05035v1)|null|
 |**2024-09-07**|**Enhancing Outlier Knowledge for Few-Shot Out-of-Distribution Detection with Extensible Local Prompts**|Fanhu Zeng et.al.|[2409.04796v1](http://arxiv.org/abs/2409.04796v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**SPECTER: An Instrument Concept for CMB Spectral Distortion Measurements with Enhanced Sensitivity**|Alina Sabyr et.al.|[2409.12188v1](http://arxiv.org/abs/2409.12188v1)|null|
+|**2024-09-18**|**Exoplanet accretion monitoring spectroscopic survey (ENTROPY) I. Evidence for magnetospheric accretion in the young isolated planetary-mass object 2MASS J11151597+1937266**|Gayathri Viswanath et.al.|[2409.12187v1](http://arxiv.org/abs/2409.12187v1)|null|
+|**2024-09-18**|**Experimental Evidence That Conversational Artificial Intelligence Can Steer Consumer Behavior Without Detection**|Tobias Werner et.al.|[2409.12143v1](http://arxiv.org/abs/2409.12143v1)|null|
+|**2024-09-18**|**The Low-Redshift Lyman Continuum Survey: The Roles of Stellar Feedback and ISM Geometry in LyC Escape**|Sophia R. Flury et.al.|[2409.12118v1](http://arxiv.org/abs/2409.12118v1)|null|
+|**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111v1](http://arxiv.org/abs/2409.12111v1)|null|
+|**2024-09-18**|**Performance of Quantum Approximate Optimization with Quantum Error Detection**|Zichang He et.al.|[2409.12104v1](http://arxiv.org/abs/2409.12104v1)|null|
+|**2024-09-18**|**The Impact of Element Ordering on LM Agent Performance**|Wayne Chi et.al.|[2409.12089v2](http://arxiv.org/abs/2409.12089v2)|[link](https://github.com/waynchi/gui-agent)|
+|**2024-09-18**|**Unsupervised Domain Adaptation Via Data Pruning**|Andrea Napoli et.al.|[2409.12076v1](http://arxiv.org/abs/2409.12076v1)|null|
+|**2024-09-18**|**Probing the Possible Causes of the Transit Timing Variation for TrES-2b in TESS Era**|Shraddha Biswas et.al.|[2409.12069v1](http://arxiv.org/abs/2409.12069v1)|null|
+|**2024-09-18**|**PARAPHRASUS : A Comprehensive Benchmark for Evaluating Paraphrase Detection Models**|Andrianos Michail et.al.|[2409.12060v1](http://arxiv.org/abs/2409.12060v1)|null|
+|**2024-09-18**|**Quantum-like nonlinear interferometry with frequency-engineered classical light**|Romain Dalidet et.al.|[2409.12049v1](http://arxiv.org/abs/2409.12049v1)|null|
+|**2024-09-18**|**Surface Phonon Polariton Ellipsometry**|Giulia Carini et.al.|[2409.12035v1](http://arxiv.org/abs/2409.12035v1)|null|
+|**2024-09-18**|**Multi-Sensor Deep Learning for Glacier Mapping**|Codruţ-Andrei Diaconu et.al.|[2409.12034v1](http://arxiv.org/abs/2409.12034v1)|null|
+|**2024-09-18**|**Asymptotics for conformal inference**|Ulysse Gazin et.al.|[2409.12019v1](http://arxiv.org/abs/2409.12019v1)|null|
+|**2024-09-18**|**Computational Imaging for Long-Term Prediction of Solar Irradiance**|Leron Julian et.al.|[2409.12016v1](http://arxiv.org/abs/2409.12016v1)|[link](https://github.com/image-science-lab-cmu/skycam)|
+|**2024-09-18**|**Additive-feature-attribution methods: a review on explainable artificial intelligence for fluid dynamics and heat transfer**|Andrés Cremades et.al.|[2409.11992v1](http://arxiv.org/abs/2409.11992v1)|null|
+|**2024-09-18**|**Equimetrics -- Applying HAR principles to equestrian activities**|Jonas Pöhler et.al.|[2409.11989v1](http://arxiv.org/abs/2409.11989v1)|[link](https://github.com/limlug/equimetrics)|
+|**2024-09-18**|**End-to-End Learning of Transmitter and Receiver Filters in Bandwidth Limited Fiber Optic Communication Systems**|Søren Føns Nielsen et.al.|[2409.11980v1](http://arxiv.org/abs/2409.11980v1)|null|
+|**2024-09-18**|**SWEET-Cat: A view on the planetary mass-radius relation**|S. G. Sousa et.al.|[2409.11965v1](http://arxiv.org/abs/2409.11965v1)|null|
+|**2024-09-18**|**Data Efficient Acoustic Scene Classification using Teacher-Informed Confusing Class Instruction**|Jin Jie Sean Yeo et.al.|[2409.11964v1](http://arxiv.org/abs/2409.11964v1)|null|
+|**2024-09-18**|**Atmospheric Turbulence-Immune Free Space Optical Communication System based on Discrete-Time Analog Transmission**|Hongyu Huang et.al.|[2409.11928v1](http://arxiv.org/abs/2409.11928v1)|null|
+|**2024-09-18**|**Optical intensity-gradient torque due to chiral multipole interplay**|Jiquan Wen et.al.|[2409.11924v1](http://arxiv.org/abs/2409.11924v1)|null|
+|**2024-09-18**|**Agglomerative Token Clustering**|Joakim Bruslund Haurum et.al.|[2409.11923v1](http://arxiv.org/abs/2409.11923v1)|null|
+|**2024-09-18**|**Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0**|Zhiyong Wang et.al.|[2409.11909v1](http://arxiv.org/abs/2409.11909v1)|null|
+|**2024-09-18**|**Less Memory Means smaller GPUs: Backpropagation with Compressed Activations**|Daniel Barley et.al.|[2409.11902v1](http://arxiv.org/abs/2409.11902v1)|null|
+|**2024-09-18**|**Origin of the non-Fermi-liquid behavior in CeRh2As2**|P. Khanenko et.al.|[2409.11894v1](http://arxiv.org/abs/2409.11894v1)|null|
+|**2024-09-18**|**Log2graphs: An Unsupervised Framework for Log Anomaly Detection with Efficient Feature Extraction**|Caihong Wang et.al.|[2409.11890v1](http://arxiv.org/abs/2409.11890v1)|null|
+|**2024-09-18**|**Recent Advances in OOD Detection: Problems and Approaches**|Shuo Lu et.al.|[2409.11884v1](http://arxiv.org/abs/2409.11884v1)|null|
+|**2024-09-18**|**QUBO-based SVM for credit card fraud detection on a real QPU**|Ettore Canonici et.al.|[2409.11876v1](http://arxiv.org/abs/2409.11876v1)|null|
+|**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870v1](http://arxiv.org/abs/2409.11870v1)|null|
