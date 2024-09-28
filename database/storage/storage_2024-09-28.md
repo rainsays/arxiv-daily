@@ -1,49 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-09-28 09:52:13 Asia/Shanghai
+ Automated deployment @ 2024-09-28 20:47:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## NIDS
-
-### webshell
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
-|**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102v1](http://arxiv.org/abs/2409.18102v1)|null|
-|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099v1](http://arxiv.org/abs/2409.18099v1)|null|
-|**2024-09-26**|**A Sim-to-Real Vision-based Lane Keeping System for a 1:10-scale Autonomous Vehicle**|Antonio Gallina et.al.|[2409.18097v1](http://arxiv.org/abs/2409.18097v1)|null|
-|**2024-09-26**|**Mobility in Age-Based Gossip Networks**|Arunabh Srivastava et.al.|[2409.18094v1](http://arxiv.org/abs/2409.18094v1)|null|
-|**2024-09-26**|**A 2-approximation algorithm for the softwired parsimony problem on binary, tree-child phylogenetic networks**|Martin Frohn et.al.|[2409.18077v1](http://arxiv.org/abs/2409.18077v1)|null|
-|**2024-09-26**|**Prediction of the Infrared Absorbance Intensities and Frequencies of Hydrocarbons:A Message Passing Neural Network Approach**|Maliheh Shaban Tameh et.al.|[2409.18070v1](http://arxiv.org/abs/2409.18070v1)|null|
-|**2024-09-26**|**Optimal Protocols for Continual Learning via Statistical Physics and Control Theory**|Francesco Mori et.al.|[2409.18061v1](http://arxiv.org/abs/2409.18061v1)|null|
-|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057v1](http://arxiv.org/abs/2409.18057v1)|[link](https://github.com/mingsun-tse/lightavatar-tensorflow)|
-|**2024-09-26**|**MARS: Multi-radio Architecture with Radio Selection using Decision Trees for emerging mesoscale CPS/IoT applications**|Jothi Prasanna Shanmuga Sundaram et.al.|[2409.18043v1](http://arxiv.org/abs/2409.18043v1)|null|
-|**2024-09-26**|**ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning**|Song Wang et.al.|[2409.18026v1](http://arxiv.org/abs/2409.18026v1)|null|
-|**2024-09-26**|**Relating Superconducting Optoelectronic Networks to Classical Neurodynamics**|Jeffrey M. Shainline et.al.|[2409.18016v1](http://arxiv.org/abs/2409.18016v1)|null|
-|**2024-09-26**|**Spatiotemporal Learning on Cell-embedded Graphs**|Yuan Mi et.al.|[2409.18013v1](http://arxiv.org/abs/2409.18013v1)|null|
-|**2024-09-26**|**A Decision-Making Method in Polyhedral Convex Set Optimization**|Andreas Löhne et.al.|[2409.17998v1](http://arxiv.org/abs/2409.17998v1)|null|
-|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997v1](http://arxiv.org/abs/2409.17997v1)|null|
-|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994v1](http://arxiv.org/abs/2409.17994v1)|null|
-|**2024-09-26**|**Dimension-independent learning rates for high-dimensional classification problems**|Andres Felipe Lerma-Pineda et.al.|[2409.17991v1](http://arxiv.org/abs/2409.17991v1)|null|
-|**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986v1](http://arxiv.org/abs/2409.17986v1)|null|
-|**2024-09-26**|**A neural network study of the phase transitions of the two-dimensional antiferromagnetic $q$-state Potts models on the square lattice**|Yuan-Heng Tseng et.al.|[2409.17984v1](http://arxiv.org/abs/2409.17984v1)|null|
-|**2024-09-26**|**GRB 240529A: A Tale of Two Shocks**|Tian-Rui Sun et.al.|[2409.17983v1](http://arxiv.org/abs/2409.17983v1)|null|
-|**2024-09-26**|**An Achievable Rate-Distortion Region for Joint State and Message Communication over Multiple Access Channels**|Xinyang Li et.al.|[2409.17950v1](http://arxiv.org/abs/2409.17950v1)|null|
-|**2024-09-26**|**Error bounds for Physics Informed Neural Networks in Nonlinear Schrödinger equations placed on unbounded domains**|Miguel Á. Alejo et.al.|[2409.17938v1](http://arxiv.org/abs/2409.17938v1)|null|
-|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932v1](http://arxiv.org/abs/2409.17932v1)|null|
-|**2024-09-26**|**Observer-Based Discontinuous Communication in the Secondary Control of AC Microgrids**|Shahabeddin Najafi et.al.|[2409.17916v1](http://arxiv.org/abs/2409.17916v1)|null|
-|**2024-09-26**|**Self-supervised Monocular Depth Estimation with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17895v1](http://arxiv.org/abs/2409.17895v1)|null|
-|**2024-09-26**|**Group-Based Phylogenetic Models on 3-Sunlet Networks**|Shelby Cox et.al.|[2409.17894v1](http://arxiv.org/abs/2409.17894v1)|null|
-|**2024-09-26**|**A multi-source data power load forecasting method using attention mechanism-based parallel cnn-gru**|Chao Min et.al.|[2409.17889v1](http://arxiv.org/abs/2409.17889v1)|null|
-|**2024-09-26**|**A Variational Approach to Quantum Field Theory**|M. Rovira et.al.|[2409.17887v1](http://arxiv.org/abs/2409.17887v1)|null|
-|**2024-09-26**|**Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation**|Zhiying Wang et.al.|[2409.17882v1](http://arxiv.org/abs/2409.17882v1)|null|
-|**2024-09-26**|**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**|Fengchen Yang et.al.|[2409.17873v1](http://arxiv.org/abs/2409.17873v1)|null|
-|**2024-09-26**|**Implementing a Nordic-Baltic Federated Health Data Network: a case report**|Taridzo Chomutare et.al.|[2409.17865v1](http://arxiv.org/abs/2409.17865v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +72,43 @@
 |**2024-09-19**|**Outlier Rejection for 5G-Based Indoor Positioning in Ray-Tracing-Enabled Industrial Scenario**|Karthik Muthineni et.al.|[2409.12585v1](http://arxiv.org/abs/2409.12585v1)|null|
 |**2024-09-19**|**Scaling FP8 training to trillion-token LLMs**|Maxim Fishman et.al.|[2409.12517v1](http://arxiv.org/abs/2409.12517v1)|null|
 |**2024-09-19**|**Learning Multi-Manifold Embedding for Out-Of-Distribution Detection**|Jeng-Lin Li et.al.|[2409.12479v1](http://arxiv.org/abs/2409.12479v1)|null|
+
+### webshell
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
+|**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102v1](http://arxiv.org/abs/2409.18102v1)|null|
+|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099v1](http://arxiv.org/abs/2409.18099v1)|null|
+|**2024-09-26**|**A Sim-to-Real Vision-based Lane Keeping System for a 1:10-scale Autonomous Vehicle**|Antonio Gallina et.al.|[2409.18097v1](http://arxiv.org/abs/2409.18097v1)|null|
+|**2024-09-26**|**Mobility in Age-Based Gossip Networks**|Arunabh Srivastava et.al.|[2409.18094v1](http://arxiv.org/abs/2409.18094v1)|null|
+|**2024-09-26**|**A 2-approximation algorithm for the softwired parsimony problem on binary, tree-child phylogenetic networks**|Martin Frohn et.al.|[2409.18077v1](http://arxiv.org/abs/2409.18077v1)|null|
+|**2024-09-26**|**Prediction of the Infrared Absorbance Intensities and Frequencies of Hydrocarbons:A Message Passing Neural Network Approach**|Maliheh Shaban Tameh et.al.|[2409.18070v1](http://arxiv.org/abs/2409.18070v1)|null|
+|**2024-09-26**|**Optimal Protocols for Continual Learning via Statistical Physics and Control Theory**|Francesco Mori et.al.|[2409.18061v1](http://arxiv.org/abs/2409.18061v1)|null|
+|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057v1](http://arxiv.org/abs/2409.18057v1)|[link](https://github.com/mingsun-tse/lightavatar-tensorflow)|
+|**2024-09-26**|**MARS: Multi-radio Architecture with Radio Selection using Decision Trees for emerging mesoscale CPS/IoT applications**|Jothi Prasanna Shanmuga Sundaram et.al.|[2409.18043v1](http://arxiv.org/abs/2409.18043v1)|null|
+|**2024-09-26**|**ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning**|Song Wang et.al.|[2409.18026v1](http://arxiv.org/abs/2409.18026v1)|null|
+|**2024-09-26**|**Relating Superconducting Optoelectronic Networks to Classical Neurodynamics**|Jeffrey M. Shainline et.al.|[2409.18016v1](http://arxiv.org/abs/2409.18016v1)|null|
+|**2024-09-26**|**Spatiotemporal Learning on Cell-embedded Graphs**|Yuan Mi et.al.|[2409.18013v1](http://arxiv.org/abs/2409.18013v1)|null|
+|**2024-09-26**|**A Decision-Making Method in Polyhedral Convex Set Optimization**|Andreas Löhne et.al.|[2409.17998v1](http://arxiv.org/abs/2409.17998v1)|null|
+|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997v1](http://arxiv.org/abs/2409.17997v1)|null|
+|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994v1](http://arxiv.org/abs/2409.17994v1)|null|
+|**2024-09-26**|**Dimension-independent learning rates for high-dimensional classification problems**|Andres Felipe Lerma-Pineda et.al.|[2409.17991v1](http://arxiv.org/abs/2409.17991v1)|null|
+|**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986v1](http://arxiv.org/abs/2409.17986v1)|null|
+|**2024-09-26**|**A neural network study of the phase transitions of the two-dimensional antiferromagnetic $q$-state Potts models on the square lattice**|Yuan-Heng Tseng et.al.|[2409.17984v1](http://arxiv.org/abs/2409.17984v1)|null|
+|**2024-09-26**|**GRB 240529A: A Tale of Two Shocks**|Tian-Rui Sun et.al.|[2409.17983v1](http://arxiv.org/abs/2409.17983v1)|null|
+|**2024-09-26**|**An Achievable Rate-Distortion Region for Joint State and Message Communication over Multiple Access Channels**|Xinyang Li et.al.|[2409.17950v1](http://arxiv.org/abs/2409.17950v1)|null|
+|**2024-09-26**|**Error bounds for Physics Informed Neural Networks in Nonlinear Schrödinger equations placed on unbounded domains**|Miguel Á. Alejo et.al.|[2409.17938v1](http://arxiv.org/abs/2409.17938v1)|null|
+|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932v1](http://arxiv.org/abs/2409.17932v1)|null|
+|**2024-09-26**|**Observer-Based Discontinuous Communication in the Secondary Control of AC Microgrids**|Shahabeddin Najafi et.al.|[2409.17916v1](http://arxiv.org/abs/2409.17916v1)|null|
+|**2024-09-26**|**Self-supervised Monocular Depth Estimation with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17895v1](http://arxiv.org/abs/2409.17895v1)|null|
+|**2024-09-26**|**Group-Based Phylogenetic Models on 3-Sunlet Networks**|Shelby Cox et.al.|[2409.17894v1](http://arxiv.org/abs/2409.17894v1)|null|
+|**2024-09-26**|**A multi-source data power load forecasting method using attention mechanism-based parallel cnn-gru**|Chao Min et.al.|[2409.17889v1](http://arxiv.org/abs/2409.17889v1)|null|
+|**2024-09-26**|**A Variational Approach to Quantum Field Theory**|M. Rovira et.al.|[2409.17887v1](http://arxiv.org/abs/2409.17887v1)|null|
+|**2024-09-26**|**Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation**|Zhiying Wang et.al.|[2409.17882v1](http://arxiv.org/abs/2409.17882v1)|null|
+|**2024-09-26**|**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**|Fengchen Yang et.al.|[2409.17873v1](http://arxiv.org/abs/2409.17873v1)|null|
+|**2024-09-26**|**Implementing a Nordic-Baltic Federated Health Data Network: a case report**|Taridzo Chomutare et.al.|[2409.17865v1](http://arxiv.org/abs/2409.17865v1)|null|
