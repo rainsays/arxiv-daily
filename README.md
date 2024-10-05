@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-05 09:51:14 Asia/Shanghai
+ Automated deployment @ 2024-10-05 20:46:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681v1](http://arxiv.org/abs/2410.02681v1)|null|
-|**2024-10-03**|**Density based Spatial Clustering of Lines via Probabilistic Generation of Neighbourhood**|Akanksha Das et.al.|[2410.02290v1](http://arxiv.org/abs/2410.02290v1)|null|
-|**2024-10-02**|**The PANORAMIC Survey: Pure Parallel Wide Area Legacy Imaging with JWST/NIRCam**|Christina C. Williams et.al.|[2410.01875v1](http://arxiv.org/abs/2410.01875v1)|null|
-|**2024-10-02**|**Data Extrapolation for Text-to-image Generation on Small Datasets**|Senmao Ye et.al.|[2410.01638v1](http://arxiv.org/abs/2410.01638v1)|[link](https://github.com/senmaoy/RAT-Diffusion)|
-|**2024-10-02**|**AGN -- host galaxy photometric decomposition using a fast, accurate and precise deep learning approach**|Berta Margalef-Bentabol et.al.|[2410.01437v1](http://arxiv.org/abs/2410.01437v1)|null|
-|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
-|**2024-10-02**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322v1](http://arxiv.org/abs/2410.01322v1)|null|
-|**2024-10-01**|**Advancing RVFL networks: Robust classification with the HawkEye loss function**|Mushir Akhtar et.al.|[2410.00510v1](http://arxiv.org/abs/2410.00510v1)|[link](https://github.com/mtanveer1/H-RVFL)|
-|**2024-10-01**|**Precise Workcell Sketching from Point Clouds Using an AR Toolbox**|Krzysztof Zieliński et.al.|[2410.00479v1](http://arxiv.org/abs/2410.00479v1)|null|
-|**2024-10-01**|**ECORS: An Ensembled Clustering Approach to Eradicate The Local And Global Outlier In Collaborative Filtering Recommender System**|Mahamudul Hasan et.al.|[2410.00408v1](http://arxiv.org/abs/2410.00408v1)|null|
-|**2024-09-30**|**GalaxiesML: a dataset of galaxy images, photometry, redshifts, and structural parameters for machine learning**|Tuan Do et.al.|[2410.00271v1](http://arxiv.org/abs/2410.00271v1)|[link](https://github.com/astrodatalab/galaxiesml_examples)|
-|**2024-09-30**|**Improving Precision in Kinematic Weak Lensing with MIRoRS: Model-Independent Restoration of Reflection Symmetries**|Christopher Hopp et.al.|[2410.00098v1](http://arxiv.org/abs/2410.00098v1)|null|
-|**2024-09-30**|**StratLearn-z: Improved photo-$z$ estimation from spectroscopic data subject to selection effects**|Chiara Moretti et.al.|[2409.20379v1](http://arxiv.org/abs/2409.20379v1)|null|
-|**2024-09-30**|**Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference**|Ke Yi et.al.|[2409.20361v1](http://arxiv.org/abs/2409.20361v1)|null|
-|**2024-09-30**|**New matrix perturbation bounds via contour expansion**|Phuc Tran et.al.|[2409.20207v1](http://arxiv.org/abs/2409.20207v1)|null|
-|**2024-09-28**|**Transferable Unsupervised Outlier Detection Framework for Human Semantic Trajectories**|Zheng Zhang et.al.|[2410.00054v1](http://arxiv.org/abs/2410.00054v1)|null|
-|**2024-09-28**|**Sparse Modelling for Feature Learning in High Dimensional Data**|Harish Neelam et.al.|[2409.19361v1](http://arxiv.org/abs/2409.19361v1)|null|
-|**2024-09-27**|**Localizing Memorization in SSL Vision Encoders**|Wenhao Wang et.al.|[2409.19069v1](http://arxiv.org/abs/2409.19069v1)|null|
-|**2024-09-27**|**Robust Proximity Operations using Probabilistic Markov Models**|Deep Parikh et.al.|[2409.19062v1](http://arxiv.org/abs/2409.19062v1)|null|
-|**2024-09-27**|**Towards an active-learning approach to resource allocation for population-based damage prognosis**|George Tsialiamanis et.al.|[2409.18572v1](http://arxiv.org/abs/2409.18572v1)|null|
-|**2024-09-27**|**The Comparison of Riemannian Geometric Matrix-CFAR Signal Detectors**|Yusuke Ono et.al.|[2409.18377v1](http://arxiv.org/abs/2409.18377v1)|null|
-|**2024-09-26**|**Revisiting the Vertical Distribution of HI Absorbing Clouds in the Solar Neighborhood. II. Constraints from a Large Catalog of 21 cm Absorption Observations at High Galactic Latitudes**|Daniel R. Rybarczyk et.al.|[2409.18190v1](http://arxiv.org/abs/2409.18190v1)|null|
-|**2024-09-26**|**Invariant Coordinate Selection and Fisher discriminant subspace beyond the case of two groups**|Colombe Becquart et.al.|[2409.17631v1](http://arxiv.org/abs/2409.17631v1)|null|
-|**2024-09-26**|**GLinSAT: The General Linear Satisfiability Neural Network Layer By Accelerated Gradient Descent**|Hongtai Zeng et.al.|[2409.17500v1](http://arxiv.org/abs/2409.17500v1)|null|
-|**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al.|[2409.17330v1](http://arxiv.org/abs/2409.17330v1)|null|
-|**2024-09-25**|**Scalable quality control on processing of large diffusion-weighted and structural magnetic resonance imaging datasets**|Michael E. Kim et.al.|[2409.17286v1](http://arxiv.org/abs/2409.17286v1)|null|
-|**2024-09-25**|**MorphoSeg: An Uncertainty-Aware Deep Learning Method for Biomedical Segmentation of Complex Cellular Morphologies**|Tianhao Zhang et.al.|[2409.17110v1](http://arxiv.org/abs/2409.17110v1)|[link](https://github.com/ranchogoose/morphoseg)|
-|**2024-09-25**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Yifei Liu et.al.|[2409.17066v1](http://arxiv.org/abs/2409.17066v1)|[link](https://github.com/microsoft/vptq)|
-|**2024-09-25**|**PTQ4RIS: Post-Training Quantization for Referring Image Segmentation**|Xiaoyan Jiang et.al.|[2409.17020v1](http://arxiv.org/abs/2409.17020v1)|[link](https://github.com/gugu511yy/ptq4ris)|
-|**2024-09-25**|**PitRSDNet: Predicting Intra-operative Remaining Surgery Duration in Endoscopic Pituitary Surgery**|Anjana Wijekoon et.al.|[2409.16998v1](http://arxiv.org/abs/2409.16998v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-10-03**|**Clinnova Federated Learning Proof of Concept: Key Takeaways from a Cross-border Collaboration**|Julia Alekseenko et.al.|[2410.02443v1](http://arxiv.org/abs/2410.02443v1)|null|
 |**2024-10-03**|**Optimizing Adaptive Attacks against Content Watermarks for Language Models**|Abdulrahman Diaa et.al.|[2410.02440v1](http://arxiv.org/abs/2410.02440v1)|null|
 |**2024-10-03**|**All-Optical Generation and Detection of Coherent Acoustic Vibrations in Single Gallium Phosphide Nanoantennas Probed Near the Anapole Excitation**|Hilario D. Boggiano et.al.|[2410.02431v1](http://arxiv.org/abs/2410.02431v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681v1](http://arxiv.org/abs/2410.02681v1)|null|
+|**2024-10-03**|**Density based Spatial Clustering of Lines via Probabilistic Generation of Neighbourhood**|Akanksha Das et.al.|[2410.02290v1](http://arxiv.org/abs/2410.02290v1)|null|
+|**2024-10-02**|**The PANORAMIC Survey: Pure Parallel Wide Area Legacy Imaging with JWST/NIRCam**|Christina C. Williams et.al.|[2410.01875v1](http://arxiv.org/abs/2410.01875v1)|null|
+|**2024-10-02**|**Data Extrapolation for Text-to-image Generation on Small Datasets**|Senmao Ye et.al.|[2410.01638v1](http://arxiv.org/abs/2410.01638v1)|[link](https://github.com/senmaoy/RAT-Diffusion)|
+|**2024-10-02**|**AGN -- host galaxy photometric decomposition using a fast, accurate and precise deep learning approach**|Berta Margalef-Bentabol et.al.|[2410.01437v1](http://arxiv.org/abs/2410.01437v1)|null|
+|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
+|**2024-10-02**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322v1](http://arxiv.org/abs/2410.01322v1)|null|
+|**2024-10-01**|**Advancing RVFL networks: Robust classification with the HawkEye loss function**|Mushir Akhtar et.al.|[2410.00510v1](http://arxiv.org/abs/2410.00510v1)|[link](https://github.com/mtanveer1/H-RVFL)|
+|**2024-10-01**|**Precise Workcell Sketching from Point Clouds Using an AR Toolbox**|Krzysztof Zieliński et.al.|[2410.00479v1](http://arxiv.org/abs/2410.00479v1)|null|
+|**2024-10-01**|**ECORS: An Ensembled Clustering Approach to Eradicate The Local And Global Outlier In Collaborative Filtering Recommender System**|Mahamudul Hasan et.al.|[2410.00408v1](http://arxiv.org/abs/2410.00408v1)|null|
+|**2024-09-30**|**GalaxiesML: a dataset of galaxy images, photometry, redshifts, and structural parameters for machine learning**|Tuan Do et.al.|[2410.00271v1](http://arxiv.org/abs/2410.00271v1)|[link](https://github.com/astrodatalab/galaxiesml_examples)|
+|**2024-09-30**|**Improving Precision in Kinematic Weak Lensing with MIRoRS: Model-Independent Restoration of Reflection Symmetries**|Christopher Hopp et.al.|[2410.00098v1](http://arxiv.org/abs/2410.00098v1)|null|
+|**2024-09-30**|**StratLearn-z: Improved photo-$z$ estimation from spectroscopic data subject to selection effects**|Chiara Moretti et.al.|[2409.20379v1](http://arxiv.org/abs/2409.20379v1)|null|
+|**2024-09-30**|**Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference**|Ke Yi et.al.|[2409.20361v1](http://arxiv.org/abs/2409.20361v1)|null|
+|**2024-09-30**|**New matrix perturbation bounds via contour expansion**|Phuc Tran et.al.|[2409.20207v1](http://arxiv.org/abs/2409.20207v1)|null|
+|**2024-09-28**|**Transferable Unsupervised Outlier Detection Framework for Human Semantic Trajectories**|Zheng Zhang et.al.|[2410.00054v1](http://arxiv.org/abs/2410.00054v1)|null|
+|**2024-09-28**|**Sparse Modelling for Feature Learning in High Dimensional Data**|Harish Neelam et.al.|[2409.19361v1](http://arxiv.org/abs/2409.19361v1)|null|
+|**2024-09-27**|**Localizing Memorization in SSL Vision Encoders**|Wenhao Wang et.al.|[2409.19069v1](http://arxiv.org/abs/2409.19069v1)|null|
+|**2024-09-27**|**Robust Proximity Operations using Probabilistic Markov Models**|Deep Parikh et.al.|[2409.19062v1](http://arxiv.org/abs/2409.19062v1)|null|
+|**2024-09-27**|**Towards an active-learning approach to resource allocation for population-based damage prognosis**|George Tsialiamanis et.al.|[2409.18572v1](http://arxiv.org/abs/2409.18572v1)|null|
+|**2024-09-27**|**The Comparison of Riemannian Geometric Matrix-CFAR Signal Detectors**|Yusuke Ono et.al.|[2409.18377v1](http://arxiv.org/abs/2409.18377v1)|null|
+|**2024-09-26**|**Revisiting the Vertical Distribution of HI Absorbing Clouds in the Solar Neighborhood. II. Constraints from a Large Catalog of 21 cm Absorption Observations at High Galactic Latitudes**|Daniel R. Rybarczyk et.al.|[2409.18190v1](http://arxiv.org/abs/2409.18190v1)|null|
+|**2024-09-26**|**Invariant Coordinate Selection and Fisher discriminant subspace beyond the case of two groups**|Colombe Becquart et.al.|[2409.17631v1](http://arxiv.org/abs/2409.17631v1)|null|
+|**2024-09-26**|**GLinSAT: The General Linear Satisfiability Neural Network Layer By Accelerated Gradient Descent**|Hongtai Zeng et.al.|[2409.17500v1](http://arxiv.org/abs/2409.17500v1)|null|
+|**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al.|[2409.17330v1](http://arxiv.org/abs/2409.17330v1)|null|
+|**2024-09-25**|**Scalable quality control on processing of large diffusion-weighted and structural magnetic resonance imaging datasets**|Michael E. Kim et.al.|[2409.17286v1](http://arxiv.org/abs/2409.17286v1)|null|
+|**2024-09-25**|**MorphoSeg: An Uncertainty-Aware Deep Learning Method for Biomedical Segmentation of Complex Cellular Morphologies**|Tianhao Zhang et.al.|[2409.17110v1](http://arxiv.org/abs/2409.17110v1)|[link](https://github.com/ranchogoose/morphoseg)|
+|**2024-09-25**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Yifei Liu et.al.|[2409.17066v1](http://arxiv.org/abs/2409.17066v1)|[link](https://github.com/microsoft/vptq)|
+|**2024-09-25**|**PTQ4RIS: Post-Training Quantization for Referring Image Segmentation**|Xiaoyan Jiang et.al.|[2409.17020v1](http://arxiv.org/abs/2409.17020v1)|[link](https://github.com/gugu511yy/ptq4ris)|
+|**2024-09-25**|**PitRSDNet: Predicting Intra-operative Remaining Surgery Duration in Endoscopic Pituitary Surgery**|Anjana Wijekoon et.al.|[2409.16998v1](http://arxiv.org/abs/2409.16998v1)|null|
