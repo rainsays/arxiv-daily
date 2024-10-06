@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-06 09:59:17 Asia/Shanghai
+ Automated deployment @ 2024-10-06 20:46:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,6 +10,40 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761v1](http://arxiv.org/abs/2410.02761v1)|null|
+|**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|null|
+|**2024-10-03**|**AlzhiNet: Traversing from 2DCNN to 3DCNN, Towards Early Detection and Diagnosis of Alzheimer's Disease**|Romoke Grace Akindele et.al.|[2410.02714v1](http://arxiv.org/abs/2410.02714v1)|null|
+|**2024-10-03**|**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**|Hadas Orgad et.al.|[2410.02707v1](http://arxiv.org/abs/2410.02707v1)|[link](https://github.com/technion-cs-nlp/llmsknow)|
+|**2024-10-03**|**Prospects of phase-adaptive cooling of levitated magnetic particles in a hollow-core photonic-crystal fibre**|P. Kumar et.al.|[2410.02697v1](http://arxiv.org/abs/2410.02697v1)|null|
+|**2024-10-03**|**Prediabetes detection in unconstrained conditions using wearable sensors**|Dimitra Tatli et.al.|[2410.02692v1](http://arxiv.org/abs/2410.02692v1)|null|
+|**2024-10-03**|**HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**|Lingrui Mei et.al.|[2410.02684v1](http://arxiv.org/abs/2410.02684v1)|[link](https://github.com/Meirtz/HiddenGuard)|
+|**2024-10-03**|**Hate Personified: Investigating the role of LLMs in content moderation**|Sarah Masud et.al.|[2410.02657v1](http://arxiv.org/abs/2410.02657v1)|null|
+|**2024-10-03**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646v1](http://arxiv.org/abs/2410.02646v1)|null|
+|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638v1](http://arxiv.org/abs/2410.02638v1)|[link](https://github.com/fubel/stmc)|
+|**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637v1](http://arxiv.org/abs/2410.02637v1)|null|
+|**2024-10-03**|**Preparing for Super-Reactivity: Early Fault-Detection in the Development of Exceedingly Complex Reactive Systems**|David Harel et.al.|[2410.02627v1](http://arxiv.org/abs/2410.02627v1)|null|
+|**2024-10-03**|**NL-Eye: Abductive NLI for Images**|Mor Ventura et.al.|[2410.02613v1](http://arxiv.org/abs/2410.02613v1)|null|
+|**2024-10-03**|**Ethio-Fake: Cutting-Edge Approaches to Combat Fake News in Under-Resourced Languages Using Explainable AI**|Mesay Gemeda Yigezu et.al.|[2410.02609v1](http://arxiv.org/abs/2410.02609v1)|null|
+|**2024-10-03**|**Can You Link Up With Treewidth?**|Radu Curticapean et.al.|[2410.02606v1](http://arxiv.org/abs/2410.02606v1)|null|
+|**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592v1](http://arxiv.org/abs/2410.02592v1)|null|
+|**2024-10-03**|**Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions**|Angana Borah et.al.|[2410.02584v1](http://arxiv.org/abs/2410.02584v1)|[link](https://github.com/MichiganNLP/MultiAgent_ImplicitBias)|
+|**2024-10-03**|**Assessing the Viability of Synthetic Physical Copy Detection Patterns on Different Imaging Systems**|Roman Chaban et.al.|[2410.02575v1](http://arxiv.org/abs/2410.02575v1)|null|
+|**2024-10-03**|**LMC Calls, Milky Way Halo Answers: Disentangling the Effects of the MW--LMC Interaction on Stellar Stream Populations**|Richard A. N. Brooks et.al.|[2410.02574v1](http://arxiv.org/abs/2410.02574v1)|null|
+|**2024-10-03**|**BEBOP VI. Enabling the detection of circumbinary planets orbiting double-lined binaries with the DOLBY method of radial-velocity extraction**|Lalitha Sairam et.al.|[2410.02573v1](http://arxiv.org/abs/2410.02573v1)|null|
+|**2024-10-03**|**The 2023 Balloon Flight of the ComPair Instrument**|Lucas D. Smith et.al.|[2410.02557v1](http://arxiv.org/abs/2410.02557v1)|null|
+|**2024-10-03**|**Semidefinite relaxations for high-dimensional entanglement in the steering scenario**|Nicola D'Alessandro et.al.|[2410.02554v1](http://arxiv.org/abs/2410.02554v1)|null|
+|**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528v1](http://arxiv.org/abs/2410.02528v1)|null|
+|**2024-10-03**|**Constraining cosmology with N-body simulations for future spectroscopic galaxy surveys at $2\leq z\leq 3$**|Sy-Yun Pu et.al.|[2410.02524v1](http://arxiv.org/abs/2410.02524v1)|null|
+|**2024-10-03**|**Rare Occasions: Tidal Disruption Events Rarely Power the AGNs Observed in Dwarf Galaxies**|Joanne Tan et.al.|[2410.02484v1](http://arxiv.org/abs/2410.02484v1)|null|
+|**2024-10-03**|**Behavior Trees in Functional Safety Supervisors for Autonomous Vehicles**|Carlos Conejo et.al.|[2410.02469v1](http://arxiv.org/abs/2410.02469v1)|null|
+|**2024-10-03**|**Recurrent Few-Shot model for Document Verification**|Maxime Talarmain et.al.|[2410.02456v1](http://arxiv.org/abs/2410.02456v1)|null|
+|**2024-10-03**|**Clinnova Federated Learning Proof of Concept: Key Takeaways from a Cross-border Collaboration**|Julia Alekseenko et.al.|[2410.02443v1](http://arxiv.org/abs/2410.02443v1)|null|
+|**2024-10-03**|**Optimizing Adaptive Attacks against Content Watermarks for Language Models**|Abdulrahman Diaa et.al.|[2410.02440v1](http://arxiv.org/abs/2410.02440v1)|null|
+|**2024-10-03**|**All-Optical Generation and Detection of Coherent Acoustic Vibrations in Single Gallium Phosphide Nanoantennas Probed Near the Anapole Excitation**|Hilario D. Boggiano et.al.|[2410.02431v1](http://arxiv.org/abs/2410.02431v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,37 +112,3 @@
 |**2024-10-03**|**Combining Pre- and Post-Demosaicking Noise Removal for RAW Video**|Marco Sánchez-Beeckman et.al.|[2410.02572v1](http://arxiv.org/abs/2410.02572v1)|null|
 |**2024-10-03**|**Deep Learning-Based Prediction of Suspension Dynamics Performance in Multi-Axle Vehicles**|Kai Chun Lin et.al.|[2410.02566v1](http://arxiv.org/abs/2410.02566v1)|[link](https://github.com/bokiiiiiii/Deep-Learning-Based-Suspension-Dynamic-Performance-Prediction)|
 |**2024-10-03**|**Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy, and Future Directions**|Mohammad Parsa Toopchinezhad et.al.|[2410.02563v1](http://arxiv.org/abs/2410.02563v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761v1](http://arxiv.org/abs/2410.02761v1)|null|
-|**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|null|
-|**2024-10-03**|**AlzhiNet: Traversing from 2DCNN to 3DCNN, Towards Early Detection and Diagnosis of Alzheimer's Disease**|Romoke Grace Akindele et.al.|[2410.02714v1](http://arxiv.org/abs/2410.02714v1)|null|
-|**2024-10-03**|**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**|Hadas Orgad et.al.|[2410.02707v1](http://arxiv.org/abs/2410.02707v1)|[link](https://github.com/technion-cs-nlp/llmsknow)|
-|**2024-10-03**|**Prospects of phase-adaptive cooling of levitated magnetic particles in a hollow-core photonic-crystal fibre**|P. Kumar et.al.|[2410.02697v1](http://arxiv.org/abs/2410.02697v1)|null|
-|**2024-10-03**|**Prediabetes detection in unconstrained conditions using wearable sensors**|Dimitra Tatli et.al.|[2410.02692v1](http://arxiv.org/abs/2410.02692v1)|null|
-|**2024-10-03**|**HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**|Lingrui Mei et.al.|[2410.02684v1](http://arxiv.org/abs/2410.02684v1)|[link](https://github.com/Meirtz/HiddenGuard)|
-|**2024-10-03**|**Hate Personified: Investigating the role of LLMs in content moderation**|Sarah Masud et.al.|[2410.02657v1](http://arxiv.org/abs/2410.02657v1)|null|
-|**2024-10-03**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646v1](http://arxiv.org/abs/2410.02646v1)|null|
-|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638v1](http://arxiv.org/abs/2410.02638v1)|[link](https://github.com/fubel/stmc)|
-|**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637v1](http://arxiv.org/abs/2410.02637v1)|null|
-|**2024-10-03**|**Preparing for Super-Reactivity: Early Fault-Detection in the Development of Exceedingly Complex Reactive Systems**|David Harel et.al.|[2410.02627v1](http://arxiv.org/abs/2410.02627v1)|null|
-|**2024-10-03**|**NL-Eye: Abductive NLI for Images**|Mor Ventura et.al.|[2410.02613v1](http://arxiv.org/abs/2410.02613v1)|null|
-|**2024-10-03**|**Ethio-Fake: Cutting-Edge Approaches to Combat Fake News in Under-Resourced Languages Using Explainable AI**|Mesay Gemeda Yigezu et.al.|[2410.02609v1](http://arxiv.org/abs/2410.02609v1)|null|
-|**2024-10-03**|**Can You Link Up With Treewidth?**|Radu Curticapean et.al.|[2410.02606v1](http://arxiv.org/abs/2410.02606v1)|null|
-|**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592v1](http://arxiv.org/abs/2410.02592v1)|null|
-|**2024-10-03**|**Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions**|Angana Borah et.al.|[2410.02584v1](http://arxiv.org/abs/2410.02584v1)|[link](https://github.com/MichiganNLP/MultiAgent_ImplicitBias)|
-|**2024-10-03**|**Assessing the Viability of Synthetic Physical Copy Detection Patterns on Different Imaging Systems**|Roman Chaban et.al.|[2410.02575v1](http://arxiv.org/abs/2410.02575v1)|null|
-|**2024-10-03**|**LMC Calls, Milky Way Halo Answers: Disentangling the Effects of the MW--LMC Interaction on Stellar Stream Populations**|Richard A. N. Brooks et.al.|[2410.02574v1](http://arxiv.org/abs/2410.02574v1)|null|
-|**2024-10-03**|**BEBOP VI. Enabling the detection of circumbinary planets orbiting double-lined binaries with the DOLBY method of radial-velocity extraction**|Lalitha Sairam et.al.|[2410.02573v1](http://arxiv.org/abs/2410.02573v1)|null|
-|**2024-10-03**|**The 2023 Balloon Flight of the ComPair Instrument**|Lucas D. Smith et.al.|[2410.02557v1](http://arxiv.org/abs/2410.02557v1)|null|
-|**2024-10-03**|**Semidefinite relaxations for high-dimensional entanglement in the steering scenario**|Nicola D'Alessandro et.al.|[2410.02554v1](http://arxiv.org/abs/2410.02554v1)|null|
-|**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528v1](http://arxiv.org/abs/2410.02528v1)|null|
-|**2024-10-03**|**Constraining cosmology with N-body simulations for future spectroscopic galaxy surveys at $2\leq z\leq 3$**|Sy-Yun Pu et.al.|[2410.02524v1](http://arxiv.org/abs/2410.02524v1)|null|
-|**2024-10-03**|**Rare Occasions: Tidal Disruption Events Rarely Power the AGNs Observed in Dwarf Galaxies**|Joanne Tan et.al.|[2410.02484v1](http://arxiv.org/abs/2410.02484v1)|null|
-|**2024-10-03**|**Behavior Trees in Functional Safety Supervisors for Autonomous Vehicles**|Carlos Conejo et.al.|[2410.02469v1](http://arxiv.org/abs/2410.02469v1)|null|
-|**2024-10-03**|**Recurrent Few-Shot model for Document Verification**|Maxime Talarmain et.al.|[2410.02456v1](http://arxiv.org/abs/2410.02456v1)|null|
-|**2024-10-03**|**Clinnova Federated Learning Proof of Concept: Key Takeaways from a Cross-border Collaboration**|Julia Alekseenko et.al.|[2410.02443v1](http://arxiv.org/abs/2410.02443v1)|null|
-|**2024-10-03**|**Optimizing Adaptive Attacks against Content Watermarks for Language Models**|Abdulrahman Diaa et.al.|[2410.02440v1](http://arxiv.org/abs/2410.02440v1)|null|
-|**2024-10-03**|**All-Optical Generation and Detection of Coherent Acoustic Vibrations in Single Gallium Phosphide Nanoantennas Probed Near the Anapole Excitation**|Hilario D. Boggiano et.al.|[2410.02431v1](http://arxiv.org/abs/2410.02431v1)|null|
