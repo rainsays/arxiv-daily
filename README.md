@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-12 09:49:43 Asia/Shanghai
+ Automated deployment @ 2024-10-12 20:46:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-10**|**On Barycenter Computation: Semi-Unbalanced Optimal Transport-based Method on Gaussians**|Ngoc-Hai Nguyen et.al.|[2410.08117v1](http://arxiv.org/abs/2410.08117v1)|null|
-|**2024-10-10**|**Barions and $Λ$CDM Model Problems**|A. Del Popolo et.al.|[2410.07792v1](http://arxiv.org/abs/2410.07792v1)|null|
-|**2024-10-10**|**Unique Word-Based Frame Design for Bistatic Integrated Sensing and Communication**|Roberto Bomfin et.al.|[2410.07667v1](http://arxiv.org/abs/2410.07667v1)|null|
-|**2024-10-10**|**Prototype-based Optimal Transport for Out-of-Distribution Detection**|Ao Ke et.al.|[2410.07617v1](http://arxiv.org/abs/2410.07617v1)|null|
-|**2024-10-09**|**Efficient Distribution Matching of Representations via Noise-Injected Deep InfoMax**|Ivan Butakov et.al.|[2410.06993v1](http://arxiv.org/abs/2410.06993v1)|null|
-|**2024-10-09**|**Optical and near-infrared photometry of 94 type II supernovae from the Carnegie Supernova Project**|J. P. Anderson et.al.|[2410.06738v1](http://arxiv.org/abs/2410.06738v1)|null|
-|**2024-10-08**|**Quantifying sex differences in brain network topology by aggregating nodal centrality rankings**|Wenyu Chen et.al.|[2410.05923v1](http://arxiv.org/abs/2410.05923v1)|null|
-|**2024-10-08**|**Enhanced Feature Based Granular Ball Twin Support Vector Machine**|A. Quadir et.al.|[2410.05786v1](http://arxiv.org/abs/2410.05786v1)|[link](https://github.com/mtanveer1/ef-gbtsvm)|
-|**2024-10-08**|**Accelerating the discovery of low-energy structure configurations: a computational approach that integrates first-principles calculations, Monte Carlo sampling, and Machine Learning**|Md Rajib Khan Musa et.al.|[2410.05604v1](http://arxiv.org/abs/2410.05604v1)|null|
-|**2024-10-07**|**Robust Matrix Completion with Deterministic Sampling via Convex Optimization**|Yinjian Wang et.al.|[2410.05412v1](http://arxiv.org/abs/2410.05412v1)|null|
-|**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265v1](http://arxiv.org/abs/2410.05265v1)|[link](https://github.com/chenmnz/prefixquant)|
-|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258v1](http://arxiv.org/abs/2410.05258v1)|null|
-|**2024-10-07**|**Granular Ball Twin Support Vector Machine**|A. Quadir et.al.|[2410.04774v1](http://arxiv.org/abs/2410.04774v1)|[link](https://github.com/mtanveer1/GBTSVM)|
-|**2024-10-06**|**Fast Area-Weighted Peeling of Convex Hulls for Outlier Detection**|Vinesh Sridhar et.al.|[2410.04544v1](http://arxiv.org/abs/2410.04544v1)|null|
-|**2024-10-06**|**DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination**|Xuan Gong et.al.|[2410.04514v1](http://arxiv.org/abs/2410.04514v1)|null|
-|**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[2410.04354v1](http://arxiv.org/abs/2410.04354v1)|null|
-|**2024-10-04**|**Robust Barycenter Estimation using Semi-Unbalanced Neural Optimal Transport**|Milena Gazdieva et.al.|[2410.03974v1](http://arxiv.org/abs/2410.03974v1)|null|
-|**2024-10-04**|**Forest Proximities for Time Series**|Ben Shaw et.al.|[2410.03098v2](http://arxiv.org/abs/2410.03098v2)|null|
-|**2024-10-04**|**Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery**|Tiancheng Li et.al.|[2410.03078v1](http://arxiv.org/abs/2410.03078v1)|null|
-|**2024-10-04**|**CLIP-Clique: Graph-based Correspondence Matching Augmented by Vision Language Models for Object-based Global Localization**|Shigemichi Matsuzaki et.al.|[2410.03054v1](http://arxiv.org/abs/2410.03054v1)|null|
-|**2024-10-03**|**Hooks, Lines, and Sinkers: How AGN Feedback and Cosmic-Ray Transport shape the Far Infrared-Radio Correlation of Galaxies**|Sam B. Ponnada et.al.|[2410.02971v1](http://arxiv.org/abs/2410.02971v1)|null|
-|**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681v1](http://arxiv.org/abs/2410.02681v1)|null|
-|**2024-10-03**|**Density based Spatial Clustering of Lines via Probabilistic Generation of Neighbourhood**|Akanksha Das et.al.|[2410.02290v1](http://arxiv.org/abs/2410.02290v1)|null|
-|**2024-10-02**|**Tutorial on running median subtraction filter with application to searches for exotic field transients in multi-messenger astronomy**|Arko P. Sen et.al.|[2410.03773v1](http://arxiv.org/abs/2410.03773v1)|null|
-|**2024-10-02**|**The PANORAMIC Survey: Pure Parallel Wide Area Legacy Imaging with JWST/NIRCam**|Christina C. Williams et.al.|[2410.01875v1](http://arxiv.org/abs/2410.01875v1)|null|
-|**2024-10-02**|**Data Extrapolation for Text-to-image Generation on Small Datasets**|Senmao Ye et.al.|[2410.01638v1](http://arxiv.org/abs/2410.01638v1)|[link](https://github.com/senmaoy/RAT-Diffusion)|
-|**2024-10-02**|**AGN -- host galaxy photometric decomposition using a fast, accurate and precise deep learning approach**|Berta Margalef-Bentabol et.al.|[2410.01437v1](http://arxiv.org/abs/2410.01437v1)|null|
-|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
-|**2024-10-02**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322v1](http://arxiv.org/abs/2410.01322v1)|null|
-|**2024-10-01**|**Advancing RVFL networks: Robust classification with the HawkEye loss function**|Mushir Akhtar et.al.|[2410.00510v1](http://arxiv.org/abs/2410.00510v1)|[link](https://github.com/mtanveer1/H-RVFL)|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-10-10**|**Offline Hierarchical Reinforcement Learning via Inverse Optimization**|Carolin Schmidt et.al.|[2410.07933v1](http://arxiv.org/abs/2410.07933v1)|null|
 |**2024-10-10**|**Post-Training Quantization in Brain-Computer Interfaces based on Event-Related Potential Detection**|Hubert Cecotti et.al.|[2410.07920v1](http://arxiv.org/abs/2410.07920v1)|null|
 |**2024-10-10**|**Understanding Human Activity with Uncertainty Measure for Novelty in Graph Convolutional Networks**|Hao Xing et.al.|[2410.07917v1](http://arxiv.org/abs/2410.07917v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-10**|**On Barycenter Computation: Semi-Unbalanced Optimal Transport-based Method on Gaussians**|Ngoc-Hai Nguyen et.al.|[2410.08117v1](http://arxiv.org/abs/2410.08117v1)|null|
+|**2024-10-10**|**Barions and $Λ$CDM Model Problems**|A. Del Popolo et.al.|[2410.07792v1](http://arxiv.org/abs/2410.07792v1)|null|
+|**2024-10-10**|**Unique Word-Based Frame Design for Bistatic Integrated Sensing and Communication**|Roberto Bomfin et.al.|[2410.07667v1](http://arxiv.org/abs/2410.07667v1)|null|
+|**2024-10-10**|**Prototype-based Optimal Transport for Out-of-Distribution Detection**|Ao Ke et.al.|[2410.07617v1](http://arxiv.org/abs/2410.07617v1)|null|
+|**2024-10-09**|**Efficient Distribution Matching of Representations via Noise-Injected Deep InfoMax**|Ivan Butakov et.al.|[2410.06993v1](http://arxiv.org/abs/2410.06993v1)|null|
+|**2024-10-09**|**Optical and near-infrared photometry of 94 type II supernovae from the Carnegie Supernova Project**|J. P. Anderson et.al.|[2410.06738v1](http://arxiv.org/abs/2410.06738v1)|null|
+|**2024-10-08**|**Quantifying sex differences in brain network topology by aggregating nodal centrality rankings**|Wenyu Chen et.al.|[2410.05923v1](http://arxiv.org/abs/2410.05923v1)|null|
+|**2024-10-08**|**Enhanced Feature Based Granular Ball Twin Support Vector Machine**|A. Quadir et.al.|[2410.05786v1](http://arxiv.org/abs/2410.05786v1)|[link](https://github.com/mtanveer1/ef-gbtsvm)|
+|**2024-10-08**|**Accelerating the discovery of low-energy structure configurations: a computational approach that integrates first-principles calculations, Monte Carlo sampling, and Machine Learning**|Md Rajib Khan Musa et.al.|[2410.05604v1](http://arxiv.org/abs/2410.05604v1)|null|
+|**2024-10-07**|**Robust Matrix Completion with Deterministic Sampling via Convex Optimization**|Yinjian Wang et.al.|[2410.05412v1](http://arxiv.org/abs/2410.05412v1)|null|
+|**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265v1](http://arxiv.org/abs/2410.05265v1)|[link](https://github.com/chenmnz/prefixquant)|
+|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258v1](http://arxiv.org/abs/2410.05258v1)|null|
+|**2024-10-07**|**Granular Ball Twin Support Vector Machine**|A. Quadir et.al.|[2410.04774v1](http://arxiv.org/abs/2410.04774v1)|[link](https://github.com/mtanveer1/GBTSVM)|
+|**2024-10-06**|**Fast Area-Weighted Peeling of Convex Hulls for Outlier Detection**|Vinesh Sridhar et.al.|[2410.04544v1](http://arxiv.org/abs/2410.04544v1)|null|
+|**2024-10-06**|**DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination**|Xuan Gong et.al.|[2410.04514v1](http://arxiv.org/abs/2410.04514v1)|null|
+|**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[2410.04354v1](http://arxiv.org/abs/2410.04354v1)|null|
+|**2024-10-04**|**Robust Barycenter Estimation using Semi-Unbalanced Neural Optimal Transport**|Milena Gazdieva et.al.|[2410.03974v1](http://arxiv.org/abs/2410.03974v1)|null|
+|**2024-10-04**|**Forest Proximities for Time Series**|Ben Shaw et.al.|[2410.03098v2](http://arxiv.org/abs/2410.03098v2)|null|
+|**2024-10-04**|**Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery**|Tiancheng Li et.al.|[2410.03078v1](http://arxiv.org/abs/2410.03078v1)|null|
+|**2024-10-04**|**CLIP-Clique: Graph-based Correspondence Matching Augmented by Vision Language Models for Object-based Global Localization**|Shigemichi Matsuzaki et.al.|[2410.03054v1](http://arxiv.org/abs/2410.03054v1)|null|
+|**2024-10-03**|**Hooks, Lines, and Sinkers: How AGN Feedback and Cosmic-Ray Transport shape the Far Infrared-Radio Correlation of Galaxies**|Sam B. Ponnada et.al.|[2410.02971v1](http://arxiv.org/abs/2410.02971v1)|null|
+|**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681v1](http://arxiv.org/abs/2410.02681v1)|null|
+|**2024-10-03**|**Density based Spatial Clustering of Lines via Probabilistic Generation of Neighbourhood**|Akanksha Das et.al.|[2410.02290v1](http://arxiv.org/abs/2410.02290v1)|null|
+|**2024-10-02**|**Tutorial on running median subtraction filter with application to searches for exotic field transients in multi-messenger astronomy**|Arko P. Sen et.al.|[2410.03773v1](http://arxiv.org/abs/2410.03773v1)|null|
+|**2024-10-02**|**The PANORAMIC Survey: Pure Parallel Wide Area Legacy Imaging with JWST/NIRCam**|Christina C. Williams et.al.|[2410.01875v1](http://arxiv.org/abs/2410.01875v1)|null|
+|**2024-10-02**|**Data Extrapolation for Text-to-image Generation on Small Datasets**|Senmao Ye et.al.|[2410.01638v1](http://arxiv.org/abs/2410.01638v1)|[link](https://github.com/senmaoy/RAT-Diffusion)|
+|**2024-10-02**|**AGN -- host galaxy photometric decomposition using a fast, accurate and precise deep learning approach**|Berta Margalef-Bentabol et.al.|[2410.01437v1](http://arxiv.org/abs/2410.01437v1)|null|
+|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
+|**2024-10-02**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322v1](http://arxiv.org/abs/2410.01322v1)|null|
+|**2024-10-01**|**Advancing RVFL networks: Robust classification with the HawkEye loss function**|Mushir Akhtar et.al.|[2410.00510v1](http://arxiv.org/abs/2410.00510v1)|[link](https://github.com/mtanveer1/H-RVFL)|
