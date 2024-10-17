@@ -1,0 +1,1323 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="NIDS/NIDS/">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.41">
+    
+    
+      
+        <title>arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.0253249f.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","UA-145083103-1",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#arxiv-daily" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              arxiv-daily
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/beiyuouo/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/beiyuouo/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#nids" class="md-nav__link">
+    <span class="md-ellipsis">
+      NIDS
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="NIDS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#webshell" class="md-nav__link">
+    <span class="md-ellipsis">
+      webshell
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nids_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      NIDS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#traffic" class="md-nav__link">
+    <span class="md-ellipsis">
+      Traffic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#outlier" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outlier
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    NIDS
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            NIDS
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="NIDS/NIDS/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NIDS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="NIDS/Outlier/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Outlier
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="NIDS/Traffic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Traffic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="NIDS/webshell/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Webshell
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#nids" class="md-nav__link">
+    <span class="md-ellipsis">
+      NIDS
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="NIDS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#webshell" class="md-nav__link">
+    <span class="md-ellipsis">
+      webshell
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nids_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      NIDS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#traffic" class="md-nav__link">
+    <span class="md-ellipsis">
+      Traffic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#outlier" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outlier
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="arxiv-daily">arxiv-daily</h1>
+<p>Automated deployment @ 2024-10-17 20:50:17 Asia/Shanghai</p>
+<blockquote>
+<p>Welcome to contribute! Add your topics and keywords in <a href="https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml"><code>topic.yml</code></a>.
+You can also view historical data through the <a href="https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage">storage</a>.</p>
+</blockquote>
+<h2 id="nids">NIDS</h2>
+<h3 id="webshell">webshell</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-04-28</strong></td>
+<td style="text-align: center;"><strong>Research and application of artificial intelligence based webshell detection model: A literature review</strong></td>
+<td style="text-align: center;">Mingrui Ma et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2405.00066v1">2405.00066v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-12</strong></td>
+<td style="text-align: center;"><strong>Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples</strong></td>
+<td style="text-align: center;">Mingrui Ma et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.07408v2">2402.07408v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/hybridprompt/hybrid-prompt-demo">link</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="nids_1">NIDS</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach</strong></td>
+<td style="text-align: center;">Nathaniel Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12785v1">2410.12785v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation</strong></td>
+<td style="text-align: center;">Jaehong Yoon et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12761v1">2410.12761v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network</strong></td>
+<td style="text-align: center;">Asish Bera et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12742v1">2410.12742v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Signature of Vertical Mixing in Hydrogen-dominated Exoplanet Atmospheres</strong></td>
+<td style="text-align: center;">Vikas Soni et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12737v1">2410.12737v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>A comparative study of self-starting CUSUM control charts for location shifts</strong></td>
+<td style="text-align: center;">Konstantinos Bourazas et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12736v1">2410.12736v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Photometric detection of internal gravity waves in upper main-sequence stars. IV. Comparable SLF variability in SMC, LMC and Galactic massive stars</strong></td>
+<td style="text-align: center;">Dominic M. Bowman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12726v1">2410.12726v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Microwaves reveal the nanoscale ion intercalation and edge activity of 2D catalyst</strong></td>
+<td style="text-align: center;">Mohamed Awadein et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12719v1">2410.12719v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>A Gamma-ray Stacking Survey of Fermi-LAT Undetected Globular Clusters</strong></td>
+<td style="text-align: center;">Owen K. Henry et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12711v1">2410.12711v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Sarcasm Detection in a Less-Resourced Language</strong></td>
+<td style="text-align: center;">Lazar Đoković et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12704v1">2410.12704v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Machine Learning Approach to Brain Tumor Detection and Classification</strong></td>
+<td style="text-align: center;">Alice Oh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12692v1">2410.12692v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2</strong></td>
+<td style="text-align: center;">Mohamad Abdi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12686v1">2410.12686v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>MambaBEV: An efficient 3D detection model with Mamba2</strong></td>
+<td style="text-align: center;">Zihan You et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12673v1">2410.12673v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Exploring Quantum Aspects of Dark Matter Axions and Dark Photons Transitions within a Resonant Cavity</strong></td>
+<td style="text-align: center;">Ruifeng Zheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12634v1">2410.12634v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Explainable Moral Values: a neuro-symbolic approach to value classification</strong></td>
+<td style="text-align: center;">Nicolas Lazzari et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12631v1">2410.12631v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Design of Fiber-Longitudinal Optical Power Monitor</strong></td>
+<td style="text-align: center;">Takeo Sasai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12602v1">2410.12602v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>On the Risk of Evidence Pollution for Malicious Social Text Detection in the Era of LLMs</strong></td>
+<td style="text-align: center;">Herun Wan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12600v1">2410.12600v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>CMAL: A Novel Cross-Modal Associative Learning Framework for Vision-Language Pre-Training</strong></td>
+<td style="text-align: center;">Zhiyuan Ma et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12595v1">2410.12595v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion</strong></td>
+<td style="text-align: center;">Minkyoung Cho et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12592v1">2410.12592v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>From Lab to Pocket: A Novel Continual Learning-based Mobile Application for Screening COVID-19</strong></td>
+<td style="text-align: center;">Danny Falero et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12589v1">2410.12589v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>FALCON: Pinpointing and Mitigating Stragglers for Large-Scale Hybrid-Parallel Training</strong></td>
+<td style="text-align: center;">Tianyuan Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12588v1">2410.12588v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Can We Reverse In-Context Knowledge Edits?</strong></td>
+<td style="text-align: center;">Paul Youssef et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12586v1">2410.12586v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Sound Conflict Analysis for Timed Contract Automata</strong></td>
+<td style="text-align: center;">Shaun Azzopardi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12585v1">2410.12585v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Contact-interference Hybrid lithography: Toward Scalable Fabrication of cross-scale periodic micro structure and demonstration on infrared micro polarizer array</strong></td>
+<td style="text-align: center;">Tianshi Lu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12573v1">2410.12573v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion</strong></td>
+<td style="text-align: center;">Jiacheng Ruan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12564v1">2410.12564v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Féeton ($B-L$ Gauge Boson) Dark Matter Testable in Future Direct Detection Experiments</strong></td>
+<td style="text-align: center;">Yu Cheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12554v1">2410.12554v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Stripping of a neutron star in a close binary system in a pair with a black hole</strong></td>
+<td style="text-align: center;">Nikita Kramarev et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12541v1">2410.12541v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>With a Grain of SALT: Are LLMs Fair Across Social Dimensions?</strong></td>
+<td style="text-align: center;">Samee Arif et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12499v1">2410.12499v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs</strong></td>
+<td style="text-align: center;">Wenjing Deng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12496v1">2410.12496v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Challenges, Methods, Data -- a Survey of Machine Learning in Water Distribution Networks</strong></td>
+<td style="text-align: center;">Valerie Vaquet et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12461v1">2410.12461v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Surface plasmon resonance sensor based on a novel prism for the detection of a broad range of polymers</strong></td>
+<td style="text-align: center;">Natalia A. Gutierrez Andrade et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12440v1">2410.12440v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="traffic">Traffic</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds</strong></td>
+<td style="text-align: center;">Xingzhi Sun et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12779v1">2410.12779v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks</strong></td>
+<td style="text-align: center;">Hunmin Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12772v1">2410.12772v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Toleo: Scaling Freshness to Tera-scale Memory using CXL and PIM</strong></td>
+<td style="text-align: center;">Juechu Dong et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12749v1">2410.12749v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network</strong></td>
+<td style="text-align: center;">Asish Bera et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12742v1">2410.12742v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference</strong></td>
+<td style="text-align: center;">Qianyi Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12740v1">2410.12740v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Optimizing 3D Geometry Reconstruction from Implicit Neural Representations</strong></td>
+<td style="text-align: center;">Shen Fan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12725v1">2410.12725v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition</strong></td>
+<td style="text-align: center;">Asish Bera et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12718v1">2410.12718v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations</strong></td>
+<td style="text-align: center;">Salvatore Romano et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12717v1">2410.12717v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression</strong></td>
+<td style="text-align: center;">Zhenheng Tang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12707v1">2410.12707v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Neural-based Control for CubeSat Docking Maneuvers</strong></td>
+<td style="text-align: center;">Matteo Stoisa et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12703v1">2410.12703v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Machine Learning Approach to Brain Tumor Detection and Classification</strong></td>
+<td style="text-align: center;">Alice Oh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12692v1">2410.12692v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>A spatial hypergraph model where epidemic spread demonstrates clear higher-order effects</strong></td>
+<td style="text-align: center;">Omar Eldaghar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12688v1">2410.12688v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Physics-Informed Learning for the Friction Modeling of High-Ratio Harmonic Drives</strong></td>
+<td style="text-align: center;">Ines Sorrentino et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12685v1">2410.12685v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Generative Neural Reparameterization for Differentiable PDE-constrained Optimization</strong></td>
+<td style="text-align: center;">Archis S. Joglekar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12683v1">2410.12683v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Phase transitions for polyadic epidemic and voter models with multiscale groups</strong></td>
+<td style="text-align: center;">Pia Steinmeyer et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12682v1">2410.12682v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Optimizing Multi-Task Learning for Accurate Spacecraft Pose Estimation</strong></td>
+<td style="text-align: center;">Francesco Evangelisti et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12679v1">2410.12679v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Identity Emergence in the Context of Vaccine Criticism in France</strong></td>
+<td style="text-align: center;">Melody Sepahpour-Fard et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12676v1">2410.12676v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>SWIM: An Attention-Only Model for Speech Quality Assessment Under Subjective Variance</strong></td>
+<td style="text-align: center;">Imran E Kibria et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12675v1">2410.12675v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>IRS-aided Near-field Communication: Prospects and Challenges with Codebook Approach</strong></td>
+<td style="text-align: center;">Ryuhei Hibi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12664v1">2410.12664v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>A comparative analysis of metamodels for lumped cardiovascular models, and pipeline for sensitivity analysis, parameter estimation, and uncertainty quantification</strong></td>
+<td style="text-align: center;">John M. Hanna et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12654v1">2410.12654v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Towards Designing Scalable Quantum-Enhanced Generative Networks for Neutrino Physics Experiments with Liquid Argon Time Projection Chambers</strong></td>
+<td style="text-align: center;">Andrea Delgado et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12650v1">2410.12650v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans</strong></td>
+<td style="text-align: center;">Luca Marsilio et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12641v1">2410.12641v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Towards Arbitrary QUBO Optimization: Analysis of Classical and Quantum-Activated Feedforward Neural Networks</strong></td>
+<td style="text-align: center;">Chia-Tso Lai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12636v1">2410.12636v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Explainable Moral Values: a neuro-symbolic approach to value classification</strong></td>
+<td style="text-align: center;">Nicolas Lazzari et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12631v1">2410.12631v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Activation functions enabling the addition of neurons and layers without altering outcomes</strong></td>
+<td style="text-align: center;">Sergio López-Ureña et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12625v1">2410.12625v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Spatio-Temporal Analysis of Public Transportation Undercrowding: Leveraging APC Data for a Comprehensive Evaluation of Usage Rates</strong></td>
+<td style="text-align: center;">Arianna Burzacchi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12618v1">2410.12618v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Low-Rank Adversarial PGD Attack</strong></td>
+<td style="text-align: center;">Dayana Savostianova et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12607v1">2410.12607v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>The Bayesian Confidence (BACON) Estimator for Deep Neural Networks</strong></td>
+<td style="text-align: center;">Patrick D. Kee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12604v1">2410.12604v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting</strong></td>
+<td style="text-align: center;">Wei Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12593v1">2410.12593v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>FALCON: Pinpointing and Mitigating Stragglers for Large-Scale Hybrid-Parallel Training</strong></td>
+<td style="text-align: center;">Tianyuan Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12588v1">2410.12588v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="outlier">Outlier</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Improved Anomaly Detection through Conditional Latent Space VAE Ensembles</strong></td>
+<td style="text-align: center;">Oskar Åström et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12328v1">2410.12328v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>Embedded Model Bias Quantification with Measurement Noise for Bayesian Model Calibration</strong></td>
+<td style="text-align: center;">Daniel Andrés Arcones et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12037v1">2410.12037v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>Spatial-Temporal Bearing Fault Detection Using Graph Attention Networks and LSTM</strong></td>
+<td style="text-align: center;">Moirangthem Tiken Singh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.11923v1">2410.11923v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>Predicting metallicities and carbon abundances from Gaia XP spectra for (carbon-enhanced) metal-poor stars</strong></td>
+<td style="text-align: center;">Anke Ardern-Arentsen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.11077v1">2410.11077v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>Cultural Heritage 3D Reconstruction with Diffusion Networks</strong></td>
+<td style="text-align: center;">Pablo Jaramillo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.10927v1">2410.10927v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/PJaramilloV/pcdiff-method">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>RICASSO: Reinforced Imbalance Learning with Class-Aware Self-Supervised Outliers Exposure</strong></td>
+<td style="text-align: center;">Xuan Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.10548v1">2410.10548v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>ReLU's Revival: On the Entropic Overload in Normalization-Free Large Language Models</strong></td>
+<td style="text-align: center;">Nandan Kumar Jha et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09637v1">2410.09637v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>FlatQuant: Flatness Matters for LLM Quantization</strong></td>
+<td style="text-align: center;">Yuxuan Sun et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09426v1">2410.09426v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/ruikangliu/flatquant">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>MITA: Bridging the Gap between Model and Data for Test-time Adaptation</strong></td>
+<td style="text-align: center;">Yige Yuan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09398v1">2410.09398v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>Combinatorial optimization of the coefficient of determination</strong></td>
+<td style="text-align: center;">Marc Harary et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09316v1">2410.09316v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/marc-harary/quadraticsweep">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-11</strong></td>
+<td style="text-align: center;"><strong>Lifted Coefficient of Determination: Fast model-free prediction intervals and likelihood-free model comparison</strong></td>
+<td style="text-align: center;">Daniel Salnikov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08958v1">2410.08958v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-11</strong></td>
+<td style="text-align: center;"><strong>MVG-CRPS: A Robust Loss Function for Multivariate Probabilistic Forecasting</strong></td>
+<td style="text-align: center;">Vincent Zhihao Zheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09133v1">2410.09133v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-11</strong></td>
+<td style="text-align: center;"><strong>Blind and robust reconstruction of adaptive optics point spread functions for asteroid deconvolution and moon detection</strong></td>
+<td style="text-align: center;">Anthony Berdeu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08585v1">2410.08585v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>On Barycenter Computation: Semi-Unbalanced Optimal Transport-based Method on Gaussians</strong></td>
+<td style="text-align: center;">Ngoc-Hai Nguyen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08117v1">2410.08117v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>Barions and $Λ$CDM Model Problems</strong></td>
+<td style="text-align: center;">A. Del Popolo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.07792v1">2410.07792v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>Unique Word-Based Frame Design for Bistatic Integrated Sensing and Communication</strong></td>
+<td style="text-align: center;">Roberto Bomfin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.07667v1">2410.07667v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>Prototype-based Optimal Transport for Out-of-Distribution Detection</strong></td>
+<td style="text-align: center;">Ao Ke et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.07617v1">2410.07617v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-09</strong></td>
+<td style="text-align: center;"><strong>Efficient Distribution Matching of Representations via Noise-Injected Deep InfoMax</strong></td>
+<td style="text-align: center;">Ivan Butakov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.06993v1">2410.06993v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-09</strong></td>
+<td style="text-align: center;"><strong>Optical and near-infrared photometry of 94 type II supernovae from the Carnegie Supernova Project</strong></td>
+<td style="text-align: center;">J. P. Anderson et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.06738v1">2410.06738v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-08</strong></td>
+<td style="text-align: center;"><strong>Quantifying sex differences in brain network topology by aggregating nodal centrality rankings</strong></td>
+<td style="text-align: center;">Wenyu Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05923v1">2410.05923v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-08</strong></td>
+<td style="text-align: center;"><strong>Enhanced Feature Based Granular Ball Twin Support Vector Machine</strong></td>
+<td style="text-align: center;">A. Quadir et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05786v1">2410.05786v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/mtanveer1/ef-gbtsvm">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-08</strong></td>
+<td style="text-align: center;"><strong>Accelerating the discovery of low-energy structure configurations: a computational approach that integrates first-principles calculations, Monte Carlo sampling, and Machine Learning</strong></td>
+<td style="text-align: center;">Md Rajib Khan Musa et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05604v1">2410.05604v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-07</strong></td>
+<td style="text-align: center;"><strong>Robust Matrix Completion with Deterministic Sampling via Convex Optimization</strong></td>
+<td style="text-align: center;">Yinjian Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05412v1">2410.05412v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-07</strong></td>
+<td style="text-align: center;"><strong>PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs</strong></td>
+<td style="text-align: center;">Mengzhao Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05265v1">2410.05265v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/chenmnz/prefixquant">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-07</strong></td>
+<td style="text-align: center;"><strong>Differential Transformer</strong></td>
+<td style="text-align: center;">Tianzhu Ye et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05258v1">2410.05258v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-07</strong></td>
+<td style="text-align: center;"><strong>Granular Ball Twin Support Vector Machine</strong></td>
+<td style="text-align: center;">A. Quadir et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.04774v1">2410.04774v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/mtanveer1/GBTSVM">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-06</strong></td>
+<td style="text-align: center;"><strong>Fast Area-Weighted Peeling of Convex Hulls for Outlier Detection</strong></td>
+<td style="text-align: center;">Vinesh Sridhar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.04544v1">2410.04544v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-06</strong></td>
+<td style="text-align: center;"><strong>DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination</strong></td>
+<td style="text-align: center;">Xuan Gong et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.04514v1">2410.04514v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-06</strong></td>
+<td style="text-align: center;"><strong>StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting</strong></td>
+<td style="text-align: center;">Xiao Cui et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.04354v1">2410.04354v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-04</strong></td>
+<td style="text-align: center;"><strong>Robust Barycenter Estimation using Semi-Unbalanced Neural Optimal Transport</strong></td>
+<td style="text-align: center;">Milena Gazdieva et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.03974v1">2410.03974v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.indexes"], "search": "assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+    
+  </body>
+</html>
