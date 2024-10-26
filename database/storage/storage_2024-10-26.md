@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-26 09:50:14 Asia/Shanghai
+ Automated deployment @ 2024-10-26 20:46:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-24**|**Detection of Undeclared EV Charging Events in a Green Energy Certification Scheme**|Luca Domenico Loiacono et.al.|[2410.18971v1](http://arxiv.org/abs/2410.18971v1)|null|
-|**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972v1](http://arxiv.org/abs/2410.18972v1)|null|
-|**2024-10-24**|**Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions**|Yujuan Fu et.al.|[2410.18966v1](http://arxiv.org/abs/2410.18966v1)|null|
-|**2024-10-24**|**Direct observation of topological magnon edge states**|Jihai Zhang et.al.|[2410.18960v1](http://arxiv.org/abs/2410.18960v1)|null|
-|**2024-10-24**|**Confidence is detection-like in high-dimensional spaces**|Stephen M. Fleming et.al.|[2410.18933v1](http://arxiv.org/abs/2410.18933v1)|null|
-|**2024-10-24**|**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**|Zonghao Ying et.al.|[2410.18927v1](http://arxiv.org/abs/2410.18927v1)|null|
-|**2024-10-24**|**From Blind Solvers to Logical Thinkers: Benchmarking LLMs' Logical Integrity on Faulty Mathematical Problems**|A M Muntasir Rahman et.al.|[2410.18921v1](http://arxiv.org/abs/2410.18921v1)|null|
-|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919v1](http://arxiv.org/abs/2410.18919v1)|null|
-|**2024-10-24**|**Parity-violating Gravitational Wave Background Search with a Network of Space-borne Triangular Detectors**|Ju Chen et.al.|[2410.18916v1](http://arxiv.org/abs/2410.18916v1)|null|
-|**2024-10-24**|**Are LLMs Better than Reported? Detecting Label Errors and Mitigating Their Effect on Model Performance**|Omer Nahum et.al.|[2410.18889v1](http://arxiv.org/abs/2410.18889v1)|null|
-|**2024-10-24**|**A Survey of Multimodal Sarcasm Detection**|Shafkat Farabi et.al.|[2410.18882v1](http://arxiv.org/abs/2410.18882v1)|null|
-|**2024-10-24**|**Can we spot a fake?**|Shahar Mendelson et.al.|[2410.18880v1](http://arxiv.org/abs/2410.18880v1)|null|
-|**2024-10-24**|**Exploring the Universe with SNAD: Anomaly Detection in Astronomy**|Alina A. Volnova et.al.|[2410.18875v1](http://arxiv.org/abs/2410.18875v1)|null|
-|**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866v1](http://arxiv.org/abs/2410.18866v1)|null|
-|**2024-10-24**|**Provably Robust Watermarks for Open-Source Language Models**|Miranda Christ et.al.|[2410.18861v1](http://arxiv.org/abs/2410.18861v1)|null|
-|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|null|
-|**2024-10-24**|**Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE)**|Ai-Yu Bai et.al.|[2410.18817v1](http://arxiv.org/abs/2410.18817v1)|null|
-|**2024-10-24**|**Mergers of compact objects with cores of massive stars: evolution, r-process and multi-messenger signatures**|Aldana Grichener et.al.|[2410.18813v1](http://arxiv.org/abs/2410.18813v1)|null|
-|**2024-10-24**|**A Tale of NGC 3785: The Formation of an Ultra-Diffuse Galaxy at the end of the Longest Tidal Tail**|Chandan Watts et.al.|[2410.18811v1](http://arxiv.org/abs/2410.18811v1)|null|
-|**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775v1](http://arxiv.org/abs/2410.18775v1)|[link](https://github.com/shilin-lu/vine)|
-|**2024-10-24**|**The dual nature of GHZ9: coexisting AGN and star formation activity in a remote X-ray source at z=10.145**|Lorenzo Napolitano et.al.|[2410.18763v1](http://arxiv.org/abs/2410.18763v1)|null|
-|**2024-10-24**|**Resistively detected electron spin resonance and g factor in few-layer exfoliated MoS2 devices**|Chithra H. Sharma et.al.|[2410.18758v1](http://arxiv.org/abs/2410.18758v1)|null|
-|**2024-10-24**|**Double Auctions: Formalization and Automated Checkers**|Mohit Garg et.al.|[2410.18751v1](http://arxiv.org/abs/2410.18751v1)|null|
-|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717v1](http://arxiv.org/abs/2410.18717v1)|null|
-|**2024-10-24**|**Gravitational Wave-Sensitive Photonic-Like Electronic Transport in Graphene for Efficient High-Frequency Gravitational Wave Detection**|Shen Shen et.al.|[2410.18711v1](http://arxiv.org/abs/2410.18711v1)|null|
-|**2024-10-24**|**Whose fault is it anyway? SILC: Safe Integration of LLM-Generated Code**|Peisen Lin et.al.|[2410.18703v1](http://arxiv.org/abs/2410.18703v1)|null|
-|**2024-10-24**|**ODDN: Addressing Unpaired Data Challenges in Open-World Deepfake Detection on Online Social Networks**|Renshuai Tao et.al.|[2410.18687v1](http://arxiv.org/abs/2410.18687v1)|null|
-|**2024-10-24**|**Every Component Counts: Rethinking the Measure of Success for Medical Semantic Segmentation in Multi-Instance Segmentation Tasks**|Alexander Jaus et.al.|[2410.18684v1](http://arxiv.org/abs/2410.18684v1)|null|
-|**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678v1](http://arxiv.org/abs/2410.18678v1)|null|
-|**2024-10-24**|**Multi-band optical variability on diverse timescales of blazar 1E 1458.8+2249**|Aykut Özdönmez et.al.|[2410.18675v1](http://arxiv.org/abs/2410.18675v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -68,7 +34,7 @@
 |**2024-10-24**|**Bilinear Sequence Regression: A Model for Learning from Long Sequences of High-dimensional Tokens**|Vittorio Erba et.al.|[2410.18858v1](http://arxiv.org/abs/2410.18858v1)|[link](https://github.com/SPOC-group/bilinear-sequence-regression)|
 |**2024-10-24**|**DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction**|Yuxuan Yu et.al.|[2410.18852v1](http://arxiv.org/abs/2410.18852v1)|null|
 |**2024-10-24**|**High-dimensional Analysis of Knowledge Distillation: Weak-to-Strong Generalization and Scaling Laws**|M. Emrullah Ildiz et.al.|[2410.18837v1](http://arxiv.org/abs/2410.18837v1)|null|
-|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|null|
+|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|[link](https://github.com/lab-midas/LAPANet)|
 |**2024-10-24**|**MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees**|Gabriel Díaz Ramos et.al.|[2410.18832v1](http://arxiv.org/abs/2410.18832v1)|null|
 |**2024-10-24**|**From $SU(2)$ holonomies to holographic duality via tensor networks**|Grzegorz Czelusta et.al.|[2410.18812v1](http://arxiv.org/abs/2410.18812v1)|null|
 |**2024-10-24**|**Language-Agnostic Modeling of Source Reliability on Wikipedia**|Jacopo D'Ignazi et.al.|[2410.18803v1](http://arxiv.org/abs/2410.18803v1)|null|
@@ -112,3 +78,37 @@
 |**2024-10-15**|**Embedded Model Bias Quantification with Measurement Noise for Bayesian Model Calibration**|Daniel Andrés Arcones et.al.|[2410.12037v1](http://arxiv.org/abs/2410.12037v1)|null|
 |**2024-10-15**|**Spatial-Temporal Bearing Fault Detection Using Graph Attention Networks and LSTM**|Moirangthem Tiken Singh et.al.|[2410.11923v1](http://arxiv.org/abs/2410.11923v1)|null|
 |**2024-10-14**|**Predicting metallicities and carbon abundances from Gaia XP spectra for (carbon-enhanced) metal-poor stars**|Anke Ardern-Arentsen et.al.|[2410.11077v1](http://arxiv.org/abs/2410.11077v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-24**|**Detection of Undeclared EV Charging Events in a Green Energy Certification Scheme**|Luca Domenico Loiacono et.al.|[2410.18971v1](http://arxiv.org/abs/2410.18971v1)|null|
+|**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972v1](http://arxiv.org/abs/2410.18972v1)|null|
+|**2024-10-24**|**Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions**|Yujuan Fu et.al.|[2410.18966v1](http://arxiv.org/abs/2410.18966v1)|null|
+|**2024-10-24**|**Direct observation of topological magnon edge states**|Jihai Zhang et.al.|[2410.18960v1](http://arxiv.org/abs/2410.18960v1)|null|
+|**2024-10-24**|**Confidence is detection-like in high-dimensional spaces**|Stephen M. Fleming et.al.|[2410.18933v1](http://arxiv.org/abs/2410.18933v1)|null|
+|**2024-10-24**|**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**|Zonghao Ying et.al.|[2410.18927v1](http://arxiv.org/abs/2410.18927v1)|null|
+|**2024-10-24**|**From Blind Solvers to Logical Thinkers: Benchmarking LLMs' Logical Integrity on Faulty Mathematical Problems**|A M Muntasir Rahman et.al.|[2410.18921v1](http://arxiv.org/abs/2410.18921v1)|null|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919v1](http://arxiv.org/abs/2410.18919v1)|null|
+|**2024-10-24**|**Parity-violating Gravitational Wave Background Search with a Network of Space-borne Triangular Detectors**|Ju Chen et.al.|[2410.18916v1](http://arxiv.org/abs/2410.18916v1)|null|
+|**2024-10-24**|**Are LLMs Better than Reported? Detecting Label Errors and Mitigating Their Effect on Model Performance**|Omer Nahum et.al.|[2410.18889v1](http://arxiv.org/abs/2410.18889v1)|null|
+|**2024-10-24**|**A Survey of Multimodal Sarcasm Detection**|Shafkat Farabi et.al.|[2410.18882v1](http://arxiv.org/abs/2410.18882v1)|null|
+|**2024-10-24**|**Can we spot a fake?**|Shahar Mendelson et.al.|[2410.18880v1](http://arxiv.org/abs/2410.18880v1)|null|
+|**2024-10-24**|**Exploring the Universe with SNAD: Anomaly Detection in Astronomy**|Alina A. Volnova et.al.|[2410.18875v1](http://arxiv.org/abs/2410.18875v1)|null|
+|**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866v1](http://arxiv.org/abs/2410.18866v1)|null|
+|**2024-10-24**|**Provably Robust Watermarks for Open-Source Language Models**|Miranda Christ et.al.|[2410.18861v1](http://arxiv.org/abs/2410.18861v1)|null|
+|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|[link](https://github.com/lab-midas/LAPANet)|
+|**2024-10-24**|**Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE)**|Ai-Yu Bai et.al.|[2410.18817v1](http://arxiv.org/abs/2410.18817v1)|null|
+|**2024-10-24**|**Mergers of compact objects with cores of massive stars: evolution, r-process and multi-messenger signatures**|Aldana Grichener et.al.|[2410.18813v1](http://arxiv.org/abs/2410.18813v1)|null|
+|**2024-10-24**|**A Tale of NGC 3785: The Formation of an Ultra-Diffuse Galaxy at the end of the Longest Tidal Tail**|Chandan Watts et.al.|[2410.18811v1](http://arxiv.org/abs/2410.18811v1)|null|
+|**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775v1](http://arxiv.org/abs/2410.18775v1)|[link](https://github.com/shilin-lu/vine)|
+|**2024-10-24**|**The dual nature of GHZ9: coexisting AGN and star formation activity in a remote X-ray source at z=10.145**|Lorenzo Napolitano et.al.|[2410.18763v1](http://arxiv.org/abs/2410.18763v1)|null|
+|**2024-10-24**|**Resistively detected electron spin resonance and g factor in few-layer exfoliated MoS2 devices**|Chithra H. Sharma et.al.|[2410.18758v1](http://arxiv.org/abs/2410.18758v1)|null|
+|**2024-10-24**|**Double Auctions: Formalization and Automated Checkers**|Mohit Garg et.al.|[2410.18751v1](http://arxiv.org/abs/2410.18751v1)|null|
+|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717v1](http://arxiv.org/abs/2410.18717v1)|null|
+|**2024-10-24**|**Gravitational Wave-Sensitive Photonic-Like Electronic Transport in Graphene for Efficient High-Frequency Gravitational Wave Detection**|Shen Shen et.al.|[2410.18711v1](http://arxiv.org/abs/2410.18711v1)|null|
+|**2024-10-24**|**Whose fault is it anyway? SILC: Safe Integration of LLM-Generated Code**|Peisen Lin et.al.|[2410.18703v1](http://arxiv.org/abs/2410.18703v1)|null|
+|**2024-10-24**|**ODDN: Addressing Unpaired Data Challenges in Open-World Deepfake Detection on Online Social Networks**|Renshuai Tao et.al.|[2410.18687v1](http://arxiv.org/abs/2410.18687v1)|null|
+|**2024-10-24**|**Every Component Counts: Rethinking the Measure of Success for Medical Semantic Segmentation in Multi-Instance Segmentation Tasks**|Alexander Jaus et.al.|[2410.18684v1](http://arxiv.org/abs/2410.18684v1)|null|
+|**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678v1](http://arxiv.org/abs/2410.18678v1)|null|
+|**2024-10-24**|**Multi-band optical variability on diverse timescales of blazar 1E 1458.8+2249**|Aykut Özdönmez et.al.|[2410.18675v1](http://arxiv.org/abs/2410.18675v1)|null|
