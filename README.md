@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-27 09:59:38 Asia/Shanghai
+ Automated deployment @ 2024-10-27 20:47:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -11,40 +11,6 @@
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
 
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974v1](http://arxiv.org/abs/2410.18974v1)|[link](https://github.com/Lakonik/MVEdit)|
-|**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956v1](http://arxiv.org/abs/2410.18956v1)|null|
-|**2024-10-24**|**Internal structure of gauge-invariant Projected Entangled Pair States**|David Blanik et.al.|[2410.18947v1](http://arxiv.org/abs/2410.18947v1)|null|
-|**2024-10-24**|**A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities**|Yatin Dandi et.al.|[2410.18938v1](http://arxiv.org/abs/2410.18938v1)|null|
-|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919v1](http://arxiv.org/abs/2410.18919v1)|null|
-|**2024-10-24**|**MissNODAG: Differentiable Cyclic Causal Graph Learning from Incomplete Data**|Muralikrishnna G. Sethuraman et.al.|[2410.18918v1](http://arxiv.org/abs/2410.18918v1)|[link](https://github.com/muralikgs/missnodag)|
-|**2024-10-24**|**Using Parametric PINNs for Predicting Internal and External Turbulent Flows**|Shinjan Ghosh et.al.|[2410.18917v1](http://arxiv.org/abs/2410.18917v1)|null|
-|**2024-10-24**|**Parity-violating Gravitational Wave Background Search with a Network of Space-borne Triangular Detectors**|Ju Chen et.al.|[2410.18916v1](http://arxiv.org/abs/2410.18916v1)|null|
-|**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912v1](http://arxiv.org/abs/2410.18912v1)|null|
-|**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904v1](http://arxiv.org/abs/2410.18904v1)|null|
-|**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897v1](http://arxiv.org/abs/2410.18897v1)|null|
-|**2024-10-24**|**Adaptive Convolutional Filter for Seismic Noise Attenuation**|Junheng Peng et.al.|[2410.18896v1](http://arxiv.org/abs/2410.18896v1)|null|
-|**2024-10-24**|**Experimental observation of spin defects in van der Waals material GeS$_2$**|W. Liu et.al.|[2410.18892v1](http://arxiv.org/abs/2410.18892v1)|null|
-|**2024-10-24**|**Existence of solutions to port-Hamiltonian systems: initial value problems and optimal control**|Willem Esterhuizen et.al.|[2410.18888v1](http://arxiv.org/abs/2410.18888v1)|null|
-|**2024-10-24**|**Multi-Class Abnormality Classification in Video Capsule Endoscopy Using Deep Learning**|Arnav Samal et.al.|[2410.18879v1](http://arxiv.org/abs/2410.18879v1)|[link](https://github.com/arnavs04/capsule-vision-2024)|
-|**2024-10-24**|**A Riemannian Framework for Learning Reduced-order Lagrangian Dynamics**|Katharina Friedl et.al.|[2410.18868v1](http://arxiv.org/abs/2410.18868v1)|null|
-|**2024-10-24**|**FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning**|I-Cheng Lin et.al.|[2410.18862v1](http://arxiv.org/abs/2410.18862v1)|null|
-|**2024-10-24**|**Bilinear Sequence Regression: A Model for Learning from Long Sequences of High-dimensional Tokens**|Vittorio Erba et.al.|[2410.18858v1](http://arxiv.org/abs/2410.18858v1)|[link](https://github.com/SPOC-group/bilinear-sequence-regression)|
-|**2024-10-24**|**DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction**|Yuxuan Yu et.al.|[2410.18852v1](http://arxiv.org/abs/2410.18852v1)|null|
-|**2024-10-24**|**High-dimensional Analysis of Knowledge Distillation: Weak-to-Strong Generalization and Scaling Laws**|M. Emrullah Ildiz et.al.|[2410.18837v1](http://arxiv.org/abs/2410.18837v1)|null|
-|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|[link](https://github.com/lab-midas/LAPANet)|
-|**2024-10-24**|**MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees**|Gabriel Díaz Ramos et.al.|[2410.18832v1](http://arxiv.org/abs/2410.18832v1)|null|
-|**2024-10-24**|**From $SU(2)$ holonomies to holographic duality via tensor networks**|Grzegorz Czelusta et.al.|[2410.18812v1](http://arxiv.org/abs/2410.18812v1)|null|
-|**2024-10-24**|**Language-Agnostic Modeling of Source Reliability on Wikipedia**|Jacopo D'Ignazi et.al.|[2410.18803v1](http://arxiv.org/abs/2410.18803v1)|null|
-|**2024-10-24**|**Learning Geodesics of Geometric Shape Deformations From Images**|Nian Wu et.al.|[2410.18797v1](http://arxiv.org/abs/2410.18797v1)|null|
-|**2024-10-24**|**WARP-LCA: Efficient Convolutional Sparse Coding with Locally Competitive Algorithm**|Geoffrey Kasenbacher et.al.|[2410.18794v1](http://arxiv.org/abs/2410.18794v1)|null|
-|**2024-10-24**|**Adapting MLOps for Diverse In-Network Intelligence in 6G Era: Challenges and Solutions**|Peizheng Li et.al.|[2410.18793v1](http://arxiv.org/abs/2410.18793v1)|null|
-|**2024-10-24**|**Large Generative AI Models meet Open Networks for 6G: Integration, Platform, and Monetization**|Peizheng Li et.al.|[2410.18790v1](http://arxiv.org/abs/2410.18790v1)|null|
-|**2024-10-24**|**Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles**|Yucheng Shi et.al.|[2410.18786v1](http://arxiv.org/abs/2410.18786v1)|null|
-|**2024-10-24**|**A frequency-domain approach for estimating continuous-time diffusively coupled linear networks**|Desen Liang et.al.|[2410.18773v1](http://arxiv.org/abs/2410.18773v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -55,7 +21,7 @@
 |**2024-10-24**|**Confidence is detection-like in high-dimensional spaces**|Stephen M. Fleming et.al.|[2410.18933v1](http://arxiv.org/abs/2410.18933v1)|null|
 |**2024-10-24**|**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**|Zonghao Ying et.al.|[2410.18927v1](http://arxiv.org/abs/2410.18927v1)|null|
 |**2024-10-24**|**From Blind Solvers to Logical Thinkers: Benchmarking LLMs' Logical Integrity on Faulty Mathematical Problems**|A M Muntasir Rahman et.al.|[2410.18921v1](http://arxiv.org/abs/2410.18921v1)|null|
-|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919v1](http://arxiv.org/abs/2410.18919v1)|null|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919v1](http://arxiv.org/abs/2410.18919v1)|[link](https://github.com/qiujiaming315/edgeml-object-detection)|
 |**2024-10-24**|**Parity-violating Gravitational Wave Background Search with a Network of Space-borne Triangular Detectors**|Ju Chen et.al.|[2410.18916v1](http://arxiv.org/abs/2410.18916v1)|null|
 |**2024-10-24**|**Are LLMs Better than Reported? Detecting Label Errors and Mitigating Their Effect on Model Performance**|Omer Nahum et.al.|[2410.18889v1](http://arxiv.org/abs/2410.18889v1)|null|
 |**2024-10-24**|**A Survey of Multimodal Sarcasm Detection**|Shafkat Farabi et.al.|[2410.18882v1](http://arxiv.org/abs/2410.18882v1)|null|
@@ -71,7 +37,7 @@
 |**2024-10-24**|**The dual nature of GHZ9: coexisting AGN and star formation activity in a remote X-ray source at z=10.145**|Lorenzo Napolitano et.al.|[2410.18763v1](http://arxiv.org/abs/2410.18763v1)|null|
 |**2024-10-24**|**Resistively detected electron spin resonance and g factor in few-layer exfoliated MoS2 devices**|Chithra H. Sharma et.al.|[2410.18758v1](http://arxiv.org/abs/2410.18758v1)|null|
 |**2024-10-24**|**Double Auctions: Formalization and Automated Checkers**|Mohit Garg et.al.|[2410.18751v1](http://arxiv.org/abs/2410.18751v1)|null|
-|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717v1](http://arxiv.org/abs/2410.18717v1)|null|
+|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717v1](http://arxiv.org/abs/2410.18717v1)|[link](https://github.com/muleina/la3d)|
 |**2024-10-24**|**Gravitational Wave-Sensitive Photonic-Like Electronic Transport in Graphene for Efficient High-Frequency Gravitational Wave Detection**|Shen Shen et.al.|[2410.18711v1](http://arxiv.org/abs/2410.18711v1)|null|
 |**2024-10-24**|**Whose fault is it anyway? SILC: Safe Integration of LLM-Generated Code**|Peisen Lin et.al.|[2410.18703v1](http://arxiv.org/abs/2410.18703v1)|null|
 |**2024-10-24**|**ODDN: Addressing Unpaired Data Challenges in Open-World Deepfake Detection on Online Social Networks**|Renshuai Tao et.al.|[2410.18687v1](http://arxiv.org/abs/2410.18687v1)|null|
@@ -112,3 +78,37 @@
 |**2024-10-15**|**Embedded Model Bias Quantification with Measurement Noise for Bayesian Model Calibration**|Daniel Andrés Arcones et.al.|[2410.12037v1](http://arxiv.org/abs/2410.12037v1)|null|
 |**2024-10-15**|**Spatial-Temporal Bearing Fault Detection Using Graph Attention Networks and LSTM**|Moirangthem Tiken Singh et.al.|[2410.11923v1](http://arxiv.org/abs/2410.11923v1)|null|
 |**2024-10-14**|**Predicting metallicities and carbon abundances from Gaia XP spectra for (carbon-enhanced) metal-poor stars**|Anke Ardern-Arentsen et.al.|[2410.11077v1](http://arxiv.org/abs/2410.11077v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974v1](http://arxiv.org/abs/2410.18974v1)|[link](https://github.com/Lakonik/MVEdit)|
+|**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956v1](http://arxiv.org/abs/2410.18956v1)|null|
+|**2024-10-24**|**Internal structure of gauge-invariant Projected Entangled Pair States**|David Blanik et.al.|[2410.18947v1](http://arxiv.org/abs/2410.18947v1)|null|
+|**2024-10-24**|**A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities**|Yatin Dandi et.al.|[2410.18938v1](http://arxiv.org/abs/2410.18938v1)|null|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919v1](http://arxiv.org/abs/2410.18919v1)|[link](https://github.com/qiujiaming315/edgeml-object-detection)|
+|**2024-10-24**|**MissNODAG: Differentiable Cyclic Causal Graph Learning from Incomplete Data**|Muralikrishnna G. Sethuraman et.al.|[2410.18918v1](http://arxiv.org/abs/2410.18918v1)|[link](https://github.com/muralikgs/missnodag)|
+|**2024-10-24**|**Using Parametric PINNs for Predicting Internal and External Turbulent Flows**|Shinjan Ghosh et.al.|[2410.18917v1](http://arxiv.org/abs/2410.18917v1)|null|
+|**2024-10-24**|**Parity-violating Gravitational Wave Background Search with a Network of Space-borne Triangular Detectors**|Ju Chen et.al.|[2410.18916v1](http://arxiv.org/abs/2410.18916v1)|null|
+|**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912v1](http://arxiv.org/abs/2410.18912v1)|null|
+|**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904v1](http://arxiv.org/abs/2410.18904v1)|null|
+|**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897v1](http://arxiv.org/abs/2410.18897v1)|null|
+|**2024-10-24**|**Adaptive Convolutional Filter for Seismic Noise Attenuation**|Junheng Peng et.al.|[2410.18896v1](http://arxiv.org/abs/2410.18896v1)|null|
+|**2024-10-24**|**Experimental observation of spin defects in van der Waals material GeS$_2$**|W. Liu et.al.|[2410.18892v1](http://arxiv.org/abs/2410.18892v1)|null|
+|**2024-10-24**|**Existence of solutions to port-Hamiltonian systems: initial value problems and optimal control**|Willem Esterhuizen et.al.|[2410.18888v1](http://arxiv.org/abs/2410.18888v1)|null|
+|**2024-10-24**|**Multi-Class Abnormality Classification in Video Capsule Endoscopy Using Deep Learning**|Arnav Samal et.al.|[2410.18879v1](http://arxiv.org/abs/2410.18879v1)|[link](https://github.com/arnavs04/capsule-vision-2024)|
+|**2024-10-24**|**A Riemannian Framework for Learning Reduced-order Lagrangian Dynamics**|Katharina Friedl et.al.|[2410.18868v1](http://arxiv.org/abs/2410.18868v1)|null|
+|**2024-10-24**|**FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning**|I-Cheng Lin et.al.|[2410.18862v1](http://arxiv.org/abs/2410.18862v1)|null|
+|**2024-10-24**|**Bilinear Sequence Regression: A Model for Learning from Long Sequences of High-dimensional Tokens**|Vittorio Erba et.al.|[2410.18858v1](http://arxiv.org/abs/2410.18858v1)|[link](https://github.com/SPOC-group/bilinear-sequence-regression)|
+|**2024-10-24**|**DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction**|Yuxuan Yu et.al.|[2410.18852v1](http://arxiv.org/abs/2410.18852v1)|[link](https://github.com/cmu-cbml/dl-polycube)|
+|**2024-10-24**|**High-dimensional Analysis of Knowledge Distillation: Weak-to-Strong Generalization and Scaling Laws**|M. Emrullah Ildiz et.al.|[2410.18837v1](http://arxiv.org/abs/2410.18837v1)|null|
+|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|[link](https://github.com/lab-midas/LAPANet)|
+|**2024-10-24**|**MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees**|Gabriel Díaz Ramos et.al.|[2410.18832v1](http://arxiv.org/abs/2410.18832v1)|null|
+|**2024-10-24**|**From $SU(2)$ holonomies to holographic duality via tensor networks**|Grzegorz Czelusta et.al.|[2410.18812v1](http://arxiv.org/abs/2410.18812v1)|[link](https://github.com/quantum-cosmos-lab/tensor-network-representation-of-ising-spin-networks)|
+|**2024-10-24**|**Language-Agnostic Modeling of Source Reliability on Wikipedia**|Jacopo D'Ignazi et.al.|[2410.18803v1](http://arxiv.org/abs/2410.18803v1)|null|
+|**2024-10-24**|**Learning Geodesics of Geometric Shape Deformations From Images**|Nian Wu et.al.|[2410.18797v1](http://arxiv.org/abs/2410.18797v1)|null|
+|**2024-10-24**|**WARP-LCA: Efficient Convolutional Sparse Coding with Locally Competitive Algorithm**|Geoffrey Kasenbacher et.al.|[2410.18794v1](http://arxiv.org/abs/2410.18794v1)|null|
+|**2024-10-24**|**Adapting MLOps for Diverse In-Network Intelligence in 6G Era: Challenges and Solutions**|Peizheng Li et.al.|[2410.18793v1](http://arxiv.org/abs/2410.18793v1)|null|
+|**2024-10-24**|**Large Generative AI Models meet Open Networks for 6G: Integration, Platform, and Monetization**|Peizheng Li et.al.|[2410.18790v1](http://arxiv.org/abs/2410.18790v1)|null|
+|**2024-10-24**|**Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles**|Yucheng Shi et.al.|[2410.18786v1](http://arxiv.org/abs/2410.18786v1)|null|
+|**2024-10-24**|**A frequency-domain approach for estimating continuous-time diffusively coupled linear networks**|Desen Liang et.al.|[2410.18773v1](http://arxiv.org/abs/2410.18773v1)|null|
