@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-04 09:55:58 Asia/Shanghai
+ Automated deployment @ 2024-11-04 20:51:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
-|**2024-10-31**|**Airway Labeling Meets Clinical Applications: Reflecting Topology Consistency and Outliers via Learnable Attentions**|Chenyu Li et.al.|[2410.23854v1](http://arxiv.org/abs/2410.23854v1)|null|
-|**2024-10-31**|**Case ID detection based on time series data -- the mining use case**|Edyta Brzychczy et.al.|[2410.23846v1](http://arxiv.org/abs/2410.23846v1)|null|
-|**2024-10-31**|**Open-Set 3D object detection in LiDAR data as an Out-of-Distribution problem**|Louis Soum-Fontez et.al.|[2410.23767v1](http://arxiv.org/abs/2410.23767v1)|null|
-|**2024-10-31**|**Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling**|Skyler Wu et.al.|[2410.23601v1](http://arxiv.org/abs/2410.23601v1)|null|
-|**2024-10-30**|**Discovering Changing-Look AGN in the 6dF Galaxy Survey using ATLAS Light curves**|Neelesh Amrutha et.al.|[2410.22671v1](http://arxiv.org/abs/2410.22671v1)|null|
-|**2024-10-29**|**Conways game of life as an analogue to a habitable world Livingness beyond the biological**|James McCrum et.al.|[2410.22389v1](http://arxiv.org/abs/2410.22389v1)|null|
-|**2024-10-29**|**Characterization and classification of $γ$-ray bursts from blazars**|Matteo Cerruti et.al.|[2410.21974v1](http://arxiv.org/abs/2410.21974v1)|null|
-|**2024-10-29**|**Capivara: A Spectral-based Segmentation Method for IFU Data Cubes**|Rafael S. de Souza et.al.|[2410.21962v1](http://arxiv.org/abs/2410.21962v1)|null|
-|**2024-10-29**|**Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy**|Rongling Zhang et.al.|[2410.21857v1](http://arxiv.org/abs/2410.21857v1)|null|
-|**2024-10-29**|**Sliced-Wasserstein-based Anomaly Detection and Open Dataset for Localized Critical Peak Rebates**|Julien Pallage et.al.|[2410.21712v1](http://arxiv.org/abs/2410.21712v1)|[link](https://github.com/jupall/swfilter)|
-|**2024-10-29**|**Dimensionality-induced information loss of outliers in deep neural networks**|Kazuki Uematsu et.al.|[2410.21656v1](http://arxiv.org/abs/2410.21656v1)|null|
-|**2024-10-28**|**Fine-Grained Clustering-Based Power Identification for Multicores**|Mohamed R. Elshamy et.al.|[2410.21261v1](http://arxiv.org/abs/2410.21261v1)|null|
-|**2024-10-28**|**A Componentwise Estimation Procedure for Multivariate Location and Scatter: Robustness, Efficiency and Scalability**|Soumya Chakraborty et.al.|[2410.21166v1](http://arxiv.org/abs/2410.21166v1)|null|
-|**2024-10-28**|**A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks**|Pau Ferrer-Cid et.al.|[2410.21006v1](http://arxiv.org/abs/2410.21006v1)|null|
-|**2024-10-28**|**zGAN: An Outlier-focused Generative Adversarial Network For Realistic Synthetic Data Generation**|Azizjon Azimi et.al.|[2410.20808v2](http://arxiv.org/abs/2410.20808v2)|null|
-|**2024-10-28**|**Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation**|Wenjun Miao et.al.|[2410.20807v1](http://arxiv.org/abs/2410.20807v1)|[link](https://github.com/mala-lab/adaptod)|
-|**2024-10-27**|**Trajectory Reconstruction through a Gaussian Adaptive Selective Outlier Rejecting Smoother**|Arslan Majal et.al.|[2410.20411v1](http://arxiv.org/abs/2410.20411v1)|null|
-|**2024-10-27**|**Intuitionistic Fuzzy Universum Twin Support Vector Machine for Imbalanced Data**|A. Quadir et.al.|[2410.20335v1](http://arxiv.org/abs/2410.20335v1)|null|
-|**2024-10-26**|**EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering**|Kai Cheng et.al.|[2410.20263v1](http://arxiv.org/abs/2410.20263v1)|null|
-|**2024-10-26**|**Alternatives of Unsupervised Representations of Variables on the Latent Space**|Alex Glushkovsky et.al.|[2410.20172v1](http://arxiv.org/abs/2410.20172v1)|null|
-|**2024-10-25**|**Photometric Redshift Estimation for CSST Survey with LSTM Neural Networks**|Zhijian Luo et.al.|[2410.19402v1](http://arxiv.org/abs/2410.19402v1)|null|
-|**2024-10-24**|**Label Set Optimization via Activation Distribution Kurtosis for Zero-shot Classification with Generative Models**|Yue Li et.al.|[2410.19195v1](http://arxiv.org/abs/2410.19195v1)|null|
-|**2024-10-24**|**Enhancing Spatial Functional Linear Regression with Robust Dimension Reduction Methods**|Ufuk Beyaztas et.al.|[2410.19140v1](http://arxiv.org/abs/2410.19140v1)|null|
-|**2024-10-24**|**A Nonparametric Clustering Stopping Rule Based on Spatial Median**|Hend Gabr et.al.|[2410.18730v1](http://arxiv.org/abs/2410.18730v1)|null|
-|**2024-10-24**|**Robust function-on-function interaction regression**|Ufuk Beyaztas et.al.|[2410.18338v1](http://arxiv.org/abs/2410.18338v1)|[link](https://github.com/UfukBeyaztas/RFoFRM-QI)|
-|**2024-10-23**|**Detecting Spatial Outliers: the Role of the Local Influence Function**|Giuseppe Arbia et.al.|[2410.18261v1](http://arxiv.org/abs/2410.18261v1)|null|
-|**2024-10-23**|**Reconciling PTA and JWST and preparing for LISA with \texttt{POMPOCO}: a Parametrisation Of the Massive black hole POpulation for Comparison to Observations**|A. Toubiana et.al.|[2410.17916v1](http://arxiv.org/abs/2410.17916v1)|null|
-|**2024-10-23**|**A fresh view on Least Quantile of Squares Regression based on new optimization approaches**|Justo Puerto et.al.|[2410.17793v1](http://arxiv.org/abs/2410.17793v1)|null|
-|**2024-10-23**|**Anomaly Resilient Temporal QoS Prediction using Hypergraph Convoluted Transformer Network**|Suraj Kumar et.al.|[2410.17762v1](http://arxiv.org/abs/2410.17762v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +44,40 @@
 |**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906v1](http://arxiv.org/abs/2410.23906v1)|null|
 |**2024-10-31**|**EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection**|Qinqian Lei et.al.|[2410.23904v1](http://arxiv.org/abs/2410.23904v1)|[link](https://github.com/chelsielei/ez-hoi)|
 |**2024-10-31**|**Metamorphic Malware Evolution: The Potential and Peril of Large Language Models**|Pooria Madani et.al.|[2410.23894v1](http://arxiv.org/abs/2410.23894v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
+|**2024-10-31**|**Airway Labeling Meets Clinical Applications: Reflecting Topology Consistency and Outliers via Learnable Attentions**|Chenyu Li et.al.|[2410.23854v1](http://arxiv.org/abs/2410.23854v1)|null|
+|**2024-10-31**|**Case ID detection based on time series data -- the mining use case**|Edyta Brzychczy et.al.|[2410.23846v1](http://arxiv.org/abs/2410.23846v1)|null|
+|**2024-10-31**|**Open-Set 3D object detection in LiDAR data as an Out-of-Distribution problem**|Louis Soum-Fontez et.al.|[2410.23767v1](http://arxiv.org/abs/2410.23767v1)|null|
+|**2024-10-31**|**Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling**|Skyler Wu et.al.|[2410.23601v1](http://arxiv.org/abs/2410.23601v1)|null|
+|**2024-10-30**|**Discovering Changing-Look AGN in the 6dF Galaxy Survey using ATLAS Light curves**|Neelesh Amrutha et.al.|[2410.22671v1](http://arxiv.org/abs/2410.22671v1)|null|
+|**2024-10-29**|**Conways game of life as an analogue to a habitable world Livingness beyond the biological**|James McCrum et.al.|[2410.22389v1](http://arxiv.org/abs/2410.22389v1)|null|
+|**2024-10-29**|**Characterization and classification of $γ$-ray bursts from blazars**|Matteo Cerruti et.al.|[2410.21974v1](http://arxiv.org/abs/2410.21974v1)|null|
+|**2024-10-29**|**Capivara: A Spectral-based Segmentation Method for IFU Data Cubes**|Rafael S. de Souza et.al.|[2410.21962v1](http://arxiv.org/abs/2410.21962v1)|null|
+|**2024-10-29**|**Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy**|Rongling Zhang et.al.|[2410.21857v1](http://arxiv.org/abs/2410.21857v1)|null|
+|**2024-10-29**|**Sliced-Wasserstein-based Anomaly Detection and Open Dataset for Localized Critical Peak Rebates**|Julien Pallage et.al.|[2410.21712v1](http://arxiv.org/abs/2410.21712v1)|[link](https://github.com/jupall/swfilter)|
+|**2024-10-29**|**Dimensionality-induced information loss of outliers in deep neural networks**|Kazuki Uematsu et.al.|[2410.21656v1](http://arxiv.org/abs/2410.21656v1)|null|
+|**2024-10-28**|**Fine-Grained Clustering-Based Power Identification for Multicores**|Mohamed R. Elshamy et.al.|[2410.21261v1](http://arxiv.org/abs/2410.21261v1)|null|
+|**2024-10-28**|**A Componentwise Estimation Procedure for Multivariate Location and Scatter: Robustness, Efficiency and Scalability**|Soumya Chakraborty et.al.|[2410.21166v1](http://arxiv.org/abs/2410.21166v1)|null|
+|**2024-10-28**|**A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks**|Pau Ferrer-Cid et.al.|[2410.21006v1](http://arxiv.org/abs/2410.21006v1)|null|
+|**2024-10-28**|**zGAN: An Outlier-focused Generative Adversarial Network For Realistic Synthetic Data Generation**|Azizjon Azimi et.al.|[2410.20808v2](http://arxiv.org/abs/2410.20808v2)|null|
+|**2024-10-28**|**Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation**|Wenjun Miao et.al.|[2410.20807v1](http://arxiv.org/abs/2410.20807v1)|[link](https://github.com/mala-lab/adaptod)|
+|**2024-10-27**|**Trajectory Reconstruction through a Gaussian Adaptive Selective Outlier Rejecting Smoother**|Arslan Majal et.al.|[2410.20411v1](http://arxiv.org/abs/2410.20411v1)|null|
+|**2024-10-27**|**Intuitionistic Fuzzy Universum Twin Support Vector Machine for Imbalanced Data**|A. Quadir et.al.|[2410.20335v1](http://arxiv.org/abs/2410.20335v1)|null|
+|**2024-10-26**|**EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering**|Kai Cheng et.al.|[2410.20263v1](http://arxiv.org/abs/2410.20263v1)|null|
+|**2024-10-26**|**Alternatives of Unsupervised Representations of Variables on the Latent Space**|Alex Glushkovsky et.al.|[2410.20172v1](http://arxiv.org/abs/2410.20172v1)|null|
+|**2024-10-25**|**Photometric Redshift Estimation for CSST Survey with LSTM Neural Networks**|Zhijian Luo et.al.|[2410.19402v1](http://arxiv.org/abs/2410.19402v1)|null|
+|**2024-10-24**|**Label Set Optimization via Activation Distribution Kurtosis for Zero-shot Classification with Generative Models**|Yue Li et.al.|[2410.19195v1](http://arxiv.org/abs/2410.19195v1)|null|
+|**2024-10-24**|**Enhancing Spatial Functional Linear Regression with Robust Dimension Reduction Methods**|Ufuk Beyaztas et.al.|[2410.19140v1](http://arxiv.org/abs/2410.19140v1)|null|
+|**2024-10-24**|**A Nonparametric Clustering Stopping Rule Based on Spatial Median**|Hend Gabr et.al.|[2410.18730v1](http://arxiv.org/abs/2410.18730v1)|null|
+|**2024-10-24**|**Robust function-on-function interaction regression**|Ufuk Beyaztas et.al.|[2410.18338v1](http://arxiv.org/abs/2410.18338v1)|[link](https://github.com/UfukBeyaztas/RFoFRM-QI)|
+|**2024-10-23**|**Detecting Spatial Outliers: the Role of the Local Influence Function**|Giuseppe Arbia et.al.|[2410.18261v1](http://arxiv.org/abs/2410.18261v1)|null|
+|**2024-10-23**|**Reconciling PTA and JWST and preparing for LISA with \texttt{POMPOCO}: a Parametrisation Of the Massive black hole POpulation for Comparison to Observations**|A. Toubiana et.al.|[2410.17916v1](http://arxiv.org/abs/2410.17916v1)|null|
+|**2024-10-23**|**A fresh view on Least Quantile of Squares Regression based on new optimization approaches**|Justo Puerto et.al.|[2410.17793v1](http://arxiv.org/abs/2410.17793v1)|null|
+|**2024-10-23**|**Anomaly Resilient Temporal QoS Prediction using Hypergraph Convoluted Transformer Network**|Suraj Kumar et.al.|[2410.17762v1](http://arxiv.org/abs/2410.17762v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
