@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-10 09:56:41 Asia/Shanghai
+ Automated deployment @ 2024-11-10 20:44:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -45,40 +45,6 @@
 |**2024-11-07**|**Exploration of stable atomic configurations in graphene-like BCN systems by Bayesian optimization**|Taichi Hara et.al.|[2411.04758v1](http://arxiv.org/abs/2411.04758v1)|null|
 |**2024-11-07**|**SpectraFM: Tuning into Stellar Foundation Models**|Nolan Koblischke et.al.|[2411.04750v1](http://arxiv.org/abs/2411.04750v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007v1](http://arxiv.org/abs/2411.05007v1)|[link](https://github.com/mit-han-lab/deepcompressor)|
-|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965v1](http://arxiv.org/abs/2411.04965v1)|null|
-|**2024-11-06**|**Learning Constant-Depth Circuits in Malicious Noise Models**|Adam R. Klivans et.al.|[2411.03570v1](http://arxiv.org/abs/2411.03570v1)|null|
-|**2024-11-05**|**Alpha and Prejudice: Improving $α$-sized Worst-case Fairness via Intrinsic Reweighting**|Jing Li et.al.|[2411.03068v1](http://arxiv.org/abs/2411.03068v1)|null|
-|**2024-11-05**|**Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization**|Pengkun Jiao et.al.|[2411.02920v1](http://arxiv.org/abs/2411.02920v1)|null|
-|**2024-11-05**|**Community detection with the Bethe-Hessian**|Ludovic Stephan et.al.|[2411.02835v1](http://arxiv.org/abs/2411.02835v1)|null|
-|**2024-11-05**|**Novelty-focused R&D landscaping using transformer and local outlier factor**|Jaewoong Choi et.al.|[2411.02738v1](http://arxiv.org/abs/2411.02738v1)|null|
-|**2024-11-04**|**Robust Bayesian regression in astronomy**|William Martin et.al.|[2411.02380v1](http://arxiv.org/abs/2411.02380v1)|null|
-|**2024-11-04**|**Metric properties of partial and robust Gromov-Wasserstein distances**|Jannatul Chhoa et.al.|[2411.02198v1](http://arxiv.org/abs/2411.02198v1)|null|
-|**2024-11-04**|**Static Microlensing: Concept, Method and Candidates**|Qi Guo et.al.|[2411.02161v1](http://arxiv.org/abs/2411.02161v1)|null|
-|**2024-11-04**|**FedPID: An Aggregation Method for Federated Learning**|Leon Mächler et.al.|[2411.02152v1](http://arxiv.org/abs/2411.02152v1)|null|
-|**2024-11-04**|**SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning**|Amitai Yacobi et.al.|[2411.02138v1](http://arxiv.org/abs/2411.02138v1)|null|
-|**2024-11-04**|**RobPy: a Python Package for Robust Statistical Methods**|Sarah Leyder et.al.|[2411.01954v1](http://arxiv.org/abs/2411.01954v1)|null|
-|**2024-11-04**|**Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**|Michael Kurenkov et.al.|[2411.01909v1](http://arxiv.org/abs/2411.01909v1)|null|
-|**2024-11-04**|**Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**|Xinyu Xu et.al.|[2411.01748v1](http://arxiv.org/abs/2411.01748v1)|null|
-|**2024-11-03**|**Automatic optimal-rate convergence of randomized nets using median-of-means**|Zexin Pan et.al.|[2411.01397v1](http://arxiv.org/abs/2411.01397v1)|null|
-|**2024-11-01**|**PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals**|Saurav R. Pandey et.al.|[2411.00718v1](http://arxiv.org/abs/2411.00718v1)|null|
-|**2024-11-01**|**Outlier-Oriented Poisoning Attack: A Grey-box Approach to Disturb Decision Boundaries by Perturbing Outliers in Multiclass Learning**|Anum Paracha et.al.|[2411.00519v1](http://arxiv.org/abs/2411.00519v1)|null|
-|**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432v1](http://arxiv.org/abs/2411.00432v1)|null|
-|**2024-11-01**|**Blocked Gibbs Sampling for Improved Convergence in Finite Mixture Models**|David Michael Swanson et.al.|[2411.00371v1](http://arxiv.org/abs/2411.00371v1)|null|
-|**2024-10-31**|**Enhancing Diversity in Bayesian Deep Learning via Hyperspherical Energy Minimization of CKA**|David Smerkous et.al.|[2411.00259v1](http://arxiv.org/abs/2411.00259v1)|[link](https://github.com/Deep-Machine-Vision/he-cka-ensembles)|
-|**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
-|**2024-10-31**|**Airway Labeling Meets Clinical Applications: Reflecting Topology Consistency and Outliers via Learnable Attentions**|Chenyu Li et.al.|[2410.23854v1](http://arxiv.org/abs/2410.23854v1)|null|
-|**2024-10-31**|**Case ID detection based on time series data -- the mining use case**|Edyta Brzychczy et.al.|[2410.23846v1](http://arxiv.org/abs/2410.23846v1)|null|
-|**2024-10-31**|**Open-Set 3D object detection in LiDAR data as an Out-of-Distribution problem**|Louis Soum-Fontez et.al.|[2410.23767v1](http://arxiv.org/abs/2410.23767v1)|null|
-|**2024-10-31**|**Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling**|Skyler Wu et.al.|[2410.23601v1](http://arxiv.org/abs/2410.23601v1)|[link](https://github.com/FutureComputing4AI/Weighted-Reservoir-Sampling-Augmented-Training)|
-|**2024-10-30**|**GWQ: Gradient-Aware Weight Quantization for Large Language Models**|Yihua Shao et.al.|[2411.00850v1](http://arxiv.org/abs/2411.00850v1)|null|
-|**2024-10-30**|**Discovering Changing-Look AGN in the 6dF Galaxy Survey using ATLAS Light curves**|Neelesh Amrutha et.al.|[2410.22671v1](http://arxiv.org/abs/2410.22671v1)|null|
-|**2024-10-29**|**Conways game of life as an analogue to a habitable world Livingness beyond the biological**|James McCrum et.al.|[2410.22389v1](http://arxiv.org/abs/2410.22389v1)|null|
-|**2024-10-29**|**Characterization and classification of $γ$-ray bursts from blazars**|Matteo Cerruti et.al.|[2410.21974v1](http://arxiv.org/abs/2410.21974v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,3 +78,37 @@
 |**2024-11-07**|**More variable circadian rhythms in epilepsy: a retrospective cross-sectional study using long-term heart rate recordings from wearable sensors**|Billy C. Smith et.al.|[2411.04634v1](http://arxiv.org/abs/2411.04634v1)|null|
 |**2024-11-07**|**Multi-temporal crack segmentation in concrete structure using deep learning approaches**|Said Harb et.al.|[2411.04620v1](http://arxiv.org/abs/2411.04620v1)|null|
 |**2024-11-07**|**FASSILA: A Corpus for Algerian Dialect Fake News Detection and Sentiment Analysis**|Amin Abdedaiem et.al.|[2411.04604v1](http://arxiv.org/abs/2411.04604v1)|[link](https://github.com/amincoding/fassila)|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007v1](http://arxiv.org/abs/2411.05007v1)|[link](https://github.com/mit-han-lab/deepcompressor)|
+|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965v1](http://arxiv.org/abs/2411.04965v1)|null|
+|**2024-11-06**|**Learning Constant-Depth Circuits in Malicious Noise Models**|Adam R. Klivans et.al.|[2411.03570v1](http://arxiv.org/abs/2411.03570v1)|null|
+|**2024-11-05**|**Alpha and Prejudice: Improving $α$-sized Worst-case Fairness via Intrinsic Reweighting**|Jing Li et.al.|[2411.03068v1](http://arxiv.org/abs/2411.03068v1)|null|
+|**2024-11-05**|**Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization**|Pengkun Jiao et.al.|[2411.02920v1](http://arxiv.org/abs/2411.02920v1)|null|
+|**2024-11-05**|**Community detection with the Bethe-Hessian**|Ludovic Stephan et.al.|[2411.02835v1](http://arxiv.org/abs/2411.02835v1)|null|
+|**2024-11-05**|**Novelty-focused R&D landscaping using transformer and local outlier factor**|Jaewoong Choi et.al.|[2411.02738v1](http://arxiv.org/abs/2411.02738v1)|null|
+|**2024-11-04**|**Robust Bayesian regression in astronomy**|William Martin et.al.|[2411.02380v1](http://arxiv.org/abs/2411.02380v1)|null|
+|**2024-11-04**|**Metric properties of partial and robust Gromov-Wasserstein distances**|Jannatul Chhoa et.al.|[2411.02198v1](http://arxiv.org/abs/2411.02198v1)|null|
+|**2024-11-04**|**Static Microlensing: Concept, Method and Candidates**|Qi Guo et.al.|[2411.02161v1](http://arxiv.org/abs/2411.02161v1)|null|
+|**2024-11-04**|**FedPID: An Aggregation Method for Federated Learning**|Leon Mächler et.al.|[2411.02152v1](http://arxiv.org/abs/2411.02152v1)|null|
+|**2024-11-04**|**SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning**|Amitai Yacobi et.al.|[2411.02138v1](http://arxiv.org/abs/2411.02138v1)|null|
+|**2024-11-04**|**RobPy: a Python Package for Robust Statistical Methods**|Sarah Leyder et.al.|[2411.01954v1](http://arxiv.org/abs/2411.01954v1)|null|
+|**2024-11-04**|**Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**|Michael Kurenkov et.al.|[2411.01909v1](http://arxiv.org/abs/2411.01909v1)|null|
+|**2024-11-04**|**Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**|Xinyu Xu et.al.|[2411.01748v1](http://arxiv.org/abs/2411.01748v1)|null|
+|**2024-11-03**|**Automatic optimal-rate convergence of randomized nets using median-of-means**|Zexin Pan et.al.|[2411.01397v1](http://arxiv.org/abs/2411.01397v1)|null|
+|**2024-11-01**|**PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals**|Saurav R. Pandey et.al.|[2411.00718v1](http://arxiv.org/abs/2411.00718v1)|null|
+|**2024-11-01**|**Outlier-Oriented Poisoning Attack: A Grey-box Approach to Disturb Decision Boundaries by Perturbing Outliers in Multiclass Learning**|Anum Paracha et.al.|[2411.00519v1](http://arxiv.org/abs/2411.00519v1)|null|
+|**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432v1](http://arxiv.org/abs/2411.00432v1)|null|
+|**2024-11-01**|**Blocked Gibbs Sampling for Improved Convergence in Finite Mixture Models**|David Michael Swanson et.al.|[2411.00371v1](http://arxiv.org/abs/2411.00371v1)|null|
+|**2024-10-31**|**Enhancing Diversity in Bayesian Deep Learning via Hyperspherical Energy Minimization of CKA**|David Smerkous et.al.|[2411.00259v1](http://arxiv.org/abs/2411.00259v1)|[link](https://github.com/Deep-Machine-Vision/he-cka-ensembles)|
+|**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
+|**2024-10-31**|**Airway Labeling Meets Clinical Applications: Reflecting Topology Consistency and Outliers via Learnable Attentions**|Chenyu Li et.al.|[2410.23854v1](http://arxiv.org/abs/2410.23854v1)|null|
+|**2024-10-31**|**Case ID detection based on time series data -- the mining use case**|Edyta Brzychczy et.al.|[2410.23846v1](http://arxiv.org/abs/2410.23846v1)|null|
+|**2024-10-31**|**Open-Set 3D object detection in LiDAR data as an Out-of-Distribution problem**|Louis Soum-Fontez et.al.|[2410.23767v1](http://arxiv.org/abs/2410.23767v1)|null|
+|**2024-10-31**|**Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling**|Skyler Wu et.al.|[2410.23601v1](http://arxiv.org/abs/2410.23601v1)|[link](https://github.com/FutureComputing4AI/Weighted-Reservoir-Sampling-Augmented-Training)|
+|**2024-10-30**|**GWQ: Gradient-Aware Weight Quantization for Large Language Models**|Yihua Shao et.al.|[2411.00850v1](http://arxiv.org/abs/2411.00850v1)|null|
+|**2024-10-30**|**Discovering Changing-Look AGN in the 6dF Galaxy Survey using ATLAS Light curves**|Neelesh Amrutha et.al.|[2410.22671v1](http://arxiv.org/abs/2410.22671v1)|null|
+|**2024-10-29**|**Conways game of life as an analogue to a habitable world Livingness beyond the biological**|James McCrum et.al.|[2410.22389v1](http://arxiv.org/abs/2410.22389v1)|null|
+|**2024-10-29**|**Characterization and classification of $γ$-ray bursts from blazars**|Matteo Cerruti et.al.|[2410.21974v1](http://arxiv.org/abs/2410.21974v1)|null|
