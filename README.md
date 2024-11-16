@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-16 09:56:52 Asia/Shanghai
+ Automated deployment @ 2024-11-16 20:48:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-14**|**A study on late time UV-emission in core collapse supernovae and the implications for the peculiar transient AT2018cow**|Anne Inkenhaag et.al.|[2411.09690v1](http://arxiv.org/abs/2411.09690v1)|null|
-|**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|null|
-|**2024-11-14**|**FANSIC: a Fast ANalog SiPM Integrated Circuit for the readout of large silicon photomultipliers**|Luca Giangrande et.al.|[2411.09673v1](http://arxiv.org/abs/2411.09673v1)|null|
-|**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626v1](http://arxiv.org/abs/2411.09626v1)|null|
-|**2024-11-14**|**An Improved Bound on Nonlinear Quantum Mechanics using a Cryogenic Radio Frequency Experiment**|Oleksandr Melnychuk et.al.|[2411.09611v1](http://arxiv.org/abs/2411.09611v1)|null|
-|**2024-11-14**|**VST-SMASH: the VST Survey of Mass Assembly and Structural Hierarchy**|Crescenzo Tortora et.al.|[2411.09608v1](http://arxiv.org/abs/2411.09608v1)|null|
-|**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604v1](http://arxiv.org/abs/2411.09604v1)|[link](https://github.com/ziyueqingwan/localglobalattention)|
-|**2024-11-14**|**Toward the Observation of Entangled Pairs in BEC analogue Expanding Universes**|Ivan Agullo et.al.|[2411.09596v1](http://arxiv.org/abs/2411.09596v1)|null|
-|**2024-11-14**|**Modeling lunar response to gravitational waves using normal-mode approach and tidal forcing**|Josipa Majstorović et.al.|[2411.09559v1](http://arxiv.org/abs/2411.09559v1)|null|
-|**2024-11-14**|**Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination**|Anindya Sundar Das et.al.|[2411.09558v1](http://arxiv.org/abs/2411.09558v1)|[link](https://github.com/anindyasdas/adl4vad)|
-|**2024-11-14**|**OOD-SEG: Out-Of-Distribution detection for image SEGmentation with sparse multi-class positive-only annotations**|Junwen Wang et.al.|[2411.09553v1](http://arxiv.org/abs/2411.09553v1)|null|
-|**2024-11-14**|**Equation-informed data-driven identification of flow budgets and dynamics**|Nataliya Sevryugina et.al.|[2411.09545v1](http://arxiv.org/abs/2411.09545v1)|null|
-|**2024-11-14**|**Spin Liquid Landscapes in the Kagome Lattice: A Variational Monte Carlo Study of the Chiral Heisenberg Model and Experimental Consequences**|Hee Seung Kim et.al.|[2411.09542v1](http://arxiv.org/abs/2411.09542v1)|null|
-|**2024-11-14**|**Prompting the Unseen: Detecting Hidden Backdoors in Black-Box Models**|Zi-Xuan Huang et.al.|[2411.09540v1](http://arxiv.org/abs/2411.09540v1)|null|
-|**2024-11-14**|**Gl 725A b: a potential super-Earth detected with SOPHIE and SPIRou in an M dwarf binary system at 3.5 pc**|P. Cortes-Zuleta et.al.|[2411.09506v1](http://arxiv.org/abs/2411.09506v1)|null|
-|**2024-11-14**|**Charge-Neutral Electronic Excitations in Quantum Insulators**|Sanfeng Wu et.al.|[2411.09496v1](http://arxiv.org/abs/2411.09496v1)|null|
-|**2024-11-14**|**An End-To-End Stuttering Detection Method Based On Conformer And BILSTM**|Xiaokang Liu et.al.|[2411.09479v1](http://arxiv.org/abs/2411.09479v1)|null|
-|**2024-11-14**|**Accelerated first detection in discrete-time quantum walks using sharp restarts**|Kunal Shukla et.al.|[2411.09477v1](http://arxiv.org/abs/2411.09477v1)|null|
-|**2024-11-14**|**An Explainable Attention Model for Cervical Precancer Risk Classification using Colposcopic Images**|Smith K. Khare et.al.|[2411.09469v1](http://arxiv.org/abs/2411.09469v1)|null|
-|**2024-11-14**|**Collider fingerprints of freeze-in production of dark matter amidst the fast expansion phase of Universe**|Anupam Ghosh et.al.|[2411.09464v1](http://arxiv.org/abs/2411.09464v1)|null|
-|**2024-11-14**|**Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction**|Chen-Long Duan et.al.|[2411.09453v1](http://arxiv.org/abs/2411.09453v1)|null|
-|**2024-11-14**|**HI Intensity Mapping cross-correlation with thermal SZ fluctuations: forecasted cosmological parameters estimation for FAST and Planck**|Ayodeji Ibitoye et.al.|[2411.09437v1](http://arxiv.org/abs/2411.09437v1)|null|
-|**2024-11-14**|**The Three-Point Energy Correlator in the Coplanar Limit**|Anjie Gao et.al.|[2411.09428v1](http://arxiv.org/abs/2411.09428v1)|null|
-|**2024-11-14**|**Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**|Wenxing Liu et.al.|[2411.09413v1](http://arxiv.org/abs/2411.09413v1)|null|
-|**2024-11-14**|**Towards Multi Energy Neutrino Astronomy: Diagnosing Enhanced Circumstellar Material around Stripped-Envelope Supernovae**|Ryo Sawada et.al.|[2411.09394v1](http://arxiv.org/abs/2411.09394v1)|null|
-|**2024-11-14**|**Inherently Interpretable and Uncertainty-Aware Models for Online Learning in Cyber-Security Problems**|Benjamin Kolicic et.al.|[2411.09393v1](http://arxiv.org/abs/2411.09393v1)|null|
-|**2024-11-14**|**An Optimizing Just-In-Time Compiler for Rotor**|João H. Trindade et.al.|[2411.09391v1](http://arxiv.org/abs/2411.09391v1)|null|
-|**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389v1](http://arxiv.org/abs/2411.09389v1)|null|
-|**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387v1](http://arxiv.org/abs/2411.09387v1)|null|
-|**2024-11-14**|**Radon emanation rate measurements using liquid scintillation counting**|A. B. M. R. Sazzad et.al.|[2411.09384v1](http://arxiv.org/abs/2411.09384v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-11-14**|**Accelerated first detection in discrete-time quantum walks using sharp restarts**|Kunal Shukla et.al.|[2411.09477v1](http://arxiv.org/abs/2411.09477v1)|null|
 |**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476v1](http://arxiv.org/abs/2411.09476v1)|null|
 |**2024-11-14**|**ResidualDroppath: Enhancing Feature Reuse over Residual Connections**|Sejik Park et.al.|[2411.09475v1](http://arxiv.org/abs/2411.09475v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-14**|**A study on late time UV-emission in core collapse supernovae and the implications for the peculiar transient AT2018cow**|Anne Inkenhaag et.al.|[2411.09690v1](http://arxiv.org/abs/2411.09690v1)|null|
+|**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|null|
+|**2024-11-14**|**FANSIC: a Fast ANalog SiPM Integrated Circuit for the readout of large silicon photomultipliers**|Luca Giangrande et.al.|[2411.09673v1](http://arxiv.org/abs/2411.09673v1)|null|
+|**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626v1](http://arxiv.org/abs/2411.09626v1)|null|
+|**2024-11-14**|**An Improved Bound on Nonlinear Quantum Mechanics using a Cryogenic Radio Frequency Experiment**|Oleksandr Melnychuk et.al.|[2411.09611v1](http://arxiv.org/abs/2411.09611v1)|null|
+|**2024-11-14**|**VST-SMASH: the VST Survey of Mass Assembly and Structural Hierarchy**|Crescenzo Tortora et.al.|[2411.09608v1](http://arxiv.org/abs/2411.09608v1)|null|
+|**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604v1](http://arxiv.org/abs/2411.09604v1)|[link](https://github.com/ziyueqingwan/localglobalattention)|
+|**2024-11-14**|**Toward the Observation of Entangled Pairs in BEC analogue Expanding Universes**|Ivan Agullo et.al.|[2411.09596v1](http://arxiv.org/abs/2411.09596v1)|null|
+|**2024-11-14**|**Modeling lunar response to gravitational waves using normal-mode approach and tidal forcing**|Josipa Majstorović et.al.|[2411.09559v1](http://arxiv.org/abs/2411.09559v1)|null|
+|**2024-11-14**|**Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination**|Anindya Sundar Das et.al.|[2411.09558v1](http://arxiv.org/abs/2411.09558v1)|[link](https://github.com/anindyasdas/adl4vad)|
+|**2024-11-14**|**OOD-SEG: Out-Of-Distribution detection for image SEGmentation with sparse multi-class positive-only annotations**|Junwen Wang et.al.|[2411.09553v1](http://arxiv.org/abs/2411.09553v1)|null|
+|**2024-11-14**|**Equation-informed data-driven identification of flow budgets and dynamics**|Nataliya Sevryugina et.al.|[2411.09545v1](http://arxiv.org/abs/2411.09545v1)|null|
+|**2024-11-14**|**Spin Liquid Landscapes in the Kagome Lattice: A Variational Monte Carlo Study of the Chiral Heisenberg Model and Experimental Consequences**|Hee Seung Kim et.al.|[2411.09542v1](http://arxiv.org/abs/2411.09542v1)|null|
+|**2024-11-14**|**Prompting the Unseen: Detecting Hidden Backdoors in Black-Box Models**|Zi-Xuan Huang et.al.|[2411.09540v1](http://arxiv.org/abs/2411.09540v1)|null|
+|**2024-11-14**|**Gl 725A b: a potential super-Earth detected with SOPHIE and SPIRou in an M dwarf binary system at 3.5 pc**|P. Cortes-Zuleta et.al.|[2411.09506v1](http://arxiv.org/abs/2411.09506v1)|null|
+|**2024-11-14**|**Charge-Neutral Electronic Excitations in Quantum Insulators**|Sanfeng Wu et.al.|[2411.09496v1](http://arxiv.org/abs/2411.09496v1)|null|
+|**2024-11-14**|**An End-To-End Stuttering Detection Method Based On Conformer And BILSTM**|Xiaokang Liu et.al.|[2411.09479v1](http://arxiv.org/abs/2411.09479v1)|null|
+|**2024-11-14**|**Accelerated first detection in discrete-time quantum walks using sharp restarts**|Kunal Shukla et.al.|[2411.09477v1](http://arxiv.org/abs/2411.09477v1)|null|
+|**2024-11-14**|**An Explainable Attention Model for Cervical Precancer Risk Classification using Colposcopic Images**|Smith K. Khare et.al.|[2411.09469v1](http://arxiv.org/abs/2411.09469v1)|null|
+|**2024-11-14**|**Collider fingerprints of freeze-in production of dark matter amidst the fast expansion phase of Universe**|Anupam Ghosh et.al.|[2411.09464v1](http://arxiv.org/abs/2411.09464v1)|null|
+|**2024-11-14**|**Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction**|Chen-Long Duan et.al.|[2411.09453v1](http://arxiv.org/abs/2411.09453v1)|null|
+|**2024-11-14**|**HI Intensity Mapping cross-correlation with thermal SZ fluctuations: forecasted cosmological parameters estimation for FAST and Planck**|Ayodeji Ibitoye et.al.|[2411.09437v1](http://arxiv.org/abs/2411.09437v1)|null|
+|**2024-11-14**|**The Three-Point Energy Correlator in the Coplanar Limit**|Anjie Gao et.al.|[2411.09428v1](http://arxiv.org/abs/2411.09428v1)|null|
+|**2024-11-14**|**Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**|Wenxing Liu et.al.|[2411.09413v1](http://arxiv.org/abs/2411.09413v1)|null|
+|**2024-11-14**|**Towards Multi Energy Neutrino Astronomy: Diagnosing Enhanced Circumstellar Material around Stripped-Envelope Supernovae**|Ryo Sawada et.al.|[2411.09394v1](http://arxiv.org/abs/2411.09394v1)|null|
+|**2024-11-14**|**Inherently Interpretable and Uncertainty-Aware Models for Online Learning in Cyber-Security Problems**|Benjamin Kolicic et.al.|[2411.09393v1](http://arxiv.org/abs/2411.09393v1)|null|
+|**2024-11-14**|**An Optimizing Just-In-Time Compiler for Rotor**|João H. Trindade et.al.|[2411.09391v1](http://arxiv.org/abs/2411.09391v1)|null|
+|**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389v1](http://arxiv.org/abs/2411.09389v1)|null|
+|**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387v1](http://arxiv.org/abs/2411.09387v1)|null|
+|**2024-11-14**|**Radon emanation rate measurements using liquid scintillation counting**|A. B. M. R. Sazzad et.al.|[2411.09384v1](http://arxiv.org/abs/2411.09384v1)|null|
