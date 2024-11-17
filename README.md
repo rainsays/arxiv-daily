@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-17 10:03:36 Asia/Shanghai
+ Automated deployment @ 2024-11-17 20:47:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-14**|**Superposition of plane waves in high spatial dimensions: from landscape complexity to the deepest minimum value**|Bertrand Lacroix-A-Chez-Toine et.al.|[2411.09687v1](http://arxiv.org/abs/2411.09687v1)|null|
-|**2024-11-14**|**Conditional regression for the Nonlinear Single-Variable Model**|Yantao Wu et.al.|[2411.09686v1](http://arxiv.org/abs/2411.09686v1)|null|
-|**2024-11-14**|**Spectral decomposition and high-accuracy Greens functions: Overcoming the Nyquist-Shannon limit via complex-time Krylov expansion**|Sebastian Paeckel et.al.|[2411.09680v1](http://arxiv.org/abs/2411.09680v1)|null|
-|**2024-11-14**|**Citation Sentiment Reflects Multiscale Sociocultural Norms**|Xiaohuan Xia et.al.|[2411.09675v1](http://arxiv.org/abs/2411.09675v1)|null|
-|**2024-11-14**|**Evaluating 5G Networks for U-Space Applications: Insights from Dense Urban Measurement Campaign**|Barrios-Munoz Ricardo et.al.|[2411.09666v1](http://arxiv.org/abs/2411.09666v1)|null|
-|**2024-11-14**|**Inter-Species Interactions in Dual, Fibrous Gel Enable Control of Gel Structure and Rheology**|Mauro L Mugnai et.al.|[2411.09665v1](http://arxiv.org/abs/2411.09665v1)|null|
-|**2024-11-14**|**Capacity and Power Consumption of Multi-Layer 6G Networks Using the Upper Mid-Band**|David López-Pérez et.al.|[2411.09660v1](http://arxiv.org/abs/2411.09660v1)|null|
-|**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645v1](http://arxiv.org/abs/2411.09645v1)|null|
-|**2024-11-14**|**Exploring the capabilities of CNNs for 3D angiographic reconstructions from limited projection data using rotational angiography**|Ahmad Rahmatpour et.al.|[2411.09632v1](http://arxiv.org/abs/2411.09632v1)|null|
-|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631v1](http://arxiv.org/abs/2411.09631v1)|null|
-|**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626v1](http://arxiv.org/abs/2411.09626v1)|null|
-|**2024-11-14**|**Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups**|F. Adetunji et.al.|[2411.09623v1](http://arxiv.org/abs/2411.09623v1)|null|
-|**2024-11-14**|**Latency Optimization in LEO Satellite Communications with Hybrid Beam Pattern and Interference Control**|Qianqian Zhang et.al.|[2411.09600v1](http://arxiv.org/abs/2411.09600v1)|null|
-|**2024-11-14**|**SMILE-UHURA Challenge -- Small Vessel Segmentation at Mesoscopic Scale from Ultra-High Resolution 7T Magnetic Resonance Angiograms**|Soumick Chatterjee et.al.|[2411.09593v1](http://arxiv.org/abs/2411.09593v1)|null|
-|**2024-11-14**|**BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency**|Akari Haga et.al.|[2411.09587v1](http://arxiv.org/abs/2411.09587v1)|null|
-|**2024-11-14**|**Dynamic Reconstruction of Hand-Object Interaction with Distributed Force-aware Contact Representation**|Zhenjun Yu et.al.|[2411.09572v1](http://arxiv.org/abs/2411.09572v1)|null|
-|**2024-11-14**|**Increasing the secret key rate of satellite-to-ground entanglement-based QKD assisted by adaptive optics**|Valentina Marulanda Acosta et.al.|[2411.09564v1](http://arxiv.org/abs/2411.09564v1)|null|
-|**2024-11-14**|**OOD-SEG: Out-Of-Distribution detection for image SEGmentation with sparse multi-class positive-only annotations**|Junwen Wang et.al.|[2411.09553v1](http://arxiv.org/abs/2411.09553v1)|null|
-|**2024-11-14**|**A small-gain criterion for 2-contraction of large scale interconnected systems**|David Angeli et.al.|[2411.09550v1](http://arxiv.org/abs/2411.09550v1)|null|
-|**2024-11-14**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543v1](http://arxiv.org/abs/2411.09543v1)|null|
-|**2024-11-14**|**Marker-free Human Gait Analysis using a Smart Edge Sensor System**|Eva Katharina Bauer et.al.|[2411.09538v1](http://arxiv.org/abs/2411.09538v1)|null|
-|**2024-11-14**|**Satellite-assisted quantum communication with single photon sources and atomic memories**|V. Domínguez Tubío et.al.|[2411.09533v1](http://arxiv.org/abs/2411.09533v1)|null|
-|**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v1](http://arxiv.org/abs/2411.09512v1)|null|
-|**2024-11-14**|**Structure-informed operator learning for parabolic Partial Differential Equations**|Fred Espen Benth et.al.|[2411.09511v1](http://arxiv.org/abs/2411.09511v1)|null|
-|**2024-11-14**|**An Approach to Twinning and Mining Collaborative Network of Construction Projects**|Jia-Rui Lin et.al.|[2411.09486v1](http://arxiv.org/abs/2411.09486v1)|null|
-|**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483v1](http://arxiv.org/abs/2411.09483v1)|null|
-|**2024-11-14**|**An End-To-End Stuttering Detection Method Based On Conformer And BILSTM**|Xiaokang Liu et.al.|[2411.09479v1](http://arxiv.org/abs/2411.09479v1)|null|
-|**2024-11-14**|**Accelerated first detection in discrete-time quantum walks using sharp restarts**|Kunal Shukla et.al.|[2411.09477v1](http://arxiv.org/abs/2411.09477v1)|null|
-|**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476v1](http://arxiv.org/abs/2411.09476v1)|null|
-|**2024-11-14**|**ResidualDroppath: Enhancing Feature Reuse over Residual Connections**|Sejik Park et.al.|[2411.09475v1](http://arxiv.org/abs/2411.09475v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +44,40 @@
 |**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389v1](http://arxiv.org/abs/2411.09389v1)|null|
 |**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387v1](http://arxiv.org/abs/2411.09387v1)|null|
 |**2024-11-14**|**Radon emanation rate measurements using liquid scintillation counting**|A. B. M. R. Sazzad et.al.|[2411.09384v1](http://arxiv.org/abs/2411.09384v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-14**|**Superposition of plane waves in high spatial dimensions: from landscape complexity to the deepest minimum value**|Bertrand Lacroix-A-Chez-Toine et.al.|[2411.09687v1](http://arxiv.org/abs/2411.09687v1)|null|
+|**2024-11-14**|**Conditional regression for the Nonlinear Single-Variable Model**|Yantao Wu et.al.|[2411.09686v1](http://arxiv.org/abs/2411.09686v1)|null|
+|**2024-11-14**|**Spectral decomposition and high-accuracy Greens functions: Overcoming the Nyquist-Shannon limit via complex-time Krylov expansion**|Sebastian Paeckel et.al.|[2411.09680v1](http://arxiv.org/abs/2411.09680v1)|null|
+|**2024-11-14**|**Citation Sentiment Reflects Multiscale Sociocultural Norms**|Xiaohuan Xia et.al.|[2411.09675v1](http://arxiv.org/abs/2411.09675v1)|null|
+|**2024-11-14**|**Evaluating 5G Networks for U-Space Applications: Insights from Dense Urban Measurement Campaign**|Barrios-Munoz Ricardo et.al.|[2411.09666v1](http://arxiv.org/abs/2411.09666v1)|null|
+|**2024-11-14**|**Inter-Species Interactions in Dual, Fibrous Gel Enable Control of Gel Structure and Rheology**|Mauro L Mugnai et.al.|[2411.09665v1](http://arxiv.org/abs/2411.09665v1)|null|
+|**2024-11-14**|**Capacity and Power Consumption of Multi-Layer 6G Networks Using the Upper Mid-Band**|David López-Pérez et.al.|[2411.09660v1](http://arxiv.org/abs/2411.09660v1)|null|
+|**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645v1](http://arxiv.org/abs/2411.09645v1)|null|
+|**2024-11-14**|**Exploring the capabilities of CNNs for 3D angiographic reconstructions from limited projection data using rotational angiography**|Ahmad Rahmatpour et.al.|[2411.09632v1](http://arxiv.org/abs/2411.09632v1)|null|
+|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631v1](http://arxiv.org/abs/2411.09631v1)|[link](https://github.com/brucefan1983/GPUMD)|
+|**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626v1](http://arxiv.org/abs/2411.09626v1)|null|
+|**2024-11-14**|**Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups**|F. Adetunji et.al.|[2411.09623v1](http://arxiv.org/abs/2411.09623v1)|null|
+|**2024-11-14**|**Latency Optimization in LEO Satellite Communications with Hybrid Beam Pattern and Interference Control**|Qianqian Zhang et.al.|[2411.09600v1](http://arxiv.org/abs/2411.09600v1)|null|
+|**2024-11-14**|**SMILE-UHURA Challenge -- Small Vessel Segmentation at Mesoscopic Scale from Ultra-High Resolution 7T Magnetic Resonance Angiograms**|Soumick Chatterjee et.al.|[2411.09593v1](http://arxiv.org/abs/2411.09593v1)|null|
+|**2024-11-14**|**BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency**|Akari Haga et.al.|[2411.09587v1](http://arxiv.org/abs/2411.09587v1)|null|
+|**2024-11-14**|**Dynamic Reconstruction of Hand-Object Interaction with Distributed Force-aware Contact Representation**|Zhenjun Yu et.al.|[2411.09572v1](http://arxiv.org/abs/2411.09572v1)|null|
+|**2024-11-14**|**Increasing the secret key rate of satellite-to-ground entanglement-based QKD assisted by adaptive optics**|Valentina Marulanda Acosta et.al.|[2411.09564v1](http://arxiv.org/abs/2411.09564v1)|null|
+|**2024-11-14**|**OOD-SEG: Out-Of-Distribution detection for image SEGmentation with sparse multi-class positive-only annotations**|Junwen Wang et.al.|[2411.09553v1](http://arxiv.org/abs/2411.09553v1)|null|
+|**2024-11-14**|**A small-gain criterion for 2-contraction of large scale interconnected systems**|David Angeli et.al.|[2411.09550v1](http://arxiv.org/abs/2411.09550v1)|null|
+|**2024-11-14**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543v1](http://arxiv.org/abs/2411.09543v1)|null|
+|**2024-11-14**|**Marker-free Human Gait Analysis using a Smart Edge Sensor System**|Eva Katharina Bauer et.al.|[2411.09538v1](http://arxiv.org/abs/2411.09538v1)|null|
+|**2024-11-14**|**Satellite-assisted quantum communication with single photon sources and atomic memories**|V. Domínguez Tubío et.al.|[2411.09533v1](http://arxiv.org/abs/2411.09533v1)|null|
+|**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v1](http://arxiv.org/abs/2411.09512v1)|null|
+|**2024-11-14**|**Structure-informed operator learning for parabolic Partial Differential Equations**|Fred Espen Benth et.al.|[2411.09511v1](http://arxiv.org/abs/2411.09511v1)|null|
+|**2024-11-14**|**An Approach to Twinning and Mining Collaborative Network of Construction Projects**|Jia-Rui Lin et.al.|[2411.09486v1](http://arxiv.org/abs/2411.09486v1)|null|
+|**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483v1](http://arxiv.org/abs/2411.09483v1)|null|
+|**2024-11-14**|**An End-To-End Stuttering Detection Method Based On Conformer And BILSTM**|Xiaokang Liu et.al.|[2411.09479v1](http://arxiv.org/abs/2411.09479v1)|null|
+|**2024-11-14**|**Accelerated first detection in discrete-time quantum walks using sharp restarts**|Kunal Shukla et.al.|[2411.09477v1](http://arxiv.org/abs/2411.09477v1)|null|
+|**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476v1](http://arxiv.org/abs/2411.09476v1)|null|
+|**2024-11-14**|**ResidualDroppath: Enhancing Feature Reuse over Residual Connections**|Sejik Park et.al.|[2411.09475v1](http://arxiv.org/abs/2411.09475v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
