@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-23 09:54:46 Asia/Shanghai
+ Automated deployment @ 2024-11-23 20:47:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -45,40 +45,6 @@
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762v1](http://arxiv.org/abs/2411.07762v1)|null|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[2411.07711v1](http://arxiv.org/abs/2411.07711v1)|null|
 
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-21**|**Transformer-based Heuristic for Advanced Air Mobility Planning**|Jun Xiang et.al.|[2411.14427v1](http://arxiv.org/abs/2411.14427v1)|null|
-|**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418v1](http://arxiv.org/abs/2411.14418v1)|null|
-|**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410v1](http://arxiv.org/abs/2411.14410v1)|null|
-|**2024-11-21**|**Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**|Parisa Naghdi et.al.|[2411.14407v1](http://arxiv.org/abs/2411.14407v1)|null|
-|**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403v1](http://arxiv.org/abs/2411.14403v1)|null|
-|**2024-11-21**|**Discrete Schrodinger equation on graphs: An effective model for branched quantum lattice**|M. Akramov et.al.|[2411.14397v1](http://arxiv.org/abs/2411.14397v1)|null|
-|**2024-11-21**|**Securing Legacy Communication Networks via Authenticated Cyclic Redundancy Integrity Check**|Alessandro Lotto et.al.|[2411.14394v1](http://arxiv.org/abs/2411.14394v1)|null|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392v1](http://arxiv.org/abs/2411.14392v1)|null|
-|**2024-11-21**|**Persistent Homology for Structural Characterization in Disordered Systems**|An Wang et.al.|[2411.14390v1](http://arxiv.org/abs/2411.14390v1)|[link](https://github.com/anwanguow/PH_structural)|
-|**2024-11-21**|**Enhancing Diagnostic Precision in Gastric Bleeding through Automated Lesion Segmentation: A Deep DuS-KFCM Approach**|Xian-Xian Liu et.al.|[2411.14385v1](http://arxiv.org/abs/2411.14385v1)|null|
-|**2024-11-21**|**ETA-IK: Execution-Time-Aware Inverse Kinematics for Dual-Arm Systems**|Yucheng Tang et.al.|[2411.14381v1](http://arxiv.org/abs/2411.14381v1)|null|
-|**2024-11-21**|**Integrated Positioning and Communication via LEO Satellites: Opportunities and Challenges**|Jie Ma et.al.|[2411.14360v1](http://arxiv.org/abs/2411.14360v1)|null|
-|**2024-11-21**|**Anomalous transport in U(1)-symmetric quantum circuits**|Alessandro Summer et.al.|[2411.14357v1](http://arxiv.org/abs/2411.14357v1)|null|
-|**2024-11-21**|**Convex Approximation of Probabilistic Reachable Sets from Small Samples Using Self-supervised Neural Networks**|Jun Xiang et.al.|[2411.14356v1](http://arxiv.org/abs/2411.14356v1)|null|
-|**2024-11-21**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**|Houze Liu et.al.|[2411.14353v1](http://arxiv.org/abs/2411.14353v1)|null|
-|**2024-11-21**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349v1](http://arxiv.org/abs/2411.14349v1)|null|
-|**2024-11-21**|**Finding the root in random nearest neighbor trees**|Anna Brandenberger et.al.|[2411.14336v1](http://arxiv.org/abs/2411.14336v1)|null|
-|**2024-11-21**|**On the Sample Complexity of One Hidden Layer Networks with Equivariance, Locality and Weight Sharing**|Arash Behboodi et.al.|[2411.14288v1](http://arxiv.org/abs/2411.14288v1)|null|
-|**2024-11-21**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative Prompting of LLMs**|Xi Jiang et.al.|[2411.14283v1](http://arxiv.org/abs/2411.14283v1)|null|
-|**2024-11-21**|**Q-CSM: Q-Learning-based Cognitive Service Management in Heterogeneous IoT Networks**|Kubra Duran et.al.|[2411.14281v1](http://arxiv.org/abs/2411.14281v1)|null|
-|**2024-11-21**|**A Bayesian mixture model for Poisson network autoregression**|Elly Hung et.al.|[2411.14265v1](http://arxiv.org/abs/2411.14265v1)|null|
-|**2024-11-21**|**Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation**|Pedro Enrique Iturria-Rivera et.al.|[2411.14264v1](http://arxiv.org/abs/2411.14264v1)|null|
-|**2024-11-21**|**Addressing the Readout Problem in Quantum Differential Equation Algorithms with Quantum Scientific Machine Learning**|Chelsea A. Williams et.al.|[2411.14259v1](http://arxiv.org/abs/2411.14259v1)|null|
-|**2024-11-21**|**CP-UNet: Contour-based Probabilistic Model for Medical Ultrasound Images Segmentation**|Ruiguo Yu et.al.|[2411.14250v1](http://arxiv.org/abs/2411.14250v1)|null|
-|**2024-11-21**|**Approximate Constrained Lumping of Chemical Reaction Networks**|Alexander Leguizamon-Robayo et.al.|[2411.14242v1](http://arxiv.org/abs/2411.14242v1)|null|
-|**2024-11-21**|**Public sentiments on the fourth industrial revolution: An unsolicited public opinion poll from Twitter**|Diletta Abbonato et.al.|[2411.14230v1](http://arxiv.org/abs/2411.14230v1)|null|
-|**2024-11-21**|**Thermodynamic Algorithms for Quadratic Programming**|Patryk-Lipka Bartosik et.al.|[2411.14224v1](http://arxiv.org/abs/2411.14224v1)|null|
-|**2024-11-21**|**Generative AI-enabled Digital Twins for 6G-enhanced Smart Cities**|Kubra Duran et.al.|[2411.14222v1](http://arxiv.org/abs/2411.14222v1)|null|
-|**2024-11-21**|**Revised Regularization for Efficient Continual Learning through Correlation-Based Parameter Update in Bayesian Neural Networks**|Sanchar Palit et.al.|[2411.14202v1](http://arxiv.org/abs/2411.14202v1)|null|
-|**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196v1](http://arxiv.org/abs/2411.14196v1)|[link](https://github.com/awakermhy/mnn_wm_uq)|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,3 +78,37 @@
 |**2024-11-21**|**The Sun at millimeter wavelengths V. Magnetohydrodynamic waves in a fibrillar structure**|Maryam Saberi et.al.|[2411.14190v1](http://arxiv.org/abs/2411.14190v1)|null|
 |**2024-11-21**|**Performance of the Scintillation Wall in the BM@N experiment**|V. Volkov et.al.|[2411.14187v1](http://arxiv.org/abs/2411.14187v1)|null|
 |**2024-11-21**|**Unveiling Ultrafast Spin-Valley Dynamics and Phonon-Mediated Charge Transfer in MoSe$_{2}$/WSe$_{2}$ Heterostructures**|Julian Wagner et.al.|[2411.14180v1](http://arxiv.org/abs/2411.14180v1)|null|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-21**|**Transformer-based Heuristic for Advanced Air Mobility Planning**|Jun Xiang et.al.|[2411.14427v1](http://arxiv.org/abs/2411.14427v1)|null|
+|**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418v1](http://arxiv.org/abs/2411.14418v1)|null|
+|**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410v1](http://arxiv.org/abs/2411.14410v1)|null|
+|**2024-11-21**|**Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**|Parisa Naghdi et.al.|[2411.14407v1](http://arxiv.org/abs/2411.14407v1)|null|
+|**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403v1](http://arxiv.org/abs/2411.14403v1)|null|
+|**2024-11-21**|**Discrete Schrodinger equation on graphs: An effective model for branched quantum lattice**|M. Akramov et.al.|[2411.14397v1](http://arxiv.org/abs/2411.14397v1)|null|
+|**2024-11-21**|**Securing Legacy Communication Networks via Authenticated Cyclic Redundancy Integrity Check**|Alessandro Lotto et.al.|[2411.14394v1](http://arxiv.org/abs/2411.14394v1)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392v1](http://arxiv.org/abs/2411.14392v1)|null|
+|**2024-11-21**|**Persistent Homology for Structural Characterization in Disordered Systems**|An Wang et.al.|[2411.14390v1](http://arxiv.org/abs/2411.14390v1)|[link](https://github.com/anwanguow/PH_structural)|
+|**2024-11-21**|**Enhancing Diagnostic Precision in Gastric Bleeding through Automated Lesion Segmentation: A Deep DuS-KFCM Approach**|Xian-Xian Liu et.al.|[2411.14385v1](http://arxiv.org/abs/2411.14385v1)|null|
+|**2024-11-21**|**ETA-IK: Execution-Time-Aware Inverse Kinematics for Dual-Arm Systems**|Yucheng Tang et.al.|[2411.14381v1](http://arxiv.org/abs/2411.14381v1)|null|
+|**2024-11-21**|**Integrated Positioning and Communication via LEO Satellites: Opportunities and Challenges**|Jie Ma et.al.|[2411.14360v1](http://arxiv.org/abs/2411.14360v1)|null|
+|**2024-11-21**|**Anomalous transport in U(1)-symmetric quantum circuits**|Alessandro Summer et.al.|[2411.14357v1](http://arxiv.org/abs/2411.14357v1)|null|
+|**2024-11-21**|**Convex Approximation of Probabilistic Reachable Sets from Small Samples Using Self-supervised Neural Networks**|Jun Xiang et.al.|[2411.14356v1](http://arxiv.org/abs/2411.14356v1)|null|
+|**2024-11-21**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**|Houze Liu et.al.|[2411.14353v1](http://arxiv.org/abs/2411.14353v1)|null|
+|**2024-11-21**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349v1](http://arxiv.org/abs/2411.14349v1)|null|
+|**2024-11-21**|**Finding the root in random nearest neighbor trees**|Anna Brandenberger et.al.|[2411.14336v1](http://arxiv.org/abs/2411.14336v1)|null|
+|**2024-11-21**|**On the Sample Complexity of One Hidden Layer Networks with Equivariance, Locality and Weight Sharing**|Arash Behboodi et.al.|[2411.14288v1](http://arxiv.org/abs/2411.14288v1)|null|
+|**2024-11-21**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative Prompting of LLMs**|Xi Jiang et.al.|[2411.14283v1](http://arxiv.org/abs/2411.14283v1)|null|
+|**2024-11-21**|**Q-CSM: Q-Learning-based Cognitive Service Management in Heterogeneous IoT Networks**|Kubra Duran et.al.|[2411.14281v1](http://arxiv.org/abs/2411.14281v1)|null|
+|**2024-11-21**|**A Bayesian mixture model for Poisson network autoregression**|Elly Hung et.al.|[2411.14265v1](http://arxiv.org/abs/2411.14265v1)|null|
+|**2024-11-21**|**Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation**|Pedro Enrique Iturria-Rivera et.al.|[2411.14264v1](http://arxiv.org/abs/2411.14264v1)|null|
+|**2024-11-21**|**Addressing the Readout Problem in Quantum Differential Equation Algorithms with Quantum Scientific Machine Learning**|Chelsea A. Williams et.al.|[2411.14259v1](http://arxiv.org/abs/2411.14259v1)|null|
+|**2024-11-21**|**CP-UNet: Contour-based Probabilistic Model for Medical Ultrasound Images Segmentation**|Ruiguo Yu et.al.|[2411.14250v1](http://arxiv.org/abs/2411.14250v1)|null|
+|**2024-11-21**|**Approximate Constrained Lumping of Chemical Reaction Networks**|Alexander Leguizamon-Robayo et.al.|[2411.14242v1](http://arxiv.org/abs/2411.14242v1)|null|
+|**2024-11-21**|**Public sentiments on the fourth industrial revolution: An unsolicited public opinion poll from Twitter**|Diletta Abbonato et.al.|[2411.14230v1](http://arxiv.org/abs/2411.14230v1)|null|
+|**2024-11-21**|**Thermodynamic Algorithms for Quadratic Programming**|Patryk-Lipka Bartosik et.al.|[2411.14224v1](http://arxiv.org/abs/2411.14224v1)|null|
+|**2024-11-21**|**Generative AI-enabled Digital Twins for 6G-enhanced Smart Cities**|Kubra Duran et.al.|[2411.14222v1](http://arxiv.org/abs/2411.14222v1)|null|
+|**2024-11-21**|**Revised Regularization for Efficient Continual Learning through Correlation-Based Parameter Update in Bayesian Neural Networks**|Sanchar Palit et.al.|[2411.14202v1](http://arxiv.org/abs/2411.14202v1)|null|
+|**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196v1](http://arxiv.org/abs/2411.14196v1)|[link](https://github.com/awakermhy/mnn_wm_uq)|
