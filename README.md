@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-24 10:04:24 Asia/Shanghai
+ Automated deployment @ 2024-11-24 20:48:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-21**|**Construction of Lie algebra weight system kernel via Vogel algebra**|Dmitry Khudoteplov et.al.|[2411.14417v1](http://arxiv.org/abs/2411.14417v1)|null|
-|**2024-11-21**|**Quantum illumination advantage in quantum Doppler radar**|Rongyu Wei et.al.|[2411.14414v1](http://arxiv.org/abs/2411.14414v1)|null|
-|**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403v1](http://arxiv.org/abs/2411.14403v1)|null|
-|**2024-11-21**|**Ito-Langevin Process for Neutron Noise**|Guy Gabrieli et.al.|[2411.14388v1](http://arxiv.org/abs/2411.14388v1)|null|
-|**2024-11-21**|**Not Just a Dot: the complex UV morphology and underlying properties of Little Red Dots**|P. Rinaldi et.al.|[2411.14383v1](http://arxiv.org/abs/2411.14383v1)|null|
-|**2024-11-21**|**Using Formal Models, Safety Shields and Certified Control to Validate AI-Based Train Systems**|Jan Gruteser et.al.|[2411.14374v1](http://arxiv.org/abs/2411.14374v1)|null|
-|**2024-11-21**|**Indiscriminate Disruption of Conditional Inference on Multivariate Gaussians**|William N. Caballero et.al.|[2411.14351v1](http://arxiv.org/abs/2411.14351v1)|[link](https://github.com/mrlarosa/distruptingmvgs)|
-|**2024-11-21**|**Neutrino Flavour Waves Through the Quantum Vacuum: A Theory of Oscillations**|Markku Oksanen et.al.|[2411.14348v1](http://arxiv.org/abs/2411.14348v1)|null|
-|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347v1](http://arxiv.org/abs/2411.14347v1)|[link](https://github.com/idea-research/dino-x-api)|
-|**2024-11-21**|**Lower Dimensional Spherical Representation of Medium Voltage Load Profiles for Visualization, Outlier Detection, and Generative Modelling**|Edgar Mauricio Salazar Duque et.al.|[2411.14346v1](http://arxiv.org/abs/2411.14346v1)|null|
-|**2024-11-21**|**Layer Pruning with Consensus: A Triple-Win Solution**|Leandro Giusti Mugnaini et.al.|[2411.14345v1](http://arxiv.org/abs/2411.14345v1)|[link](https://github.com/carolinatavaresduarte/consensus-layer-pruning)|
-|**2024-11-21**|**Overcomplete Tensor Decomposition via Koszul-Young Flattenings**|Pravesh K. Kothari et.al.|[2411.14344v1](http://arxiv.org/abs/2411.14344v1)|null|
-|**2024-11-21**|**The MUSE Extremely Deep Field: Classifying the Spectral Shapes of Lya Emitting Galaxies**|E. Vitte et.al.|[2411.14327v1](http://arxiv.org/abs/2411.14327v1)|null|
-|**2024-11-21**|**Bird's-eye View of Molecular Gas across Stephan's Quintet Galaxy Group and Intra-group Medium**|B. H. C. Emonts et.al.|[2411.14310v1](http://arxiv.org/abs/2411.14310v1)|null|
-|**2024-11-21**|**Improving Routability Prediction via NAS Using a Smooth One-shot Augmented Predictor**|Arjun Sridhar et.al.|[2411.14296v1](http://arxiv.org/abs/2411.14296v1)|null|
-|**2024-11-21**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative Prompting of LLMs**|Xi Jiang et.al.|[2411.14283v1](http://arxiv.org/abs/2411.14283v1)|null|
-|**2024-11-21**|**Adaptive Anomaly Detection for Identifying Attacks in Cyber-Physical Systems: A Systematic Literature Review**|Pablo Moriano et.al.|[2411.14278v1](http://arxiv.org/abs/2411.14278v1)|null|
-|**2024-11-21**|**Accelerating Construction of Non-Intrusive Nonlinear Structural Dynamics Reduced Order Models through Hyperreduction**|Alexander Saccani et.al.|[2411.14262v1](http://arxiv.org/abs/2411.14262v1)|null|
-|**2024-11-21**|**Addressing the Readout Problem in Quantum Differential Equation Algorithms with Quantum Scientific Machine Learning**|Chelsea A. Williams et.al.|[2411.14259v1](http://arxiv.org/abs/2411.14259v1)|null|
-|**2024-11-21**|**Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models**|Javier Ferrando et.al.|[2411.14257v1](http://arxiv.org/abs/2411.14257v1)|null|
-|**2024-11-21**|**CP-UNet: Contour-based Probabilistic Model for Medical Ultrasound Images Segmentation**|Ruiguo Yu et.al.|[2411.14250v1](http://arxiv.org/abs/2411.14250v1)|null|
-|**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243v1](http://arxiv.org/abs/2411.14243v1)|null|
-|**2024-11-21**|**Observing planetary gaps in the gas of debris disks**|C. Bergez-Casalou et.al.|[2411.14241v1](http://arxiv.org/abs/2411.14241v1)|null|
-|**2024-11-21**|**A study of the star clusters' population in the giant molecular cloud G174+2.5**|T. A. Permyakova et.al.|[2411.14235v1](http://arxiv.org/abs/2411.14235v1)|null|
-|**2024-11-21**|**Towards Context-Rich Automated Biodiversity Assessments: Deriving AI-Powered Insights from Camera Trap Data**|Paul Fergus et.al.|[2411.14219v1](http://arxiv.org/abs/2411.14219v1)|null|
-|**2024-11-21**|**Ferroelectric switchable altermagnetism**|Mingqiang Gu et.al.|[2411.14216v1](http://arxiv.org/abs/2411.14216v1)|null|
-|**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205v1](http://arxiv.org/abs/2411.14205v1)|null|
-|**2024-11-21**|**The Sun at millimeter wavelengths V. Magnetohydrodynamic waves in a fibrillar structure**|Maryam Saberi et.al.|[2411.14190v1](http://arxiv.org/abs/2411.14190v1)|null|
-|**2024-11-21**|**Performance of the Scintillation Wall in the BM@N experiment**|V. Volkov et.al.|[2411.14187v1](http://arxiv.org/abs/2411.14187v1)|null|
-|**2024-11-21**|**Unveiling Ultrafast Spin-Valley Dynamics and Phonon-Mediated Charge Transfer in MoSe$_{2}$/WSe$_{2}$ Heterostructures**|Julian Wagner et.al.|[2411.14180v1](http://arxiv.org/abs/2411.14180v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-11-12**|**Realization of a clock-based global height system: A simulation study for Europe and South America**|Asha Vincent et.al.|[2411.07888v1](http://arxiv.org/abs/2411.07888v1)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762v1](http://arxiv.org/abs/2411.07762v1)|null|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[2411.07711v1](http://arxiv.org/abs/2411.07711v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-21**|**Construction of Lie algebra weight system kernel via Vogel algebra**|Dmitry Khudoteplov et.al.|[2411.14417v1](http://arxiv.org/abs/2411.14417v1)|null|
+|**2024-11-21**|**Quantum illumination advantage in quantum Doppler radar**|Rongyu Wei et.al.|[2411.14414v1](http://arxiv.org/abs/2411.14414v1)|null|
+|**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403v1](http://arxiv.org/abs/2411.14403v1)|null|
+|**2024-11-21**|**Ito-Langevin Process for Neutron Noise**|Guy Gabrieli et.al.|[2411.14388v1](http://arxiv.org/abs/2411.14388v1)|null|
+|**2024-11-21**|**Not Just a Dot: the complex UV morphology and underlying properties of Little Red Dots**|P. Rinaldi et.al.|[2411.14383v1](http://arxiv.org/abs/2411.14383v1)|null|
+|**2024-11-21**|**Using Formal Models, Safety Shields and Certified Control to Validate AI-Based Train Systems**|Jan Gruteser et.al.|[2411.14374v1](http://arxiv.org/abs/2411.14374v1)|null|
+|**2024-11-21**|**Indiscriminate Disruption of Conditional Inference on Multivariate Gaussians**|William N. Caballero et.al.|[2411.14351v1](http://arxiv.org/abs/2411.14351v1)|[link](https://github.com/mrlarosa/distruptingmvgs)|
+|**2024-11-21**|**Neutrino Flavour Waves Through the Quantum Vacuum: A Theory of Oscillations**|Markku Oksanen et.al.|[2411.14348v1](http://arxiv.org/abs/2411.14348v1)|null|
+|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347v1](http://arxiv.org/abs/2411.14347v1)|[link](https://github.com/idea-research/dino-x-api)|
+|**2024-11-21**|**Lower Dimensional Spherical Representation of Medium Voltage Load Profiles for Visualization, Outlier Detection, and Generative Modelling**|Edgar Mauricio Salazar Duque et.al.|[2411.14346v1](http://arxiv.org/abs/2411.14346v1)|null|
+|**2024-11-21**|**Layer Pruning with Consensus: A Triple-Win Solution**|Leandro Giusti Mugnaini et.al.|[2411.14345v1](http://arxiv.org/abs/2411.14345v1)|[link](https://github.com/carolinatavaresduarte/consensus-layer-pruning)|
+|**2024-11-21**|**Overcomplete Tensor Decomposition via Koszul-Young Flattenings**|Pravesh K. Kothari et.al.|[2411.14344v1](http://arxiv.org/abs/2411.14344v1)|null|
+|**2024-11-21**|**The MUSE Extremely Deep Field: Classifying the Spectral Shapes of Lya Emitting Galaxies**|E. Vitte et.al.|[2411.14327v1](http://arxiv.org/abs/2411.14327v1)|null|
+|**2024-11-21**|**Bird's-eye View of Molecular Gas across Stephan's Quintet Galaxy Group and Intra-group Medium**|B. H. C. Emonts et.al.|[2411.14310v1](http://arxiv.org/abs/2411.14310v1)|null|
+|**2024-11-21**|**Improving Routability Prediction via NAS Using a Smooth One-shot Augmented Predictor**|Arjun Sridhar et.al.|[2411.14296v1](http://arxiv.org/abs/2411.14296v1)|null|
+|**2024-11-21**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative Prompting of LLMs**|Xi Jiang et.al.|[2411.14283v1](http://arxiv.org/abs/2411.14283v1)|null|
+|**2024-11-21**|**Adaptive Anomaly Detection for Identifying Attacks in Cyber-Physical Systems: A Systematic Literature Review**|Pablo Moriano et.al.|[2411.14278v1](http://arxiv.org/abs/2411.14278v1)|null|
+|**2024-11-21**|**Accelerating Construction of Non-Intrusive Nonlinear Structural Dynamics Reduced Order Models through Hyperreduction**|Alexander Saccani et.al.|[2411.14262v1](http://arxiv.org/abs/2411.14262v1)|null|
+|**2024-11-21**|**Addressing the Readout Problem in Quantum Differential Equation Algorithms with Quantum Scientific Machine Learning**|Chelsea A. Williams et.al.|[2411.14259v1](http://arxiv.org/abs/2411.14259v1)|null|
+|**2024-11-21**|**Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models**|Javier Ferrando et.al.|[2411.14257v1](http://arxiv.org/abs/2411.14257v1)|null|
+|**2024-11-21**|**CP-UNet: Contour-based Probabilistic Model for Medical Ultrasound Images Segmentation**|Ruiguo Yu et.al.|[2411.14250v1](http://arxiv.org/abs/2411.14250v1)|null|
+|**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243v1](http://arxiv.org/abs/2411.14243v1)|null|
+|**2024-11-21**|**Observing planetary gaps in the gas of debris disks**|C. Bergez-Casalou et.al.|[2411.14241v1](http://arxiv.org/abs/2411.14241v1)|null|
+|**2024-11-21**|**A study of the star clusters' population in the giant molecular cloud G174+2.5**|T. A. Permyakova et.al.|[2411.14235v1](http://arxiv.org/abs/2411.14235v1)|null|
+|**2024-11-21**|**Towards Context-Rich Automated Biodiversity Assessments: Deriving AI-Powered Insights from Camera Trap Data**|Paul Fergus et.al.|[2411.14219v1](http://arxiv.org/abs/2411.14219v1)|null|
+|**2024-11-21**|**Ferroelectric switchable altermagnetism**|Mingqiang Gu et.al.|[2411.14216v1](http://arxiv.org/abs/2411.14216v1)|null|
+|**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205v1](http://arxiv.org/abs/2411.14205v1)|null|
+|**2024-11-21**|**The Sun at millimeter wavelengths V. Magnetohydrodynamic waves in a fibrillar structure**|Maryam Saberi et.al.|[2411.14190v1](http://arxiv.org/abs/2411.14190v1)|null|
+|**2024-11-21**|**Performance of the Scintillation Wall in the BM@N experiment**|V. Volkov et.al.|[2411.14187v1](http://arxiv.org/abs/2411.14187v1)|null|
+|**2024-11-21**|**Unveiling Ultrafast Spin-Valley Dynamics and Phonon-Mediated Charge Transfer in MoSe$_{2}$/WSe$_{2}$ Heterostructures**|Julian Wagner et.al.|[2411.14180v1](http://arxiv.org/abs/2411.14180v1)|null|
