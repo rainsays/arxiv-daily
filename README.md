@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-30 09:57:13 Asia/Shanghai
+ Automated deployment @ 2024-11-30 20:48:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-27**|**A subgroup-aware scoring approach to the study of effect modification in observational studies**|Yijun Fan et.al.|[2411.18510v1](http://arxiv.org/abs/2411.18510v1)|null|
-|**2024-11-27**|**Bhirkuti's Test of Bias Acceptance: Examining in Psychometric Simulations**|Aneel Bhusal et.al.|[2411.18481v1](http://arxiv.org/abs/2411.18481v1)|null|
-|**2024-11-27**|**Leveraging Transfer Learning for Astronomical Image Analysis**|Stefano Cavuoti et.al.|[2411.18206v1](http://arxiv.org/abs/2411.18206v1)|null|
-|**2024-11-27**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191v1](http://arxiv.org/abs/2411.18191v1)|null|
-|**2024-11-27**|**Using different sources of ground truths and transfer learning to improve the generalization of photometric redshift estimation**|Jonathan Soriano et.al.|[2411.18054v1](http://arxiv.org/abs/2411.18054v1)|null|
-|**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289v1](http://arxiv.org/abs/2411.17289v1)|[link](https://github.com/robotics-upo/4D-Radar-Odom)|
-|**2024-11-26**|**TRIP: Terrain Traversability Mapping With Risk-Aware Prediction for Enhanced Online Quadrupedal Robot Navigation**|Minho Oh et.al.|[2411.17134v1](http://arxiv.org/abs/2411.17134v1)|null|
-|**2024-11-26**|**Enhancing Imbalance Learning: A Novel Slack-Factor Fuzzy SVM Approach**|M. Tanveer et.al.|[2411.17128v1](http://arxiv.org/abs/2411.17128v1)|[link](https://github.com/mtanveer1/isffsvm)|
-|**2024-11-26**|**Detecting Outliers in Multiple Sampling Results Without Thresholds**|Yu-Fu Shen et.al.|[2411.17024v1](http://arxiv.org/abs/2411.17024v1)|null|
-|**2024-11-25**|**Anomaly Detection and RFI Classification with Unsupervised Learning in Narrowband Radio Technosignature Searches**|Ben Jacobson-Bell et.al.|[2411.16556v1](http://arxiv.org/abs/2411.16556v1)|null|
-|**2024-11-25**|**Unsupervised Event Outlier Detection in Continuous Time**|Somjit Nath et.al.|[2411.16427v1](http://arxiv.org/abs/2411.16427v1)|null|
-|**2024-11-24**|**An Extensive Study on D2C: Overfitting Remediation in Deep Learning Using a Decentralized Approach**|Md. Saiful Bari Siddiqui et.al.|[2411.15876v1](http://arxiv.org/abs/2411.15876v1)|[link](https://github.com/saiful185/divide2conquer)|
-|**2024-11-23**|**An upgraded GMRT and MeerKAT study of radio relics in the low mass merging cluster PSZ2 G200.95-28.16**|Arpan Pal et.al.|[2411.15480v1](http://arxiv.org/abs/2411.15480v1)|null|
-|**2024-11-22**|**Once a giant, (almost) always a giant: Partial Tidal Disruption Events of Giant Stars**|Nuria Navarro Navarro et.al.|[2411.15346v1](http://arxiv.org/abs/2411.15346v1)|null|
-|**2024-11-22**|**Heavy-tailed Contamination is Easier than Adversarial Contamination**|Yeshwanth Cherapanamjeri et.al.|[2411.15306v1](http://arxiv.org/abs/2411.15306v1)|null|
-|**2024-11-22**|**EADReg: Probabilistic Correspondence Generation with Efficient Autoregressive Diffusion Model for Outdoor Point Cloud Registration**|Linrui Gong et.al.|[2411.15271v1](http://arxiv.org/abs/2411.15271v1)|null|
-|**2024-11-21**|**Hot and cool: Characterising the companions of red supergiant stars in binary systems**|L. R. Patrick et.al.|[2411.14540v1](http://arxiv.org/abs/2411.14540v1)|null|
-|**2024-11-21**|**Lower Dimensional Spherical Representation of Medium Voltage Load Profiles for Visualization, Outlier Detection, and Generative Modelling**|Edgar Mauricio Salazar Duque et.al.|[2411.14346v1](http://arxiv.org/abs/2411.14346v1)|null|
-|**2024-11-21**|**Outlier-robust Mean Estimation near the Breakdown Point via Sum-of-Squares**|Hongjie Chen et.al.|[2411.14305v1](http://arxiv.org/abs/2411.14305v1)|null|
-|**2024-11-21**|**Out-Of-Distribution Detection with Diversification (Provably)**|Haiyun Yao et.al.|[2411.14049v1](http://arxiv.org/abs/2411.14049v1)|[link](https://github.com/haiyunyao/diversemix)|
-|**2024-11-20**|**The Rényi Outlier Test**|Ryan Christ et.al.|[2411.13542v1](http://arxiv.org/abs/2411.13542v1)|null|
-|**2024-11-20**|**Light Curve Properties of Gamma-Ray Burst Associated Supernovae**|Amit Kumar et.al.|[2411.13242v1](http://arxiv.org/abs/2411.13242v1)|null|
-|**2024-11-20**|**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**|Yi Gu et.al.|[2411.13620v1](http://arxiv.org/abs/2411.13620v1)|null|
-|**2024-11-20**|**Non-Linear Outlier Synthesis for Out-of-Distribution Detection**|Lars Doorenbos et.al.|[2411.13619v1](http://arxiv.org/abs/2411.13619v1)|[link](https://github.com/larsdoorenbos/ncis)|
-|**2024-11-19**|**Dimension Reduction via Sum-of-Squares and Improved Clustering Algorithms for Non-Spherical Mixtures**|Prashanti Anderson et.al.|[2411.12438v1](http://arxiv.org/abs/2411.12438v1)|null|
-|**2024-11-18**|**Robust State Estimation for Legged Robots with Dual Beta Kalman Filter**|Tianyi Zhang et.al.|[2411.11483v1](http://arxiv.org/abs/2411.11483v1)|null|
-|**2024-11-18**|**Robust and Constrained Estimation of State-Space Models: A Majorization-Minimization Approach**|Yifan Yu et.al.|[2411.11320v1](http://arxiv.org/abs/2411.11320v1)|null|
-|**2024-11-16**|**Going Beyond Conventional OOD Detection**|Sudarshan Regmi et.al.|[2411.10794v1](http://arxiv.org/abs/2411.10794v1)|[link](https://github.com/sudarshanregmi/ascood)|
-|**2024-11-16**|**Steam Turbine Anomaly Detection: An Unsupervised Learning Approach Using Enhanced Long Short-Term Memory Variational Autoencoder**|Weiming Xu et.al.|[2411.10765v1](http://arxiv.org/abs/2411.10765v1)|null|
-|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592v1](http://arxiv.org/abs/2411.12592v1)|[link](https://github.com/snldmt/SPARS3R)|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -112,3 +78,37 @@
 |**2024-11-27**|**Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation**|Tianyi Wei et.al.|[2411.18301v1](http://arxiv.org/abs/2411.18301v1)|[link](https://github.com/wtybest/enmmdit)|
 |**2024-11-27**|**X-ray polarization from accretion disk winds**|Anagha P. Nitindala et.al.|[2411.18299v1](http://arxiv.org/abs/2411.18299v1)|null|
 |**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288v1](http://arxiv.org/abs/2411.18288v1)|[link](https://github.com/cpboost/double-co-detr)|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-27**|**A subgroup-aware scoring approach to the study of effect modification in observational studies**|Yijun Fan et.al.|[2411.18510v1](http://arxiv.org/abs/2411.18510v1)|null|
+|**2024-11-27**|**Bhirkuti's Test of Bias Acceptance: Examining in Psychometric Simulations**|Aneel Bhusal et.al.|[2411.18481v1](http://arxiv.org/abs/2411.18481v1)|null|
+|**2024-11-27**|**Leveraging Transfer Learning for Astronomical Image Analysis**|Stefano Cavuoti et.al.|[2411.18206v1](http://arxiv.org/abs/2411.18206v1)|null|
+|**2024-11-27**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191v1](http://arxiv.org/abs/2411.18191v1)|null|
+|**2024-11-27**|**Using different sources of ground truths and transfer learning to improve the generalization of photometric redshift estimation**|Jonathan Soriano et.al.|[2411.18054v1](http://arxiv.org/abs/2411.18054v1)|null|
+|**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289v1](http://arxiv.org/abs/2411.17289v1)|[link](https://github.com/robotics-upo/4D-Radar-Odom)|
+|**2024-11-26**|**TRIP: Terrain Traversability Mapping With Risk-Aware Prediction for Enhanced Online Quadrupedal Robot Navigation**|Minho Oh et.al.|[2411.17134v1](http://arxiv.org/abs/2411.17134v1)|null|
+|**2024-11-26**|**Enhancing Imbalance Learning: A Novel Slack-Factor Fuzzy SVM Approach**|M. Tanveer et.al.|[2411.17128v1](http://arxiv.org/abs/2411.17128v1)|[link](https://github.com/mtanveer1/isffsvm)|
+|**2024-11-26**|**Detecting Outliers in Multiple Sampling Results Without Thresholds**|Yu-Fu Shen et.al.|[2411.17024v1](http://arxiv.org/abs/2411.17024v1)|null|
+|**2024-11-25**|**Anomaly Detection and RFI Classification with Unsupervised Learning in Narrowband Radio Technosignature Searches**|Ben Jacobson-Bell et.al.|[2411.16556v1](http://arxiv.org/abs/2411.16556v1)|null|
+|**2024-11-25**|**Unsupervised Event Outlier Detection in Continuous Time**|Somjit Nath et.al.|[2411.16427v1](http://arxiv.org/abs/2411.16427v1)|null|
+|**2024-11-24**|**An Extensive Study on D2C: Overfitting Remediation in Deep Learning Using a Decentralized Approach**|Md. Saiful Bari Siddiqui et.al.|[2411.15876v1](http://arxiv.org/abs/2411.15876v1)|[link](https://github.com/saiful185/divide2conquer)|
+|**2024-11-23**|**An upgraded GMRT and MeerKAT study of radio relics in the low mass merging cluster PSZ2 G200.95-28.16**|Arpan Pal et.al.|[2411.15480v1](http://arxiv.org/abs/2411.15480v1)|null|
+|**2024-11-22**|**Once a giant, (almost) always a giant: Partial Tidal Disruption Events of Giant Stars**|Nuria Navarro Navarro et.al.|[2411.15346v1](http://arxiv.org/abs/2411.15346v1)|null|
+|**2024-11-22**|**Heavy-tailed Contamination is Easier than Adversarial Contamination**|Yeshwanth Cherapanamjeri et.al.|[2411.15306v1](http://arxiv.org/abs/2411.15306v1)|null|
+|**2024-11-22**|**EADReg: Probabilistic Correspondence Generation with Efficient Autoregressive Diffusion Model for Outdoor Point Cloud Registration**|Linrui Gong et.al.|[2411.15271v1](http://arxiv.org/abs/2411.15271v1)|null|
+|**2024-11-21**|**Hot and cool: Characterising the companions of red supergiant stars in binary systems**|L. R. Patrick et.al.|[2411.14540v1](http://arxiv.org/abs/2411.14540v1)|null|
+|**2024-11-21**|**Lower Dimensional Spherical Representation of Medium Voltage Load Profiles for Visualization, Outlier Detection, and Generative Modelling**|Edgar Mauricio Salazar Duque et.al.|[2411.14346v1](http://arxiv.org/abs/2411.14346v1)|null|
+|**2024-11-21**|**Outlier-robust Mean Estimation near the Breakdown Point via Sum-of-Squares**|Hongjie Chen et.al.|[2411.14305v1](http://arxiv.org/abs/2411.14305v1)|null|
+|**2024-11-21**|**Out-Of-Distribution Detection with Diversification (Provably)**|Haiyun Yao et.al.|[2411.14049v1](http://arxiv.org/abs/2411.14049v1)|[link](https://github.com/haiyunyao/diversemix)|
+|**2024-11-20**|**The Rényi Outlier Test**|Ryan Christ et.al.|[2411.13542v1](http://arxiv.org/abs/2411.13542v1)|null|
+|**2024-11-20**|**Light Curve Properties of Gamma-Ray Burst Associated Supernovae**|Amit Kumar et.al.|[2411.13242v1](http://arxiv.org/abs/2411.13242v1)|null|
+|**2024-11-20**|**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**|Yi Gu et.al.|[2411.13620v1](http://arxiv.org/abs/2411.13620v1)|null|
+|**2024-11-20**|**Non-Linear Outlier Synthesis for Out-of-Distribution Detection**|Lars Doorenbos et.al.|[2411.13619v1](http://arxiv.org/abs/2411.13619v1)|[link](https://github.com/larsdoorenbos/ncis)|
+|**2024-11-19**|**Dimension Reduction via Sum-of-Squares and Improved Clustering Algorithms for Non-Spherical Mixtures**|Prashanti Anderson et.al.|[2411.12438v1](http://arxiv.org/abs/2411.12438v1)|null|
+|**2024-11-18**|**Robust State Estimation for Legged Robots with Dual Beta Kalman Filter**|Tianyi Zhang et.al.|[2411.11483v1](http://arxiv.org/abs/2411.11483v1)|null|
+|**2024-11-18**|**Robust and Constrained Estimation of State-Space Models: A Majorization-Minimization Approach**|Yifan Yu et.al.|[2411.11320v1](http://arxiv.org/abs/2411.11320v1)|null|
+|**2024-11-16**|**Going Beyond Conventional OOD Detection**|Sudarshan Regmi et.al.|[2411.10794v1](http://arxiv.org/abs/2411.10794v1)|[link](https://github.com/sudarshanregmi/ascood)|
+|**2024-11-16**|**Steam Turbine Anomaly Detection: An Unsupervised Learning Approach Using Enhanced Long Short-Term Memory Variational Autoencoder**|Weiming Xu et.al.|[2411.10765v1](http://arxiv.org/abs/2411.10765v1)|null|
+|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592v1](http://arxiv.org/abs/2411.12592v1)|[link](https://github.com/snldmt/SPARS3R)|
