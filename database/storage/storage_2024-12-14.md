@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-14 09:59:17 Asia/Shanghai
+ Automated deployment @ 2024-12-14 20:49:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -11,6 +11,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619v1](http://arxiv.org/abs/2412.09619v1)|null|
+|**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610v1](http://arxiv.org/abs/2412.09610v1)|null|
+|**2024-12-12**|**RatBodyFormer: Rodent Body Surface from Keypoints**|Ayaka Higami et.al.|[2412.09599v1](http://arxiv.org/abs/2412.09599v1)|null|
+|**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584v1](http://arxiv.org/abs/2412.09584v1)|null|
+|**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579v1](http://arxiv.org/abs/2412.09579v1)|null|
+|**2024-12-12**|**DISHONEST: Dissecting misInformation Spread using Homogeneous sOcial NEtworks and Semantic Topic classification**|Caleb Stam et.al.|[2412.09578v1](http://arxiv.org/abs/2412.09578v1)|null|
+|**2024-12-12**|**Temporal Triadic Closure: Finding Dense Structures in Social Networks That Evolve**|Tom Davot et.al.|[2412.09567v1](http://arxiv.org/abs/2412.09567v1)|null|
+|**2024-12-12**|**Obfuscated Activations Bypass LLM Latent-Space Defenses**|Luke Bailey et.al.|[2412.09565v1](http://arxiv.org/abs/2412.09565v1)|null|
+|**2024-12-12**|**Improving the Reliability of Cable Broadband Networks via Proactive Network Maintenance**|Jiyao Hu et.al.|[2412.09564v1](http://arxiv.org/abs/2412.09564v1)|null|
+|**2024-12-12**|**Enhancing Convergence of Decentralized Gradient Tracking under the KL Property**|Xiaokai Chen et.al.|[2412.09556v1](http://arxiv.org/abs/2412.09556v1)|null|
+|**2024-12-12**|**Network Dynamics of Emotional Processing: A Structural Balance Theory Approach**|Sepehr Gourabi et.al.|[2412.09554v1](http://arxiv.org/abs/2412.09554v1)|null|
+|**2024-12-12**|**Interpolating amplitudes**|Víctor Bresó et.al.|[2412.09534v1](http://arxiv.org/abs/2412.09534v1)|null|
+|**2024-12-12**|**Network dismantling by physical damage**|Luka Blagojević et.al.|[2412.09524v1](http://arxiv.org/abs/2412.09524v1)|null|
+|**2024-12-12**|**Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction**|Edvard Ghukasyan et.al.|[2412.09507v1](http://arxiv.org/abs/2412.09507v1)|null|
+|**2024-12-12**|**Assessing the Role of Volumetric Brain Information in Multiple Sclerosis Progression**|Andy A. Shen et.al.|[2412.09497v1](http://arxiv.org/abs/2412.09497v1)|null|
+|**2024-12-12**|**iKap: Kinematics-aware Planning with Imperative Learning**|Qihang Li et.al.|[2412.09496v1](http://arxiv.org/abs/2412.09496v1)|null|
+|**2024-12-12**|**Regression and Classification with Single-Qubit Quantum Neural Networks**|Leandro C. Souza et.al.|[2412.09486v1](http://arxiv.org/abs/2412.09486v1)|null|
+|**2024-12-12**|**Bayesian Optimization via Continual Variational Last Layer Training**|Paul Brunzema et.al.|[2412.09477v1](http://arxiv.org/abs/2412.09477v1)|null|
+|**2024-12-12**|**Optimizing CDN Architectures: Multi-Metric Algorithmic Breakthroughs for Edge and Distributed Performance**|Md Nurul Absur et.al.|[2412.09474v1](http://arxiv.org/abs/2412.09474v1)|null|
+|**2024-12-12**|**Neural Network Symmetrisation in Concrete Settings**|Rob Cornish et.al.|[2412.09469v1](http://arxiv.org/abs/2412.09469v1)|null|
+|**2024-12-12**|**Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries**|Haolin Li et.al.|[2412.09453v1](http://arxiv.org/abs/2412.09453v1)|null|
+|**2024-12-12**|**A Semi Black-Box Adversarial Bit-Flip Attack with Limited DNN Model Information**|Behnam Ghavami et.al.|[2412.09450v1](http://arxiv.org/abs/2412.09450v1)|null|
+|**2024-12-12**|**Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis**|Raj Hansini Khoiwal et.al.|[2412.09445v1](http://arxiv.org/abs/2412.09445v1)|null|
+|**2024-12-12**|**Search Strategy Generation for Branch and Bound Using Genetic Programming**|Gwen Maudet et.al.|[2412.09444v1](http://arxiv.org/abs/2412.09444v1)|null|
+|**2024-12-12**|**Solving Multiagent Path Finding on Highly Centralized Networks**|Foivos Fioravantes et.al.|[2412.09433v1](http://arxiv.org/abs/2412.09433v1)|null|
+|**2024-12-12**|**Data Efficient Prediction of excited-state properties using Quantum Neural Networks**|Manuel Hagelüken et.al.|[2412.09423v1](http://arxiv.org/abs/2412.09423v1)|null|
+|**2024-12-12**|**Opinion de-polarization of social networks with GNNs**|Konstantinos Mylonas et.al.|[2412.09404v1](http://arxiv.org/abs/2412.09404v1)|null|
+|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401v1](http://arxiv.org/abs/2412.09401v1)|null|
+|**2024-12-12**|**A Geometry-Aware Message Passing Neural Network for Modeling Aerodynamics over Airfoils**|Jacob Helwig et.al.|[2412.09399v1](http://arxiv.org/abs/2412.09399v1)|[link](https://github.com/divelab/AIRS)|
+|**2024-12-12**|**All You Need in Knowledge Distillation Is a Tailored Coordinate System**|Junjie Zhou et.al.|[2412.09388v1](http://arxiv.org/abs/2412.09388v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -79,37 +113,3 @@
 |**2024-12-12**|**FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection**|Ke Li et.al.|[2412.09258v1](http://arxiv.org/abs/2412.09258v1)|null|
 |**2024-12-12**|**Differential Privacy Releasing of Hierarchical Origin/Destination Data with a TopDown Approach**|Fabrizio Boninsegna et.al.|[2412.09256v1](http://arxiv.org/abs/2412.09256v1)|null|
 |**2024-12-12**|**Make Satire Boring Again: Reducing Stylistic Bias of Satirical Corpus by Utilizing Generative LLMs**|Asli Umay Ozturk et.al.|[2412.09247v1](http://arxiv.org/abs/2412.09247v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619v1](http://arxiv.org/abs/2412.09619v1)|null|
-|**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610v1](http://arxiv.org/abs/2412.09610v1)|null|
-|**2024-12-12**|**RatBodyFormer: Rodent Body Surface from Keypoints**|Ayaka Higami et.al.|[2412.09599v1](http://arxiv.org/abs/2412.09599v1)|null|
-|**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584v1](http://arxiv.org/abs/2412.09584v1)|null|
-|**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579v1](http://arxiv.org/abs/2412.09579v1)|null|
-|**2024-12-12**|**DISHONEST: Dissecting misInformation Spread using Homogeneous sOcial NEtworks and Semantic Topic classification**|Caleb Stam et.al.|[2412.09578v1](http://arxiv.org/abs/2412.09578v1)|null|
-|**2024-12-12**|**Temporal Triadic Closure: Finding Dense Structures in Social Networks That Evolve**|Tom Davot et.al.|[2412.09567v1](http://arxiv.org/abs/2412.09567v1)|null|
-|**2024-12-12**|**Obfuscated Activations Bypass LLM Latent-Space Defenses**|Luke Bailey et.al.|[2412.09565v1](http://arxiv.org/abs/2412.09565v1)|null|
-|**2024-12-12**|**Improving the Reliability of Cable Broadband Networks via Proactive Network Maintenance**|Jiyao Hu et.al.|[2412.09564v1](http://arxiv.org/abs/2412.09564v1)|null|
-|**2024-12-12**|**Enhancing Convergence of Decentralized Gradient Tracking under the KL Property**|Xiaokai Chen et.al.|[2412.09556v1](http://arxiv.org/abs/2412.09556v1)|null|
-|**2024-12-12**|**Network Dynamics of Emotional Processing: A Structural Balance Theory Approach**|Sepehr Gourabi et.al.|[2412.09554v1](http://arxiv.org/abs/2412.09554v1)|null|
-|**2024-12-12**|**Interpolating amplitudes**|Víctor Bresó et.al.|[2412.09534v1](http://arxiv.org/abs/2412.09534v1)|null|
-|**2024-12-12**|**Network dismantling by physical damage**|Luka Blagojević et.al.|[2412.09524v1](http://arxiv.org/abs/2412.09524v1)|null|
-|**2024-12-12**|**Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction**|Edvard Ghukasyan et.al.|[2412.09507v1](http://arxiv.org/abs/2412.09507v1)|null|
-|**2024-12-12**|**Assessing the Role of Volumetric Brain Information in Multiple Sclerosis Progression**|Andy A. Shen et.al.|[2412.09497v1](http://arxiv.org/abs/2412.09497v1)|null|
-|**2024-12-12**|**iKap: Kinematics-aware Planning with Imperative Learning**|Qihang Li et.al.|[2412.09496v1](http://arxiv.org/abs/2412.09496v1)|null|
-|**2024-12-12**|**Regression and Classification with Single-Qubit Quantum Neural Networks**|Leandro C. Souza et.al.|[2412.09486v1](http://arxiv.org/abs/2412.09486v1)|null|
-|**2024-12-12**|**Bayesian Optimization via Continual Variational Last Layer Training**|Paul Brunzema et.al.|[2412.09477v1](http://arxiv.org/abs/2412.09477v1)|null|
-|**2024-12-12**|**Optimizing CDN Architectures: Multi-Metric Algorithmic Breakthroughs for Edge and Distributed Performance**|Md Nurul Absur et.al.|[2412.09474v1](http://arxiv.org/abs/2412.09474v1)|null|
-|**2024-12-12**|**Neural Network Symmetrisation in Concrete Settings**|Rob Cornish et.al.|[2412.09469v1](http://arxiv.org/abs/2412.09469v1)|null|
-|**2024-12-12**|**Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries**|Haolin Li et.al.|[2412.09453v1](http://arxiv.org/abs/2412.09453v1)|null|
-|**2024-12-12**|**A Semi Black-Box Adversarial Bit-Flip Attack with Limited DNN Model Information**|Behnam Ghavami et.al.|[2412.09450v1](http://arxiv.org/abs/2412.09450v1)|null|
-|**2024-12-12**|**Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis**|Raj Hansini Khoiwal et.al.|[2412.09445v1](http://arxiv.org/abs/2412.09445v1)|null|
-|**2024-12-12**|**Search Strategy Generation for Branch and Bound Using Genetic Programming**|Gwen Maudet et.al.|[2412.09444v1](http://arxiv.org/abs/2412.09444v1)|null|
-|**2024-12-12**|**Solving Multiagent Path Finding on Highly Centralized Networks**|Foivos Fioravantes et.al.|[2412.09433v1](http://arxiv.org/abs/2412.09433v1)|null|
-|**2024-12-12**|**Data Efficient Prediction of excited-state properties using Quantum Neural Networks**|Manuel Hagelüken et.al.|[2412.09423v1](http://arxiv.org/abs/2412.09423v1)|null|
-|**2024-12-12**|**Opinion de-polarization of social networks with GNNs**|Konstantinos Mylonas et.al.|[2412.09404v1](http://arxiv.org/abs/2412.09404v1)|null|
-|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401v1](http://arxiv.org/abs/2412.09401v1)|null|
-|**2024-12-12**|**A Geometry-Aware Message Passing Neural Network for Modeling Aerodynamics over Airfoils**|Jacob Helwig et.al.|[2412.09399v1](http://arxiv.org/abs/2412.09399v1)|[link](https://github.com/divelab/AIRS)|
-|**2024-12-12**|**All You Need in Knowledge Distillation Is a Tailored Coordinate System**|Junjie Zhou et.al.|[2412.09388v1](http://arxiv.org/abs/2412.09388v1)|null|
