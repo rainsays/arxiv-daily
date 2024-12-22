@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-22 10:00:11 Asia/Shanghai
+ Automated deployment @ 2024-12-22 20:45:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -11,6 +11,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-19**|**Robust PCA Based on Adaptive Weighted Least Squares and Low-Rank Matrix Factorization**|Kexin Li et.al.|[2412.14629v1](http://arxiv.org/abs/2412.14629v1)|null|
+|**2024-12-18**|**ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals**|Utkarsh Saxena et.al.|[2412.14363v1](http://arxiv.org/abs/2412.14363v1)|[link](https://github.com/utkarsh-dmx/project-resq)|
+|**2024-12-18**|**Variance-based loss function for improved regularization**|John M. Hanna et.al.|[2412.13993v1](http://arxiv.org/abs/2412.13993v1)|null|
+|**2024-12-18**|**A Statistical and Multi-Perspective Revisiting of the Membership Inference Attack in Large Language Models**|Bowen Chen et.al.|[2412.13475v1](http://arxiv.org/abs/2412.13475v1)|null|
+|**2024-12-17**|**Meta-analysis models relaxing the random effects normality assumption: methodological systematic review and simulation study**|Kanella Panagiotopoulou et.al.|[2412.12945v1](http://arxiv.org/abs/2412.12945v1)|null|
+|**2024-12-17**|**Multi-Subspace Matrix Recovery from Permuted Data**|Liangqi Xie et.al.|[2412.12931v1](http://arxiv.org/abs/2412.12931v1)|null|
+|**2024-12-17**|**SentiQNF: A Novel Approach to Sentiment Analysis Using Quantum Algorithms and Neuro-Fuzzy Systems**|Kshitij Dave et.al.|[2412.12731v1](http://arxiv.org/abs/2412.12731v1)|null|
+|**2024-12-16**|**Representation learning for fast radio burst dynamic spectra**|Dirk Kuiper et.al.|[2412.12394v1](http://arxiv.org/abs/2412.12394v1)|[link](https://github.com/sron-api-datamagic/rep_learn_frb)|
+|**2024-12-16**|**The Impact of Generalization Techniques on the Interplay Among Privacy, Utility, and Fairness in Image Classification**|Ahmad Hassanpour et.al.|[2412.11951v1](http://arxiv.org/abs/2412.11951v1)|null|
+|**2024-12-16**|**MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models**|Weilun Feng et.al.|[2412.11549v1](http://arxiv.org/abs/2412.11549v1)|[link](https://github.com/cantbebetter2/mpq-dm)|
+|**2024-12-16**|**Mining In-distribution Attributes in Outliers for Out-of-distribution Detection**|Yutian Lei et.al.|[2412.11466v1](http://arxiv.org/abs/2412.11466v1)|null|
+|**2024-12-16**|**Looking At the Distant Universe with the MeerKAT Array: the HI Mass Function in the Local Universe**|Amir Kazemi-Moridani et.al.|[2412.11426v1](http://arxiv.org/abs/2412.11426v1)|null|
+|**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|
+|**2024-12-15**|**Volumetric Mapping with Panoptic Refinement via Kernel Density Estimation for Mobile Robots**|Khang Nguyen et.al.|[2412.11241v1](http://arxiv.org/abs/2412.11241v1)|[link](https://github.com/mkhangg/refined_panoptic_mapping)|
+|**2024-12-15**|**Redefining Normal: A Novel Object-Level Approach for Multi-Object Novelty Detection**|Mohammadreza Salehi et.al.|[2412.11148v1](http://arxiv.org/abs/2412.11148v1)|[link](https://github.com/smsd75/redefining_normal_accv24)|
+|**2024-12-15**|**Optimal Rates for Robust Stochastic Convex Optimization**|Changyu Gao et.al.|[2412.11003v2](http://arxiv.org/abs/2412.11003v2)|null|
+|**2024-12-14**|**On the correlation between X-rays and TeV gamma-rays in HBL Blazars**|Mabel Osorio-Archila et.al.|[2412.10996v1](http://arxiv.org/abs/2412.10996v1)|null|
+|**2024-12-14**|**Linear Programming based Approximation to Individually Fair k-Clustering with Outliers**|Binita Maity et.al.|[2412.10923v1](http://arxiv.org/abs/2412.10923v1)|null|
+|**2024-12-14**|**Structured Sampling for Robust Euclidean Distance Geometry**|Chandra Kundu et.al.|[2412.10664v1](http://arxiv.org/abs/2412.10664v1)|null|
+|**2024-12-13**|**KenCoh: A Ranked-Based Canonical Coherence**|Mara Sherlin D. Talento et.al.|[2412.10521v1](http://arxiv.org/abs/2412.10521v1)|null|
+|**2024-12-13**|**Buzz to Broadcast: Predicting Sports Viewership Using Social Media Engagement**|Anakin Trotter et.al.|[2412.10298v1](http://arxiv.org/abs/2412.10298v1)|[link](https://github.com/anakintrotter/reddit-sports-viewership-model)|
+|**2024-12-13**|**On The Lunar Origin of Near-Earth Asteroid 2024 PT5**|Theodore Kareta et.al.|[2412.10264v1](http://arxiv.org/abs/2412.10264v1)|null|
+|**2024-12-13**|**The Art of Deception: Color Visual Illusions and Diffusion Models**|Alex Gomez-Villa et.al.|[2412.10122v1](http://arxiv.org/abs/2412.10122v1)|null|
+|**2024-12-13**|**Data Pruning Can Do More: A Comprehensive Data Pruning Approach for Object Re-identification**|Zi Yang et.al.|[2412.10091v1](http://arxiv.org/abs/2412.10091v1)|[link](https://github.com/zi-y/data-pruning-reid)|
+|**2024-12-13**|**Ordering results between two finite arithmetic mixture models with multiple-outlier location-scale distributed components**|Raju Bhakta et.al.|[2412.10071v1](http://arxiv.org/abs/2412.10071v1)|null|
+|**2024-12-13**|**$L$-estimation of Claim Severity Models Weighted by Kumaraswamy Density**|Chudamani Poudyal et.al.|[2412.09830v1](http://arxiv.org/abs/2412.09830v1)|null|
+|**2024-12-12**|**The Controlled Four-Parameter Method for Cross-Assignment of Directional Wave Systems**|Andre Luiz Cordeiro dos Santos et.al.|[2412.09542v1](http://arxiv.org/abs/2412.09542v1)|null|
+|**2024-12-12**|**Explaining Model Overfitting in CNNs via GMM Clustering**|Hui Dou et.al.|[2412.10457v1](http://arxiv.org/abs/2412.10457v1)|null|
+|**2024-12-12**|**Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model**|Hang Zhou et.al.|[2412.09026v1](http://arxiv.org/abs/2412.09026v1)|null|
+|**2024-12-12**|**Magnetic polarisability of octet baryons near the physical quark-mass point**|Thomas Kabelitz et.al.|[2412.08960v1](http://arxiv.org/abs/2412.08960v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -79,37 +113,3 @@
 |**2024-12-19**|**The Effect of Charge Carrier Cooling on the Ultrafast Carrier Dynamics in Cs$_2$AgBiBr$_6$ Thin Films**|Huygen J. Jobsis et.al.|[2412.14929v1](http://arxiv.org/abs/2412.14929v1)|null|
 |**2024-12-19**|**Elastic waves in bearing raceways: the forward and inverse problem**|Jessica J. Kent et.al.|[2412.14928v1](http://arxiv.org/abs/2412.14928v1)|null|
 |**2024-12-19**|**RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response**|Junyu Luo et.al.|[2412.14922v1](http://arxiv.org/abs/2412.14922v1)|[link](https://github.com/luo-junyu/robustft)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-19**|**Robust PCA Based on Adaptive Weighted Least Squares and Low-Rank Matrix Factorization**|Kexin Li et.al.|[2412.14629v1](http://arxiv.org/abs/2412.14629v1)|null|
-|**2024-12-18**|**ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals**|Utkarsh Saxena et.al.|[2412.14363v1](http://arxiv.org/abs/2412.14363v1)|[link](https://github.com/utkarsh-dmx/project-resq)|
-|**2024-12-18**|**Variance-based loss function for improved regularization**|John M. Hanna et.al.|[2412.13993v1](http://arxiv.org/abs/2412.13993v1)|null|
-|**2024-12-18**|**A Statistical and Multi-Perspective Revisiting of the Membership Inference Attack in Large Language Models**|Bowen Chen et.al.|[2412.13475v1](http://arxiv.org/abs/2412.13475v1)|null|
-|**2024-12-17**|**Meta-analysis models relaxing the random effects normality assumption: methodological systematic review and simulation study**|Kanella Panagiotopoulou et.al.|[2412.12945v1](http://arxiv.org/abs/2412.12945v1)|null|
-|**2024-12-17**|**Multi-Subspace Matrix Recovery from Permuted Data**|Liangqi Xie et.al.|[2412.12931v1](http://arxiv.org/abs/2412.12931v1)|null|
-|**2024-12-17**|**SentiQNF: A Novel Approach to Sentiment Analysis Using Quantum Algorithms and Neuro-Fuzzy Systems**|Kshitij Dave et.al.|[2412.12731v1](http://arxiv.org/abs/2412.12731v1)|null|
-|**2024-12-16**|**Representation learning for fast radio burst dynamic spectra**|Dirk Kuiper et.al.|[2412.12394v1](http://arxiv.org/abs/2412.12394v1)|[link](https://github.com/sron-api-datamagic/rep_learn_frb)|
-|**2024-12-16**|**The Impact of Generalization Techniques on the Interplay Among Privacy, Utility, and Fairness in Image Classification**|Ahmad Hassanpour et.al.|[2412.11951v1](http://arxiv.org/abs/2412.11951v1)|null|
-|**2024-12-16**|**MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models**|Weilun Feng et.al.|[2412.11549v1](http://arxiv.org/abs/2412.11549v1)|[link](https://github.com/cantbebetter2/mpq-dm)|
-|**2024-12-16**|**Mining In-distribution Attributes in Outliers for Out-of-distribution Detection**|Yutian Lei et.al.|[2412.11466v1](http://arxiv.org/abs/2412.11466v1)|null|
-|**2024-12-16**|**Looking At the Distant Universe with the MeerKAT Array: the HI Mass Function in the Local Universe**|Amir Kazemi-Moridani et.al.|[2412.11426v1](http://arxiv.org/abs/2412.11426v1)|null|
-|**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|
-|**2024-12-15**|**Volumetric Mapping with Panoptic Refinement via Kernel Density Estimation for Mobile Robots**|Khang Nguyen et.al.|[2412.11241v1](http://arxiv.org/abs/2412.11241v1)|[link](https://github.com/mkhangg/refined_panoptic_mapping)|
-|**2024-12-15**|**Redefining Normal: A Novel Object-Level Approach for Multi-Object Novelty Detection**|Mohammadreza Salehi et.al.|[2412.11148v1](http://arxiv.org/abs/2412.11148v1)|[link](https://github.com/smsd75/redefining_normal_accv24)|
-|**2024-12-15**|**Optimal Rates for Robust Stochastic Convex Optimization**|Changyu Gao et.al.|[2412.11003v2](http://arxiv.org/abs/2412.11003v2)|null|
-|**2024-12-14**|**On the correlation between X-rays and TeV gamma-rays in HBL Blazars**|Mabel Osorio-Archila et.al.|[2412.10996v1](http://arxiv.org/abs/2412.10996v1)|null|
-|**2024-12-14**|**Linear Programming based Approximation to Individually Fair k-Clustering with Outliers**|Binita Maity et.al.|[2412.10923v1](http://arxiv.org/abs/2412.10923v1)|null|
-|**2024-12-14**|**Structured Sampling for Robust Euclidean Distance Geometry**|Chandra Kundu et.al.|[2412.10664v1](http://arxiv.org/abs/2412.10664v1)|null|
-|**2024-12-13**|**KenCoh: A Ranked-Based Canonical Coherence**|Mara Sherlin D. Talento et.al.|[2412.10521v1](http://arxiv.org/abs/2412.10521v1)|null|
-|**2024-12-13**|**Buzz to Broadcast: Predicting Sports Viewership Using Social Media Engagement**|Anakin Trotter et.al.|[2412.10298v1](http://arxiv.org/abs/2412.10298v1)|[link](https://github.com/anakintrotter/reddit-sports-viewership-model)|
-|**2024-12-13**|**On The Lunar Origin of Near-Earth Asteroid 2024 PT5**|Theodore Kareta et.al.|[2412.10264v1](http://arxiv.org/abs/2412.10264v1)|null|
-|**2024-12-13**|**The Art of Deception: Color Visual Illusions and Diffusion Models**|Alex Gomez-Villa et.al.|[2412.10122v1](http://arxiv.org/abs/2412.10122v1)|null|
-|**2024-12-13**|**Data Pruning Can Do More: A Comprehensive Data Pruning Approach for Object Re-identification**|Zi Yang et.al.|[2412.10091v1](http://arxiv.org/abs/2412.10091v1)|[link](https://github.com/zi-y/data-pruning-reid)|
-|**2024-12-13**|**Ordering results between two finite arithmetic mixture models with multiple-outlier location-scale distributed components**|Raju Bhakta et.al.|[2412.10071v1](http://arxiv.org/abs/2412.10071v1)|null|
-|**2024-12-13**|**$L$-estimation of Claim Severity Models Weighted by Kumaraswamy Density**|Chudamani Poudyal et.al.|[2412.09830v1](http://arxiv.org/abs/2412.09830v1)|null|
-|**2024-12-12**|**The Controlled Four-Parameter Method for Cross-Assignment of Directional Wave Systems**|Andre Luiz Cordeiro dos Santos et.al.|[2412.09542v1](http://arxiv.org/abs/2412.09542v1)|null|
-|**2024-12-12**|**Explaining Model Overfitting in CNNs via GMM Clustering**|Hui Dou et.al.|[2412.10457v1](http://arxiv.org/abs/2412.10457v1)|null|
-|**2024-12-12**|**Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model**|Hang Zhou et.al.|[2412.09026v1](http://arxiv.org/abs/2412.09026v1)|null|
-|**2024-12-12**|**Magnetic polarisability of octet baryons near the physical quark-mass point**|Thomas Kabelitz et.al.|[2412.08960v1](http://arxiv.org/abs/2412.08960v1)|null|
