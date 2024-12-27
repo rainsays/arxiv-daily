@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-27 09:52:30 Asia/Shanghai
+ Automated deployment @ 2024-12-27 20:48:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -110,6 +110,6 @@
 |**2024-12-24**|**Halo-dependent Anharmonic Effects in Collective Excitation for Light Dark Matter Direct Detection**|Jun Guo et.al.|[2412.18330v1](http://arxiv.org/abs/2412.18330v1)|null|
 |**2024-12-24**|**Search for a gravitational wave background from primordial black hole binaries using data from the first three LIGO-Virgo-KAGRA observing runs**|Tore Boybeyi et.al.|[2412.18318v1](http://arxiv.org/abs/2412.18318v1)|null|
 |**2024-12-24**|**Position reconstruction using deep learning for the HERD PSD beam test**|Longkun Yu et.al.|[2412.18301v1](http://arxiv.org/abs/2412.18301v1)|null|
-|**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298v1](http://arxiv.org/abs/2412.18298v1)|null|
+|**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298v1](http://arxiv.org/abs/2412.18298v1)|[link](https://github.com/Darcyddx/VAD-LLM)|
 |**2024-12-24**|**DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation**|Junyi Lu et.al.|[2412.18291v1](http://arxiv.org/abs/2412.18291v1)|null|
 |**2024-12-24**|**Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation**|Sheng Xiang et.al.|[2412.18287v1](http://arxiv.org/abs/2412.18287v1)|[link](https://github.com/ai4risk/antifraud)|
