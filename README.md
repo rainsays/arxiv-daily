@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-29 10:01:19 Asia/Shanghai
+ Automated deployment @ 2024-12-29 20:45:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -22,7 +22,7 @@
 |**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593v1](http://arxiv.org/abs/2412.18593v1)|null|
 |**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588v1](http://arxiv.org/abs/2412.18588v1)|null|
 |**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579v1](http://arxiv.org/abs/2412.18579v1)|[link](https://github.com/ollycassidy13/ReducedLUT)|
-|**2024-12-24**|**Machine Learning Approaches to the Shafarevich-Tate Group of Elliptic Curves**|Angelica Babei et.al.|[2412.18576v1](http://arxiv.org/abs/2412.18576v1)|null|
+|**2024-12-24**|**Machine Learning Approaches to the Shafarevich-Tate Group of Elliptic Curves**|Angelica Babei et.al.|[2412.18576v1](http://arxiv.org/abs/2412.18576v1)|[link](https://github.com/barinderbanwait/ml_rnt)|
 |**2024-12-24**|**Inferring intermediate states by leveraging the many-body Arrhenius law**|Vishwajeet Kumar et.al.|[2412.18574v1](http://arxiv.org/abs/2412.18574v1)|null|
 |**2024-12-24**|**HNCI: High-Dimensional Network Causal Inference**|Wenqin Du et.al.|[2412.18568v1](http://arxiv.org/abs/2412.18568v1)|[link](https://github.com/WenqinDu/HNCI)|
 |**2024-12-24**|**Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks**|Apurba Sarker et.al.|[2412.18564v1](http://arxiv.org/abs/2412.18564v1)|null|
@@ -101,10 +101,10 @@
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426v1](http://arxiv.org/abs/2412.18426v1)|null|
 |**2024-12-24**|**Alternative LISA-TAIJI networks: Detectability of the Parity Violation in Stochastic Gravitational Wave Background**|Ju Chen et.al.|[2412.18420v1](http://arxiv.org/abs/2412.18420v1)|null|
 |**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404v1](http://arxiv.org/abs/2412.18404v1)|null|
-|**2024-12-24**|**Detectorless 3D terahertz imaging: achieving subwavelength resolution with reflectance confocal interferometric microscopy**|Jorge Silva et.al.|[2412.18403v1](http://arxiv.org/abs/2412.18403v1)|null|
+|**2024-12-24**|**Detectorless 3D terahertz imaging: achieving subwavelength resolution with reflectance confocal interferometric microscopy**|Jorge Silva et.al.|[2412.18403v1](http://arxiv.org/abs/2412.18403v1)|[link](https://github.com/jrgsilv/beam-propagation)|
 |**2024-12-24**|**Scheme to Detect the Strong-to-weak Symmetry Breaking via Randomized Measurements**|Ning Sun et.al.|[2412.18397v1](http://arxiv.org/abs/2412.18397v1)|null|
 |**2024-12-24**|**Static Code Analyzer Recommendation via Preference Mining**|Xiuting Ge et.al.|[2412.18393v1](http://arxiv.org/abs/2412.18393v1)|null|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371v1](http://arxiv.org/abs/2412.18371v1)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371v1](http://arxiv.org/abs/2412.18371v1)|[link](https://github.com/KevinHeiwa/Agentable)|
 |**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370v1](http://arxiv.org/abs/2412.18370v1)|[link](https://github.com/bdi-lab/monti)|
 |**2024-12-24**|**Hypergraph Attacks via Injecting Homogeneous Nodes into Elite Hyperedges**|Meixia He et.al.|[2412.18365v1](http://arxiv.org/abs/2412.18365v1)|null|
 |**2024-12-24**|**Halo-dependent Anharmonic Effects in Collective Excitation for Light Dark Matter Direct Detection**|Jun Guo et.al.|[2412.18330v1](http://arxiv.org/abs/2412.18330v1)|null|
