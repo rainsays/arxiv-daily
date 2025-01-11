@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-11 09:53:06 Asia/Shanghai
+ Automated deployment @ 2025-01-11 20:46:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -11,6 +11,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449v1](http://arxiv.org/abs/2501.05449v1)|null|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443v1](http://arxiv.org/abs/2501.05443v1)|null|
+|**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426v1](http://arxiv.org/abs/2501.05426v1)|null|
+|**2025-01-09**|**Performance of YOLOv7 in Kitchen Safety While Handling Knife**|Athulya Sundaresan Geetha et.al.|[2501.05399v1](http://arxiv.org/abs/2501.05399v1)|null|
+|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398v1](http://arxiv.org/abs/2501.05398v1)|null|
+|**2025-01-09**|**The global consensus on the risk management of autonomous driving**|Sebastian Krügel et.al.|[2501.05391v1](http://arxiv.org/abs/2501.05391v1)|null|
+|**2025-01-09**|**Integrating Explainable AI for Effective Malware Detection in Encrypted Network Traffic**|Sileshi Nibret Zeleke et.al.|[2501.05387v1](http://arxiv.org/abs/2501.05387v1)|null|
+|**2025-01-09**|**Quantum undetected optical projection tomography**|Nathan R. Gemmell et.al.|[2501.05381v1](http://arxiv.org/abs/2501.05381v1)|null|
+|**2025-01-09**|**Byzantine Fault Tolerant Protocols with Near-Constant Work per Node without Signatures**|Philipp Schneider et.al.|[2501.05377v1](http://arxiv.org/abs/2501.05377v1)|null|
+|**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359v1](http://arxiv.org/abs/2501.05359v1)|null|
+|**2025-01-09**|**Randomized Spectral Clustering for Large-Scale Multi-Layer Networks**|Wenqing Su et.al.|[2501.05326v1](http://arxiv.org/abs/2501.05326v1)|null|
+|**2025-01-09**|**Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey**|Otabek Sattarov et.al.|[2501.05292v1](http://arxiv.org/abs/2501.05292v1)|null|
+|**2025-01-09**|**Revealing the hidden cosmic feast: A z=4.3 galaxy group hosting two optically dark, efficiently star-forming galaxies**|Malte Brinch et.al.|[2501.05288v1](http://arxiv.org/abs/2501.05288v1)|null|
+|**2025-01-09**|**Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**|Jiaxuan Peng et.al.|[2501.05264v1](http://arxiv.org/abs/2501.05264v1)|null|
+|**2025-01-09**|**Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**|Atharva Mutsaddi et.al.|[2501.05260v1](http://arxiv.org/abs/2501.05260v1)|[link](https://github.com/aditya-choudhary599/Marathi-Plagiarism-Detection)|
+|**2025-01-09**|**Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**|Daniele Cipollone et.al.|[2501.05258v1](http://arxiv.org/abs/2501.05258v1)|null|
+|**2025-01-09**|**RAG-WM: An Efficient Black-Box Watermarking Approach for Retrieval-Augmented Generation of Large Language Models**|Peizhuo Lv et.al.|[2501.05249v1](http://arxiv.org/abs/2501.05249v1)|null|
+|**2025-01-09**|**Joint Communications and Sensing for 6G Satellite Networks: Use Cases and Challenges**|Chandan Kumar Sheemar et.al.|[2501.05243v1](http://arxiv.org/abs/2501.05243v1)|null|
+|**2025-01-09**|**Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion**|Guang Yang et.al.|[2501.05241v1](http://arxiv.org/abs/2501.05241v1)|null|
+|**2025-01-09**|**Automated external cervical resorption segmentation in cone-beam CT using local texture features**|Sadhana Ravikumar et.al.|[2501.05236v1](http://arxiv.org/abs/2501.05236v1)|null|
+|**2025-01-09**|**Harnessing Large Language and Vision-Language Models for Robust Out-of-Distribution Detection**|Pei-Kang Lee et.al.|[2501.05228v1](http://arxiv.org/abs/2501.05228v1)|null|
+|**2025-01-09**|**EVA-S2PLoR: A Secure Element-wise Multiplication Meets Logistic Regression on Heterogeneous Database**|Tianle Tao et.al.|[2501.05223v1](http://arxiv.org/abs/2501.05223v1)|null|
+|**2025-01-09**|**Rigorous analytic solution to the gravitational-wave overlapping event rates**|Ziming Wang et.al.|[2501.05218v1](http://arxiv.org/abs/2501.05218v1)|null|
+|**2025-01-09**|**Probing Nuclear Excitation by Electron Capture in an Electron Beam Ion Trap with Non-destructive Isomer Detection via Precision Mass Spectrometry**|Bingsheng Tu et.al.|[2501.05217v1](http://arxiv.org/abs/2501.05217v1)|null|
+|**2025-01-09**|**Local Detection of Enhanced Hot Electron Scattering in InSb/CdTe Heterostructure Interface**|Xiaoxiao Ma et.al.|[2501.05208v1](http://arxiv.org/abs/2501.05208v1)|null|
+|**2025-01-09**|**First observation of reactor antineutrinos by coherent scattering**|N. Ackermann et.al.|[2501.05206v1](http://arxiv.org/abs/2501.05206v1)|null|
+|**2025-01-09**|**Bringing Order Amidst Chaos: On the Role of Artificial Intelligence in Secure Software Engineering**|Matteo Esposito et.al.|[2501.05165v1](http://arxiv.org/abs/2501.05165v1)|null|
+|**2025-01-09**|**Joint Detection and Angle Estimation for Multiple Jammers in Beamspace Massive MIMO**|Pengguang Du et.al.|[2501.05160v1](http://arxiv.org/abs/2501.05160v1)|null|
+|**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154v1](http://arxiv.org/abs/2501.05154v1)|null|
+|**2025-01-09**|**High-resolution imaging of the radio source associated with Project Hephaistos Dyson Sphere Candidate G**|Tongtian Ren et.al.|[2501.05152v1](http://arxiv.org/abs/2501.05152v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -31,7 +65,7 @@
 |**2025-01-05**|**GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection**|Yihang Tao et.al.|[2501.02450v1](http://arxiv.org/abs/2501.02450v1)|null|
 |**2025-01-04**|**Robust Multi-Dimensional Scaling via Accelerated Alternating Projections**|Tong Deng et.al.|[2501.02208v1](http://arxiv.org/abs/2501.02208v1)|null|
 |**2025-01-03**|**KeyNode-Driven Geometry Coding for Real-World Scanned Human Dynamic Mesh Compression**|Huong Hoang et.al.|[2501.01717v1](http://arxiv.org/abs/2501.01717v1)|null|
-|**2025-01-03**|**Robust Self-Paced Hashing for Cross-Modal Retrieval with Noisy Labels**|Ruitao Pu et.al.|[2501.01699v1](http://arxiv.org/abs/2501.01699v1)|null|
+|**2025-01-03**|**Robust Self-Paced Hashing for Cross-Modal Retrieval with Noisy Labels**|Ruitao Pu et.al.|[2501.01699v1](http://arxiv.org/abs/2501.01699v1)|[link](https://github.com/perquisite/rshnl)|
 |**2025-01-02**|**Transfer Neyman-Pearson Algorithm for Outlier Detection**|Mohammadreza M. Kalan et.al.|[2501.01525v1](http://arxiv.org/abs/2501.01525v1)|null|
 |**2025-01-02**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144v2](http://arxiv.org/abs/2501.01144v2)|null|
 |**2025-01-02**|**SpecPT (Spectroscopy Pre-trained Transformer) Model for Extragalactic Spectroscopy: I. Architecture and Automated Redshift Measurement**|Rohan Pattnaik et.al.|[2501.01070v1](http://arxiv.org/abs/2501.01070v1)|null|
@@ -79,37 +113,3 @@
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265v1](http://arxiv.org/abs/2501.05265v1)|null|
 |**2025-01-09**|**QMDB: Quick Merkle Database**|Isaac Zhang et.al.|[2501.05262v1](http://arxiv.org/abs/2501.05262v1)|null|
 |**2025-01-09**|**Providing Machine Learning Potentials with High Quality Uncertainty Estimates**|Zeynep Sumer et.al.|[2501.05250v1](http://arxiv.org/abs/2501.05250v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449v1](http://arxiv.org/abs/2501.05449v1)|null|
-|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443v1](http://arxiv.org/abs/2501.05443v1)|null|
-|**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426v1](http://arxiv.org/abs/2501.05426v1)|null|
-|**2025-01-09**|**Performance of YOLOv7 in Kitchen Safety While Handling Knife**|Athulya Sundaresan Geetha et.al.|[2501.05399v1](http://arxiv.org/abs/2501.05399v1)|null|
-|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398v1](http://arxiv.org/abs/2501.05398v1)|null|
-|**2025-01-09**|**The global consensus on the risk management of autonomous driving**|Sebastian Krügel et.al.|[2501.05391v1](http://arxiv.org/abs/2501.05391v1)|null|
-|**2025-01-09**|**Integrating Explainable AI for Effective Malware Detection in Encrypted Network Traffic**|Sileshi Nibret Zeleke et.al.|[2501.05387v1](http://arxiv.org/abs/2501.05387v1)|null|
-|**2025-01-09**|**Quantum undetected optical projection tomography**|Nathan R. Gemmell et.al.|[2501.05381v1](http://arxiv.org/abs/2501.05381v1)|null|
-|**2025-01-09**|**Byzantine Fault Tolerant Protocols with Near-Constant Work per Node without Signatures**|Philipp Schneider et.al.|[2501.05377v1](http://arxiv.org/abs/2501.05377v1)|null|
-|**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359v1](http://arxiv.org/abs/2501.05359v1)|null|
-|**2025-01-09**|**Randomized Spectral Clustering for Large-Scale Multi-Layer Networks**|Wenqing Su et.al.|[2501.05326v1](http://arxiv.org/abs/2501.05326v1)|null|
-|**2025-01-09**|**Detection of Rumors and Their Sources in Social Networks: A Comprehensive Survey**|Otabek Sattarov et.al.|[2501.05292v1](http://arxiv.org/abs/2501.05292v1)|null|
-|**2025-01-09**|**Revealing the hidden cosmic feast: A z=4.3 galaxy group hosting two optically dark, efficiently star-forming galaxies**|Malte Brinch et.al.|[2501.05288v1](http://arxiv.org/abs/2501.05288v1)|null|
-|**2025-01-09**|**Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**|Jiaxuan Peng et.al.|[2501.05264v1](http://arxiv.org/abs/2501.05264v1)|null|
-|**2025-01-09**|**Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**|Atharva Mutsaddi et.al.|[2501.05260v1](http://arxiv.org/abs/2501.05260v1)|[link](https://github.com/aditya-choudhary599/Marathi-Plagiarism-Detection)|
-|**2025-01-09**|**Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**|Daniele Cipollone et.al.|[2501.05258v1](http://arxiv.org/abs/2501.05258v1)|null|
-|**2025-01-09**|**RAG-WM: An Efficient Black-Box Watermarking Approach for Retrieval-Augmented Generation of Large Language Models**|Peizhuo Lv et.al.|[2501.05249v1](http://arxiv.org/abs/2501.05249v1)|null|
-|**2025-01-09**|**Joint Communications and Sensing for 6G Satellite Networks: Use Cases and Challenges**|Chandan Kumar Sheemar et.al.|[2501.05243v1](http://arxiv.org/abs/2501.05243v1)|null|
-|**2025-01-09**|**Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion**|Guang Yang et.al.|[2501.05241v1](http://arxiv.org/abs/2501.05241v1)|null|
-|**2025-01-09**|**Automated external cervical resorption segmentation in cone-beam CT using local texture features**|Sadhana Ravikumar et.al.|[2501.05236v1](http://arxiv.org/abs/2501.05236v1)|null|
-|**2025-01-09**|**Harnessing Large Language and Vision-Language Models for Robust Out-of-Distribution Detection**|Pei-Kang Lee et.al.|[2501.05228v1](http://arxiv.org/abs/2501.05228v1)|null|
-|**2025-01-09**|**EVA-S2PLoR: A Secure Element-wise Multiplication Meets Logistic Regression on Heterogeneous Database**|Tianle Tao et.al.|[2501.05223v1](http://arxiv.org/abs/2501.05223v1)|null|
-|**2025-01-09**|**Rigorous analytic solution to the gravitational-wave overlapping event rates**|Ziming Wang et.al.|[2501.05218v1](http://arxiv.org/abs/2501.05218v1)|null|
-|**2025-01-09**|**Probing Nuclear Excitation by Electron Capture in an Electron Beam Ion Trap with Non-destructive Isomer Detection via Precision Mass Spectrometry**|Bingsheng Tu et.al.|[2501.05217v1](http://arxiv.org/abs/2501.05217v1)|null|
-|**2025-01-09**|**Local Detection of Enhanced Hot Electron Scattering in InSb/CdTe Heterostructure Interface**|Xiaoxiao Ma et.al.|[2501.05208v1](http://arxiv.org/abs/2501.05208v1)|null|
-|**2025-01-09**|**First observation of reactor antineutrinos by coherent scattering**|N. Ackermann et.al.|[2501.05206v1](http://arxiv.org/abs/2501.05206v1)|null|
-|**2025-01-09**|**Bringing Order Amidst Chaos: On the Role of Artificial Intelligence in Secure Software Engineering**|Matteo Esposito et.al.|[2501.05165v1](http://arxiv.org/abs/2501.05165v1)|null|
-|**2025-01-09**|**Joint Detection and Angle Estimation for Multiple Jammers in Beamspace Massive MIMO**|Pengguang Du et.al.|[2501.05160v1](http://arxiv.org/abs/2501.05160v1)|null|
-|**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154v1](http://arxiv.org/abs/2501.05154v1)|null|
-|**2025-01-09**|**High-resolution imaging of the radio source associated with Project Hephaistos Dyson Sphere Candidate G**|Tongtian Ren et.al.|[2501.05152v1](http://arxiv.org/abs/2501.05152v1)|null|
