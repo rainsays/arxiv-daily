@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-19 09:56:32 Asia/Shanghai
+ Automated deployment @ 2025-01-19 20:44:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -11,40 +11,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-15**|**Mantis Shrimp: Exploring Photometric Band Utilization in Computer Vision Networks for Photometric Redshift Estimation**|Andrew Engel et.al.|[2501.09112v1](http://arxiv.org/abs/2501.09112v1)|[link](https://github.com/pnnl/mantisshrimp)|
-|**2025-01-15**|**TCMM: Token Constraint and Multi-Scale Memory Bank of Contrastive Learning for Unsupervised Person Re-identification**|Zheng-An Zhu et.al.|[2501.09044v1](http://arxiv.org/abs/2501.09044v1)|[link](https://github.com/andy412510/tcmm)|
-|**2025-01-14**|**Architecture Classification for Extrasolar Planetary Systems**|Alex R. Howe et.al.|[2501.08191v1](http://arxiv.org/abs/2501.08191v1)|null|
-|**2025-01-14**|**Unsupervised Feature Construction for Anomaly Detection in Time Series -- An Evaluation**|Marine Hamon et.al.|[2501.07999v1](http://arxiv.org/abs/2501.07999v1)|null|
-|**2025-01-14**|**Sampling from Density power divergence-based Generalized posterior distribution via Stochastic optimization**|Naruki Sonobe et.al.|[2501.07790v1](http://arxiv.org/abs/2501.07790v1)|null|
-|**2025-01-14**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762v1](http://arxiv.org/abs/2501.07762v1)|null|
-|**2025-01-13**|**Real-Time Outlier Connections Detection in Databases Network Traffic**|Leonid Rodniansky et.al.|[2501.07689v1](http://arxiv.org/abs/2501.07689v1)|null|
-|**2025-01-13**|**Euclid: Optimising tomographic redshift binning for 3$\times$2pt power spectrum constraints on dark energy**|J. H. W. Wong et.al.|[2501.07559v1](http://arxiv.org/abs/2501.07559v1)|null|
-|**2025-01-13**|**Dynamic Prototype Rehearsal for Continual Learning in ECG Arrhythmia Detection**|Sana Rahmani et.al.|[2501.07555v1](http://arxiv.org/abs/2501.07555v1)|null|
-|**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478v1](http://arxiv.org/abs/2501.07478v1)|[link](https://github.com/lewis-stuart-11/3dgs-to-pc)|
-|**2025-01-13**|**Quality Control of Lifetime Drift in Discrete Electrical Parameters in Semiconductor Devices via Transition Modeling**|Lukas Sommeregger et.al.|[2501.07115v1](http://arxiv.org/abs/2501.07115v1)|null|
-|**2025-01-12**|**KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks**|Ankit Gangwal et.al.|[2501.06729v1](http://arxiv.org/abs/2501.06729v1)|null|
-|**2025-01-11**|**Active Rule Mining for Multivariate Anomaly Detection in Radio Access Networks**|Ebenezer R. H. P. Isaac et.al.|[2501.06571v1](http://arxiv.org/abs/2501.06571v1)|null|
-|**2025-01-11**|**ARES: Auxiliary Range Expansion for Outlier Synthesis**|Eui-Soo Jung et.al.|[2501.06442v1](http://arxiv.org/abs/2501.06442v1)|null|
-|**2025-01-11**|**Convergence analysis of Wirtinger Flow for Poisson phase retrieval**|Bing Gao et.al.|[2501.06402v1](http://arxiv.org/abs/2501.06402v1)|null|
-|**2025-01-10**|**Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity**|Navin Ranjan et.al.|[2501.06357v1](http://arxiv.org/abs/2501.06357v1)|null|
-|**2025-01-10**|**Simple proof of robustness for Bayesian heavy-tailed linear regression models**|Philippe Gagnon et.al.|[2501.06349v1](http://arxiv.org/abs/2501.06349v1)|null|
-|**2025-01-10**|**Empirical Power Analysis of a Statistical Test to Quantify Gerrymandering**|Ranthony A. Clark et.al.|[2501.05761v1](http://arxiv.org/abs/2501.05761v1)|[link](https://github.com/HarlinLee/gerrypowers)|
-|**2025-01-10**|**An Efficient Dual ADMM for Huber Regression with Fused Lasso Penalty**|Mengjiao Shi et.al.|[2501.05676v1](http://arxiv.org/abs/2501.05676v1)|null|
-|**2025-01-09**|**Outlyingness Scores with Cluster Catch Digraphs**|Rui Shi et.al.|[2501.05530v1](http://arxiv.org/abs/2501.05530v1)|null|
-|**2025-01-09**|**Learning In-Distribution Representations for Anomaly Detection**|Willian T. Lunardi et.al.|[2501.05130v2](http://arxiv.org/abs/2501.05130v2)|[link](https://github.com/willtl/firm)|
-|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304v1](http://arxiv.org/abs/2501.04304v1)|null|
-|**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155v1](http://arxiv.org/abs/2501.04155v1)|[link](https://github.com/sjoshi804/mm-gen)|
-|**2025-01-07**|**Expanding the parameter space of 2002es-like type Ia supernovae: on the underluminous ASASSN-20jq / SN 2020qxp**|Subhash Bose et.al.|[2501.04086v1](http://arxiv.org/abs/2501.04086v1)|null|
-|**2025-01-07**|**High-cadence stellar variability studies of RR Lyrae stars with DECam: New multi-band templates**|K. Baeza-Villagra et.al.|[2501.03813v1](http://arxiv.org/abs/2501.03813v1)|[link](https://github.com/karinabaezav/multiband-templates)|
-|**2025-01-07**|**Connection between planetary He I $λ$10830 Å absorption and extreme-ultraviolet emission of planet-host stars**|J. Sanz-Forcada et.al.|[2501.03716v1](http://arxiv.org/abs/2501.03716v1)|null|
-|**2025-01-07**|**Benchmarking seismic phase associators: Insights from synthetic scenarios**|Jorge Puente et.al.|[2501.03621v1](http://arxiv.org/abs/2501.03621v1)|null|
-|**2025-01-06**|**On the Adversarial Robustness of Benjamini Hochberg**|Louis L Chen et.al.|[2501.03402v1](http://arxiv.org/abs/2501.03402v1)|null|
-|**2025-01-06**|**Characterization of Flux Trapping in and Fabrication of Large-Scale Superconductor Circuits Using AC-Biased Shift Registers With 108500 Josephson Junctions**|Evan B. Golden et.al.|[2501.03343v1](http://arxiv.org/abs/2501.03343v1)|null|
-|**2025-01-06**|**Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls**|Can Gao et.al.|[2501.02975v1](http://arxiv.org/abs/2501.02975v1)|[link](https://github.com/xiaofeng-tan/mgbod)|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -79,6 +45,40 @@
 |**2025-01-16**|**HydraMix: Multi-Image Feature Mixing for Small Data Image Classification**|Christoph Reinders et.al.|[2501.09504v1](http://arxiv.org/abs/2501.09504v1)|null|
 |**2025-01-16**|**From Weyl Anomaly to Defect Supersymmetric Rényi Entropy and Casimir Energy**|Zi-Xiao Huang et.al.|[2501.09498v1](http://arxiv.org/abs/2501.09498v1)|null|
 |**2025-01-16**|**Connectivity for AI enabled cities -- A field survey based study of emerging economies**|Dibakar Das et.al.|[2501.09479v1](http://arxiv.org/abs/2501.09479v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-15**|**Mantis Shrimp: Exploring Photometric Band Utilization in Computer Vision Networks for Photometric Redshift Estimation**|Andrew Engel et.al.|[2501.09112v1](http://arxiv.org/abs/2501.09112v1)|[link](https://github.com/pnnl/mantisshrimp)|
+|**2025-01-15**|**TCMM: Token Constraint and Multi-Scale Memory Bank of Contrastive Learning for Unsupervised Person Re-identification**|Zheng-An Zhu et.al.|[2501.09044v1](http://arxiv.org/abs/2501.09044v1)|[link](https://github.com/andy412510/tcmm)|
+|**2025-01-14**|**Architecture Classification for Extrasolar Planetary Systems**|Alex R. Howe et.al.|[2501.08191v1](http://arxiv.org/abs/2501.08191v1)|null|
+|**2025-01-14**|**Unsupervised Feature Construction for Anomaly Detection in Time Series -- An Evaluation**|Marine Hamon et.al.|[2501.07999v1](http://arxiv.org/abs/2501.07999v1)|null|
+|**2025-01-14**|**Sampling from Density power divergence-based Generalized posterior distribution via Stochastic optimization**|Naruki Sonobe et.al.|[2501.07790v1](http://arxiv.org/abs/2501.07790v1)|null|
+|**2025-01-14**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762v1](http://arxiv.org/abs/2501.07762v1)|null|
+|**2025-01-13**|**Real-Time Outlier Connections Detection in Databases Network Traffic**|Leonid Rodniansky et.al.|[2501.07689v1](http://arxiv.org/abs/2501.07689v1)|null|
+|**2025-01-13**|**Euclid: Optimising tomographic redshift binning for 3$\times$2pt power spectrum constraints on dark energy**|J. H. W. Wong et.al.|[2501.07559v1](http://arxiv.org/abs/2501.07559v1)|null|
+|**2025-01-13**|**Dynamic Prototype Rehearsal for Continual Learning in ECG Arrhythmia Detection**|Sana Rahmani et.al.|[2501.07555v1](http://arxiv.org/abs/2501.07555v1)|null|
+|**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478v1](http://arxiv.org/abs/2501.07478v1)|[link](https://github.com/lewis-stuart-11/3dgs-to-pc)|
+|**2025-01-13**|**Quality Control of Lifetime Drift in Discrete Electrical Parameters in Semiconductor Devices via Transition Modeling**|Lukas Sommeregger et.al.|[2501.07115v1](http://arxiv.org/abs/2501.07115v1)|null|
+|**2025-01-12**|**KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks**|Ankit Gangwal et.al.|[2501.06729v1](http://arxiv.org/abs/2501.06729v1)|null|
+|**2025-01-11**|**Active Rule Mining for Multivariate Anomaly Detection in Radio Access Networks**|Ebenezer R. H. P. Isaac et.al.|[2501.06571v1](http://arxiv.org/abs/2501.06571v1)|null|
+|**2025-01-11**|**ARES: Auxiliary Range Expansion for Outlier Synthesis**|Eui-Soo Jung et.al.|[2501.06442v1](http://arxiv.org/abs/2501.06442v1)|null|
+|**2025-01-11**|**Convergence analysis of Wirtinger Flow for Poisson phase retrieval**|Bing Gao et.al.|[2501.06402v1](http://arxiv.org/abs/2501.06402v1)|null|
+|**2025-01-10**|**Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity**|Navin Ranjan et.al.|[2501.06357v1](http://arxiv.org/abs/2501.06357v1)|null|
+|**2025-01-10**|**Simple proof of robustness for Bayesian heavy-tailed linear regression models**|Philippe Gagnon et.al.|[2501.06349v1](http://arxiv.org/abs/2501.06349v1)|null|
+|**2025-01-10**|**Empirical Power Analysis of a Statistical Test to Quantify Gerrymandering**|Ranthony A. Clark et.al.|[2501.05761v1](http://arxiv.org/abs/2501.05761v1)|[link](https://github.com/HarlinLee/gerrypowers)|
+|**2025-01-10**|**An Efficient Dual ADMM for Huber Regression with Fused Lasso Penalty**|Mengjiao Shi et.al.|[2501.05676v1](http://arxiv.org/abs/2501.05676v1)|null|
+|**2025-01-09**|**Outlyingness Scores with Cluster Catch Digraphs**|Rui Shi et.al.|[2501.05530v1](http://arxiv.org/abs/2501.05530v1)|null|
+|**2025-01-09**|**Learning In-Distribution Representations for Anomaly Detection**|Willian T. Lunardi et.al.|[2501.05130v2](http://arxiv.org/abs/2501.05130v2)|[link](https://github.com/willtl/firm)|
+|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304v1](http://arxiv.org/abs/2501.04304v1)|null|
+|**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155v1](http://arxiv.org/abs/2501.04155v1)|[link](https://github.com/sjoshi804/mm-gen)|
+|**2025-01-07**|**Expanding the parameter space of 2002es-like type Ia supernovae: on the underluminous ASASSN-20jq / SN 2020qxp**|Subhash Bose et.al.|[2501.04086v1](http://arxiv.org/abs/2501.04086v1)|null|
+|**2025-01-07**|**High-cadence stellar variability studies of RR Lyrae stars with DECam: New multi-band templates**|K. Baeza-Villagra et.al.|[2501.03813v1](http://arxiv.org/abs/2501.03813v1)|[link](https://github.com/karinabaezav/multiband-templates)|
+|**2025-01-07**|**Connection between planetary He I $λ$10830 Å absorption and extreme-ultraviolet emission of planet-host stars**|J. Sanz-Forcada et.al.|[2501.03716v1](http://arxiv.org/abs/2501.03716v1)|null|
+|**2025-01-07**|**Benchmarking seismic phase associators: Insights from synthetic scenarios**|Jorge Puente et.al.|[2501.03621v1](http://arxiv.org/abs/2501.03621v1)|null|
+|**2025-01-06**|**On the Adversarial Robustness of Benjamini Hochberg**|Louis L Chen et.al.|[2501.03402v1](http://arxiv.org/abs/2501.03402v1)|null|
+|**2025-01-06**|**Characterization of Flux Trapping in and Fabrication of Large-Scale Superconductor Circuits Using AC-Biased Shift Registers With 108500 Josephson Junctions**|Evan B. Golden et.al.|[2501.03343v1](http://arxiv.org/abs/2501.03343v1)|null|
+|**2025-01-06**|**Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls**|Can Gao et.al.|[2501.02975v1](http://arxiv.org/abs/2501.02975v1)|[link](https://github.com/xiaofeng-tan/mgbod)|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
