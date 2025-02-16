@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-16 09:59:42 Asia/Shanghai
+ Automated deployment @ 2025-02-16 20:47:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -11,40 +11,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608v1](http://arxiv.org/abs/2502.09608v1)|null|
-|**2025-02-13**|**The role of triple evolution in the formation of LISA double white dwarfs**|Abinaya Swaruba Rajamuthukumar et.al.|[2502.09607v1](http://arxiv.org/abs/2502.09607v1)|null|
-|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606v1](http://arxiv.org/abs/2502.09606v1)|null|
-|**2025-02-13**|**Cosmological phase transitions from the functional measure**|Bruno Berganholi et.al.|[2502.09593v1](http://arxiv.org/abs/2502.09593v1)|null|
-|**2025-02-13**|**Multiple-cavities interferometric analysis for dark matter axions directional-sensitive search based on signal cross-correlation processing**|José Reina-Valero et.al.|[2502.09580v1](http://arxiv.org/abs/2502.09580v1)|null|
-|**2025-02-13**|**Wireless and passive pressure detection using magneto-mechanical resonances in process engineering**|Timo Merbach et.al.|[2502.09575v1](http://arxiv.org/abs/2502.09575v1)|null|
-|**2025-02-13**|**Spatial Transcriptomics Iterative Hierarchical Clustering (stIHC): A Novel Method for Identifying Spatial Gene Co-Expression Modules**|Catherine Higgins et.al.|[2502.09574v1](http://arxiv.org/abs/2502.09574v1)|null|
-|**2025-02-13**|**Cryogenic SiPMs for the Optical Readout of DarkSide-20k**|Giuseppe Matteucci et.al.|[2502.09558v1](http://arxiv.org/abs/2502.09558v1)|null|
-|**2025-02-13**|**Registration, Detection, and Deregistration: Analyzing DNS Abuse for Phishing Attacks**|Kyungchan Lim et.al.|[2502.09549v1](http://arxiv.org/abs/2502.09549v1)|null|
-|**2025-02-13**|**Learned Correction Methods for Ultrasound Computed Tomography Imaging Using Simplified Physics Models**|Luke Lozenski et.al.|[2502.09546v1](http://arxiv.org/abs/2502.09546v1)|null|
-|**2025-02-13**|**Cascaded Gamma-ray Emission Associated with the KM3NeT Ultra-High-Energy Event KM3-230213A**|Ke Fang et.al.|[2502.09545v1](http://arxiv.org/abs/2502.09545v1)|null|
-|**2025-02-13**|**Entropy Collapse in Mobile Sensors: The Hidden Risks of Sensor-Based Security**|Carlton Shepherd et.al.|[2502.09535v1](http://arxiv.org/abs/2502.09535v1)|null|
-|**2025-02-13**|**CosmoLink: Portable Coincidence Detector for On-Site Muon Flux Measurement**|Yuvaraj Elangovan et.al.|[2502.09491v1](http://arxiv.org/abs/2502.09491v1)|null|
-|**2025-02-13**|**Discovery of large-scale radio emission enveloping the mini-halo in the most X-ray luminous galaxy cluster RX~J1347.5-1145**|D. N. Hoang et.al.|[2502.09472v1](http://arxiv.org/abs/2502.09472v1)|null|
-|**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471v1](http://arxiv.org/abs/2502.09471v1)|null|
-|**2025-02-13**|**Coherent detection of the oscillating acoustoelectric effect in graphene**|Yicheng Mou et.al.|[2502.09465v1](http://arxiv.org/abs/2502.09465v1)|null|
-|**2025-02-13**|**Broadband photoresponse enhancement by band engineering in Sb-doped MnBi2Te4**|Zixuan Xu et.al.|[2502.09458v1](http://arxiv.org/abs/2502.09458v1)|null|
-|**2025-02-13**|**Search for Heavy Neutral Leptons with IceCube DeepCore**|R. Abbasi et.al.|[2502.09454v1](http://arxiv.org/abs/2502.09454v1)|null|
-|**2025-02-13**|**ALMA-IMF XVII - Census and lifetime of high-mass prestellar cores in 14 massive protoclusters**|M. Valeille-Manet et.al.|[2502.09426v1](http://arxiv.org/abs/2502.09426v1)|null|
-|**2025-02-13**|**ESPARGOS: An Ultra Low-Cost, Realtime-Capable Multi-Antenna WiFi Channel Sounder**|Florian Euchner et.al.|[2502.09405v1](http://arxiv.org/abs/2502.09405v1)|null|
-|**2025-02-13**|**APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models**|Sidahmed Benabderrahmane et.al.|[2502.09385v1](http://arxiv.org/abs/2502.09385v1)|null|
-|**2025-02-13**|**Predicting the detectability of sulphur-bearing molecules in the solid phase with simulated spectra of JWST instruments**|A. Taillard et.al.|[2502.09384v1](http://arxiv.org/abs/2502.09384v1)|null|
-|**2025-02-13**|**Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models**|Gabriel Tseng et.al.|[2502.09356v1](http://arxiv.org/abs/2502.09356v1)|null|
-|**2025-02-13**|**Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection**|Yan Zhang et.al.|[2502.09311v1](http://arxiv.org/abs/2502.09311v1)|null|
-|**2025-02-13**|**Natural van der Waals canalization lens for non-destructive nanoelectronic circuit imaging and inspection**|Qingdong Ou et.al.|[2502.09308v1](http://arxiv.org/abs/2502.09308v1)|null|
-|**2025-02-13**|**A Physics-Informed Deep Learning Model for MRI Brain Motion Correction**|Mojtaba Safari et.al.|[2502.09296v1](http://arxiv.org/abs/2502.09296v1)|null|
-|**2025-02-13**|**DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images**|Zesheng Li et.al.|[2502.09256v1](http://arxiv.org/abs/2502.09256v1)|null|
-|**2025-02-13**|**AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection**|Hezhe Qiao et.al.|[2502.09254v1](http://arxiv.org/abs/2502.09254v1)|null|
-|**2025-02-13**|**Machine-Learning Detection of the Berezinskii-Kosterlitz-Thouless Transitions**|Masahito Mochizuki et.al.|[2502.09214v1](http://arxiv.org/abs/2502.09214v1)|null|
-|**2025-02-13**|**Faster than real-time detection of shot boundaries, sampling structure and dynamic keyframes in video**|Hannes Fassold et.al.|[2502.09202v1](http://arxiv.org/abs/2502.09202v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -79,6 +45,40 @@
 |**2025-02-13**|**Wasserstein distributional adversarial training for deep neural networks**|Xingjian Bai et.al.|[2502.09352v1](http://arxiv.org/abs/2502.09352v1)|null|
 |**2025-02-13**|**The recurrence of groups inhibits the information spreading under higher-order interactions**|Liang Yuan et.al.|[2502.09348v1](http://arxiv.org/abs/2502.09348v1)|null|
 |**2025-02-13**|**Machine learning for modelling unstructured grid data in computational physics: a review**|Sibo Cheng et.al.|[2502.09346v1](http://arxiv.org/abs/2502.09346v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608v1](http://arxiv.org/abs/2502.09608v1)|null|
+|**2025-02-13**|**The role of triple evolution in the formation of LISA double white dwarfs**|Abinaya Swaruba Rajamuthukumar et.al.|[2502.09607v1](http://arxiv.org/abs/2502.09607v1)|null|
+|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606v1](http://arxiv.org/abs/2502.09606v1)|null|
+|**2025-02-13**|**Cosmological phase transitions from the functional measure**|Bruno Berganholi et.al.|[2502.09593v1](http://arxiv.org/abs/2502.09593v1)|null|
+|**2025-02-13**|**Multiple-cavities interferometric analysis for dark matter axions directional-sensitive search based on signal cross-correlation processing**|José Reina-Valero et.al.|[2502.09580v1](http://arxiv.org/abs/2502.09580v1)|null|
+|**2025-02-13**|**Wireless and passive pressure detection using magneto-mechanical resonances in process engineering**|Timo Merbach et.al.|[2502.09575v1](http://arxiv.org/abs/2502.09575v1)|null|
+|**2025-02-13**|**Spatial Transcriptomics Iterative Hierarchical Clustering (stIHC): A Novel Method for Identifying Spatial Gene Co-Expression Modules**|Catherine Higgins et.al.|[2502.09574v1](http://arxiv.org/abs/2502.09574v1)|null|
+|**2025-02-13**|**Cryogenic SiPMs for the Optical Readout of DarkSide-20k**|Giuseppe Matteucci et.al.|[2502.09558v1](http://arxiv.org/abs/2502.09558v1)|null|
+|**2025-02-13**|**Registration, Detection, and Deregistration: Analyzing DNS Abuse for Phishing Attacks**|Kyungchan Lim et.al.|[2502.09549v1](http://arxiv.org/abs/2502.09549v1)|null|
+|**2025-02-13**|**Learned Correction Methods for Ultrasound Computed Tomography Imaging Using Simplified Physics Models**|Luke Lozenski et.al.|[2502.09546v1](http://arxiv.org/abs/2502.09546v1)|null|
+|**2025-02-13**|**Cascaded Gamma-ray Emission Associated with the KM3NeT Ultra-High-Energy Event KM3-230213A**|Ke Fang et.al.|[2502.09545v1](http://arxiv.org/abs/2502.09545v1)|null|
+|**2025-02-13**|**Entropy Collapse in Mobile Sensors: The Hidden Risks of Sensor-Based Security**|Carlton Shepherd et.al.|[2502.09535v1](http://arxiv.org/abs/2502.09535v1)|null|
+|**2025-02-13**|**CosmoLink: Portable Coincidence Detector for On-Site Muon Flux Measurement**|Yuvaraj Elangovan et.al.|[2502.09491v1](http://arxiv.org/abs/2502.09491v1)|null|
+|**2025-02-13**|**Discovery of large-scale radio emission enveloping the mini-halo in the most X-ray luminous galaxy cluster RX~J1347.5-1145**|D. N. Hoang et.al.|[2502.09472v1](http://arxiv.org/abs/2502.09472v1)|null|
+|**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471v1](http://arxiv.org/abs/2502.09471v1)|null|
+|**2025-02-13**|**Coherent detection of the oscillating acoustoelectric effect in graphene**|Yicheng Mou et.al.|[2502.09465v1](http://arxiv.org/abs/2502.09465v1)|null|
+|**2025-02-13**|**Broadband photoresponse enhancement by band engineering in Sb-doped MnBi2Te4**|Zixuan Xu et.al.|[2502.09458v1](http://arxiv.org/abs/2502.09458v1)|null|
+|**2025-02-13**|**Search for Heavy Neutral Leptons with IceCube DeepCore**|R. Abbasi et.al.|[2502.09454v1](http://arxiv.org/abs/2502.09454v1)|null|
+|**2025-02-13**|**ALMA-IMF XVII - Census and lifetime of high-mass prestellar cores in 14 massive protoclusters**|M. Valeille-Manet et.al.|[2502.09426v1](http://arxiv.org/abs/2502.09426v1)|null|
+|**2025-02-13**|**ESPARGOS: An Ultra Low-Cost, Realtime-Capable Multi-Antenna WiFi Channel Sounder**|Florian Euchner et.al.|[2502.09405v1](http://arxiv.org/abs/2502.09405v1)|null|
+|**2025-02-13**|**APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models**|Sidahmed Benabderrahmane et.al.|[2502.09385v1](http://arxiv.org/abs/2502.09385v1)|null|
+|**2025-02-13**|**Predicting the detectability of sulphur-bearing molecules in the solid phase with simulated spectra of JWST instruments**|A. Taillard et.al.|[2502.09384v1](http://arxiv.org/abs/2502.09384v1)|null|
+|**2025-02-13**|**Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models**|Gabriel Tseng et.al.|[2502.09356v1](http://arxiv.org/abs/2502.09356v1)|null|
+|**2025-02-13**|**Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection**|Yan Zhang et.al.|[2502.09311v1](http://arxiv.org/abs/2502.09311v1)|null|
+|**2025-02-13**|**Natural van der Waals canalization lens for non-destructive nanoelectronic circuit imaging and inspection**|Qingdong Ou et.al.|[2502.09308v1](http://arxiv.org/abs/2502.09308v1)|null|
+|**2025-02-13**|**A Physics-Informed Deep Learning Model for MRI Brain Motion Correction**|Mojtaba Safari et.al.|[2502.09296v1](http://arxiv.org/abs/2502.09296v1)|null|
+|**2025-02-13**|**DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images**|Zesheng Li et.al.|[2502.09256v1](http://arxiv.org/abs/2502.09256v1)|null|
+|**2025-02-13**|**AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection**|Hezhe Qiao et.al.|[2502.09254v1](http://arxiv.org/abs/2502.09254v1)|null|
+|**2025-02-13**|**Machine-Learning Detection of the Berezinskii-Kosterlitz-Thouless Transitions**|Masahito Mochizuki et.al.|[2502.09214v1](http://arxiv.org/abs/2502.09214v1)|null|
+|**2025-02-13**|**Faster than real-time detection of shot boundaries, sampling structure and dynamic keyframes in video**|Hannes Fassold et.al.|[2502.09202v1](http://arxiv.org/abs/2502.09202v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
