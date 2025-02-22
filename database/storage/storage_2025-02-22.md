@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-22 09:50:22 Asia/Shanghai
+ Automated deployment @ 2025-02-22 20:45:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -46,40 +46,6 @@
 |**2025-02-20**|**PEARL: Towards Permutation-Resilient LLMs**|Liang Chen et.al.|[2502.14628v1](http://arxiv.org/abs/2502.14628v1)|null|
 |**2025-02-20**|**Multi-Record Web Page Information Extraction From News Websites**|Alexander Kustenkov et.al.|[2502.14625v1](http://arxiv.org/abs/2502.14625v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-20**|**Efficient Multivariate Robust Mean Estimation Under Mean-Shift Contamination**|Ilias Diakonikolas et.al.|[2502.14772v1](http://arxiv.org/abs/2502.14772v1)|null|
-|**2025-02-20**|**Outlier Detection in Mendelian Randomisation**|Maximilian M Mandl et.al.|[2502.14716v1](http://arxiv.org/abs/2502.14716v1)|null|
-|**2025-02-19**|**Methods of multi-indication meta-analysis for health technology assessment: a simulation study**|David Glynn et.al.|[2502.13844v1](http://arxiv.org/abs/2502.13844v1)|null|
-|**2025-02-18**|**VUS: Effective and Efficient Accuracy Measures for Time-Series Anomaly Detection**|Paul Boniol et.al.|[2502.13318v1](http://arxiv.org/abs/2502.13318v1)|[link](https://github.com/thedatumorg/vus)|
-|**2025-02-18**|**NGC 3259: A Signal for an Untapped Population of Slowly Accreting Intermediate-Mass Black Holes**|Kirill A. Grishin et.al.|[2502.13202v1](http://arxiv.org/abs/2502.13202v1)|null|
-|**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126v1](http://arxiv.org/abs/2502.13126v1)|null|
-|**2025-02-18**|**Investigating Issues that Lead to Code Technical Debt in Machine Learning Systems**|Rodrigo Ximenes et.al.|[2502.13011v1](http://arxiv.org/abs/2502.13011v1)|null|
-|**2025-02-18**|**The Preference for Evolving Dark Energy from Cosmological Distance Measurements and Possible Signatures in the Growth Rate of Perturbations**|Ryan E. Keeley et.al.|[2502.12667v1](http://arxiv.org/abs/2502.12667v1)|null|
-|**2025-02-15**|**Robust Earthquake Location using Random Sample Consensus (RANSAC)**|Weiqiang Zhu et.al.|[2502.10933v1](http://arxiv.org/abs/2502.10933v1)|[link](https://github.com/AI4EPS/ADLoc)|
-|**2025-02-15**|**Outlier eigenvalues for full rank deformed single ring random matrices**|Ching-Wei Ho et.al.|[2502.10796v1](http://arxiv.org/abs/2502.10796v1)|null|
-|**2025-02-15**|**Improving action segmentation via explicit similarity measurement**|Kamel Aouaidjia et.al.|[2502.10713v1](http://arxiv.org/abs/2502.10713v1)|null|
-|**2025-02-14**|**Near-Field Localization with Physics-Compliant Electromagnetic Model: Algorithms and Model Mismatch Analysis**|Alexandr M. Kuzminskiy et.al.|[2502.10102v1](http://arxiv.org/abs/2502.10102v1)|null|
-|**2025-02-14**|**Fused Partial Gromov-Wasserstein for Structured Objects**|Yikun Bai et.al.|[2502.09934v1](http://arxiv.org/abs/2502.09934v1)|null|
-|**2025-02-13**|**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models**|Quan Wei et.al.|[2502.09003v1](http://arxiv.org/abs/2502.09003v1)|null|
-|**2025-02-13**|**Morphological Demographics of Galaxies at $z\sim 10-16$: Log-Normal Size Distribution and Exponential Profiles Consistent with the Disk Formation Scenario**|Yoshiaki Ono et.al.|[2502.08885v1](http://arxiv.org/abs/2502.08885v1)|null|
-|**2025-02-12**|**CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection**|Karish Grover et.al.|[2502.08605v1](http://arxiv.org/abs/2502.08605v1)|null|
-|**2025-02-12**|**Toward Universal Laws of Outlier Propagation**|Aram Ebtekar et.al.|[2502.08593v2](http://arxiv.org/abs/2502.08593v2)|null|
-|**2025-02-12**|**Out-of-Distribution Detection on Graphs: A Survey**|Tingyi Cai et.al.|[2502.08105v1](http://arxiv.org/abs/2502.08105v1)|[link](https://github.com/ca1man-2022/awesome-good-detection)|
-|**2025-02-11**|**Regularization for the Approximation of 2D Set of Points via the Length of the Curve**|Majid E. Abbasov et.al.|[2502.07915v1](http://arxiv.org/abs/2502.07915v1)|null|
-|**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680v1](http://arxiv.org/abs/2502.07680v1)|null|
-|**2025-02-11**|**Coresets for Robust Clustering via Black-box Reductions to Vanilla Case**|Shaofeng H. -C. Jiang et.al.|[2502.07669v1](http://arxiv.org/abs/2502.07669v1)|null|
-|**2025-02-11**|**Automated Road Extraction and Centreline Fitting in LiDAR Point Clouds**|Xinyu Wang et.al.|[2502.07486v1](http://arxiv.org/abs/2502.07486v1)|null|
-|**2025-02-11**|**One Class Restricted Kernel Machines**|A. Quadir et.al.|[2502.10443v1](http://arxiv.org/abs/2502.10443v1)|[link](https://github.com/mtanveer1/OCRKM)|
-|**2025-02-11**|**MIGT: Memory Instance Gated Transformer Framework for Financial Portfolio Management**|Fengchen Gu et.al.|[2502.07280v1](http://arxiv.org/abs/2502.07280v1)|null|
-|**2025-02-10**|**Systematic Outliers in Large Language Models**|Yongqi An et.al.|[2502.06415v1](http://arxiv.org/abs/2502.06415v1)|null|
-|**2025-02-10**|**New Insight of Spatial Scan Statistics via Regression Model**|Takayuki Kawashima et.al.|[2502.06347v1](http://arxiv.org/abs/2502.06347v1)|null|
-|**2025-02-10**|**Accelerating Outlier-robust Rotation Estimation by Stereographic Projection**|Taosi Xu et.al.|[2502.06337v1](http://arxiv.org/abs/2502.06337v1)|null|
-|**2025-02-10**|**DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation**|Sara Monji-Azad et.al.|[2502.06336v1](http://arxiv.org/abs/2502.06336v1)|null|
-|**2025-02-09**|**Exploring Visual Embedding Spaces Induced by Vision Transformers for Online Auto Parts Marketplaces**|Cameron Armijo et.al.|[2502.05756v1](http://arxiv.org/abs/2502.05756v1)|null|
-|**2025-02-08**|**Extended Histogram-based Outlier Score (EHBOS)**|Tanvir Islam et.al.|[2502.05719v1](http://arxiv.org/abs/2502.05719v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -113,3 +79,37 @@
 |**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604v1](http://arxiv.org/abs/2502.14604v1)|null|
 |**2025-02-20**|**Discovery of an Intermediate Nematic State in a Bilayer Kagome Metal ScV6Sn6**|Camron Farhang et.al.|[2502.14568v1](http://arxiv.org/abs/2502.14568v1)|null|
 |**2025-02-20**|**Addressing Positivity Violations in Continuous Interventions through Data-Adaptive Strategies**|Han Bao et.al.|[2502.14566v1](http://arxiv.org/abs/2502.14566v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-20**|**Efficient Multivariate Robust Mean Estimation Under Mean-Shift Contamination**|Ilias Diakonikolas et.al.|[2502.14772v1](http://arxiv.org/abs/2502.14772v1)|null|
+|**2025-02-20**|**Outlier Detection in Mendelian Randomisation**|Maximilian M Mandl et.al.|[2502.14716v1](http://arxiv.org/abs/2502.14716v1)|null|
+|**2025-02-19**|**Methods of multi-indication meta-analysis for health technology assessment: a simulation study**|David Glynn et.al.|[2502.13844v1](http://arxiv.org/abs/2502.13844v1)|null|
+|**2025-02-18**|**VUS: Effective and Efficient Accuracy Measures for Time-Series Anomaly Detection**|Paul Boniol et.al.|[2502.13318v1](http://arxiv.org/abs/2502.13318v1)|[link](https://github.com/thedatumorg/vus)|
+|**2025-02-18**|**NGC 3259: A Signal for an Untapped Population of Slowly Accreting Intermediate-Mass Black Holes**|Kirill A. Grishin et.al.|[2502.13202v1](http://arxiv.org/abs/2502.13202v1)|null|
+|**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126v1](http://arxiv.org/abs/2502.13126v1)|null|
+|**2025-02-18**|**Investigating Issues that Lead to Code Technical Debt in Machine Learning Systems**|Rodrigo Ximenes et.al.|[2502.13011v1](http://arxiv.org/abs/2502.13011v1)|null|
+|**2025-02-18**|**The Preference for Evolving Dark Energy from Cosmological Distance Measurements and Possible Signatures in the Growth Rate of Perturbations**|Ryan E. Keeley et.al.|[2502.12667v1](http://arxiv.org/abs/2502.12667v1)|null|
+|**2025-02-15**|**Robust Earthquake Location using Random Sample Consensus (RANSAC)**|Weiqiang Zhu et.al.|[2502.10933v1](http://arxiv.org/abs/2502.10933v1)|[link](https://github.com/AI4EPS/ADLoc)|
+|**2025-02-15**|**Outlier eigenvalues for full rank deformed single ring random matrices**|Ching-Wei Ho et.al.|[2502.10796v1](http://arxiv.org/abs/2502.10796v1)|null|
+|**2025-02-15**|**Improving action segmentation via explicit similarity measurement**|Kamel Aouaidjia et.al.|[2502.10713v1](http://arxiv.org/abs/2502.10713v1)|null|
+|**2025-02-14**|**Near-Field Localization with Physics-Compliant Electromagnetic Model: Algorithms and Model Mismatch Analysis**|Alexandr M. Kuzminskiy et.al.|[2502.10102v1](http://arxiv.org/abs/2502.10102v1)|null|
+|**2025-02-14**|**Fused Partial Gromov-Wasserstein for Structured Objects**|Yikun Bai et.al.|[2502.09934v1](http://arxiv.org/abs/2502.09934v1)|null|
+|**2025-02-13**|**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models**|Quan Wei et.al.|[2502.09003v1](http://arxiv.org/abs/2502.09003v1)|null|
+|**2025-02-13**|**Morphological Demographics of Galaxies at $z\sim 10-16$: Log-Normal Size Distribution and Exponential Profiles Consistent with the Disk Formation Scenario**|Yoshiaki Ono et.al.|[2502.08885v1](http://arxiv.org/abs/2502.08885v1)|null|
+|**2025-02-12**|**CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection**|Karish Grover et.al.|[2502.08605v1](http://arxiv.org/abs/2502.08605v1)|null|
+|**2025-02-12**|**Toward Universal Laws of Outlier Propagation**|Aram Ebtekar et.al.|[2502.08593v2](http://arxiv.org/abs/2502.08593v2)|null|
+|**2025-02-12**|**Out-of-Distribution Detection on Graphs: A Survey**|Tingyi Cai et.al.|[2502.08105v1](http://arxiv.org/abs/2502.08105v1)|[link](https://github.com/ca1man-2022/awesome-good-detection)|
+|**2025-02-11**|**Regularization for the Approximation of 2D Set of Points via the Length of the Curve**|Majid E. Abbasov et.al.|[2502.07915v1](http://arxiv.org/abs/2502.07915v1)|null|
+|**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680v1](http://arxiv.org/abs/2502.07680v1)|null|
+|**2025-02-11**|**Coresets for Robust Clustering via Black-box Reductions to Vanilla Case**|Shaofeng H. -C. Jiang et.al.|[2502.07669v1](http://arxiv.org/abs/2502.07669v1)|null|
+|**2025-02-11**|**Automated Road Extraction and Centreline Fitting in LiDAR Point Clouds**|Xinyu Wang et.al.|[2502.07486v1](http://arxiv.org/abs/2502.07486v1)|null|
+|**2025-02-11**|**One Class Restricted Kernel Machines**|A. Quadir et.al.|[2502.10443v1](http://arxiv.org/abs/2502.10443v1)|[link](https://github.com/mtanveer1/OCRKM)|
+|**2025-02-11**|**MIGT: Memory Instance Gated Transformer Framework for Financial Portfolio Management**|Fengchen Gu et.al.|[2502.07280v1](http://arxiv.org/abs/2502.07280v1)|null|
+|**2025-02-10**|**Systematic Outliers in Large Language Models**|Yongqi An et.al.|[2502.06415v1](http://arxiv.org/abs/2502.06415v1)|null|
+|**2025-02-10**|**New Insight of Spatial Scan Statistics via Regression Model**|Takayuki Kawashima et.al.|[2502.06347v1](http://arxiv.org/abs/2502.06347v1)|null|
+|**2025-02-10**|**Accelerating Outlier-robust Rotation Estimation by Stereographic Projection**|Taosi Xu et.al.|[2502.06337v1](http://arxiv.org/abs/2502.06337v1)|null|
+|**2025-02-10**|**DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation**|Sara Monji-Azad et.al.|[2502.06336v1](http://arxiv.org/abs/2502.06336v1)|null|
+|**2025-02-09**|**Exploring Visual Embedding Spaces Induced by Vision Transformers for Online Auto Parts Marketplaces**|Cameron Armijo et.al.|[2502.05756v1](http://arxiv.org/abs/2502.05756v1)|null|
+|**2025-02-08**|**Extended Histogram-based Outlier Score (EHBOS)**|Tanvir Islam et.al.|[2502.05719v1](http://arxiv.org/abs/2502.05719v1)|null|
