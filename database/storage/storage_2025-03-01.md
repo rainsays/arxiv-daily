@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-01 10:02:09 Asia/Shanghai
+ Automated deployment @ 2025-03-01 20:47:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -12,40 +12,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361v1](http://arxiv.org/abs/2502.20361v1)|null|
-|**2025-02-27**|**Creating multi-beam interference from two-beam interference with assistant of harmonics generation**|Wuzhen Li et.al.|[2502.20358v1](http://arxiv.org/abs/2502.20358v1)|null|
-|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354v1](http://arxiv.org/abs/2502.20354v1)|null|
-|**2025-02-27**|**Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**|Aron Harder et.al.|[2502.20353v1](http://arxiv.org/abs/2502.20353v1)|null|
-|**2025-02-27**|**KNOWM Memristors in a Bridge Synapse delay-based Reservoir Computing system for detection of epileptic seizures**|Dawid Przyczyna et.al.|[2502.20351v1](http://arxiv.org/abs/2502.20351v1)|null|
-|**2025-02-27**|**Cell-Free Integrated Sensing and Communication: Principles, Advances, and Future Directions**|Diluka Galappaththige et.al.|[2502.20345v1](http://arxiv.org/abs/2502.20345v1)|null|
-|**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326v1](http://arxiv.org/abs/2502.20326v1)|null|
-|**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316v1](http://arxiv.org/abs/2502.20316v1)|null|
-|**2025-02-27**|**SecureGaze: Defending Gaze Estimation Against Backdoor Attacks**|Lingyu Du et.al.|[2502.20306v1](http://arxiv.org/abs/2502.20306v1)|null|
-|**2025-02-27**|**Quantum machine learning with Adaptive Boson Sampling via post-selection**|Francesco Hoch et.al.|[2502.20305v1](http://arxiv.org/abs/2502.20305v1)|null|
-|**2025-02-27**|**An exploration of features to improve the generalisability of fake news detection models**|Nathaniel Hoy et.al.|[2502.20299v1](http://arxiv.org/abs/2502.20299v1)|null|
-|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277v1](http://arxiv.org/abs/2502.20277v1)|null|
-|**2025-02-27**|**Do computer vision foundation models learn the low-level characteristics of the human visual system?**|Yancheng Cai et.al.|[2502.20256v1](http://arxiv.org/abs/2502.20256v1)|null|
-|**2025-02-27**|**Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets**|Chichien Tsai et.al.|[2502.20246v1](http://arxiv.org/abs/2502.20246v1)|null|
-|**2025-02-27**|**URL Inspection Tasks: Helping Users Detect Phishing Links in Emails**|Daniele Lain et.al.|[2502.20234v1](http://arxiv.org/abs/2502.20234v1)|null|
-|**2025-02-27**|**DIN-CTS: Low-Complexity Depthwise-Inception Neural Network with Contrastive Training Strategy for Deepfake Speech Detection**|Lam Pham et.al.|[2502.20225v1](http://arxiv.org/abs/2502.20225v1)|null|
-|**2025-02-27**|**Voting Scheme to Strengthen Localization Security in Randomly Deployed Wireless Sensor Networks**|Slavisa Tomic et.al.|[2502.20218v1](http://arxiv.org/abs/2502.20218v1)|null|
-|**2025-02-27**|**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**|Zeyi Ren et.al.|[2502.20183v1](http://arxiv.org/abs/2502.20183v1)|null|
-|**2025-02-27**|**SSD: A State-based Stealthy Backdoor Attack For Navigation System in UAV Route Planning**|Zhaoxuan Wang et.al.|[2502.20178v1](http://arxiv.org/abs/2502.20178v1)|null|
-|**2025-02-27**|**Numerical simulations of density perturbation and gravitational wave production from cosmological first-order phase transition**|Jintao Zou et.al.|[2502.20166v1](http://arxiv.org/abs/2502.20166v1)|null|
-|**2025-02-27**|**Fundamental Physics and Cosmology with TianQin**|Jun Luo et.al.|[2502.20138v1](http://arxiv.org/abs/2502.20138v1)|null|
-|**2025-02-27**|**Scalar-Induced Gravitational Waves in Modified Gravity**|Anjali Abirami Kugarajh et.al.|[2502.20137v1](http://arxiv.org/abs/2502.20137v1)|null|
-|**2025-02-27**|**The COSMOS-Web ring: Spectroscopic confirmation of the background source at z = 5.1**|Marko Shuntov et.al.|[2502.20136v1](http://arxiv.org/abs/2502.20136v1)|null|
-|**2025-02-27**|**Discovering Antagonists in Networks of Systems: Robot Deployment**|Ingeborg Wenger et.al.|[2502.20125v1](http://arxiv.org/abs/2502.20125v1)|null|
-|**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124v1](http://arxiv.org/abs/2502.20124v1)|null|
-|**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087v1](http://arxiv.org/abs/2502.20087v1)|null|
-|**2025-02-27**|**Block-corrected Modularity for Community Detection**|Hasti Narimanzadeh et.al.|[2502.20083v1](http://arxiv.org/abs/2502.20083v1)|null|
-|**2025-02-27**|**Timing and Spectral Evolution of the Magnetar 1E 1841-045 in Outburst**|G. Younes et.al.|[2502.20079v1](http://arxiv.org/abs/2502.20079v1)|null|
-|**2025-02-27**|**Continuous Phase-Shifting Holography Utilizing a Moving Diffraction Grating**|G. S. Kalenkov et.al.|[2502.20060v1](http://arxiv.org/abs/2502.20060v1)|null|
-|**2025-02-27**|**Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps**|Tianxiao Gao et.al.|[2502.20054v1](http://arxiv.org/abs/2502.20054v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -80,6 +46,40 @@
 |**2025-02-27**|**Deep Convolutional Neural Networks for Palm Fruit Maturity Classification**|Mingqiang Han et.al.|[2502.20223v1](http://arxiv.org/abs/2502.20223v1)|null|
 |**2025-02-27**|**Voting Scheme to Strengthen Localization Security in Randomly Deployed Wireless Sensor Networks**|Slavisa Tomic et.al.|[2502.20218v1](http://arxiv.org/abs/2502.20218v1)|null|
 |**2025-02-27**|**MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments**|Jimmy Chiun et.al.|[2502.20217v1](http://arxiv.org/abs/2502.20217v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361v1](http://arxiv.org/abs/2502.20361v1)|null|
+|**2025-02-27**|**Creating multi-beam interference from two-beam interference with assistant of harmonics generation**|Wuzhen Li et.al.|[2502.20358v1](http://arxiv.org/abs/2502.20358v1)|null|
+|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354v1](http://arxiv.org/abs/2502.20354v1)|null|
+|**2025-02-27**|**Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**|Aron Harder et.al.|[2502.20353v1](http://arxiv.org/abs/2502.20353v1)|null|
+|**2025-02-27**|**KNOWM Memristors in a Bridge Synapse delay-based Reservoir Computing system for detection of epileptic seizures**|Dawid Przyczyna et.al.|[2502.20351v1](http://arxiv.org/abs/2502.20351v1)|null|
+|**2025-02-27**|**Cell-Free Integrated Sensing and Communication: Principles, Advances, and Future Directions**|Diluka Galappaththige et.al.|[2502.20345v1](http://arxiv.org/abs/2502.20345v1)|null|
+|**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326v1](http://arxiv.org/abs/2502.20326v1)|null|
+|**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316v1](http://arxiv.org/abs/2502.20316v1)|null|
+|**2025-02-27**|**SecureGaze: Defending Gaze Estimation Against Backdoor Attacks**|Lingyu Du et.al.|[2502.20306v1](http://arxiv.org/abs/2502.20306v1)|null|
+|**2025-02-27**|**Quantum machine learning with Adaptive Boson Sampling via post-selection**|Francesco Hoch et.al.|[2502.20305v1](http://arxiv.org/abs/2502.20305v1)|null|
+|**2025-02-27**|**An exploration of features to improve the generalisability of fake news detection models**|Nathaniel Hoy et.al.|[2502.20299v1](http://arxiv.org/abs/2502.20299v1)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277v1](http://arxiv.org/abs/2502.20277v1)|null|
+|**2025-02-27**|**Do computer vision foundation models learn the low-level characteristics of the human visual system?**|Yancheng Cai et.al.|[2502.20256v1](http://arxiv.org/abs/2502.20256v1)|null|
+|**2025-02-27**|**Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets**|Chichien Tsai et.al.|[2502.20246v1](http://arxiv.org/abs/2502.20246v1)|null|
+|**2025-02-27**|**URL Inspection Tasks: Helping Users Detect Phishing Links in Emails**|Daniele Lain et.al.|[2502.20234v1](http://arxiv.org/abs/2502.20234v1)|null|
+|**2025-02-27**|**DIN-CTS: Low-Complexity Depthwise-Inception Neural Network with Contrastive Training Strategy for Deepfake Speech Detection**|Lam Pham et.al.|[2502.20225v1](http://arxiv.org/abs/2502.20225v1)|null|
+|**2025-02-27**|**Voting Scheme to Strengthen Localization Security in Randomly Deployed Wireless Sensor Networks**|Slavisa Tomic et.al.|[2502.20218v1](http://arxiv.org/abs/2502.20218v1)|null|
+|**2025-02-27**|**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**|Zeyi Ren et.al.|[2502.20183v1](http://arxiv.org/abs/2502.20183v1)|null|
+|**2025-02-27**|**SSD: A State-based Stealthy Backdoor Attack For Navigation System in UAV Route Planning**|Zhaoxuan Wang et.al.|[2502.20178v1](http://arxiv.org/abs/2502.20178v1)|null|
+|**2025-02-27**|**Numerical simulations of density perturbation and gravitational wave production from cosmological first-order phase transition**|Jintao Zou et.al.|[2502.20166v1](http://arxiv.org/abs/2502.20166v1)|null|
+|**2025-02-27**|**Fundamental Physics and Cosmology with TianQin**|Jun Luo et.al.|[2502.20138v1](http://arxiv.org/abs/2502.20138v1)|null|
+|**2025-02-27**|**Scalar-Induced Gravitational Waves in Modified Gravity**|Anjali Abirami Kugarajh et.al.|[2502.20137v1](http://arxiv.org/abs/2502.20137v1)|null|
+|**2025-02-27**|**The COSMOS-Web ring: Spectroscopic confirmation of the background source at z = 5.1**|Marko Shuntov et.al.|[2502.20136v1](http://arxiv.org/abs/2502.20136v1)|null|
+|**2025-02-27**|**Discovering Antagonists in Networks of Systems: Robot Deployment**|Ingeborg Wenger et.al.|[2502.20125v1](http://arxiv.org/abs/2502.20125v1)|null|
+|**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124v1](http://arxiv.org/abs/2502.20124v1)|null|
+|**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087v1](http://arxiv.org/abs/2502.20087v1)|null|
+|**2025-02-27**|**Block-corrected Modularity for Community Detection**|Hasti Narimanzadeh et.al.|[2502.20083v1](http://arxiv.org/abs/2502.20083v1)|null|
+|**2025-02-27**|**Timing and Spectral Evolution of the Magnetar 1E 1841-045 in Outburst**|G. Younes et.al.|[2502.20079v1](http://arxiv.org/abs/2502.20079v1)|null|
+|**2025-02-27**|**Continuous Phase-Shifting Holography Utilizing a Moving Diffraction Grating**|G. S. Kalenkov et.al.|[2502.20060v1](http://arxiv.org/abs/2502.20060v1)|null|
+|**2025-02-27**|**Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps**|Tianxiao Gao et.al.|[2502.20054v1](http://arxiv.org/abs/2502.20054v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
