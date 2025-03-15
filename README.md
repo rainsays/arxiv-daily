@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-15 09:56:19 Asia/Shanghai
+ Automated deployment @ 2025-03-15 20:47:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -12,40 +12,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**GBSVR: Granular Ball Support Vector Regression**|Reshma Rastogi et.al.|[2503.10539v1](http://arxiv.org/abs/2503.10539v1)|null|
-|**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468v1](http://arxiv.org/abs/2503.10468v1)|null|
-|**2025-03-13**|**Optimal Privacy-Preserving Distributed Median Consensus**|Wenrui Yu et.al.|[2503.10147v1](http://arxiv.org/abs/2503.10147v1)|null|
-|**2025-03-12**|**PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs**|Oskar van der Wal et.al.|[2503.09543v1](http://arxiv.org/abs/2503.09543v1)|null|
-|**2025-03-12**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al.|[2503.09509v1](http://arxiv.org/abs/2503.09509v1)|null|
-|**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504v1](http://arxiv.org/abs/2503.09504v1)|null|
-|**2025-03-12**|**Federated Smoothing ADMM for Localization**|Reza Mirzaeifard et.al.|[2503.09497v1](http://arxiv.org/abs/2503.09497v1)|null|
-|**2025-03-12**|**Monte Carlo Diffusion for Generalizable Learning-Based RANSAC**|Jiale Wang et.al.|[2503.09410v1](http://arxiv.org/abs/2503.09410v1)|null|
-|**2025-03-12**|**X-ray spectral fitting with Monte Carlo Dropout Neural Networks**|A. Tutone et.al.|[2503.09224v1](http://arxiv.org/abs/2503.09224v1)|null|
-|**2025-03-11**|**Robust Unsupervised Fault Diagnosis For High-Dimensional Nonlinear Noisy Data**|Dandan Zhao et.al.|[2503.08916v1](http://arxiv.org/abs/2503.08916v1)|null|
-|**2025-03-11**|**A Deep Bayesian Nonparametric Framework for Robust Mutual Information Estimation**|Forough Fazeliasl et.al.|[2503.08902v1](http://arxiv.org/abs/2503.08902v1)|null|
-|**2025-03-11**|**On a new robust method of inference for general time series models**|Zihan Wang et.al.|[2503.08655v1](http://arxiv.org/abs/2503.08655v1)|[link](https://github.com/Wang-ZH-Stat/TSQMLE)|
-|**2025-03-11**|**Accurate INT8 Training Through Dynamic Block-Level Fallback**|Pengle Zhang et.al.|[2503.08040v2](http://arxiv.org/abs/2503.08040v2)|null|
-|**2025-03-10**|**SANDRO: a Robust Solver with a Splitting Strategy for Point Cloud Registration**|Michael Adlerstein et.al.|[2503.07743v1](http://arxiv.org/abs/2503.07743v1)|null|
-|**2025-03-10**|**Robust Multilinear Principal Component Analysis**|Mehdi Hirari et.al.|[2503.07327v1](http://arxiv.org/abs/2503.07327v1)|null|
-|**2025-03-10**|**HybridReg: Robust 3D Point Cloud Registration with Hybrid Motions**|Keyu Du et.al.|[2503.07019v1](http://arxiv.org/abs/2503.07019v1)|[link](https://github.com/hxwork/HybridReg_PyTorch)|
-|**2025-03-10**|**Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping**|Ning Ding et.al.|[2503.06930v1](http://arxiv.org/abs/2503.06930v1)|null|
-|**2025-03-10**|**Robust local empirical Bayes correction for Bayesian modeling**|Yoshiko Hayashi et.al.|[2503.06837v1](http://arxiv.org/abs/2503.06837v1)|null|
-|**2025-03-10**|**Recursive Estimation for Dynamical Systems with Measurement Bias, Outliers and Constraints**|Krishan Mohan Nagpal et.al.|[2503.06825v1](http://arxiv.org/abs/2503.06825v1)|null|
-|**2025-03-09**|**Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets**|Tommaso Bendinelli et.al.|[2503.06664v1](http://arxiv.org/abs/2503.06664v1)|null|
-|**2025-03-09**|**AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP**|Wenxin Ma et.al.|[2503.06661v1](http://arxiv.org/abs/2503.06661v1)|null|
-|**2025-03-09**|**SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model**|Jing Zhang et.al.|[2503.06515v1](http://arxiv.org/abs/2503.06515v1)|null|
-|**2025-03-08**|**Quantifying the Impact of LSST $u$-band Survey Strategy on Photometric Redshift Estimation and the Detection of Lyman-break Galaxies**|John Franklin Crenshaw et.al.|[2503.06016v1](http://arxiv.org/abs/2503.06016v1)|null|
-|**2025-03-07**|**Early Light Curve Excess in Type IIb Supernovae Observed by the ATLAS Survey: Qualitative Constraints on Progenitor Systems**|Bastian Ayala et.al.|[2503.05909v1](http://arxiv.org/abs/2503.05909v1)|null|
-|**2025-03-07**|**Separability Membrane: 3D Active Contour for Point Cloud Surface Reconstruction**|Gulpi Qorik Oktagalu Pratamasunu et.al.|[2503.05217v1](http://arxiv.org/abs/2503.05217v1)|null|
-|**2025-03-07**|**Robustness of Generalized Median Computation for Consensus Learning in Arbitrary Spaces**|Andreas Nienkötter et.al.|[2503.05215v1](http://arxiv.org/abs/2503.05215v1)|null|
-|**2025-03-07**|**Partial Distribution Alignment via Adaptive Optimal Transport**|Pei Yang et.al.|[2503.05087v1](http://arxiv.org/abs/2503.05087v1)|null|
-|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982v1](http://arxiv.org/abs/2503.04982v1)|null|
-|**2025-03-06**|**Learning-based GNSS Uncertainty Quantification using Continuous-Time Factor Graph Optimization**|Haoming Zhang et.al.|[2503.04933v1](http://arxiv.org/abs/2503.04933v1)|null|
-|**2025-03-06**|**Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays**|Larry Chen et.al.|[2503.04702v1](http://arxiv.org/abs/2503.04702v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -114,3 +80,37 @@
 |**2025-03-13**|**CoDiPhy: A General Framework for Applying Denoising Diffusion Models to the Physical Layer of Wireless Communication Systems**|Peyman Neshaastegaran et.al.|[2503.10297v1](http://arxiv.org/abs/2503.10297v1)|null|
 |**2025-03-13**|**VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**|Weiyun Wang et.al.|[2503.10291v1](http://arxiv.org/abs/2503.10291v1)|null|
 |**2025-03-13**|**Observation of the dimer-singlet phase in the one-dimensional S = 1/2 Heisenberg antiferromagnet Cu(Ampy)ClBr (Ampy= C6H8N2 = 2-(Aminomethyl)pyridine)**|Saikat Nandi et.al.|[2503.10290v1](http://arxiv.org/abs/2503.10290v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**GBSVR: Granular Ball Support Vector Regression**|Reshma Rastogi et.al.|[2503.10539v1](http://arxiv.org/abs/2503.10539v1)|null|
+|**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468v1](http://arxiv.org/abs/2503.10468v1)|null|
+|**2025-03-13**|**Optimal Privacy-Preserving Distributed Median Consensus**|Wenrui Yu et.al.|[2503.10147v1](http://arxiv.org/abs/2503.10147v1)|null|
+|**2025-03-12**|**PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs**|Oskar van der Wal et.al.|[2503.09543v1](http://arxiv.org/abs/2503.09543v1)|null|
+|**2025-03-12**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al.|[2503.09509v1](http://arxiv.org/abs/2503.09509v1)|null|
+|**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504v1](http://arxiv.org/abs/2503.09504v1)|null|
+|**2025-03-12**|**Federated Smoothing ADMM for Localization**|Reza Mirzaeifard et.al.|[2503.09497v1](http://arxiv.org/abs/2503.09497v1)|null|
+|**2025-03-12**|**Monte Carlo Diffusion for Generalizable Learning-Based RANSAC**|Jiale Wang et.al.|[2503.09410v1](http://arxiv.org/abs/2503.09410v1)|null|
+|**2025-03-12**|**X-ray spectral fitting with Monte Carlo Dropout Neural Networks**|A. Tutone et.al.|[2503.09224v1](http://arxiv.org/abs/2503.09224v1)|null|
+|**2025-03-11**|**Robust Unsupervised Fault Diagnosis For High-Dimensional Nonlinear Noisy Data**|Dandan Zhao et.al.|[2503.08916v1](http://arxiv.org/abs/2503.08916v1)|null|
+|**2025-03-11**|**A Deep Bayesian Nonparametric Framework for Robust Mutual Information Estimation**|Forough Fazeliasl et.al.|[2503.08902v1](http://arxiv.org/abs/2503.08902v1)|null|
+|**2025-03-11**|**On a new robust method of inference for general time series models**|Zihan Wang et.al.|[2503.08655v1](http://arxiv.org/abs/2503.08655v1)|[link](https://github.com/Wang-ZH-Stat/TSQMLE)|
+|**2025-03-11**|**Accurate INT8 Training Through Dynamic Block-Level Fallback**|Pengle Zhang et.al.|[2503.08040v2](http://arxiv.org/abs/2503.08040v2)|null|
+|**2025-03-10**|**SANDRO: a Robust Solver with a Splitting Strategy for Point Cloud Registration**|Michael Adlerstein et.al.|[2503.07743v1](http://arxiv.org/abs/2503.07743v1)|null|
+|**2025-03-10**|**Robust Multilinear Principal Component Analysis**|Mehdi Hirari et.al.|[2503.07327v1](http://arxiv.org/abs/2503.07327v1)|null|
+|**2025-03-10**|**HybridReg: Robust 3D Point Cloud Registration with Hybrid Motions**|Keyu Du et.al.|[2503.07019v1](http://arxiv.org/abs/2503.07019v1)|[link](https://github.com/hxwork/HybridReg_PyTorch)|
+|**2025-03-10**|**Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping**|Ning Ding et.al.|[2503.06930v1](http://arxiv.org/abs/2503.06930v1)|null|
+|**2025-03-10**|**Robust local empirical Bayes correction for Bayesian modeling**|Yoshiko Hayashi et.al.|[2503.06837v1](http://arxiv.org/abs/2503.06837v1)|null|
+|**2025-03-10**|**Recursive Estimation for Dynamical Systems with Measurement Bias, Outliers and Constraints**|Krishan Mohan Nagpal et.al.|[2503.06825v1](http://arxiv.org/abs/2503.06825v1)|null|
+|**2025-03-09**|**Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets**|Tommaso Bendinelli et.al.|[2503.06664v1](http://arxiv.org/abs/2503.06664v1)|null|
+|**2025-03-09**|**AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP**|Wenxin Ma et.al.|[2503.06661v1](http://arxiv.org/abs/2503.06661v1)|null|
+|**2025-03-09**|**SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model**|Jing Zhang et.al.|[2503.06515v1](http://arxiv.org/abs/2503.06515v1)|null|
+|**2025-03-08**|**Quantifying the Impact of LSST $u$-band Survey Strategy on Photometric Redshift Estimation and the Detection of Lyman-break Galaxies**|John Franklin Crenshaw et.al.|[2503.06016v1](http://arxiv.org/abs/2503.06016v1)|null|
+|**2025-03-07**|**Early Light Curve Excess in Type IIb Supernovae Observed by the ATLAS Survey: Qualitative Constraints on Progenitor Systems**|Bastian Ayala et.al.|[2503.05909v1](http://arxiv.org/abs/2503.05909v1)|null|
+|**2025-03-07**|**Separability Membrane: 3D Active Contour for Point Cloud Surface Reconstruction**|Gulpi Qorik Oktagalu Pratamasunu et.al.|[2503.05217v1](http://arxiv.org/abs/2503.05217v1)|null|
+|**2025-03-07**|**Robustness of Generalized Median Computation for Consensus Learning in Arbitrary Spaces**|Andreas Nienkötter et.al.|[2503.05215v1](http://arxiv.org/abs/2503.05215v1)|null|
+|**2025-03-07**|**Partial Distribution Alignment via Adaptive Optimal Transport**|Pei Yang et.al.|[2503.05087v1](http://arxiv.org/abs/2503.05087v1)|null|
+|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982v1](http://arxiv.org/abs/2503.04982v1)|null|
+|**2025-03-06**|**Learning-based GNSS Uncertainty Quantification using Continuous-Time Factor Graph Optimization**|Haoming Zhang et.al.|[2503.04933v1](http://arxiv.org/abs/2503.04933v1)|null|
+|**2025-03-06**|**Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays**|Larry Chen et.al.|[2503.04702v1](http://arxiv.org/abs/2503.04702v1)|null|
