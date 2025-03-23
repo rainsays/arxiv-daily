@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-23 10:06:34 Asia/Shanghai
+ Automated deployment @ 2025-03-23 20:48:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -12,40 +12,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP**|Mohamad Hassan N C et.al.|[2503.16106v1](http://arxiv.org/abs/2503.16106v1)|null|
-|**2025-03-20**|**Rejecting Outliers in 2D-3D Point Correspondences from 2D Forward-Looking Sonar Observations**|Jiayi Su et.al.|[2503.16066v1](http://arxiv.org/abs/2503.16066v1)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). Optical and near-infrared identification and classification of point-like X-ray selected sources**|Euclid Collaboration et.al.|[2503.15316v1](http://arxiv.org/abs/2503.15316v1)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1) Exploring galaxy properties with a multi-modal foundation model**|Euclid Collaboration et.al.|[2503.15312v1](http://arxiv.org/abs/2503.15312v1)|null|
-|**2025-03-19**|**Asymptotic Normality in LAD Polynomial Regression and Hilbert Matrices**|Saïd Maanan et.al.|[2503.15041v1](http://arxiv.org/abs/2503.15041v1)|null|
-|**2025-03-18**|**Spatial and temporal analysis of political violence in the United States**|Ravi Varma Pakalapati et.al.|[2503.14399v1](http://arxiv.org/abs/2503.14399v1)|null|
-|**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346v1](http://arxiv.org/abs/2503.14346v1)|null|
-|**2025-03-17**|**Highly Efficient Direct Analytics on Semantic-aware Time Series Data Compression**|Guoyou Sun et.al.|[2503.13246v1](http://arxiv.org/abs/2503.13246v1)|null|
-|**2025-03-16**|**Probabilistic Neural Networks (PNNs) with t-Distributed Outputs: Adaptive Prediction Intervals Beyond Gaussian Assumptions**|Farhad Pourkamali-Anaraki et.al.|[2503.12354v1](http://arxiv.org/abs/2503.12354v1)|null|
-|**2025-03-15**|**FedTilt: Towards Multi-Level Fairness-Preserving and Robust Federated Learning**|Binghui Zhang et.al.|[2503.13537v1](http://arxiv.org/abs/2503.13537v1)|null|
-|**2025-03-14**|**States of Disarray: Cleaning Data for Gerrymandering Analysis**|Ananya Agarwal et.al.|[2503.13521v1](http://arxiv.org/abs/2503.13521v1)|null|
-|**2025-03-14**|**Mitigating Bad Ground Truth in Supervised Machine Learning based Crop Classification: A Multi-Level Framework with Sentinel-2 Images**|Sanayya A et.al.|[2503.11807v1](http://arxiv.org/abs/2503.11807v1)|null|
-|**2025-03-14**|**Square Kilometre Array Science Data Challenge 3a: foreground removal for an EoR experiment**|A. Bonaldi et.al.|[2503.11740v1](http://arxiv.org/abs/2503.11740v1)|[link](https://github.com/zuoshifan/ska_sdc3a_pipeline)|
-|**2025-03-14**|**Expanded atlas of the sky in continuous gravitational waves**|Vladimir Dergachev et.al.|[2503.11512v1](http://arxiv.org/abs/2503.11512v1)|null|
-|**2025-03-14**|**First loosely coherent search for continuous gravitational wave sources with substellar companions in the Orion spur**|Vladimir Dergachev et.al.|[2503.11503v2](http://arxiv.org/abs/2503.11503v2)|null|
-|**2025-03-14**|**Elemental abundances of 44 very metal-poor stars determined from Subaru/IRD near-infrared spectra**|Wako Aoki et.al.|[2503.11487v1](http://arxiv.org/abs/2503.11487v1)|null|
-|**2025-03-14**|**Contextual Similarity Distillation: Ensemble Uncertainties with a Single Model**|Moritz A. Zanger et.al.|[2503.11339v1](http://arxiv.org/abs/2503.11339v1)|null|
-|**2025-03-14**|**Latent Space Representation of Electricity Market Curves for Improved Prediction Efficiency**|Martin Výboh et.al.|[2503.11294v1](http://arxiv.org/abs/2503.11294v1)|null|
-|**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|
-|**2025-03-13**|**OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models**|Akshat Ramachandran et.al.|[2503.10959v1](http://arxiv.org/abs/2503.10959v1)|null|
-|**2025-03-13**|**GBSVR: Granular Ball Support Vector Regression**|Reshma Rastogi et.al.|[2503.10539v1](http://arxiv.org/abs/2503.10539v1)|null|
-|**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468v1](http://arxiv.org/abs/2503.10468v1)|[link](https://github.com/zxk1212/OODD)|
-|**2025-03-13**|**Optimal Privacy-Preserving Distributed Median Consensus**|Wenrui Yu et.al.|[2503.10147v1](http://arxiv.org/abs/2503.10147v1)|null|
-|**2025-03-12**|**PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs**|Oskar van der Wal et.al.|[2503.09543v1](http://arxiv.org/abs/2503.09543v1)|null|
-|**2025-03-12**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al.|[2503.09509v1](http://arxiv.org/abs/2503.09509v1)|null|
-|**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504v1](http://arxiv.org/abs/2503.09504v1)|null|
-|**2025-03-12**|**Federated Smoothing ADMM for Localization**|Reza Mirzaeifard et.al.|[2503.09497v1](http://arxiv.org/abs/2503.09497v1)|null|
-|**2025-03-12**|**Monte Carlo Diffusion for Generalizable Learning-Based RANSAC**|Jiale Wang et.al.|[2503.09410v1](http://arxiv.org/abs/2503.09410v1)|null|
-|**2025-03-12**|**X-ray spectral fitting with Monte Carlo Dropout Neural Networks**|A. Tutone et.al.|[2503.09224v1](http://arxiv.org/abs/2503.09224v1)|null|
-|**2025-03-11**|**Robust Unsupervised Fault Diagnosis For High-Dimensional Nonlinear Noisy Data**|Dandan Zhao et.al.|[2503.08916v1](http://arxiv.org/abs/2503.08916v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -80,6 +46,40 @@
 |**2025-03-20**|**Interpretable Neural Causal Models with TRAM-DAGs**|Beate Sick et.al.|[2503.16206v1](http://arxiv.org/abs/2503.16206v1)|null|
 |**2025-03-20**|**Affective Polarization Amongst Swedish Politicians**|François t'Serstevens et.al.|[2503.16193v1](http://arxiv.org/abs/2503.16193v1)|null|
 |**2025-03-20**|**Nonparametric Bellman Mappings for Value Iteration in Distributed Reinforcement Learning**|Yuki Akiyama et.al.|[2503.16192v1](http://arxiv.org/abs/2503.16192v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-20**|**OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP**|Mohamad Hassan N C et.al.|[2503.16106v1](http://arxiv.org/abs/2503.16106v1)|null|
+|**2025-03-20**|**Rejecting Outliers in 2D-3D Point Correspondences from 2D Forward-Looking Sonar Observations**|Jiayi Su et.al.|[2503.16066v1](http://arxiv.org/abs/2503.16066v1)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). Optical and near-infrared identification and classification of point-like X-ray selected sources**|Euclid Collaboration et.al.|[2503.15316v1](http://arxiv.org/abs/2503.15316v1)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1) Exploring galaxy properties with a multi-modal foundation model**|Euclid Collaboration et.al.|[2503.15312v1](http://arxiv.org/abs/2503.15312v1)|null|
+|**2025-03-19**|**Asymptotic Normality in LAD Polynomial Regression and Hilbert Matrices**|Saïd Maanan et.al.|[2503.15041v1](http://arxiv.org/abs/2503.15041v1)|null|
+|**2025-03-18**|**Spatial and temporal analysis of political violence in the United States**|Ravi Varma Pakalapati et.al.|[2503.14399v1](http://arxiv.org/abs/2503.14399v1)|null|
+|**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346v1](http://arxiv.org/abs/2503.14346v1)|null|
+|**2025-03-17**|**Highly Efficient Direct Analytics on Semantic-aware Time Series Data Compression**|Guoyou Sun et.al.|[2503.13246v1](http://arxiv.org/abs/2503.13246v1)|null|
+|**2025-03-16**|**Probabilistic Neural Networks (PNNs) with t-Distributed Outputs: Adaptive Prediction Intervals Beyond Gaussian Assumptions**|Farhad Pourkamali-Anaraki et.al.|[2503.12354v1](http://arxiv.org/abs/2503.12354v1)|null|
+|**2025-03-15**|**FedTilt: Towards Multi-Level Fairness-Preserving and Robust Federated Learning**|Binghui Zhang et.al.|[2503.13537v1](http://arxiv.org/abs/2503.13537v1)|null|
+|**2025-03-14**|**States of Disarray: Cleaning Data for Gerrymandering Analysis**|Ananya Agarwal et.al.|[2503.13521v1](http://arxiv.org/abs/2503.13521v1)|null|
+|**2025-03-14**|**Mitigating Bad Ground Truth in Supervised Machine Learning based Crop Classification: A Multi-Level Framework with Sentinel-2 Images**|Sanayya A et.al.|[2503.11807v1](http://arxiv.org/abs/2503.11807v1)|null|
+|**2025-03-14**|**Square Kilometre Array Science Data Challenge 3a: foreground removal for an EoR experiment**|A. Bonaldi et.al.|[2503.11740v1](http://arxiv.org/abs/2503.11740v1)|[link](https://github.com/zuoshifan/ska_sdc3a_pipeline)|
+|**2025-03-14**|**Expanded atlas of the sky in continuous gravitational waves**|Vladimir Dergachev et.al.|[2503.11512v1](http://arxiv.org/abs/2503.11512v1)|null|
+|**2025-03-14**|**First loosely coherent search for continuous gravitational wave sources with substellar companions in the Orion spur**|Vladimir Dergachev et.al.|[2503.11503v2](http://arxiv.org/abs/2503.11503v2)|null|
+|**2025-03-14**|**Elemental abundances of 44 very metal-poor stars determined from Subaru/IRD near-infrared spectra**|Wako Aoki et.al.|[2503.11487v1](http://arxiv.org/abs/2503.11487v1)|null|
+|**2025-03-14**|**Contextual Similarity Distillation: Ensemble Uncertainties with a Single Model**|Moritz A. Zanger et.al.|[2503.11339v1](http://arxiv.org/abs/2503.11339v1)|null|
+|**2025-03-14**|**Latent Space Representation of Electricity Market Curves for Improved Prediction Efficiency**|Martin Výboh et.al.|[2503.11294v1](http://arxiv.org/abs/2503.11294v1)|null|
+|**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|
+|**2025-03-13**|**OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models**|Akshat Ramachandran et.al.|[2503.10959v1](http://arxiv.org/abs/2503.10959v1)|null|
+|**2025-03-13**|**GBSVR: Granular Ball Support Vector Regression**|Reshma Rastogi et.al.|[2503.10539v1](http://arxiv.org/abs/2503.10539v1)|null|
+|**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468v1](http://arxiv.org/abs/2503.10468v1)|[link](https://github.com/zxk1212/OODD)|
+|**2025-03-13**|**Optimal Privacy-Preserving Distributed Median Consensus**|Wenrui Yu et.al.|[2503.10147v1](http://arxiv.org/abs/2503.10147v1)|null|
+|**2025-03-12**|**PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs**|Oskar van der Wal et.al.|[2503.09543v1](http://arxiv.org/abs/2503.09543v1)|null|
+|**2025-03-12**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al.|[2503.09509v1](http://arxiv.org/abs/2503.09509v1)|null|
+|**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504v1](http://arxiv.org/abs/2503.09504v1)|null|
+|**2025-03-12**|**Federated Smoothing ADMM for Localization**|Reza Mirzaeifard et.al.|[2503.09497v1](http://arxiv.org/abs/2503.09497v1)|null|
+|**2025-03-12**|**Monte Carlo Diffusion for Generalizable Learning-Based RANSAC**|Jiale Wang et.al.|[2503.09410v1](http://arxiv.org/abs/2503.09410v1)|null|
+|**2025-03-12**|**X-ray spectral fitting with Monte Carlo Dropout Neural Networks**|A. Tutone et.al.|[2503.09224v1](http://arxiv.org/abs/2503.09224v1)|null|
+|**2025-03-11**|**Robust Unsupervised Fault Diagnosis For High-Dimensional Nonlinear Noisy Data**|Dandan Zhao et.al.|[2503.08916v1](http://arxiv.org/abs/2503.08916v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
