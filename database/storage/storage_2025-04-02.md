@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-02 10:03:07 Asia/Shanghai
+ Automated deployment @ 2025-04-02 20:54:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -12,6 +12,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-31**|**Intertwining bulk and surface: the case of UTe$_2$**|Andras Szabo et.al.|[2503.24390v1](http://arxiv.org/abs/2503.24390v1)|null|
+|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|[link](https://github.com/lwxfight/snn-underwater)|
+|**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365v1](http://arxiv.org/abs/2503.24365v1)|null|
+|**2025-03-31**|**Unique Decay Modes and Signatures of pNGB scalars in $SU(5)/SO(5)$ Composite Higgs Model**|Nilanjana Kumar et.al.|[2503.24360v1](http://arxiv.org/abs/2503.24360v1)|null|
+|**2025-03-31**|**Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance**|Sarah K. Mann et.al.|[2503.24341v1](http://arxiv.org/abs/2503.24341v1)|null|
+|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307v1](http://arxiv.org/abs/2503.24307v1)|null|
+|**2025-03-31**|**Gravitational Waves from Massive Black Hole Mergers in ASTRID: Predictions for LISA**|Bonny Y. Wang et.al.|[2503.24304v1](http://arxiv.org/abs/2503.24304v1)|null|
+|**2025-03-31**|**BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**|Annabella Meech et.al.|[2503.24280v1](http://arxiv.org/abs/2503.24280v1)|null|
+|**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278v1](http://arxiv.org/abs/2503.24278v1)|[link](https://github.com/zhouzypaul/auto_eval)|
+|**2025-03-31**|**A direct detection method of galaxy intrinsic ellipticity-gravitational shear correlation in non-linear regimes using self-calibration**|Avijit Bera et.al.|[2503.24269v1](http://arxiv.org/abs/2503.24269v1)|null|
+|**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267v1](http://arxiv.org/abs/2503.24267v1)|null|
+|**2025-03-31**|**Extended signatures and link concordance**|David Cimasoni et.al.|[2503.24264v1](http://arxiv.org/abs/2503.24264v1)|null|
+|**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259v1](http://arxiv.org/abs/2503.24259v1)|null|
+|**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253v1](http://arxiv.org/abs/2503.24253v1)|null|
+|**2025-03-31**|**Orlando's flask: detection of a lost-and-found valley on the Moon**|Vito Squicciarini et.al.|[2503.24242v1](http://arxiv.org/abs/2503.24242v1)|null|
+|**2025-03-31**|**Asymmetry in Distributions of Accumulated Gains and Losses in Stock Returns**|Hamed Farahani et.al.|[2503.24241v1](http://arxiv.org/abs/2503.24241v1)|null|
+|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219v1](http://arxiv.org/abs/2503.24219v1)|null|
+|**2025-03-31**|**Closing the detection loophole in the triangle network with high-dimensional photonic states**|Tamás Kriváchy et.al.|[2503.24213v1](http://arxiv.org/abs/2503.24213v1)|[link](https://github.com/tkrivachy/detectionloopholelp)|
+|**2025-03-31**|**Synthetic News Generation for Fake News Classification**|Abdul Sittar et.al.|[2503.24206v1](http://arxiv.org/abs/2503.24206v1)|null|
+|**2025-03-31**|**Agent-Based Simulations of Online Political Discussions: A Case Study on Elections in Germany**|Abdul Sittar et.al.|[2503.24199v1](http://arxiv.org/abs/2503.24199v1)|null|
+|**2025-03-31**|**Investigation of Tearing Mode Stability Near Ideal Stability Boundaries Via Asymptotic Matching Techniques**|Richard Fitzpatrick et.al.|[2503.24184v1](http://arxiv.org/abs/2503.24184v1)|null|
+|**2025-03-31**|**Beijing Normal University 12-meter Interferometric kHz GW Detector Prototype: Design and Scientific Prospects**|Mengyao Wang et.al.|[2503.24178v2](http://arxiv.org/abs/2503.24178v2)|null|
+|**2025-03-31**|**Current status of real-time imaging of antiproton annihilation in biological targets**|Zlatko Dimcovski et.al.|[2503.24158v1](http://arxiv.org/abs/2503.24158v1)|null|
+|**2025-03-31**|**Reinforcing Localization Credibility Through Convex Optimization**|Slavisa Tomic et.al.|[2503.24156v1](http://arxiv.org/abs/2503.24156v1)|null|
+|**2025-03-31**|**Trident: Interference Avoidance in Multi-reader Backscatter Network via Frequency-space Division**|Yang Zou et.al.|[2503.24148v1](http://arxiv.org/abs/2503.24148v1)|null|
+|**2025-03-31**|**Joint Modeling of Multiple Longitudinal Biomarkers and Survival Outcomes via Threshold Regression: Variability as a Predictor**|Mingyan Yu et.al.|[2503.24146v1](http://arxiv.org/abs/2503.24146v1)|null|
+|**2025-03-31**|**Enhancing Traffic Safety with AI and 6G: Latency Requirements and Real-Time Threat Detection**|Kurt Horvath et.al.|[2503.24143v1](http://arxiv.org/abs/2503.24143v1)|null|
+|**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138v1](http://arxiv.org/abs/2503.24138v1)|[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)|
+|**2025-03-31**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115v2](http://arxiv.org/abs/2503.24115v2)|null|
+|**2025-03-31**|**PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis**|Anwesa Choudhuri et.al.|[2503.24108v1](http://arxiv.org/abs/2503.24108v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -46,40 +80,6 @@
 |**2025-03-23**|**BERTDetect: A Neural Topic Modelling Approach for Android Malware Detection**|Nishavi Ranaweera et.al.|[2503.18043v1](http://arxiv.org/abs/2503.18043v1)|null|
 |**2025-03-22**|**BackMix: Regularizing Open Set Recognition by Removing Underlying Fore-Background Priors**|Yu Wang et.al.|[2503.17717v1](http://arxiv.org/abs/2503.17717v1)|[link](https://github.com/vanixxz/backmix)|
 |**2025-03-21**|**Large Language Model Compression via the Nested Activation-Aware Decomposition**|Jun Lu et.al.|[2503.17101v1](http://arxiv.org/abs/2503.17101v1)|null|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-31**|**Intertwining bulk and surface: the case of UTe$_2$**|Andras Szabo et.al.|[2503.24390v1](http://arxiv.org/abs/2503.24390v1)|null|
-|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|[link](https://github.com/lwxfight/snn-underwater)|
-|**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365v1](http://arxiv.org/abs/2503.24365v1)|null|
-|**2025-03-31**|**Unique Decay Modes and Signatures of pNGB scalars in $SU(5)/SO(5)$ Composite Higgs Model**|Nilanjana Kumar et.al.|[2503.24360v1](http://arxiv.org/abs/2503.24360v1)|null|
-|**2025-03-31**|**Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance**|Sarah K. Mann et.al.|[2503.24341v1](http://arxiv.org/abs/2503.24341v1)|null|
-|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307v1](http://arxiv.org/abs/2503.24307v1)|null|
-|**2025-03-31**|**Gravitational Waves from Massive Black Hole Mergers in ASTRID: Predictions for LISA**|Bonny Y. Wang et.al.|[2503.24304v1](http://arxiv.org/abs/2503.24304v1)|null|
-|**2025-03-31**|**BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**|Annabella Meech et.al.|[2503.24280v1](http://arxiv.org/abs/2503.24280v1)|null|
-|**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278v1](http://arxiv.org/abs/2503.24278v1)|[link](https://github.com/zhouzypaul/auto_eval)|
-|**2025-03-31**|**A direct detection method of galaxy intrinsic ellipticity-gravitational shear correlation in non-linear regimes using self-calibration**|Avijit Bera et.al.|[2503.24269v1](http://arxiv.org/abs/2503.24269v1)|null|
-|**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267v1](http://arxiv.org/abs/2503.24267v1)|null|
-|**2025-03-31**|**Extended signatures and link concordance**|David Cimasoni et.al.|[2503.24264v1](http://arxiv.org/abs/2503.24264v1)|null|
-|**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259v1](http://arxiv.org/abs/2503.24259v1)|null|
-|**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253v1](http://arxiv.org/abs/2503.24253v1)|null|
-|**2025-03-31**|**Orlando's flask: detection of a lost-and-found valley on the Moon**|Vito Squicciarini et.al.|[2503.24242v1](http://arxiv.org/abs/2503.24242v1)|null|
-|**2025-03-31**|**Asymmetry in Distributions of Accumulated Gains and Losses in Stock Returns**|Hamed Farahani et.al.|[2503.24241v1](http://arxiv.org/abs/2503.24241v1)|null|
-|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219v1](http://arxiv.org/abs/2503.24219v1)|null|
-|**2025-03-31**|**Closing the detection loophole in the triangle network with high-dimensional photonic states**|Tamás Kriváchy et.al.|[2503.24213v1](http://arxiv.org/abs/2503.24213v1)|null|
-|**2025-03-31**|**Synthetic News Generation for Fake News Classification**|Abdul Sittar et.al.|[2503.24206v1](http://arxiv.org/abs/2503.24206v1)|null|
-|**2025-03-31**|**Agent-Based Simulations of Online Political Discussions: A Case Study on Elections in Germany**|Abdul Sittar et.al.|[2503.24199v1](http://arxiv.org/abs/2503.24199v1)|null|
-|**2025-03-31**|**Investigation of Tearing Mode Stability Near Ideal Stability Boundaries Via Asymptotic Matching Techniques**|Richard Fitzpatrick et.al.|[2503.24184v1](http://arxiv.org/abs/2503.24184v1)|null|
-|**2025-03-31**|**Beijing Normal University 12-meter Interferometric kHz GW Detector Prototype: Design and Scientific Prospects**|Mengyao Wang et.al.|[2503.24178v2](http://arxiv.org/abs/2503.24178v2)|null|
-|**2025-03-31**|**Current status of real-time imaging of antiproton annihilation in biological targets**|Zlatko Dimcovski et.al.|[2503.24158v1](http://arxiv.org/abs/2503.24158v1)|null|
-|**2025-03-31**|**Reinforcing Localization Credibility Through Convex Optimization**|Slavisa Tomic et.al.|[2503.24156v1](http://arxiv.org/abs/2503.24156v1)|null|
-|**2025-03-31**|**Trident: Interference Avoidance in Multi-reader Backscatter Network via Frequency-space Division**|Yang Zou et.al.|[2503.24148v1](http://arxiv.org/abs/2503.24148v1)|null|
-|**2025-03-31**|**Joint Modeling of Multiple Longitudinal Biomarkers and Survival Outcomes via Threshold Regression: Variability as a Predictor**|Mingyan Yu et.al.|[2503.24146v1](http://arxiv.org/abs/2503.24146v1)|null|
-|**2025-03-31**|**Enhancing Traffic Safety with AI and 6G: Latency Requirements and Real-Time Threat Detection**|Kurt Horvath et.al.|[2503.24143v1](http://arxiv.org/abs/2503.24143v1)|null|
-|**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138v1](http://arxiv.org/abs/2503.24138v1)|[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)|
-|**2025-03-31**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115v2](http://arxiv.org/abs/2503.24115v2)|null|
-|**2025-03-31**|**PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis**|Anwesa Choudhuri et.al.|[2503.24108v1](http://arxiv.org/abs/2503.24108v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
