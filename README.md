@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-06 10:07:35 Asia/Shanghai
+ Automated deployment @ 2025-04-06 20:48:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -12,40 +12,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823v1](http://arxiv.org/abs/2504.02823v1)|null|
-|**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812v1](http://arxiv.org/abs/2504.02812v1)|null|
-|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v1](http://arxiv.org/abs/2504.02800v1)|null|
-|**2025-04-03**|**MENA: Multimodal Epistemic Network Analysis for Visualizing Competencies and Emotions**|Behdokht Kiafar et.al.|[2504.02794v1](http://arxiv.org/abs/2504.02794v1)|null|
-|**2025-04-03**|**Variability study of classical supergiant X-ray binary 4U 1907+09 using NuSTAR**|Raj Kumara et.al.|[2504.02791v1](http://arxiv.org/abs/2504.02791v1)|null|
-|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782v1](http://arxiv.org/abs/2504.02782v1)|null|
-|**2025-04-03**|**TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection**|Yoon Gyo Jung et.al.|[2504.02775v1](http://arxiv.org/abs/2504.02775v1)|null|
-|**2025-04-03**|**Echoes of the hidden: Uncovering coordination beyond network structure**|Shahar Somin et.al.|[2504.02757v1](http://arxiv.org/abs/2504.02757v1)|null|
-|**2025-04-03**|**Vortex Flows in the Solar Atmosphere: Detection and Heating Mechanisms in 3D MHD Numerical Simulations**|M. Koll Pistarini et.al.|[2504.02729v1](http://arxiv.org/abs/2504.02729v1)|null|
-|**2025-04-03**|**Background-Enhanced Axion Force by Axion Dark Matter**|Yu Cheng et.al.|[2504.02702v1](http://arxiv.org/abs/2504.02702v1)|null|
-|**2025-04-03**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701v1](http://arxiv.org/abs/2504.02701v1)|null|
-|**2025-04-03**|**Planar Laser-Induced Fluorescence system for Space and Phase-resolved Ion Velocity Distribution Function Measurements**|Sung Hyun Son et.al.|[2504.02690v1](http://arxiv.org/abs/2504.02690v1)|null|
-|**2025-04-03**|**STOOD-X methodology: using statistical nonparametric test for OOD Detection Large-Scale datasets enhanced with explainability**|Iván Sevillano-García et.al.|[2504.02685v1](http://arxiv.org/abs/2504.02685v1)|null|
-|**2025-04-03**|**Probing patchy reionisation with JWST: IGM opacity constraints from the Lyman-$α$ forest of galaxies in legacy extragalactic fields**|Romain A. Meyer et.al.|[2504.02683v1](http://arxiv.org/abs/2504.02683v1)|null|
-|**2025-04-03**|**Monte Carlo evaluations of gamma-ray and radio pulsar populations**|Shawaiz Tabassum et.al.|[2504.02677v1](http://arxiv.org/abs/2504.02677v1)|null|
-|**2025-04-03**|**How humans evaluate AI systems for person detection in automatic train operation: Not all misses are alike**|Romy Müller et.al.|[2504.02664v1](http://arxiv.org/abs/2504.02664v1)|null|
-|**2025-04-03**|**The role of spectator modes in the quantum-logic spectroscopy of single trapped molecular ions**|Mikolaj Roguski et.al.|[2504.02642v1](http://arxiv.org/abs/2504.02642v1)|null|
-|**2025-04-03**|**Utilizing 5G NR SSB Blocks for Passive Detection and Localization of Low-Altitude Drones**|Palatip Jopanya et.al.|[2504.02641v1](http://arxiv.org/abs/2504.02641v1)|null|
-|**2025-04-03**|**Unveiling the reflection spectrum in the ultracompact LMXB 4U 1820-30**|A. Anitra et.al.|[2504.02626v1](http://arxiv.org/abs/2504.02626v1)|null|
-|**2025-04-03**|**EmbodiedSense: Understanding Embodied Activities with Earphones**|Lixing He et.al.|[2504.02624v1](http://arxiv.org/abs/2504.02624v1)|null|
-|**2025-04-03**|**Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset**|Abdul Rehman et.al.|[2504.02602v1](http://arxiv.org/abs/2504.02602v1)|null|
-|**2025-04-03**|**Hofstadter butterflies in phononic structures: commensurate spectra, wave localization and metal-insulator transitions**|Bryn Davies et.al.|[2504.02594v1](http://arxiv.org/abs/2504.02594v1)|null|
-|**2025-04-03**|**Helium escape signatures are generally strongest during younger ages but this age dependence is lost in the diversity of observed exoplanets**|Andrew P. Allan et.al.|[2504.02578v1](http://arxiv.org/abs/2504.02578v1)|null|
-|**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577v1](http://arxiv.org/abs/2504.02577v1)|null|
-|**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558v1](http://arxiv.org/abs/2504.02558v1)|null|
-|**2025-04-03**|**Detection of Deuterated Hydrocarbon Nanoparticles in the Whirlpool Galaxy, M51**|B. T. Draine et.al.|[2504.02538v1](http://arxiv.org/abs/2504.02538v1)|null|
-|**2025-04-03**|**Detection of cosmological dipoles aligned with transverse peculiar velocities**|Yan-Chuan Cai et.al.|[2504.02525v1](http://arxiv.org/abs/2504.02525v1)|null|
-|**2025-04-03**|**Analytical Discovery of Manifold with Machine Learning**|Yafei Shen et.al.|[2504.02511v1](http://arxiv.org/abs/2504.02511v1)|null|
-|**2025-04-03**|**A complimentary impedance spectroscopy biosensing method with graphene**|Munis Khan et.al.|[2504.02510v1](http://arxiv.org/abs/2504.02510v1)|null|
-|**2025-04-03**|**ZClip: Adaptive Spike Mitigation for LLM Pre-Training**|Abhay Kumar et.al.|[2504.02507v1](http://arxiv.org/abs/2504.02507v1)|[link](https://github.com/bluorion-com/ZClip)|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -114,3 +80,37 @@
 |**2025-03-24**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**|Minsu Kim et.al.|[2503.18599v1](http://arxiv.org/abs/2503.18599v1)|null|
 |**2025-03-24**|**RoCA: Robust Contrastive One-class Time Series Anomaly Detection with Contaminated Data**|Xudong Mou et.al.|[2503.18385v1](http://arxiv.org/abs/2503.18385v1)|[link](https://github.com/ruiking04/roca)|
 |**2025-03-24**|**Maximum Redundancy Pruning: A Principle-Driven Layerwise Sparsity Allocation for LLMs**|Chang Gao et.al.|[2503.18377v1](http://arxiv.org/abs/2503.18377v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823v1](http://arxiv.org/abs/2504.02823v1)|null|
+|**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812v1](http://arxiv.org/abs/2504.02812v1)|null|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v1](http://arxiv.org/abs/2504.02800v1)|null|
+|**2025-04-03**|**MENA: Multimodal Epistemic Network Analysis for Visualizing Competencies and Emotions**|Behdokht Kiafar et.al.|[2504.02794v1](http://arxiv.org/abs/2504.02794v1)|null|
+|**2025-04-03**|**Variability study of classical supergiant X-ray binary 4U 1907+09 using NuSTAR**|Raj Kumara et.al.|[2504.02791v1](http://arxiv.org/abs/2504.02791v1)|null|
+|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782v1](http://arxiv.org/abs/2504.02782v1)|null|
+|**2025-04-03**|**TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection**|Yoon Gyo Jung et.al.|[2504.02775v1](http://arxiv.org/abs/2504.02775v1)|null|
+|**2025-04-03**|**Echoes of the hidden: Uncovering coordination beyond network structure**|Shahar Somin et.al.|[2504.02757v1](http://arxiv.org/abs/2504.02757v1)|null|
+|**2025-04-03**|**Vortex Flows in the Solar Atmosphere: Detection and Heating Mechanisms in 3D MHD Numerical Simulations**|M. Koll Pistarini et.al.|[2504.02729v1](http://arxiv.org/abs/2504.02729v1)|null|
+|**2025-04-03**|**Background-Enhanced Axion Force by Axion Dark Matter**|Yu Cheng et.al.|[2504.02702v1](http://arxiv.org/abs/2504.02702v1)|null|
+|**2025-04-03**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701v1](http://arxiv.org/abs/2504.02701v1)|null|
+|**2025-04-03**|**Planar Laser-Induced Fluorescence system for Space and Phase-resolved Ion Velocity Distribution Function Measurements**|Sung Hyun Son et.al.|[2504.02690v1](http://arxiv.org/abs/2504.02690v1)|null|
+|**2025-04-03**|**STOOD-X methodology: using statistical nonparametric test for OOD Detection Large-Scale datasets enhanced with explainability**|Iván Sevillano-García et.al.|[2504.02685v1](http://arxiv.org/abs/2504.02685v1)|null|
+|**2025-04-03**|**Probing patchy reionisation with JWST: IGM opacity constraints from the Lyman-$α$ forest of galaxies in legacy extragalactic fields**|Romain A. Meyer et.al.|[2504.02683v1](http://arxiv.org/abs/2504.02683v1)|null|
+|**2025-04-03**|**Monte Carlo evaluations of gamma-ray and radio pulsar populations**|Shawaiz Tabassum et.al.|[2504.02677v1](http://arxiv.org/abs/2504.02677v1)|null|
+|**2025-04-03**|**How humans evaluate AI systems for person detection in automatic train operation: Not all misses are alike**|Romy Müller et.al.|[2504.02664v1](http://arxiv.org/abs/2504.02664v1)|null|
+|**2025-04-03**|**The role of spectator modes in the quantum-logic spectroscopy of single trapped molecular ions**|Mikolaj Roguski et.al.|[2504.02642v1](http://arxiv.org/abs/2504.02642v1)|null|
+|**2025-04-03**|**Utilizing 5G NR SSB Blocks for Passive Detection and Localization of Low-Altitude Drones**|Palatip Jopanya et.al.|[2504.02641v1](http://arxiv.org/abs/2504.02641v1)|null|
+|**2025-04-03**|**Unveiling the reflection spectrum in the ultracompact LMXB 4U 1820-30**|A. Anitra et.al.|[2504.02626v1](http://arxiv.org/abs/2504.02626v1)|null|
+|**2025-04-03**|**EmbodiedSense: Understanding Embodied Activities with Earphones**|Lixing He et.al.|[2504.02624v1](http://arxiv.org/abs/2504.02624v1)|null|
+|**2025-04-03**|**Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset**|Abdul Rehman et.al.|[2504.02602v1](http://arxiv.org/abs/2504.02602v1)|null|
+|**2025-04-03**|**Hofstadter butterflies in phononic structures: commensurate spectra, wave localization and metal-insulator transitions**|Bryn Davies et.al.|[2504.02594v1](http://arxiv.org/abs/2504.02594v1)|null|
+|**2025-04-03**|**Helium escape signatures are generally strongest during younger ages but this age dependence is lost in the diversity of observed exoplanets**|Andrew P. Allan et.al.|[2504.02578v1](http://arxiv.org/abs/2504.02578v1)|null|
+|**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577v1](http://arxiv.org/abs/2504.02577v1)|null|
+|**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558v1](http://arxiv.org/abs/2504.02558v1)|null|
+|**2025-04-03**|**Detection of Deuterated Hydrocarbon Nanoparticles in the Whirlpool Galaxy, M51**|B. T. Draine et.al.|[2504.02538v1](http://arxiv.org/abs/2504.02538v1)|null|
+|**2025-04-03**|**Detection of cosmological dipoles aligned with transverse peculiar velocities**|Yan-Chuan Cai et.al.|[2504.02525v1](http://arxiv.org/abs/2504.02525v1)|null|
+|**2025-04-03**|**Analytical Discovery of Manifold with Machine Learning**|Yafei Shen et.al.|[2504.02511v1](http://arxiv.org/abs/2504.02511v1)|null|
+|**2025-04-03**|**A complimentary impedance spectroscopy biosensing method with graphene**|Munis Khan et.al.|[2504.02510v1](http://arxiv.org/abs/2504.02510v1)|null|
+|**2025-04-03**|**ZClip: Adaptive Spike Mitigation for LLM Pre-Training**|Abhay Kumar et.al.|[2504.02507v1](http://arxiv.org/abs/2504.02507v1)|[link](https://github.com/bluorion-com/ZClip)|
