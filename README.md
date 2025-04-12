@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-12 10:00:11 Asia/Shanghai
+ Automated deployment @ 2025-04-12 20:48:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -47,40 +47,6 @@
 |**2025-04-10**|**PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development**|Zhenhuan Zhou et.al.|[2504.07760v1](http://arxiv.org/abs/2504.07760v1)|null|
 |**2025-04-10**|**Finite-Blocklength Information Theory**|Junyuan Gao et.al.|[2504.07743v1](http://arxiv.org/abs/2504.07743v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-10**|**Improving Photometric Redshift Estimation for CSST Mock Catalog Using SED Templates Calibrated with Perturbation Algorithm**|Yicheng Li et.al.|[2504.07684v1](http://arxiv.org/abs/2504.07684v1)|null|
-|**2025-04-10**|**Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization**|Hye-Min Won et.al.|[2504.07677v1](http://arxiv.org/abs/2504.07677v1)|null|
-|**2025-04-10**|**Adversarial Subspace Generation for Outlier Detection in High-Dimensional Data**|Jose Cribeiro-Ramallo et.al.|[2504.07522v1](http://arxiv.org/abs/2504.07522v1)|null|
-|**2025-04-10**|**Probability Estimation and Scheduling Optimization for Battery Swap Stations via LRU-Enhanced Genetic Algorithm and Dual-Factor Decision System**|Anzhen Li et.al.|[2504.07453v1](http://arxiv.org/abs/2504.07453v1)|null|
-|**2025-04-09**|**DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction**|Yuan Xiao et.al.|[2504.07002v1](http://arxiv.org/abs/2504.07002v1)|null|
-|**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178v1](http://arxiv.org/abs/2504.06178v1)|null|
-|**2025-04-08**|**Robust Statistics vs. Machine Learning vs. Bayesian Inference: Insights into Handling Faulty GNSS Measurements in Field Robotics**|Haoming Zhang et.al.|[2504.06015v1](http://arxiv.org/abs/2504.06015v1)|null|
-|**2025-04-07**|**PreSumm: Predicting Summarization Performance Without Summarizing**|Steven Koniaev et.al.|[2504.05420v1](http://arxiv.org/abs/2504.05420v1)|null|
-|**2025-04-06**|**How much has DESI dark energy evolved since DR1?**|Eoin Ó Colgáin et.al.|[2504.04417v1](http://arxiv.org/abs/2504.04417v1)|null|
-|**2025-04-05**|**Landauer-Limited Dissipation in Quantum-Flux-Parametron Logic**|Quentin Herr et.al.|[2504.04284v1](http://arxiv.org/abs/2504.04284v1)|null|
-|**2025-04-05**|**Improving Chronic Kidney Disease Detection Efficiency: Fine Tuned CatBoost and Nature-Inspired Algorithms with Explainable AI**|Md. Ehsanul Haque et.al.|[2504.04262v1](http://arxiv.org/abs/2504.04262v1)|null|
-|**2025-04-04**|**MaxTDA: Robust Statistical Inference for Maximal Persistence in Topological Data Analysis**|Sixtus Dakurah et.al.|[2504.03897v1](http://arxiv.org/abs/2504.03897v1)|null|
-|**2025-04-04**|**Target Prediction Under Deceptive Switching Strategies via Outlier-Robust Filtering of Partially Observed Incomplete Trajectories**|Yiming Meng et.al.|[2504.03502v1](http://arxiv.org/abs/2504.03502v1)|null|
-|**2025-04-04**|**Search for anomalous quartic gauge couplings in the process $μ^+μ^-\to \barννγγ$ with a nested local outlier factor**|Ke-Xin Chen et.al.|[2504.03145v1](http://arxiv.org/abs/2504.03145v1)|null|
-|**2025-04-04**|**Machine Learning-Based Detection and Analysis of Suspicious Activities in Bitcoin Wallet Transactions in the USA**|Md Zahidul Islam et.al.|[2504.03092v1](http://arxiv.org/abs/2504.03092v1)|null|
-|**2025-04-03**|**A Lanczos-Based Algorithmic Approach for Spike Detection in Large Sample Covariance Matrices**|Charbel Abi Younes et.al.|[2504.03066v1](http://arxiv.org/abs/2504.03066v1)|null|
-|**2025-04-03**|**A smooth multi-group Gaussian Mixture Model for cellwise robust covariance estimation**|Patricia Puchhammer et.al.|[2504.02547v1](http://arxiv.org/abs/2504.02547v1)|null|
-|**2025-04-03**|**Robust Randomized Low-Rank Approximation with Row-Wise Outlier Detection**|Aidan Tiruvan et.al.|[2504.02432v1](http://arxiv.org/abs/2504.02432v1)|null|
-|**2025-04-02**|**UAKNN: Label Distribution Learning via Uncertainty-Aware KNN**|Pu Wang et.al.|[2504.01508v1](http://arxiv.org/abs/2504.01508v1)|null|
-|**2025-04-02**|**ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery**|Shijie Ma et.al.|[2504.03755v1](http://arxiv.org/abs/2504.03755v1)|null|
-|**2025-04-01**|**Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics**|Jason Adams et.al.|[2504.01172v2](http://arxiv.org/abs/2504.01172v2)|null|
-|**2025-04-01**|**A Unified Virtual Mixture-of-Experts Framework:Enhanced Inference and Hallucination Mitigation in Single-Model System**|Mingyan Liu et.al.|[2504.03739v1](http://arxiv.org/abs/2504.03739v1)|null|
-|**2025-04-01**|**Geometric Median Matching for Robust k-Subset Selection from Noisy Data**|Anish Acharya et.al.|[2504.00564v2](http://arxiv.org/abs/2504.00564v2)|null|
-|**2025-03-31**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321v1](http://arxiv.org/abs/2503.24321v1)|null|
-|**2025-03-31**|**Asymmetry in Distributions of Accumulated Gains and Losses in Stock Returns**|Hamed Farahani et.al.|[2503.24241v1](http://arxiv.org/abs/2503.24241v1)|null|
-|**2025-03-31**|**A Robust Extrinsic Single-index Model for Spherical Data**|Houren Hong et.al.|[2503.24003v1](http://arxiv.org/abs/2503.24003v1)|null|
-|**2025-03-31**|**Robust Suboptimal Local Basis Function Algorithms for Identification of Nonstationary FIR Systems in Impulsive Noise Environments**|Maciej Niedźwiecki et.al.|[2503.23885v1](http://arxiv.org/abs/2503.23885v1)|null|
-|**2025-03-31**|**Evaluation of (Un-)Supervised Machine Learning Methods for GNSS Interference Classification with Real-World Data Discrepancies**|Lucas Heublein et.al.|[2503.23775v1](http://arxiv.org/abs/2503.23775v1)|null|
-|**2025-03-30**|**Understanding Visual Saliency of Outlier Items in Product Search**|Fatemeh Sarvi et.al.|[2503.23596v1](http://arxiv.org/abs/2503.23596v1)|null|
-|**2025-03-28**|**Identifying catastrophic outlier photometric redshift estimates in the COSMOS field with machine learning methods**|Mitchell T. Dennis et.al.|[2503.22149v1](http://arxiv.org/abs/2503.22149v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -114,3 +80,37 @@
 |**2025-04-10**|**Filtering through a topological lens: homology for point processes on the time-frequency plane**|Juan Manuel Miramont et.al.|[2504.07720v1](http://arxiv.org/abs/2504.07720v1)|null|
 |**2025-04-10**|**PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization**|Yang Jiao et.al.|[2504.07717v1](http://arxiv.org/abs/2504.07717v1)|null|
 |**2025-04-10**|**Quasi-Periodic Pulsations in Ionospheric TEC Synchronized with Solar Flare EUV Emission**|Aisling N. O'Hare et.al.|[2504.07714v1](http://arxiv.org/abs/2504.07714v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-10**|**Improving Photometric Redshift Estimation for CSST Mock Catalog Using SED Templates Calibrated with Perturbation Algorithm**|Yicheng Li et.al.|[2504.07684v1](http://arxiv.org/abs/2504.07684v1)|null|
+|**2025-04-10**|**Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization**|Hye-Min Won et.al.|[2504.07677v1](http://arxiv.org/abs/2504.07677v1)|null|
+|**2025-04-10**|**Adversarial Subspace Generation for Outlier Detection in High-Dimensional Data**|Jose Cribeiro-Ramallo et.al.|[2504.07522v1](http://arxiv.org/abs/2504.07522v1)|null|
+|**2025-04-10**|**Probability Estimation and Scheduling Optimization for Battery Swap Stations via LRU-Enhanced Genetic Algorithm and Dual-Factor Decision System**|Anzhen Li et.al.|[2504.07453v1](http://arxiv.org/abs/2504.07453v1)|null|
+|**2025-04-09**|**DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction**|Yuan Xiao et.al.|[2504.07002v1](http://arxiv.org/abs/2504.07002v1)|null|
+|**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178v1](http://arxiv.org/abs/2504.06178v1)|null|
+|**2025-04-08**|**Robust Statistics vs. Machine Learning vs. Bayesian Inference: Insights into Handling Faulty GNSS Measurements in Field Robotics**|Haoming Zhang et.al.|[2504.06015v1](http://arxiv.org/abs/2504.06015v1)|null|
+|**2025-04-07**|**PreSumm: Predicting Summarization Performance Without Summarizing**|Steven Koniaev et.al.|[2504.05420v1](http://arxiv.org/abs/2504.05420v1)|null|
+|**2025-04-06**|**How much has DESI dark energy evolved since DR1?**|Eoin Ó Colgáin et.al.|[2504.04417v1](http://arxiv.org/abs/2504.04417v1)|null|
+|**2025-04-05**|**Landauer-Limited Dissipation in Quantum-Flux-Parametron Logic**|Quentin Herr et.al.|[2504.04284v1](http://arxiv.org/abs/2504.04284v1)|null|
+|**2025-04-05**|**Improving Chronic Kidney Disease Detection Efficiency: Fine Tuned CatBoost and Nature-Inspired Algorithms with Explainable AI**|Md. Ehsanul Haque et.al.|[2504.04262v1](http://arxiv.org/abs/2504.04262v1)|null|
+|**2025-04-04**|**MaxTDA: Robust Statistical Inference for Maximal Persistence in Topological Data Analysis**|Sixtus Dakurah et.al.|[2504.03897v1](http://arxiv.org/abs/2504.03897v1)|null|
+|**2025-04-04**|**Target Prediction Under Deceptive Switching Strategies via Outlier-Robust Filtering of Partially Observed Incomplete Trajectories**|Yiming Meng et.al.|[2504.03502v1](http://arxiv.org/abs/2504.03502v1)|null|
+|**2025-04-04**|**Search for anomalous quartic gauge couplings in the process $μ^+μ^-\to \barννγγ$ with a nested local outlier factor**|Ke-Xin Chen et.al.|[2504.03145v1](http://arxiv.org/abs/2504.03145v1)|null|
+|**2025-04-04**|**Machine Learning-Based Detection and Analysis of Suspicious Activities in Bitcoin Wallet Transactions in the USA**|Md Zahidul Islam et.al.|[2504.03092v1](http://arxiv.org/abs/2504.03092v1)|null|
+|**2025-04-03**|**A Lanczos-Based Algorithmic Approach for Spike Detection in Large Sample Covariance Matrices**|Charbel Abi Younes et.al.|[2504.03066v1](http://arxiv.org/abs/2504.03066v1)|null|
+|**2025-04-03**|**A smooth multi-group Gaussian Mixture Model for cellwise robust covariance estimation**|Patricia Puchhammer et.al.|[2504.02547v1](http://arxiv.org/abs/2504.02547v1)|null|
+|**2025-04-03**|**Robust Randomized Low-Rank Approximation with Row-Wise Outlier Detection**|Aidan Tiruvan et.al.|[2504.02432v1](http://arxiv.org/abs/2504.02432v1)|null|
+|**2025-04-02**|**UAKNN: Label Distribution Learning via Uncertainty-Aware KNN**|Pu Wang et.al.|[2504.01508v1](http://arxiv.org/abs/2504.01508v1)|null|
+|**2025-04-02**|**ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery**|Shijie Ma et.al.|[2504.03755v1](http://arxiv.org/abs/2504.03755v1)|null|
+|**2025-04-01**|**Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics**|Jason Adams et.al.|[2504.01172v2](http://arxiv.org/abs/2504.01172v2)|null|
+|**2025-04-01**|**A Unified Virtual Mixture-of-Experts Framework:Enhanced Inference and Hallucination Mitigation in Single-Model System**|Mingyan Liu et.al.|[2504.03739v1](http://arxiv.org/abs/2504.03739v1)|null|
+|**2025-04-01**|**Geometric Median Matching for Robust k-Subset Selection from Noisy Data**|Anish Acharya et.al.|[2504.00564v2](http://arxiv.org/abs/2504.00564v2)|null|
+|**2025-03-31**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321v1](http://arxiv.org/abs/2503.24321v1)|null|
+|**2025-03-31**|**Asymmetry in Distributions of Accumulated Gains and Losses in Stock Returns**|Hamed Farahani et.al.|[2503.24241v1](http://arxiv.org/abs/2503.24241v1)|null|
+|**2025-03-31**|**A Robust Extrinsic Single-index Model for Spherical Data**|Houren Hong et.al.|[2503.24003v1](http://arxiv.org/abs/2503.24003v1)|null|
+|**2025-03-31**|**Robust Suboptimal Local Basis Function Algorithms for Identification of Nonstationary FIR Systems in Impulsive Noise Environments**|Maciej Niedźwiecki et.al.|[2503.23885v1](http://arxiv.org/abs/2503.23885v1)|null|
+|**2025-03-31**|**Evaluation of (Un-)Supervised Machine Learning Methods for GNSS Interference Classification with Real-World Data Discrepancies**|Lucas Heublein et.al.|[2503.23775v1](http://arxiv.org/abs/2503.23775v1)|null|
+|**2025-03-30**|**Understanding Visual Saliency of Outlier Items in Product Search**|Fatemeh Sarvi et.al.|[2503.23596v1](http://arxiv.org/abs/2503.23596v1)|null|
+|**2025-03-28**|**Identifying catastrophic outlier photometric redshift estimates in the COSMOS field with machine learning methods**|Mitchell T. Dennis et.al.|[2503.22149v1](http://arxiv.org/abs/2503.22149v1)|null|
