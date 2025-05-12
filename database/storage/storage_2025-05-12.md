@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-12 10:18:02 Asia/Shanghai
+ Automated deployment @ 2025-05-12 20:58:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -13,6 +13,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228v1](http://arxiv.org/abs/2505.06228v1)|null|
+|**2025-05-09**|**Decoding Algorithms for Two-dimensional Constacyclic Codes over $\mathbb{F}_q$**|Vidya Sagar et.al.|[2505.06201v1](http://arxiv.org/abs/2505.06201v1)|null|
+|**2025-05-09**|**GECAM Discovery of Peculiar Oscillating Particle Precipitation Events**|Chenwei Wang et.al.|[2505.06192v1](http://arxiv.org/abs/2505.06192v1)|null|
+|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184v1](http://arxiv.org/abs/2505.06184v1)|null|
+|**2025-05-09**|**An Empirical Study of Fuzz Harness Degradation**|Philipp Görz et.al.|[2505.06177v1](http://arxiv.org/abs/2505.06177v1)|null|
+|**2025-05-09**|**Leakage-resilient Algebraic Manipulation Detection Codes with Optimal Parameters**|Divesh Aggarwal et.al.|[2505.06174v1](http://arxiv.org/abs/2505.06174v1)|null|
+|**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171v1](http://arxiv.org/abs/2505.06171v1)|null|
+|**2025-05-09**|**Pitch Angle Measurement Method based on Detector Counts Distribution. -I. Basic conception**|Chenwei Wang et.al.|[2505.06167v1](http://arxiv.org/abs/2505.06167v1)|null|
+|**2025-05-09**|**A sample of ionised Fe line-emitting X-ray sources in the inner Galactic disc**|Samaresh Mondal et.al.|[2505.06164v1](http://arxiv.org/abs/2505.06164v1)|null|
+|**2025-05-09**|**Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework**|Alice Rueda et.al.|[2505.06151v1](http://arxiv.org/abs/2505.06151v1)|null|
+|**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149v1](http://arxiv.org/abs/2505.06149v1)|null|
+|**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134v1](http://arxiv.org/abs/2505.06134v1)|[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)|
+|**2025-05-09**|**BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation**|Hongming Wang et.al.|[2505.06133v1](http://arxiv.org/abs/2505.06133v1)|null|
+|**2025-05-09**|**Performance of a SiPM-based, plastic scintillator muon veto prototype for CUPID**|Maya Moore et.al.|[2505.06129v1](http://arxiv.org/abs/2505.06129v1)|null|
+|**2025-05-09**|**Revealing the nature of ultra-long period objects with space-based gravitational-wave interferometers**|Arthur G. Suvorov et.al.|[2505.06125v1](http://arxiv.org/abs/2505.06125v1)|null|
+|**2025-05-09**|**Quantum sensing and metrology with free electrons**|Cruz I. Velasco et.al.|[2505.06124v1](http://arxiv.org/abs/2505.06124v1)|null|
+|**2025-05-09**|**Wasserstein Distances Made Explainable: Insights into Dataset Shifts and Transport Phenomena**|Philip Naumann et.al.|[2505.06123v1](http://arxiv.org/abs/2505.06123v1)|null|
+|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|null|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
+|**2025-05-09**|**Chiral interactions, chiral states and "chiral neutrino oscillations"**|A. Yu. Smirnov et.al.|[2505.06116v1](http://arxiv.org/abs/2505.06116v1)|null|
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113v1](http://arxiv.org/abs/2505.06113v1)|null|
+|**2025-05-09**|**Differentiating Emigration from Return Migration of Scholars Using Name-Based Nationality Detection Models**|Faeze Ghorbanpour et.al.|[2505.06107v1](http://arxiv.org/abs/2505.06107v1)|null|
+|**2025-05-09**|**Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades**|Luis Miguel Esquivel-Sancho et.al.|[2505.06080v1](http://arxiv.org/abs/2505.06080v1)|null|
+|**2025-05-09**|**Zero Dynamics Attack Detection and Isolation in Cyber-Physical Systems with Event-triggered Communication**|Ali Eslami et.al.|[2505.06070v1](http://arxiv.org/abs/2505.06070v1)|null|
+|**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055v1](http://arxiv.org/abs/2505.06055v1)|null|
+|**2025-05-09**|**Short-circuiting Shortcuts: Mechanistic Investigation of Shortcuts in Text Classification**|Leon Eshuijs et.al.|[2505.06032v1](http://arxiv.org/abs/2505.06032v1)|[link](https://github.com/watermeleon/shortcut_mechanisms)|
+|**2025-05-09**|**Unravelling the Antimicrobial Action Mechanism of Ribosomal Protein S30**|J. Bhatt Mitra et.al.|[2505.06019v1](http://arxiv.org/abs/2505.06019v1)|null|
+|**2025-05-09**|**Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective**|Dawid Wisniewski et.al.|[2505.06010v1](http://arxiv.org/abs/2505.06010v1)|null|
+|**2025-05-09**|**Quantum Noise Limited Temperature-Change Estimation for Phase-OTDR Employing Coherent Detection**|Huwei Wang et.al.|[2505.06007v1](http://arxiv.org/abs/2505.06007v1)|null|
+|**2025-05-09**|**Periodic variation of magnetoionic environment of a fast radio burst source**|Jiangwei Xu et.al.|[2505.06006v1](http://arxiv.org/abs/2505.06006v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -48,40 +82,6 @@
 |**2025-04-30**|**Precision Where It Matters: A Novel Spike Aware Mixed-Precision Quantization Strategy for LLaMA-based Language Models**|Lucas Maisonnave et.al.|[2504.21553v1](http://arxiv.org/abs/2504.21553v1)|null|
 |**2025-04-30**|**Three-Stage Composite Outlier Identification of Wind Power Data: Integrating Physical Rules with Regression Learning and Mathematical Morphology**|Limengqian Zheng et.al.|[2504.21354v1](http://arxiv.org/abs/2504.21354v1)|null|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228v1](http://arxiv.org/abs/2505.06228v1)|null|
-|**2025-05-09**|**Decoding Algorithms for Two-dimensional Constacyclic Codes over $\mathbb{F}_q$**|Vidya Sagar et.al.|[2505.06201v1](http://arxiv.org/abs/2505.06201v1)|null|
-|**2025-05-09**|**GECAM Discovery of Peculiar Oscillating Particle Precipitation Events**|Chenwei Wang et.al.|[2505.06192v1](http://arxiv.org/abs/2505.06192v1)|null|
-|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184v1](http://arxiv.org/abs/2505.06184v1)|null|
-|**2025-05-09**|**An Empirical Study of Fuzz Harness Degradation**|Philipp Görz et.al.|[2505.06177v1](http://arxiv.org/abs/2505.06177v1)|null|
-|**2025-05-09**|**Leakage-resilient Algebraic Manipulation Detection Codes with Optimal Parameters**|Divesh Aggarwal et.al.|[2505.06174v1](http://arxiv.org/abs/2505.06174v1)|null|
-|**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171v1](http://arxiv.org/abs/2505.06171v1)|null|
-|**2025-05-09**|**Pitch Angle Measurement Method based on Detector Counts Distribution. -I. Basic conception**|Chenwei Wang et.al.|[2505.06167v1](http://arxiv.org/abs/2505.06167v1)|null|
-|**2025-05-09**|**A sample of ionised Fe line-emitting X-ray sources in the inner Galactic disc**|Samaresh Mondal et.al.|[2505.06164v1](http://arxiv.org/abs/2505.06164v1)|null|
-|**2025-05-09**|**Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework**|Alice Rueda et.al.|[2505.06151v1](http://arxiv.org/abs/2505.06151v1)|null|
-|**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149v1](http://arxiv.org/abs/2505.06149v1)|null|
-|**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134v1](http://arxiv.org/abs/2505.06134v1)|null|
-|**2025-05-09**|**BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation**|Hongming Wang et.al.|[2505.06133v1](http://arxiv.org/abs/2505.06133v1)|null|
-|**2025-05-09**|**Performance of a SiPM-based, plastic scintillator muon veto prototype for CUPID**|Maya Moore et.al.|[2505.06129v1](http://arxiv.org/abs/2505.06129v1)|null|
-|**2025-05-09**|**Revealing the nature of ultra-long period objects with space-based gravitational-wave interferometers**|Arthur G. Suvorov et.al.|[2505.06125v1](http://arxiv.org/abs/2505.06125v1)|null|
-|**2025-05-09**|**Quantum sensing and metrology with free electrons**|Cruz I. Velasco et.al.|[2505.06124v1](http://arxiv.org/abs/2505.06124v1)|null|
-|**2025-05-09**|**Wasserstein Distances Made Explainable: Insights into Dataset Shifts and Transport Phenomena**|Philip Naumann et.al.|[2505.06123v1](http://arxiv.org/abs/2505.06123v1)|null|
-|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|null|
-|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
-|**2025-05-09**|**Chiral interactions, chiral states and "chiral neutrino oscillations"**|A. Yu. Smirnov et.al.|[2505.06116v1](http://arxiv.org/abs/2505.06116v1)|null|
-|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113v1](http://arxiv.org/abs/2505.06113v1)|null|
-|**2025-05-09**|**Differentiating Emigration from Return Migration of Scholars Using Name-Based Nationality Detection Models**|Faeze Ghorbanpour et.al.|[2505.06107v1](http://arxiv.org/abs/2505.06107v1)|null|
-|**2025-05-09**|**Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades**|Luis Miguel Esquivel-Sancho et.al.|[2505.06080v1](http://arxiv.org/abs/2505.06080v1)|null|
-|**2025-05-09**|**Zero Dynamics Attack Detection and Isolation in Cyber-Physical Systems with Event-triggered Communication**|Ali Eslami et.al.|[2505.06070v1](http://arxiv.org/abs/2505.06070v1)|null|
-|**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055v1](http://arxiv.org/abs/2505.06055v1)|null|
-|**2025-05-09**|**Short-circuiting Shortcuts: Mechanistic Investigation of Shortcuts in Text Classification**|Leon Eshuijs et.al.|[2505.06032v1](http://arxiv.org/abs/2505.06032v1)|null|
-|**2025-05-09**|**Unravelling the Antimicrobial Action Mechanism of Ribosomal Protein S30**|J. Bhatt Mitra et.al.|[2505.06019v1](http://arxiv.org/abs/2505.06019v1)|null|
-|**2025-05-09**|**Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective**|Dawid Wisniewski et.al.|[2505.06010v1](http://arxiv.org/abs/2505.06010v1)|null|
-|**2025-05-09**|**Quantum Noise Limited Temperature-Change Estimation for Phase-OTDR Employing Coherent Detection**|Huwei Wang et.al.|[2505.06007v1](http://arxiv.org/abs/2505.06007v1)|null|
-|**2025-05-09**|**Periodic variation of magnetoionic environment of a fast radio burst source**|Jiangwei Xu et.al.|[2505.06006v1](http://arxiv.org/abs/2505.06006v1)|null|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -99,7 +99,7 @@
 |**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|null|
 |**2025-05-09**|**Unconditionally local bounds preserving numerical scheme based on inverse Lax-Wendroff procedure for advection on networks**|Peter Frolkovič et.al.|[2505.06106v1](http://arxiv.org/abs/2505.06106v1)|null|
 |**2025-05-09**|**UniSymNet: A Unified Symbolic Network Guided by Transformer**|Xinxin Li et.al.|[2505.06091v1](http://arxiv.org/abs/2505.06091v1)|null|
-|**2025-05-09**|**Deep Diffusion Maps**|Sergio García-Heredia et.al.|[2505.06087v1](http://arxiv.org/abs/2505.06087v1)|null|
+|**2025-05-09**|**Deep Diffusion Maps**|Sergio García-Heredia et.al.|[2505.06087v1](http://arxiv.org/abs/2505.06087v1)|[link](https://github.com/sgh14/deep-diffusion-maps)|
 |**2025-05-09**|**TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations**|Shuaiyi Huang et.al.|[2505.06079v1](http://arxiv.org/abs/2505.06079v1)|null|
 |**2025-05-09**|**Extending the Control Plane of Container Orchestrators for I/O Virtualization**|Garegin Grigoryan et.al.|[2505.06041v1](http://arxiv.org/abs/2505.06041v1)|null|
 |**2025-05-09**|**Document Image Rectification Bases on Self-Adaptive Multitask Fusion**|Heng Li et.al.|[2505.06038v1](http://arxiv.org/abs/2505.06038v1)|null|
