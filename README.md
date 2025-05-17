@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-17 10:06:39 Asia/Shanghai
+ Automated deployment @ 2025-05-17 20:51:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,40 +48,6 @@
 |**2025-05-15**|**NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning**|Le Shi et.al.|[2505.10359v1](http://arxiv.org/abs/2505.10359v1)|null|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352v1](http://arxiv.org/abs/2505.10352v1)|null|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-15**|**Mass, Gas, and Gauss around a T Tauri Star with SPIRou**|J. -F. Donati et.al.|[2505.10564v1](http://arxiv.org/abs/2505.10564v1)|null|
-|**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561v1](http://arxiv.org/abs/2505.10561v1)|null|
-|**2025-05-15**|**A Systematic Search for Trace Molecules in Exoplanet K2-18 b**|Lorenzo Pica-Ciamarra et.al.|[2505.10539v1](http://arxiv.org/abs/2505.10539v1)|null|
-|**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537v1](http://arxiv.org/abs/2505.10537v1)|null|
-|**2025-05-15**|**Magnetic deflection of high-spin sodium dimers formed on helium nanodroplets**|Thomas H. Villers et.al.|[2505.10523v1](http://arxiv.org/abs/2505.10523v1)|null|
-|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|null|
-|**2025-05-15**|**Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**|Yutao Mou et.al.|[2505.10494v1](http://arxiv.org/abs/2505.10494v1)|[link](https://github.com/murraytom/cov-eval)|
-|**2025-05-15**|**Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.|[2505.10492v1](http://arxiv.org/abs/2505.10492v1)|null|
-|**2025-05-15**|**Possibility of Multi-Messenger Observations of Quasi-Periodic Eruptions with X-rays and Gravitational Waves**|Tomoya Suzuguchi et.al.|[2505.10488v1](http://arxiv.org/abs/2505.10488v1)|null|
-|**2025-05-15**|**PIF: Anomaly detection via preference embedding**|Filippo Leveni et.al.|[2505.10441v1](http://arxiv.org/abs/2505.10441v1)|null|
-|**2025-05-15**|**Digging Deeper for RR Lyrae Stars with Low Modulation Amplitudes**|Geza Kovacs et.al.|[2505.10411v1](http://arxiv.org/abs/2505.10411v1)|null|
-|**2025-05-15**|**Phantom matters**|David Andriot et.al.|[2505.10410v1](http://arxiv.org/abs/2505.10410v1)|null|
-|**2025-05-15**|**Evaluating Model Explanations without Ground Truth**|Kaivalya Rawal et.al.|[2505.10399v1](http://arxiv.org/abs/2505.10399v1)|[link](https://github.com/kairawal/evaluating-model-explanations-without-ground-truth)|
-|**2025-05-15**|**S241125n: Binary Black Hole Merger Produces Short GRB in AGN Disk**|Shu-Rui Zhang et.al.|[2505.10395v1](http://arxiv.org/abs/2505.10395v1)|null|
-|**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393v1](http://arxiv.org/abs/2505.10393v1)|null|
-|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375v1](http://arxiv.org/abs/2505.10375v1)|null|
-|**2025-05-15**|**Arbitrarily Small Execution-Time Certificate: What was Missed in Analog Optimization**|Liang Wu et.al.|[2505.10366v1](http://arxiv.org/abs/2505.10366v1)|null|
-|**2025-05-15**|**pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams**|Khaled Wahba et.al.|[2505.10355v1](http://arxiv.org/abs/2505.10355v1)|null|
-|**2025-05-15**|**Photomultiplier Requirements and Pre-Calibration for the SABRE South Liquid Scintillator Veto**|L. J. Milligan et.al.|[2505.10353v1](http://arxiv.org/abs/2505.10353v1)|null|
-|**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348v1](http://arxiv.org/abs/2505.10348v1)|null|
-|**2025-05-15**|**A Representation Learning Approach to Feature Drift Detection in Wireless Networks**|Athanasios Tziouvaras et.al.|[2505.10325v1](http://arxiv.org/abs/2505.10325v1)|null|
-|**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310v1](http://arxiv.org/abs/2505.10310v1)|null|
-|**2025-05-15**|**Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning**|Chibueze Peace Obioma et.al.|[2505.10297v1](http://arxiv.org/abs/2505.10297v1)|null|
-|**2025-05-15**|**StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation**|Daniel A. P. Oliveira et.al.|[2505.10292v1](http://arxiv.org/abs/2505.10292v1)|[link](https://github.com/daniel3303/storyreasoning)|
-|**2025-05-15**|**Resolving Individual Signal in the Presence of Stochastic Background in Future Pulsar Timing Arrays**|Kazuya Furusawa et.al.|[2505.10284v1](http://arxiv.org/abs/2505.10284v1)|null|
-|**2025-05-15**|**MFogHub: Bridging Multi-Regional and Multi-Satellite Data for Global Marine Fog Detection and Forecasting**|Mengqiu Xu et.al.|[2505.10281v1](http://arxiv.org/abs/2505.10281v1)|[link](https://github.com/kaka0910/mfoghub)|
-|**2025-05-15**|**Estimating the number of household TV profiles based in customer behaviour using Gaussian mixture model averaging**|Gabriel R. Palma et.al.|[2505.10279v1](http://arxiv.org/abs/2505.10279v1)|null|
-|**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273v1](http://arxiv.org/abs/2505.10273v1)|null|
-|**2025-05-15**|**Metal oxide decoration on Si-FETs for selective gas sensing at room temperature**|A. Shahid et.al.|[2505.10269v1](http://arxiv.org/abs/2505.10269v1)|null|
-|**2025-05-15**|**Dynamics of reactive oxygen species produced by the COST microplasma jet**|Sascha Chur et.al.|[2505.10204v1](http://arxiv.org/abs/2505.10204v1)|null|
-
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -115,3 +81,37 @@
 |**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
 |**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539v1](http://arxiv.org/abs/2505.03539v1)|[link](https://github.com/mengfeid/panoos)|
 |**2025-05-06**|**Depth based trimmed means**|Alejandro Cholaquidis et.al.|[2505.03523v1](http://arxiv.org/abs/2505.03523v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-15**|**Mass, Gas, and Gauss around a T Tauri Star with SPIRou**|J. -F. Donati et.al.|[2505.10564v1](http://arxiv.org/abs/2505.10564v1)|null|
+|**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561v1](http://arxiv.org/abs/2505.10561v1)|null|
+|**2025-05-15**|**A Systematic Search for Trace Molecules in Exoplanet K2-18 b**|Lorenzo Pica-Ciamarra et.al.|[2505.10539v1](http://arxiv.org/abs/2505.10539v1)|null|
+|**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537v1](http://arxiv.org/abs/2505.10537v1)|null|
+|**2025-05-15**|**Magnetic deflection of high-spin sodium dimers formed on helium nanodroplets**|Thomas H. Villers et.al.|[2505.10523v1](http://arxiv.org/abs/2505.10523v1)|null|
+|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|null|
+|**2025-05-15**|**Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**|Yutao Mou et.al.|[2505.10494v1](http://arxiv.org/abs/2505.10494v1)|[link](https://github.com/murraytom/cov-eval)|
+|**2025-05-15**|**Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.|[2505.10492v1](http://arxiv.org/abs/2505.10492v1)|null|
+|**2025-05-15**|**Possibility of Multi-Messenger Observations of Quasi-Periodic Eruptions with X-rays and Gravitational Waves**|Tomoya Suzuguchi et.al.|[2505.10488v1](http://arxiv.org/abs/2505.10488v1)|null|
+|**2025-05-15**|**PIF: Anomaly detection via preference embedding**|Filippo Leveni et.al.|[2505.10441v1](http://arxiv.org/abs/2505.10441v1)|null|
+|**2025-05-15**|**Digging Deeper for RR Lyrae Stars with Low Modulation Amplitudes**|Geza Kovacs et.al.|[2505.10411v1](http://arxiv.org/abs/2505.10411v1)|null|
+|**2025-05-15**|**Phantom matters**|David Andriot et.al.|[2505.10410v1](http://arxiv.org/abs/2505.10410v1)|null|
+|**2025-05-15**|**Evaluating Model Explanations without Ground Truth**|Kaivalya Rawal et.al.|[2505.10399v1](http://arxiv.org/abs/2505.10399v1)|[link](https://github.com/kairawal/evaluating-model-explanations-without-ground-truth)|
+|**2025-05-15**|**S241125n: Binary Black Hole Merger Produces Short GRB in AGN Disk**|Shu-Rui Zhang et.al.|[2505.10395v1](http://arxiv.org/abs/2505.10395v1)|null|
+|**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393v1](http://arxiv.org/abs/2505.10393v1)|null|
+|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375v1](http://arxiv.org/abs/2505.10375v1)|null|
+|**2025-05-15**|**Arbitrarily Small Execution-Time Certificate: What was Missed in Analog Optimization**|Liang Wu et.al.|[2505.10366v1](http://arxiv.org/abs/2505.10366v1)|null|
+|**2025-05-15**|**pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams**|Khaled Wahba et.al.|[2505.10355v1](http://arxiv.org/abs/2505.10355v1)|null|
+|**2025-05-15**|**Photomultiplier Requirements and Pre-Calibration for the SABRE South Liquid Scintillator Veto**|L. J. Milligan et.al.|[2505.10353v1](http://arxiv.org/abs/2505.10353v1)|null|
+|**2025-05-15**|**ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection**|Cunhang Fan et.al.|[2505.10348v1](http://arxiv.org/abs/2505.10348v1)|null|
+|**2025-05-15**|**A Representation Learning Approach to Feature Drift Detection in Wireless Networks**|Athanasios Tziouvaras et.al.|[2505.10325v1](http://arxiv.org/abs/2505.10325v1)|null|
+|**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310v1](http://arxiv.org/abs/2505.10310v1)|null|
+|**2025-05-15**|**Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning**|Chibueze Peace Obioma et.al.|[2505.10297v1](http://arxiv.org/abs/2505.10297v1)|null|
+|**2025-05-15**|**StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation**|Daniel A. P. Oliveira et.al.|[2505.10292v1](http://arxiv.org/abs/2505.10292v1)|[link](https://github.com/daniel3303/storyreasoning)|
+|**2025-05-15**|**Resolving Individual Signal in the Presence of Stochastic Background in Future Pulsar Timing Arrays**|Kazuya Furusawa et.al.|[2505.10284v1](http://arxiv.org/abs/2505.10284v1)|null|
+|**2025-05-15**|**MFogHub: Bridging Multi-Regional and Multi-Satellite Data for Global Marine Fog Detection and Forecasting**|Mengqiu Xu et.al.|[2505.10281v1](http://arxiv.org/abs/2505.10281v1)|[link](https://github.com/kaka0910/mfoghub)|
+|**2025-05-15**|**Estimating the number of household TV profiles based in customer behaviour using Gaussian mixture model averaging**|Gabriel R. Palma et.al.|[2505.10279v1](http://arxiv.org/abs/2505.10279v1)|null|
+|**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273v1](http://arxiv.org/abs/2505.10273v1)|null|
+|**2025-05-15**|**Metal oxide decoration on Si-FETs for selective gas sensing at room temperature**|A. Shahid et.al.|[2505.10269v1](http://arxiv.org/abs/2505.10269v1)|null|
+|**2025-05-15**|**Dynamics of reactive oxygen species produced by the COST microplasma jet**|Sascha Chur et.al.|[2505.10204v1](http://arxiv.org/abs/2505.10204v1)|null|
