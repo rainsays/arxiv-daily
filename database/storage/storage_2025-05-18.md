@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-18 10:21:45 Asia/Shanghai
+ Automated deployment @ 2025-05-18 20:52:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -13,6 +13,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-15**|**An AI-driven framework for the prediction of personalised health response to air pollution**|Nazanin Zounemat Kermani et.al.|[2505.10556v1](http://arxiv.org/abs/2505.10556v1)|null|
+|**2025-05-15**|**Flowing Through Hilbert Space: Quantum-Enhanced Generative Models for Lattice Field Theory**|Jehu Martinez et.al.|[2505.10553v1](http://arxiv.org/abs/2505.10553v1)|null|
+|**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541v1](http://arxiv.org/abs/2505.10541v1)|[link](https://github.com/welldonepf/stme)|
+|**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537v1](http://arxiv.org/abs/2505.10537v1)|null|
+|**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536v1](http://arxiv.org/abs/2505.10536v1)|null|
+|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|[link](https://github.com/openxaiproject/pnpxai)|
+|**2025-05-15**|**Networked Infectiousness: Cascades, Power Laws, and Kinetics**|Sara Najem et.al.|[2505.10512v1](http://arxiv.org/abs/2505.10512v1)|null|
+|**2025-05-15**|**Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations**|Victor Zheleznov et.al.|[2505.10511v1](http://arxiv.org/abs/2505.10511v1)|[link](https://github.com/victorzheleznov/dafx25)|
+|**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500v1](http://arxiv.org/abs/2505.10500v1)|null|
+|**2025-05-15**|**MorphGuard: Morph Specific Margin Loss for Enhancing Robustness to Face Morphing Attacks**|Iurii Medvedev et.al.|[2505.10497v1](http://arxiv.org/abs/2505.10497v1)|null|
+|**2025-05-15**|**Interpretable Artificial Intelligence for Topological Photonics**|Ali Ghorashi et.al.|[2505.10485v1](http://arxiv.org/abs/2505.10485v1)|null|
+|**2025-05-15**|**Characterizing quantum dynamics using multipartite entanglement generation**|Gaurav Rudra Malik et.al.|[2505.10477v1](http://arxiv.org/abs/2505.10477v1)|null|
+|**2025-05-15**|**Scalable Approximate Biclique Counting over Large Bipartite Graphs**|Jingbang Chen et.al.|[2505.10471v1](http://arxiv.org/abs/2505.10471v1)|null|
+|**2025-05-15**|**Separating balls with partly random hyperplanes with a view to partly random neural networks**|Olov Schavemaker et.al.|[2505.10470v1](http://arxiv.org/abs/2505.10470v1)|null|
+|**2025-05-15**|**From Persistence to Resilience: New Betti Numbers for Analyzing Robustness in Simplicial Complex Networks**|Pablo Hernández-García et.al.|[2505.10467v1](http://arxiv.org/abs/2505.10467v1)|null|
+|**2025-05-15**|**FlowVAT: Normalizing Flow Variational Inference with Affine-Invariant Tempering**|Juehang Qin et.al.|[2505.10466v1](http://arxiv.org/abs/2505.10466v1)|null|
+|**2025-05-15**|**SEAL: Searching Expandable Architectures for Incremental Learning**|Matteo Gambella et.al.|[2505.10457v1](http://arxiv.org/abs/2505.10457v1)|[link](https://github.com/ai-tech-research-lab/seal)|
+|**2025-05-15**|**The Power of Random Features and the Limits of Distribution-Free Gradient Descent**|Ari Karchmer et.al.|[2505.10423v1](http://arxiv.org/abs/2505.10423v1)|null|
+|**2025-05-15**|**Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency**|Daniel Weitekamp et.al.|[2505.10422v1](http://arxiv.org/abs/2505.10422v1)|null|
+|**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420v1](http://arxiv.org/abs/2505.10420v1)|[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)|
+|**2025-05-15**|**Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning**|Wenhao Ding et.al.|[2505.10407v1](http://arxiv.org/abs/2505.10407v1)|[link](https://github.com/anonymousaneug/aneug)|
+|**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405v1](http://arxiv.org/abs/2505.10405v1)|null|
+|**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393v1](http://arxiv.org/abs/2505.10393v1)|null|
+|**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392v1](http://arxiv.org/abs/2505.10392v1)|null|
+|**2025-05-15**|**Uncovering Drivers of EU Carbon Futures with Bayesian Networks**|Jan Maciejowski et.al.|[2505.10384v1](http://arxiv.org/abs/2505.10384v1)|null|
+|**2025-05-15**|**Unlocking Innate Computing Abilities in Electric Grids**|Yubo Song et.al.|[2505.10382v1](http://arxiv.org/abs/2505.10382v1)|null|
+|**2025-05-15**|**Reproducing the first and second moment of empirical degree distributions**|Mattia Marzi et.al.|[2505.10373v1](http://arxiv.org/abs/2505.10373v1)|null|
+|**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371v1](http://arxiv.org/abs/2505.10371v1)|null|
+|**2025-05-15**|**NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning**|Le Shi et.al.|[2505.10359v1](http://arxiv.org/abs/2505.10359v1)|null|
+|**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352v1](http://arxiv.org/abs/2505.10352v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -81,37 +115,3 @@
 |**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
 |**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539v1](http://arxiv.org/abs/2505.03539v1)|[link](https://github.com/mengfeid/panoos)|
 |**2025-05-06**|**Depth based trimmed means**|Alejandro Cholaquidis et.al.|[2505.03523v1](http://arxiv.org/abs/2505.03523v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-15**|**An AI-driven framework for the prediction of personalised health response to air pollution**|Nazanin Zounemat Kermani et.al.|[2505.10556v1](http://arxiv.org/abs/2505.10556v1)|null|
-|**2025-05-15**|**Flowing Through Hilbert Space: Quantum-Enhanced Generative Models for Lattice Field Theory**|Jehu Martinez et.al.|[2505.10553v1](http://arxiv.org/abs/2505.10553v1)|null|
-|**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541v1](http://arxiv.org/abs/2505.10541v1)|[link](https://github.com/welldonepf/stme)|
-|**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537v1](http://arxiv.org/abs/2505.10537v1)|null|
-|**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536v1](http://arxiv.org/abs/2505.10536v1)|null|
-|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|[link](https://github.com/openxaiproject/pnpxai)|
-|**2025-05-15**|**Networked Infectiousness: Cascades, Power Laws, and Kinetics**|Sara Najem et.al.|[2505.10512v1](http://arxiv.org/abs/2505.10512v1)|null|
-|**2025-05-15**|**Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations**|Victor Zheleznov et.al.|[2505.10511v1](http://arxiv.org/abs/2505.10511v1)|[link](https://github.com/victorzheleznov/dafx25)|
-|**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500v1](http://arxiv.org/abs/2505.10500v1)|null|
-|**2025-05-15**|**MorphGuard: Morph Specific Margin Loss for Enhancing Robustness to Face Morphing Attacks**|Iurii Medvedev et.al.|[2505.10497v1](http://arxiv.org/abs/2505.10497v1)|null|
-|**2025-05-15**|**Interpretable Artificial Intelligence for Topological Photonics**|Ali Ghorashi et.al.|[2505.10485v1](http://arxiv.org/abs/2505.10485v1)|null|
-|**2025-05-15**|**Characterizing quantum dynamics using multipartite entanglement generation**|Gaurav Rudra Malik et.al.|[2505.10477v1](http://arxiv.org/abs/2505.10477v1)|null|
-|**2025-05-15**|**Scalable Approximate Biclique Counting over Large Bipartite Graphs**|Jingbang Chen et.al.|[2505.10471v1](http://arxiv.org/abs/2505.10471v1)|null|
-|**2025-05-15**|**Separating balls with partly random hyperplanes with a view to partly random neural networks**|Olov Schavemaker et.al.|[2505.10470v1](http://arxiv.org/abs/2505.10470v1)|null|
-|**2025-05-15**|**From Persistence to Resilience: New Betti Numbers for Analyzing Robustness in Simplicial Complex Networks**|Pablo Hernández-García et.al.|[2505.10467v1](http://arxiv.org/abs/2505.10467v1)|null|
-|**2025-05-15**|**FlowVAT: Normalizing Flow Variational Inference with Affine-Invariant Tempering**|Juehang Qin et.al.|[2505.10466v1](http://arxiv.org/abs/2505.10466v1)|null|
-|**2025-05-15**|**SEAL: Searching Expandable Architectures for Incremental Learning**|Matteo Gambella et.al.|[2505.10457v1](http://arxiv.org/abs/2505.10457v1)|[link](https://github.com/ai-tech-research-lab/seal)|
-|**2025-05-15**|**The Power of Random Features and the Limits of Distribution-Free Gradient Descent**|Ari Karchmer et.al.|[2505.10423v1](http://arxiv.org/abs/2505.10423v1)|null|
-|**2025-05-15**|**Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency**|Daniel Weitekamp et.al.|[2505.10422v1](http://arxiv.org/abs/2505.10422v1)|null|
-|**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420v1](http://arxiv.org/abs/2505.10420v1)|[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)|
-|**2025-05-15**|**Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning**|Wenhao Ding et.al.|[2505.10407v1](http://arxiv.org/abs/2505.10407v1)|[link](https://github.com/anonymousaneug/aneug)|
-|**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405v1](http://arxiv.org/abs/2505.10405v1)|null|
-|**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393v1](http://arxiv.org/abs/2505.10393v1)|null|
-|**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392v1](http://arxiv.org/abs/2505.10392v1)|null|
-|**2025-05-15**|**Uncovering Drivers of EU Carbon Futures with Bayesian Networks**|Jan Maciejowski et.al.|[2505.10384v1](http://arxiv.org/abs/2505.10384v1)|null|
-|**2025-05-15**|**Unlocking Innate Computing Abilities in Electric Grids**|Yubo Song et.al.|[2505.10382v1](http://arxiv.org/abs/2505.10382v1)|null|
-|**2025-05-15**|**Reproducing the first and second moment of empirical degree distributions**|Mattia Marzi et.al.|[2505.10373v1](http://arxiv.org/abs/2505.10373v1)|null|
-|**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371v1](http://arxiv.org/abs/2505.10371v1)|null|
-|**2025-05-15**|**NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning**|Le Shi et.al.|[2505.10359v1](http://arxiv.org/abs/2505.10359v1)|null|
-|**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352v1](http://arxiv.org/abs/2505.10352v1)|null|
