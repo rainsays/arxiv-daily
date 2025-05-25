@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-25 10:24:24 Asia/Shanghai
+ Automated deployment @ 2025-05-25 20:52:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -13,6 +13,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985v1](http://arxiv.org/abs/2505.16985v1)|null|
+|**2025-05-22**|**Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding**|Feilong Tang et.al.|[2505.16652v1](http://arxiv.org/abs/2505.16652v1)|null|
+|**2025-05-22**|**FPQVAR: Floating Point Quantization for Visual Autoregressive Model with FPGA Hardware Co-design**|Renjie Wei et.al.|[2505.16335v1](http://arxiv.org/abs/2505.16335v1)|null|
+|**2025-05-22**|**Learning novel representations of variable sources from multi-modal $\textit{Gaia}$ data via autoencoders**|P. Huijse et.al.|[2505.16320v1](http://arxiv.org/abs/2505.16320v1)|null|
+|**2025-05-22**|**Machine Learning the 6d Supergravity Landscape**|Nathan Brady et.al.|[2505.16131v1](http://arxiv.org/abs/2505.16131v1)|null|
+|**2025-05-21**|**Learning Small Decision Trees with Few Outliers: A Parameterized Perspective**|Harmender Gahlawat et.al.|[2505.15648v1](http://arxiv.org/abs/2505.15648v1)|null|
+|**2025-05-21**|**Robust Activity Detection for Massive Random Access**|Xinjue Wang et.al.|[2505.15555v1](http://arxiv.org/abs/2505.15555v1)|null|
+|**2025-05-21**|**High-Throughput Mechanical Characterization of Giant Unilamellar Vesicles by Real-Time Deformability Cytometry**|Maximilian Kloppe et.al.|[2505.15341v1](http://arxiv.org/abs/2505.15341v1)|null|
+|**2025-05-20**|**Anomaly Detection Based on Critical Paths for Deep Neural Networks**|Fangzhen Zhao et.al.|[2505.14967v1](http://arxiv.org/abs/2505.14967v1)|null|
+|**2025-05-20**|**Foundations of Unknown-aware Machine Learning**|Xuefeng Du et.al.|[2505.14933v1](http://arxiv.org/abs/2505.14933v1)|null|
+|**2025-05-20**|**Scaling Law for Quantization-Aware Training**|Mengzhao Chen et.al.|[2505.14302v1](http://arxiv.org/abs/2505.14302v1)|null|
+|**2025-05-20**|**SafetyNet: Detecting Harmful Outputs in LLMs by Modeling and Monitoring Deceptive Behaviors**|Maheep Chaudhary et.al.|[2505.14300v1](http://arxiv.org/abs/2505.14300v1)|null|
+|**2025-05-20**|**A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Input**|Bar Mahpud et.al.|[2505.14251v1](http://arxiv.org/abs/2505.14251v1)|null|
+|**2025-05-20**|**Technical Report on classification of literature related to children speech disorder**|Ziang Wang et.al.|[2505.14242v1](http://arxiv.org/abs/2505.14242v1)|null|
+|**2025-05-20**|**Zangetsu: A Candidate of Isolated, Quiescent, and Backsplash Ultra-Diffuse Galaxy in the COSMOS Field**|Leyao Wei et.al.|[2505.14073v2](http://arxiv.org/abs/2505.14073v2)|null|
+|**2025-05-20**|**NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI**|Cosmin I. Bercea et.al.|[2505.14064v1](http://arxiv.org/abs/2505.14064v1)|null|
+|**2025-05-20**|**Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis**|Hong Huang et.al.|[2505.14742v1](http://arxiv.org/abs/2505.14742v1)|null|
+|**2025-05-19**|**Sensitivity to New Physics Phenomena in Anomaly Detection: A Study of Untunable Hyperparameters**|Fernando Abreu de Souza et.al.|[2505.13228v1](http://arxiv.org/abs/2505.13228v1)|null|
+|**2025-05-19**|**Optimal Formats for Weight Quantisation**|Douglas Orr et.al.|[2505.12988v1](http://arxiv.org/abs/2505.12988v1)|[link](https://github.com/graphcore-research/optimal-weight-formats)|
+|**2025-05-19**|**RGNMR: A Gauss-Newton method for robust matrix completion with theoretical guarantees**|Eilon Vaknin Laufer et.al.|[2505.12919v1](http://arxiv.org/abs/2505.12919v1)|null|
+|**2025-05-19**|**Structure-based Anomaly Detection and Clustering**|Filippo Leveni et.al.|[2505.12751v1](http://arxiv.org/abs/2505.12751v1)|null|
+|**2025-05-18**|**Advancing Tabular Stroke Modelling Through a Novel Hybrid Architecture and Feature-Selection Synergy**|Yousuf Islam et.al.|[2505.15844v1](http://arxiv.org/abs/2505.15844v1)|null|
+|**2025-05-18**|**Nonlinear Laplacians: Tunable principal component analysis under directional prior information**|Yuxin Ma et.al.|[2505.12528v1](http://arxiv.org/abs/2505.12528v1)|null|
+|**2025-05-18**|**A Case for Library-Level k-Means Binning in Histogram Gradient-Boosted Trees**|Asher Labovich et.al.|[2505.12460v1](http://arxiv.org/abs/2505.12460v1)|[link](https://github.com/ashlab11/KMeansGBDT)|
+|**2025-05-18**|**Importance Sampling for Nonlinear Models**|Prakash Palanivelu Rajmohan et.al.|[2505.12353v1](http://arxiv.org/abs/2505.12353v1)|[link](https://github.com/prprakash02/Importance-Sampling-for-Nonlinear-Models)|
+|**2025-05-18**|**Distribution Prompting: Understanding the Expressivity of Language Models Through the Next-Token Distributions They Can Produce**|Haojin Wang et.al.|[2505.12244v1](http://arxiv.org/abs/2505.12244v1)|null|
+|**2025-05-17**|**T-Rex: Fitting a Robust Factor Model via Expectation-Maximization**|Daniel Cederberg et.al.|[2505.12117v1](http://arxiv.org/abs/2505.12117v1)|[link](https://github.com/dance858/T-Rex-EM)|
+|**2025-05-17**|**Robust outlier detection for heterogeneous distributions applicable to censoring in functional MRI**|Saranjeet Singh Saluja et.al.|[2505.11806v1](http://arxiv.org/abs/2505.11806v1)|null|
+|**2025-05-16**|**Model-Based Clustering with Sequential Outlier Identification using the Distribution of Mahalanobis Distances**|Ultán P. Doherty et.al.|[2505.11668v1](http://arxiv.org/abs/2505.11668v1)|null|
+|**2025-05-16**|**Accurate KV Cache Quantization with Outlier Tokens Tracing**|Yi Su et.al.|[2505.10938v1](http://arxiv.org/abs/2505.10938v1)|[link](https://github.com/yisunlp/ott)|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
@@ -81,37 +115,3 @@
 |**2025-05-22**|**Fuzzy Information Evolution with Three-Way Decision in Social Network Group Decision-Making**|Qianlei Jia et.al.|[2505.16781v1](http://arxiv.org/abs/2505.16781v1)|null|
 |**2025-05-22**|**Fast Low Energy Reconstruction using Convolutional Neural Networks**|IceCube Collaboration et.al.|[2505.16777v1](http://arxiv.org/abs/2505.16777v1)|null|
 |**2025-05-22**|**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**|Hao Guo et.al.|[2505.16752v1](http://arxiv.org/abs/2505.16752v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985v1](http://arxiv.org/abs/2505.16985v1)|null|
-|**2025-05-22**|**Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding**|Feilong Tang et.al.|[2505.16652v1](http://arxiv.org/abs/2505.16652v1)|null|
-|**2025-05-22**|**FPQVAR: Floating Point Quantization for Visual Autoregressive Model with FPGA Hardware Co-design**|Renjie Wei et.al.|[2505.16335v1](http://arxiv.org/abs/2505.16335v1)|null|
-|**2025-05-22**|**Learning novel representations of variable sources from multi-modal $\textit{Gaia}$ data via autoencoders**|P. Huijse et.al.|[2505.16320v1](http://arxiv.org/abs/2505.16320v1)|null|
-|**2025-05-22**|**Machine Learning the 6d Supergravity Landscape**|Nathan Brady et.al.|[2505.16131v1](http://arxiv.org/abs/2505.16131v1)|null|
-|**2025-05-21**|**Learning Small Decision Trees with Few Outliers: A Parameterized Perspective**|Harmender Gahlawat et.al.|[2505.15648v1](http://arxiv.org/abs/2505.15648v1)|null|
-|**2025-05-21**|**Robust Activity Detection for Massive Random Access**|Xinjue Wang et.al.|[2505.15555v1](http://arxiv.org/abs/2505.15555v1)|null|
-|**2025-05-21**|**High-Throughput Mechanical Characterization of Giant Unilamellar Vesicles by Real-Time Deformability Cytometry**|Maximilian Kloppe et.al.|[2505.15341v1](http://arxiv.org/abs/2505.15341v1)|null|
-|**2025-05-20**|**Anomaly Detection Based on Critical Paths for Deep Neural Networks**|Fangzhen Zhao et.al.|[2505.14967v1](http://arxiv.org/abs/2505.14967v1)|null|
-|**2025-05-20**|**Foundations of Unknown-aware Machine Learning**|Xuefeng Du et.al.|[2505.14933v1](http://arxiv.org/abs/2505.14933v1)|null|
-|**2025-05-20**|**Scaling Law for Quantization-Aware Training**|Mengzhao Chen et.al.|[2505.14302v1](http://arxiv.org/abs/2505.14302v1)|null|
-|**2025-05-20**|**SafetyNet: Detecting Harmful Outputs in LLMs by Modeling and Monitoring Deceptive Behaviors**|Maheep Chaudhary et.al.|[2505.14300v1](http://arxiv.org/abs/2505.14300v1)|null|
-|**2025-05-20**|**A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Input**|Bar Mahpud et.al.|[2505.14251v1](http://arxiv.org/abs/2505.14251v1)|null|
-|**2025-05-20**|**Technical Report on classification of literature related to children speech disorder**|Ziang Wang et.al.|[2505.14242v1](http://arxiv.org/abs/2505.14242v1)|null|
-|**2025-05-20**|**Zangetsu: A Candidate of Isolated, Quiescent, and Backsplash Ultra-Diffuse Galaxy in the COSMOS Field**|Leyao Wei et.al.|[2505.14073v2](http://arxiv.org/abs/2505.14073v2)|null|
-|**2025-05-20**|**NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI**|Cosmin I. Bercea et.al.|[2505.14064v1](http://arxiv.org/abs/2505.14064v1)|null|
-|**2025-05-20**|**Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis**|Hong Huang et.al.|[2505.14742v1](http://arxiv.org/abs/2505.14742v1)|null|
-|**2025-05-19**|**Sensitivity to New Physics Phenomena in Anomaly Detection: A Study of Untunable Hyperparameters**|Fernando Abreu de Souza et.al.|[2505.13228v1](http://arxiv.org/abs/2505.13228v1)|null|
-|**2025-05-19**|**Optimal Formats for Weight Quantisation**|Douglas Orr et.al.|[2505.12988v1](http://arxiv.org/abs/2505.12988v1)|[link](https://github.com/graphcore-research/optimal-weight-formats)|
-|**2025-05-19**|**RGNMR: A Gauss-Newton method for robust matrix completion with theoretical guarantees**|Eilon Vaknin Laufer et.al.|[2505.12919v1](http://arxiv.org/abs/2505.12919v1)|null|
-|**2025-05-19**|**Structure-based Anomaly Detection and Clustering**|Filippo Leveni et.al.|[2505.12751v1](http://arxiv.org/abs/2505.12751v1)|null|
-|**2025-05-18**|**Advancing Tabular Stroke Modelling Through a Novel Hybrid Architecture and Feature-Selection Synergy**|Yousuf Islam et.al.|[2505.15844v1](http://arxiv.org/abs/2505.15844v1)|null|
-|**2025-05-18**|**Nonlinear Laplacians: Tunable principal component analysis under directional prior information**|Yuxin Ma et.al.|[2505.12528v1](http://arxiv.org/abs/2505.12528v1)|null|
-|**2025-05-18**|**A Case for Library-Level k-Means Binning in Histogram Gradient-Boosted Trees**|Asher Labovich et.al.|[2505.12460v1](http://arxiv.org/abs/2505.12460v1)|[link](https://github.com/ashlab11/KMeansGBDT)|
-|**2025-05-18**|**Importance Sampling for Nonlinear Models**|Prakash Palanivelu Rajmohan et.al.|[2505.12353v1](http://arxiv.org/abs/2505.12353v1)|[link](https://github.com/prprakash02/Importance-Sampling-for-Nonlinear-Models)|
-|**2025-05-18**|**Distribution Prompting: Understanding the Expressivity of Language Models Through the Next-Token Distributions They Can Produce**|Haojin Wang et.al.|[2505.12244v1](http://arxiv.org/abs/2505.12244v1)|null|
-|**2025-05-17**|**T-Rex: Fitting a Robust Factor Model via Expectation-Maximization**|Daniel Cederberg et.al.|[2505.12117v1](http://arxiv.org/abs/2505.12117v1)|[link](https://github.com/dance858/T-Rex-EM)|
-|**2025-05-17**|**Robust outlier detection for heterogeneous distributions applicable to censoring in functional MRI**|Saranjeet Singh Saluja et.al.|[2505.11806v1](http://arxiv.org/abs/2505.11806v1)|null|
-|**2025-05-16**|**Model-Based Clustering with Sequential Outlier Identification using the Distribution of Mahalanobis Distances**|Ultán P. Doherty et.al.|[2505.11668v1](http://arxiv.org/abs/2505.11668v1)|null|
-|**2025-05-16**|**Accurate KV Cache Quantization with Outlier Tokens Tracing**|Yi Su et.al.|[2505.10938v1](http://arxiv.org/abs/2505.10938v1)|[link](https://github.com/yisunlp/ott)|
