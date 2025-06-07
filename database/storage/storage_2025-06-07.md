@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-07 10:15:54 Asia/Shanghai
+ Automated deployment @ 2025-06-07 20:53:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,6 +14,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-05**|**The Spurious Factor Dilemma: Robust Inference in Heavy-Tailed Elliptical Factor Models**|Jiang Hu et.al.|[2506.05116v1](http://arxiv.org/abs/2506.05116v1)|null|
+|**2025-06-05**|**FPTQuant: Function-Preserving Transforms for LLM Quantization**|Boris van Breugel et.al.|[2506.04985v1](http://arxiv.org/abs/2506.04985v1)|null|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803v1](http://arxiv.org/abs/2506.04803v1)|null|
+|**2025-06-05**|**TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering**|Vinay Joshi et.al.|[2506.04642v1](http://arxiv.org/abs/2506.04642v1)|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
+|**2025-06-04**|**Grokking and Generalization Collapse: Insights from \texttt{HTSR} theory**|Hari K. Prakash et.al.|[2506.04434v1](http://arxiv.org/abs/2506.04434v1)|null|
+|**2025-06-04**|**SubSearch: Robust Estimation and Outlier Detection for Stochastic Block Models via Subgraph Search**|Leonardo Martins Bianco et.al.|[2506.03657v1](http://arxiv.org/abs/2506.03657v1)|null|
+|**2025-06-04**|**Robust domain selection for functional data via interval-wise testing and effect size mapping**|Yeonjoo Park et.al.|[2506.03462v1](http://arxiv.org/abs/2506.03462v1)|null|
+|**2025-06-03**|**Cosmic Outliers: Low-Spin Halos Explain the Abundance, Compactness, and Redshift Evolution of the Little Red Dots**|Fabio Pacucci et.al.|[2506.03244v1](http://arxiv.org/abs/2506.03244v1)|null|
+|**2025-06-03**|**AGNBoost: A Machine Learning Approach to AGN Identification with JWST/NIRCam+MIRI Colors and Photometry**|Kurt Hamblin et.al.|[2506.03130v1](http://arxiv.org/abs/2506.03130v1)|null|
+|**2025-06-03**|**How do Pre-Trained Models Support Software Engineering? An Empirical Study in Hugging Face**|Alexandra González et.al.|[2506.03013v1](http://arxiv.org/abs/2506.03013v1)|null|
+|**2025-06-03**|**Combining social relations and interaction data in Recommender System with Graph Convolution Collaborative Filtering**|Tin T. Tran et.al.|[2506.02834v1](http://arxiv.org/abs/2506.02834v1)|null|
+|**2025-06-03**|**Cross-attention and Self-attention for Audio-visual Speaker Diarization in MISP-Meeting Challenge**|Zhaoyang Li et.al.|[2506.02621v1](http://arxiv.org/abs/2506.02621v1)|null|
+|**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364v1](http://arxiv.org/abs/2506.02364v1)|null|
+|**2025-06-02**|**Z-Error Loss for Training Neural Networks**|Guillaume Godin et.al.|[2506.02154v1](http://arxiv.org/abs/2506.02154v1)|null|
+|**2025-06-02**|**SMOTE-DP: Improving Privacy-Utility Tradeoff with Synthetic Data**|Yan Zhou et.al.|[2506.01907v1](http://arxiv.org/abs/2506.01907v1)|null|
+|**2025-06-02**|**NepTrain and NepTrainKit: Automated Active Learning and Visualization Toolkit for Neuroevolution Potentials**|Chengbing Chen et.al.|[2506.01868v1](http://arxiv.org/abs/2506.01868v1)|null|
+|**2025-06-02**|**Assigning Distinct Roles to Quantized and Low-Rank Matrices Toward Optimal Weight Decomposition**|Yoonjun Cho et.al.|[2506.02077v1](http://arxiv.org/abs/2506.02077v1)|null|
+|**2025-06-02**|**TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network**|Guangxin He et.al.|[2506.01352v1](http://arxiv.org/abs/2506.01352v1)|null|
+|**2025-06-01**|**Generative diffusion posterior sampling for informative likelihoods**|Zheng Zhao et.al.|[2506.01083v1](http://arxiv.org/abs/2506.01083v1)|null|
+|**2025-05-31**|**Label-shift robust federated feature screening for high-dimensional classification**|Qi Qin et.al.|[2506.00379v1](http://arxiv.org/abs/2506.00379v1)|null|
+|**2025-05-30**|**Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series**|Md Mahmuddun Nabi Murad et.al.|[2506.00188v1](http://arxiv.org/abs/2506.00188v1)|null|
+|**2025-05-30**|**Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**|Erchi Wang et.al.|[2505.24737v1](http://arxiv.org/abs/2505.24737v1)|null|
+|**2025-05-30**|**A Simple Linear Patch Revives Layer-Pruned Large Language Models**|Xinrui Chen et.al.|[2505.24680v1](http://arxiv.org/abs/2505.24680v1)|null|
+|**2025-05-30**|**Robust Distributed Phase Retrieval for Multi-View Compressive Networked Sensing With Outliers**|Ming-Hsun Yang et.al.|[2505.24651v1](http://arxiv.org/abs/2505.24651v1)|null|
+|**2025-05-30**|**Logits-Based Finetuning**|Jingyao Li et.al.|[2505.24461v1](http://arxiv.org/abs/2505.24461v1)|null|
+|**2025-05-30**|**Diversify and Conquer: Open-set Disagreement for Robust Semi-supervised Learning with Outliers**|Heejo Kong et.al.|[2505.24443v1](http://arxiv.org/abs/2505.24443v1)|null|
+|**2025-05-30**|**Simulating Training Data Leakage in Multiple-Choice Benchmarks for LLM Evaluation**|Naila Shafirni Hidayat et.al.|[2505.24263v1](http://arxiv.org/abs/2505.24263v1)|null|
+|**2025-05-30**|**Photometric redshift estimation for emission line galaxies of DESI Legacy Imaging Surveys by CNN-MLP**|Shirui Wei et.al.|[2505.24175v1](http://arxiv.org/abs/2505.24175v1)|null|
+|**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448v1](http://arxiv.org/abs/2505.23448v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -82,37 +116,3 @@
 |**2025-06-05**|**FG 2025 TrustFAA: the First Workshop on Towards Trustworthy Facial Affect Analysis: Advancing Insights of Fairness, Explainability, and Safety (TrustFAA)**|Jiaee Cheong et.al.|[2506.05095v1](http://arxiv.org/abs/2506.05095v1)|null|
 |**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092v1](http://arxiv.org/abs/2506.05092v1)|null|
 |**2025-06-05**|**Collective excitation spectra of dipolar bosonic fractional quantum Hall states**|Moumita Indra et.al.|[2506.05085v1](http://arxiv.org/abs/2506.05085v1)|null|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**The Spurious Factor Dilemma: Robust Inference in Heavy-Tailed Elliptical Factor Models**|Jiang Hu et.al.|[2506.05116v1](http://arxiv.org/abs/2506.05116v1)|null|
-|**2025-06-05**|**FPTQuant: Function-Preserving Transforms for LLM Quantization**|Boris van Breugel et.al.|[2506.04985v1](http://arxiv.org/abs/2506.04985v1)|null|
-|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803v1](http://arxiv.org/abs/2506.04803v1)|null|
-|**2025-06-05**|**TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering**|Vinay Joshi et.al.|[2506.04642v1](http://arxiv.org/abs/2506.04642v1)|null|
-|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
-|**2025-06-04**|**Grokking and Generalization Collapse: Insights from \texttt{HTSR} theory**|Hari K. Prakash et.al.|[2506.04434v1](http://arxiv.org/abs/2506.04434v1)|null|
-|**2025-06-04**|**SubSearch: Robust Estimation and Outlier Detection for Stochastic Block Models via Subgraph Search**|Leonardo Martins Bianco et.al.|[2506.03657v1](http://arxiv.org/abs/2506.03657v1)|null|
-|**2025-06-04**|**Robust domain selection for functional data via interval-wise testing and effect size mapping**|Yeonjoo Park et.al.|[2506.03462v1](http://arxiv.org/abs/2506.03462v1)|null|
-|**2025-06-03**|**Cosmic Outliers: Low-Spin Halos Explain the Abundance, Compactness, and Redshift Evolution of the Little Red Dots**|Fabio Pacucci et.al.|[2506.03244v1](http://arxiv.org/abs/2506.03244v1)|null|
-|**2025-06-03**|**AGNBoost: A Machine Learning Approach to AGN Identification with JWST/NIRCam+MIRI Colors and Photometry**|Kurt Hamblin et.al.|[2506.03130v1](http://arxiv.org/abs/2506.03130v1)|null|
-|**2025-06-03**|**How do Pre-Trained Models Support Software Engineering? An Empirical Study in Hugging Face**|Alexandra González et.al.|[2506.03013v1](http://arxiv.org/abs/2506.03013v1)|null|
-|**2025-06-03**|**Combining social relations and interaction data in Recommender System with Graph Convolution Collaborative Filtering**|Tin T. Tran et.al.|[2506.02834v1](http://arxiv.org/abs/2506.02834v1)|null|
-|**2025-06-03**|**Cross-attention and Self-attention for Audio-visual Speaker Diarization in MISP-Meeting Challenge**|Zhaoyang Li et.al.|[2506.02621v1](http://arxiv.org/abs/2506.02621v1)|null|
-|**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364v1](http://arxiv.org/abs/2506.02364v1)|null|
-|**2025-06-02**|**Z-Error Loss for Training Neural Networks**|Guillaume Godin et.al.|[2506.02154v1](http://arxiv.org/abs/2506.02154v1)|null|
-|**2025-06-02**|**SMOTE-DP: Improving Privacy-Utility Tradeoff with Synthetic Data**|Yan Zhou et.al.|[2506.01907v1](http://arxiv.org/abs/2506.01907v1)|null|
-|**2025-06-02**|**NepTrain and NepTrainKit: Automated Active Learning and Visualization Toolkit for Neuroevolution Potentials**|Chengbing Chen et.al.|[2506.01868v1](http://arxiv.org/abs/2506.01868v1)|null|
-|**2025-06-02**|**Assigning Distinct Roles to Quantized and Low-Rank Matrices Toward Optimal Weight Decomposition**|Yoonjun Cho et.al.|[2506.02077v1](http://arxiv.org/abs/2506.02077v1)|null|
-|**2025-06-02**|**TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network**|Guangxin He et.al.|[2506.01352v1](http://arxiv.org/abs/2506.01352v1)|null|
-|**2025-06-01**|**Generative diffusion posterior sampling for informative likelihoods**|Zheng Zhao et.al.|[2506.01083v1](http://arxiv.org/abs/2506.01083v1)|null|
-|**2025-05-31**|**Label-shift robust federated feature screening for high-dimensional classification**|Qi Qin et.al.|[2506.00379v1](http://arxiv.org/abs/2506.00379v1)|null|
-|**2025-05-30**|**Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series**|Md Mahmuddun Nabi Murad et.al.|[2506.00188v1](http://arxiv.org/abs/2506.00188v1)|null|
-|**2025-05-30**|**Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**|Erchi Wang et.al.|[2505.24737v1](http://arxiv.org/abs/2505.24737v1)|null|
-|**2025-05-30**|**A Simple Linear Patch Revives Layer-Pruned Large Language Models**|Xinrui Chen et.al.|[2505.24680v1](http://arxiv.org/abs/2505.24680v1)|null|
-|**2025-05-30**|**Robust Distributed Phase Retrieval for Multi-View Compressive Networked Sensing With Outliers**|Ming-Hsun Yang et.al.|[2505.24651v1](http://arxiv.org/abs/2505.24651v1)|null|
-|**2025-05-30**|**Logits-Based Finetuning**|Jingyao Li et.al.|[2505.24461v1](http://arxiv.org/abs/2505.24461v1)|null|
-|**2025-05-30**|**Diversify and Conquer: Open-set Disagreement for Robust Semi-supervised Learning with Outliers**|Heejo Kong et.al.|[2505.24443v1](http://arxiv.org/abs/2505.24443v1)|null|
-|**2025-05-30**|**Simulating Training Data Leakage in Multiple-Choice Benchmarks for LLM Evaluation**|Naila Shafirni Hidayat et.al.|[2505.24263v1](http://arxiv.org/abs/2505.24263v1)|null|
-|**2025-05-30**|**Photometric redshift estimation for emission line galaxies of DESI Legacy Imaging Surveys by CNN-MLP**|Shirui Wei et.al.|[2505.24175v1](http://arxiv.org/abs/2505.24175v1)|null|
-|**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448v1](http://arxiv.org/abs/2505.23448v1)|null|
