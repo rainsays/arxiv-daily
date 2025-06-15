@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-15 10:29:34 Asia/Shanghai
+ Automated deployment @ 2025-06-15 20:53:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,40 +14,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-12**|**Advanced fraud detection using machine learning models: enhancing financial transaction security**|Nudrat Fariha et.al.|[2506.10842v1](http://arxiv.org/abs/2506.10842v1)|null|
-|**2025-06-12**|**Anomaly Detection for Sensing Security**|Stefan Roth et.al.|[2506.10718v1](http://arxiv.org/abs/2506.10718v1)|null|
-|**2025-06-12**|**SHORE: A Long-term User Lifetime Value Prediction Model in Digital Games**|Shuaiqi Sun et.al.|[2506.10487v1](http://arxiv.org/abs/2506.10487v1)|null|
-|**2025-06-11**|**Robust copula estimation for one-shot devices with correlated failure modes**|E. Castilla et.al.|[2506.10152v1](http://arxiv.org/abs/2506.10152v1)|null|
-|**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932v1](http://arxiv.org/abs/2506.09932v1)|null|
-|**2025-06-11**|**Counterculture Stars: Slow and Retrograde Stars with Low-Alpha Disk Abundances**|Carrie Filion et.al.|[2506.09927v1](http://arxiv.org/abs/2506.09927v1)|null|
-|**2025-06-11**|**A Weighted Loss Approach to Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824v2](http://arxiv.org/abs/2506.09824v2)|null|
-|**2025-06-11**|**Q-SAM2: Accurate Quantization for Segment Anything Model 2**|Nicola Farronato et.al.|[2506.09782v1](http://arxiv.org/abs/2506.09782v1)|null|
-|**2025-06-11**|**Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations**|Jackie Lok et.al.|[2506.09394v1](http://arxiv.org/abs/2506.09394v1)|null|
-|**2025-06-11**|**ErrorEraser: Unlearning Data Bias for Improved Continual Learning**|Xuemei Cao et.al.|[2506.09347v1](http://arxiv.org/abs/2506.09347v1)|null|
-|**2025-06-10**|**Core-Corona Decomposition of Very Compact (Neutron) Stars: Accounting for Current Data of XTE J1814-338**|Rico Zöllner et.al.|[2506.10032v1](http://arxiv.org/abs/2506.10032v1)|null|
-|**2025-06-10**|**Variational Inference Optimized Using the Curved Geometry of Coupled Free Energy**|Kenric Nelson et.al.|[2506.09091v1](http://arxiv.org/abs/2506.09091v1)|null|
-|**2025-06-09**|**RADAR: Benchmarking Language Models on Imperfect Tabular Data**|Ken Gu et.al.|[2506.08249v1](http://arxiv.org/abs/2506.08249v1)|null|
-|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010v2](http://arxiv.org/abs/2506.08010v2)|[link](https://github.com/nickjiang2378/test-time-registers)|
-|**2025-06-09**|**Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction**|Ivan Alberico et.al.|[2506.07860v1](http://arxiv.org/abs/2506.07860v1)|[link](https://github.com/uzh-rpg/event_based_ping_pong_ball_trajectory_prediction)|
-|**2025-06-09**|**Heavy Lasso: sparse penalized regression under heavy-tailed noise via data-augmented soft-thresholding**|The Tien Mai et.al.|[2506.07790v1](http://arxiv.org/abs/2506.07790v1)|null|
-|**2025-06-09**|**Redshift ~2.7 is not special**|Prajwel Joseph et.al.|[2506.07774v1](http://arxiv.org/abs/2506.07774v1)|[link](https://github.com/prajwel/no_special_redshift)|
-|**2025-06-09**|**Four ages of rotating stars in the rotation--activity relationship and gyrochronology**|Huiqin Yang et.al.|[2506.07383v2](http://arxiv.org/abs/2506.07383v2)|null|
-|**2025-06-06**|**When Tukey meets Chauvenet: a new boxplot criterion for outlier detection**|Hongmei Lin et.al.|[2506.06491v1](http://arxiv.org/abs/2506.06491v1)|null|
-|**2025-06-05**|**Controlled Data Rebalancing in Multi-Task Learning for Real-World Image Super-Resolution**|Shuchen Lin et.al.|[2506.05607v1](http://arxiv.org/abs/2506.05607v1)|null|
-|**2025-06-05**|**When Models Know More Than They Can Explain: Quantifying Knowledge Transfer in Human-AI Collaboration**|Quan Shi et.al.|[2506.05579v2](http://arxiv.org/abs/2506.05579v2)|null|
-|**2025-06-05**|**The Artificial Benchmark for Community Detection with Outliers and Overlapping Communities (ABCD+$o^2$)**|Jordan Barrett et.al.|[2506.05486v1](http://arxiv.org/abs/2506.05486v1)|null|
-|**2025-06-05**|**The Spurious Factor Dilemma: Robust Inference in Heavy-Tailed Elliptical Factor Models**|Jiang Hu et.al.|[2506.05116v1](http://arxiv.org/abs/2506.05116v1)|null|
-|**2025-06-05**|**FPTQuant: Function-Preserving Transforms for LLM Quantization**|Boris van Breugel et.al.|[2506.04985v1](http://arxiv.org/abs/2506.04985v1)|null|
-|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803v1](http://arxiv.org/abs/2506.04803v1)|null|
-|**2025-06-05**|**TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering**|Vinay Joshi et.al.|[2506.04642v1](http://arxiv.org/abs/2506.04642v1)|null|
-|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
-|**2025-06-04**|**Grokking and Generalization Collapse: Insights from \texttt{HTSR} theory**|Hari K. Prakash et.al.|[2506.04434v1](http://arxiv.org/abs/2506.04434v1)|null|
-|**2025-06-04**|**SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs**|Patrik Czakó et.al.|[2506.05413v1](http://arxiv.org/abs/2506.05413v1)|null|
-|**2025-06-04**|**SubSearch: Robust Estimation and Outlier Detection for Stochastic Block Models via Subgraph Search**|Leonardo Martins Bianco et.al.|[2506.03657v1](http://arxiv.org/abs/2506.03657v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -82,6 +48,40 @@
 |**2025-06-12**|**Deep Learning-based Multi Project InP Wafer Simulation for Unsupervised Surface Defect Detection**|Emílio Dolgener Cantú et.al.|[2506.10713v1](http://arxiv.org/abs/2506.10713v1)|null|
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712v1](http://arxiv.org/abs/2506.10712v1)|null|
 |**2025-06-12**|**Preserving Task-Relevant Information Under Linear Concept Removal**|Floris Holstege et.al.|[2506.10703v1](http://arxiv.org/abs/2506.10703v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12**|**Advanced fraud detection using machine learning models: enhancing financial transaction security**|Nudrat Fariha et.al.|[2506.10842v1](http://arxiv.org/abs/2506.10842v1)|null|
+|**2025-06-12**|**Anomaly Detection for Sensing Security**|Stefan Roth et.al.|[2506.10718v1](http://arxiv.org/abs/2506.10718v1)|null|
+|**2025-06-12**|**SHORE: A Long-term User Lifetime Value Prediction Model in Digital Games**|Shuaiqi Sun et.al.|[2506.10487v1](http://arxiv.org/abs/2506.10487v1)|null|
+|**2025-06-11**|**Robust copula estimation for one-shot devices with correlated failure modes**|E. Castilla et.al.|[2506.10152v1](http://arxiv.org/abs/2506.10152v1)|null|
+|**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932v1](http://arxiv.org/abs/2506.09932v1)|null|
+|**2025-06-11**|**Counterculture Stars: Slow and Retrograde Stars with Low-Alpha Disk Abundances**|Carrie Filion et.al.|[2506.09927v1](http://arxiv.org/abs/2506.09927v1)|null|
+|**2025-06-11**|**A Weighted Loss Approach to Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824v2](http://arxiv.org/abs/2506.09824v2)|null|
+|**2025-06-11**|**Q-SAM2: Accurate Quantization for Segment Anything Model 2**|Nicola Farronato et.al.|[2506.09782v1](http://arxiv.org/abs/2506.09782v1)|null|
+|**2025-06-11**|**Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations**|Jackie Lok et.al.|[2506.09394v1](http://arxiv.org/abs/2506.09394v1)|null|
+|**2025-06-11**|**ErrorEraser: Unlearning Data Bias for Improved Continual Learning**|Xuemei Cao et.al.|[2506.09347v1](http://arxiv.org/abs/2506.09347v1)|null|
+|**2025-06-10**|**Core-Corona Decomposition of Very Compact (Neutron) Stars: Accounting for Current Data of XTE J1814-338**|Rico Zöllner et.al.|[2506.10032v1](http://arxiv.org/abs/2506.10032v1)|null|
+|**2025-06-10**|**Variational Inference Optimized Using the Curved Geometry of Coupled Free Energy**|Kenric Nelson et.al.|[2506.09091v1](http://arxiv.org/abs/2506.09091v1)|null|
+|**2025-06-09**|**RADAR: Benchmarking Language Models on Imperfect Tabular Data**|Ken Gu et.al.|[2506.08249v1](http://arxiv.org/abs/2506.08249v1)|null|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010v2](http://arxiv.org/abs/2506.08010v2)|[link](https://github.com/nickjiang2378/test-time-registers)|
+|**2025-06-09**|**Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction**|Ivan Alberico et.al.|[2506.07860v1](http://arxiv.org/abs/2506.07860v1)|[link](https://github.com/uzh-rpg/event_based_ping_pong_ball_trajectory_prediction)|
+|**2025-06-09**|**Heavy Lasso: sparse penalized regression under heavy-tailed noise via data-augmented soft-thresholding**|The Tien Mai et.al.|[2506.07790v1](http://arxiv.org/abs/2506.07790v1)|null|
+|**2025-06-09**|**Redshift ~2.7 is not special**|Prajwel Joseph et.al.|[2506.07774v1](http://arxiv.org/abs/2506.07774v1)|[link](https://github.com/prajwel/no_special_redshift)|
+|**2025-06-09**|**Four ages of rotating stars in the rotation--activity relationship and gyrochronology**|Huiqin Yang et.al.|[2506.07383v2](http://arxiv.org/abs/2506.07383v2)|null|
+|**2025-06-06**|**When Tukey meets Chauvenet: a new boxplot criterion for outlier detection**|Hongmei Lin et.al.|[2506.06491v1](http://arxiv.org/abs/2506.06491v1)|null|
+|**2025-06-05**|**Controlled Data Rebalancing in Multi-Task Learning for Real-World Image Super-Resolution**|Shuchen Lin et.al.|[2506.05607v1](http://arxiv.org/abs/2506.05607v1)|null|
+|**2025-06-05**|**When Models Know More Than They Can Explain: Quantifying Knowledge Transfer in Human-AI Collaboration**|Quan Shi et.al.|[2506.05579v2](http://arxiv.org/abs/2506.05579v2)|null|
+|**2025-06-05**|**The Artificial Benchmark for Community Detection with Outliers and Overlapping Communities (ABCD+$o^2$)**|Jordan Barrett et.al.|[2506.05486v1](http://arxiv.org/abs/2506.05486v1)|null|
+|**2025-06-05**|**The Spurious Factor Dilemma: Robust Inference in Heavy-Tailed Elliptical Factor Models**|Jiang Hu et.al.|[2506.05116v1](http://arxiv.org/abs/2506.05116v1)|null|
+|**2025-06-05**|**FPTQuant: Function-Preserving Transforms for LLM Quantization**|Boris van Breugel et.al.|[2506.04985v1](http://arxiv.org/abs/2506.04985v1)|null|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803v1](http://arxiv.org/abs/2506.04803v1)|null|
+|**2025-06-05**|**TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering**|Vinay Joshi et.al.|[2506.04642v1](http://arxiv.org/abs/2506.04642v1)|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
+|**2025-06-04**|**Grokking and Generalization Collapse: Insights from \texttt{HTSR} theory**|Hari K. Prakash et.al.|[2506.04434v1](http://arxiv.org/abs/2506.04434v1)|null|
+|**2025-06-04**|**SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs**|Patrik Czakó et.al.|[2506.05413v1](http://arxiv.org/abs/2506.05413v1)|null|
+|**2025-06-04**|**SubSearch: Robust Estimation and Outlier Detection for Stochastic Block Models via Subgraph Search**|Leonardo Martins Bianco et.al.|[2506.03657v1](http://arxiv.org/abs/2506.03657v1)|null|
 
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
