@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-23 10:27:36 Asia/Shanghai
+ Automated deployment @ 2025-06-23 21:00:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -49,40 +49,6 @@
 |**2025-06-13**|**Linearly Solving Robust Rotation Estimation**|Yinlong Liu et.al.|[2506.11547v1](http://arxiv.org/abs/2506.11547v1)|null|
 |**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai et.al.|[2506.11530v1](http://arxiv.org/abs/2506.11530v1)|null|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-20**|**Bias hardened estimators of patchy screening profiles**|Noah Sailer et.al.|[2506.17217v1](http://arxiv.org/abs/2506.17217v1)|null|
-|**2025-06-20**|**Detecting LLM-Generated Short Answers and Effects on Learner Performance**|Shambhavi Bhushan et.al.|[2506.17196v1](http://arxiv.org/abs/2506.17196v1)|null|
-|**2025-06-20**|**Gravitational lensing observables in stationary and axisymmetric solutions in general relativity**|Matteo Luca Ruggiero et.al.|[2506.17192v1](http://arxiv.org/abs/2506.17192v1)|null|
-|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186v1](http://arxiv.org/abs/2506.17186v1)|null|
-|**2025-06-20**|**Partition function for several Ising model interface structures**|Alessio Squarcini et.al.|[2506.17170v1](http://arxiv.org/abs/2506.17170v1)|null|
-|**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162v1](http://arxiv.org/abs/2506.17162v1)|null|
-|**2025-06-20**|**Profile monitoring of random functions with Gaussian process basis expansions**|Takayuki Iguchi et.al.|[2506.17153v1](http://arxiv.org/abs/2506.17153v1)|null|
-|**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144v1](http://arxiv.org/abs/2506.17144v1)|null|
-|**2025-06-20**|**Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs**|Md Sakibur Sajal et.al.|[2506.17134v1](http://arxiv.org/abs/2506.17134v1)|null|
-|**2025-06-20**|**Robust Training with Data Augmentation for Medical Imaging Classification**|Josué Martínez-Martínez et.al.|[2506.17133v1](http://arxiv.org/abs/2506.17133v1)|null|
-|**2025-06-20**|**Rapid and Continuous Trust Evaluation for Effective Task Collaboration Through Siamese Model**|Botao Zhu et.al.|[2506.17128v1](http://arxiv.org/abs/2506.17128v1)|null|
-|**2025-06-20**|**Reassessing Code Authorship Attribution in the Era of Language Models**|Atish Kumar Dipongkor et.al.|[2506.17120v1](http://arxiv.org/abs/2506.17120v1)|null|
-|**2025-06-20**|**Searching for a Hidden Markov Anomaly over Multiple Processes**|Levli Citron et.al.|[2506.17108v1](http://arxiv.org/abs/2506.17108v1)|null|
-|**2025-06-20**|**Open-Path Methane Sensing via Backscattered Light in a Nonlinear Interferometer**|Jinghan Dong et.al.|[2506.17107v1](http://arxiv.org/abs/2506.17107v1)|null|
-|**2025-06-20**|**GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications**|Isobel Romero-Shaw et.al.|[2506.17105v1](http://arxiv.org/abs/2506.17105v1)|null|
-|**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088v1](http://arxiv.org/abs/2506.17088v1)|null|
-|**2025-06-20**|**Exploring MAXI J1744-294: IXPE insights into a Newly Discovered X-ray Transient**|Lorenzo Marra et.al.|[2506.17050v1](http://arxiv.org/abs/2506.17050v1)|null|
-|**2025-06-20**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network Intrusion Detection**|Joshua Schraven et.al.|[2506.17041v1](http://arxiv.org/abs/2506.17041v1)|null|
-|**2025-06-20**|**Feasibility of interferometric observations and characterization of planet-induced structures at sub au to au scales in protoplanetary disks**|Lukas Hildebrandt et.al.|[2506.17024v1](http://arxiv.org/abs/2506.17024v1)|null|
-|**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky et.al.|[2506.17013v1](http://arxiv.org/abs/2506.17013v1)|null|
-|**2025-06-20**|**Low-Complexity Receiver Design for Affine Filter Bank Modulation**|Kuranage Roche Rayan Ranasinghe et.al.|[2506.17010v1](http://arxiv.org/abs/2506.17010v1)|null|
-|**2025-06-20**|**Protocol for detecting the nonlocality of the multi-Majorana Systems**|Bai-Ting Liu et.al.|[2506.17003v1](http://arxiv.org/abs/2506.17003v1)|null|
-|**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Yasir Ali Farrukh et.al.|[2506.16994v1](http://arxiv.org/abs/2506.16994v1)|null|
-|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981v1](http://arxiv.org/abs/2506.16981v1)|null|
-|**2025-06-20**|**Resonance fluorescence and indistinguishable photons from a coherently driven B centre in hBN**|Domitille Gérard et.al.|[2506.16980v1](http://arxiv.org/abs/2506.16980v1)|null|
-|**2025-06-20**|**MM-AttacKG: A Multimodal Approach to Attack Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2506.16968v1](http://arxiv.org/abs/2506.16968v1)|null|
-|**2025-06-20**|**Autoregressive Hypergraph**|Xianghe Zhu et.al.|[2506.16966v1](http://arxiv.org/abs/2506.16966v1)|null|
-|**2025-06-20**|**Wi-Fi Sensing Tool Release: Gathering 802.11ax Channel State Information from a Commercial Wi-Fi Access Point**|Zisheng Wang et.al.|[2506.16957v1](http://arxiv.org/abs/2506.16957v1)|null|
-|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|null|
-|**2025-06-20**|**Infalling Ultra Faint Dwarfs as Emissaries of the Axiverse?**|A. Pozo et.al.|[2506.16915v1](http://arxiv.org/abs/2506.16915v1)|null|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -108,7 +74,7 @@
 |**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063v1](http://arxiv.org/abs/2506.17063v1)|null|
 |**2025-06-20**|**Relaxed syntax modeling in Transformers for future-proof license plate recognition**|Florent Meyer et.al.|[2506.17051v1](http://arxiv.org/abs/2506.17051v1)|null|
 |**2025-06-20**|**Navigating the Deep: Signature Extraction on Deep Neural Networks**|Haolin Liu et.al.|[2506.17047v1](http://arxiv.org/abs/2506.17047v1)|null|
-|**2025-06-20**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network Intrusion Detection**|Joshua Schraven et.al.|[2506.17041v1](http://arxiv.org/abs/2506.17041v1)|null|
+|**2025-06-20**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network Intrusion Detection**|Joshua Schraven et.al.|[2506.17041v1](http://arxiv.org/abs/2506.17041v1)|[link](https://github.com/TheLurps/MAWIFlow)|
 |**2025-06-20**|**Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance**|Lorenzo Tausani et.al.|[2506.17040v1](http://arxiv.org/abs/2506.17040v1)|null|
 |**2025-06-20**|**Scalable and Reliable Multi-agent Reinforcement Learning for Traffic Assignment**|Leizhen Wang et.al.|[2506.17029v1](http://arxiv.org/abs/2506.17029v1)|null|
 |**2025-06-20**|**Unsupervised Image Super-Resolution Reconstruction Based on Real-World Degradation Patterns**|Yiyang Tie et.al.|[2506.17027v1](http://arxiv.org/abs/2506.17027v1)|null|
@@ -116,3 +82,37 @@
 |**2025-06-20**|**Enhancing Expressivity of Quantum Neural Networks Based on the SWAP test**|Sebastian Nagies et.al.|[2506.16938v1](http://arxiv.org/abs/2506.16938v1)|null|
 |**2025-06-20**|**A deep learning and machine learning approach to predict neonatal death in the context of São Paulo**|Mohon Raihan et.al.|[2506.16929v1](http://arxiv.org/abs/2506.16929v1)|null|
 |**2025-06-20**|**Single-shot thermometry of simulated Bose--Einstein condensates using artificial intelligence**|Jack Griffiths et.al.|[2506.16925v1](http://arxiv.org/abs/2506.16925v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-20**|**Bias hardened estimators of patchy screening profiles**|Noah Sailer et.al.|[2506.17217v1](http://arxiv.org/abs/2506.17217v1)|null|
+|**2025-06-20**|**Detecting LLM-Generated Short Answers and Effects on Learner Performance**|Shambhavi Bhushan et.al.|[2506.17196v1](http://arxiv.org/abs/2506.17196v1)|null|
+|**2025-06-20**|**Gravitational lensing observables in stationary and axisymmetric solutions in general relativity**|Matteo Luca Ruggiero et.al.|[2506.17192v1](http://arxiv.org/abs/2506.17192v1)|null|
+|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186v1](http://arxiv.org/abs/2506.17186v1)|null|
+|**2025-06-20**|**Partition function for several Ising model interface structures**|Alessio Squarcini et.al.|[2506.17170v1](http://arxiv.org/abs/2506.17170v1)|null|
+|**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162v1](http://arxiv.org/abs/2506.17162v1)|null|
+|**2025-06-20**|**Profile monitoring of random functions with Gaussian process basis expansions**|Takayuki Iguchi et.al.|[2506.17153v1](http://arxiv.org/abs/2506.17153v1)|null|
+|**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144v1](http://arxiv.org/abs/2506.17144v1)|null|
+|**2025-06-20**|**Dynamic Watermark Generation for Digital Images using Perimeter Gated SPAD Imager PUFs**|Md Sakibur Sajal et.al.|[2506.17134v1](http://arxiv.org/abs/2506.17134v1)|null|
+|**2025-06-20**|**Robust Training with Data Augmentation for Medical Imaging Classification**|Josué Martínez-Martínez et.al.|[2506.17133v1](http://arxiv.org/abs/2506.17133v1)|null|
+|**2025-06-20**|**Rapid and Continuous Trust Evaluation for Effective Task Collaboration Through Siamese Model**|Botao Zhu et.al.|[2506.17128v1](http://arxiv.org/abs/2506.17128v1)|null|
+|**2025-06-20**|**Reassessing Code Authorship Attribution in the Era of Language Models**|Atish Kumar Dipongkor et.al.|[2506.17120v1](http://arxiv.org/abs/2506.17120v1)|null|
+|**2025-06-20**|**Searching for a Hidden Markov Anomaly over Multiple Processes**|Levli Citron et.al.|[2506.17108v1](http://arxiv.org/abs/2506.17108v1)|null|
+|**2025-06-20**|**Open-Path Methane Sensing via Backscattered Light in a Nonlinear Interferometer**|Jinghan Dong et.al.|[2506.17107v1](http://arxiv.org/abs/2506.17107v1)|null|
+|**2025-06-20**|**GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications**|Isobel Romero-Shaw et.al.|[2506.17105v1](http://arxiv.org/abs/2506.17105v1)|null|
+|**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088v1](http://arxiv.org/abs/2506.17088v1)|null|
+|**2025-06-20**|**Exploring MAXI J1744-294: IXPE insights into a Newly Discovered X-ray Transient**|Lorenzo Marra et.al.|[2506.17050v1](http://arxiv.org/abs/2506.17050v1)|null|
+|**2025-06-20**|**MAWIFlow Benchmark: Realistic Flow-Based Evaluation for Network Intrusion Detection**|Joshua Schraven et.al.|[2506.17041v1](http://arxiv.org/abs/2506.17041v1)|[link](https://github.com/TheLurps/MAWIFlow)|
+|**2025-06-20**|**Feasibility of interferometric observations and characterization of planet-induced structures at sub au to au scales in protoplanetary disks**|Lukas Hildebrandt et.al.|[2506.17024v1](http://arxiv.org/abs/2506.17024v1)|null|
+|**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky et.al.|[2506.17013v1](http://arxiv.org/abs/2506.17013v1)|null|
+|**2025-06-20**|**Low-Complexity Receiver Design for Affine Filter Bank Modulation**|Kuranage Roche Rayan Ranasinghe et.al.|[2506.17010v1](http://arxiv.org/abs/2506.17010v1)|null|
+|**2025-06-20**|**Protocol for detecting the nonlocality of the multi-Majorana Systems**|Bai-Ting Liu et.al.|[2506.17003v1](http://arxiv.org/abs/2506.17003v1)|null|
+|**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Yasir Ali Farrukh et.al.|[2506.16994v1](http://arxiv.org/abs/2506.16994v1)|null|
+|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981v1](http://arxiv.org/abs/2506.16981v1)|null|
+|**2025-06-20**|**Resonance fluorescence and indistinguishable photons from a coherently driven B centre in hBN**|Domitille Gérard et.al.|[2506.16980v1](http://arxiv.org/abs/2506.16980v1)|null|
+|**2025-06-20**|**MM-AttacKG: A Multimodal Approach to Attack Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2506.16968v1](http://arxiv.org/abs/2506.16968v1)|null|
+|**2025-06-20**|**Autoregressive Hypergraph**|Xianghe Zhu et.al.|[2506.16966v1](http://arxiv.org/abs/2506.16966v1)|null|
+|**2025-06-20**|**Wi-Fi Sensing Tool Release: Gathering 802.11ax Channel State Information from a Commercial Wi-Fi Access Point**|Zisheng Wang et.al.|[2506.16957v1](http://arxiv.org/abs/2506.16957v1)|null|
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|null|
+|**2025-06-20**|**Infalling Ultra Faint Dwarfs as Emissaries of the Axiverse?**|A. Pozo et.al.|[2506.16915v1](http://arxiv.org/abs/2506.16915v1)|null|
