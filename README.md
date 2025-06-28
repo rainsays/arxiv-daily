@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-28 10:16:38 Asia/Shanghai
+ Automated deployment @ 2025-06-28 20:54:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,6 +14,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551v1](http://arxiv.org/abs/2506.21551v1)|null|
+|**2025-06-26**|**ResQ: A Novel Framework to Implement Residual Neural Networks on Analog Rydberg Atom Quantum Computers**|Nicholas S. DiBrita et.al.|[2506.21537v1](http://arxiv.org/abs/2506.21537v1)|null|
+|**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499v1](http://arxiv.org/abs/2506.21499v1)|null|
+|**2025-06-26**|**Scaling solutions for current-carrying cosmic string networks. II. Biased solutions**|F. C. N. Q. Pimenta et.al.|[2506.21494v1](http://arxiv.org/abs/2506.21494v1)|null|
+|**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486v1](http://arxiv.org/abs/2506.21486v1)|null|
+|**2025-06-26**|**TITAN: Query-Token based Domain Adaptive Adversarial Learning**|Tajamul Ashraf et.al.|[2506.21484v1](http://arxiv.org/abs/2506.21484v1)|null|
+|**2025-06-26**|**Reinforcement Learning for Optimal Control of Spin Magnetometers**|Logan W. Cooke et.al.|[2506.21475v1](http://arxiv.org/abs/2506.21475v1)|null|
+|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460v1](http://arxiv.org/abs/2506.21460v1)|null|
+|**2025-06-26**|**Testing a 95 GeV Scalar at the CEPC with Machine Learning**|Yabo Dong et.al.|[2506.21454v1](http://arxiv.org/abs/2506.21454v1)|null|
+|**2025-06-26**|**Learnable Adaptive Time-Frequency Representation via Differentiable Short-Time Fourier Transform**|Maxime Leiber et.al.|[2506.21440v1](http://arxiv.org/abs/2506.21440v1)|null|
+|**2025-06-26**|**HyperSORT: Self-Organising Robust Training with hyper-networks**|Samuel Joutard et.al.|[2506.21430v1](http://arxiv.org/abs/2506.21430v1)|null|
+|**2025-06-26**|**Evolution and determinants of firm-level systemic risk in local production networks**|Anna Mancini et.al.|[2506.21426v1](http://arxiv.org/abs/2506.21426v1)|null|
+|**2025-06-26**|**IDGraphs: Intrusion Detection and Analysis Using Stream Compositing**|Pin Ren et.al.|[2506.21425v1](http://arxiv.org/abs/2506.21425v1)|null|
+|**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414v1](http://arxiv.org/abs/2506.21414v1)|null|
+|**2025-06-26**|**Flowcut Switching: High-Performance Adaptive Routing with In-Order Delivery Guarantees**|Tommaso Bonato et.al.|[2506.21406v1](http://arxiv.org/abs/2506.21406v1)|null|
+|**2025-06-26**|**Analytical Calculation of Viscosity in Rouse Networks Below Gelation Transition**|Bohan Lyu et.al.|[2506.21399v1](http://arxiv.org/abs/2506.21399v1)|null|
+|**2025-06-26**|**Multifaceted Supercooling: From PTA to LIGO**|Satyabrata Datta et.al.|[2506.21397v1](http://arxiv.org/abs/2506.21397v1)|null|
+|**2025-06-26**|**Counter-propagating spontaneous parametric down-conversion source in lithium niobate on insulator**|Jost Kellner et.al.|[2506.21396v1](http://arxiv.org/abs/2506.21396v1)|null|
+|**2025-06-26**|**Hamiltonian laceability with a set of faulty edges in hypercubes**|Abid Ali et.al.|[2506.21391v1](http://arxiv.org/abs/2506.21391v1)|null|
+|**2025-06-26**|**Hybrid Deep Learning and Signal Processing for Arabic Dialect Recognition in Low-Resource Settings**|Ghazal Al-Shwayyat et.al.|[2506.21386v1](http://arxiv.org/abs/2506.21386v1)|null|
+|**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382v1](http://arxiv.org/abs/2506.21382v1)|null|
+|**2025-06-26**|**High-quality metalens enables minimally invasive CFB endoscopy**|Ruixiang Song et.al.|[2506.21379v1](http://arxiv.org/abs/2506.21379v1)|null|
+|**2025-06-26**|**Pay Attention to Small Weights**|Chao Zhou et.al.|[2506.21374v1](http://arxiv.org/abs/2506.21374v1)|null|
+|**2025-06-26**|**MAx-DNN: Multi-Level Arithmetic Approximation for Energy-Efficient DNN Hardware Accelerators**|Vasileios Leon et.al.|[2506.21371v1](http://arxiv.org/abs/2506.21371v1)|null|
+|**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368v1](http://arxiv.org/abs/2506.21368v1)|null|
+|**2025-06-26**|**CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection**|Zhixin Cheng et.al.|[2506.21364v1](http://arxiv.org/abs/2506.21364v1)|null|
+|**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|null|
+|**2025-06-26**|**Bayesian Modeling for Aggregated Relational Data: A Unified Perspective**|Owen G. Ward et.al.|[2506.21353v1](http://arxiv.org/abs/2506.21353v1)|null|
+|**2025-06-26**|**Lipschitz Bounds for Persistent Laplacian Eigenvalues under One-Simplex Insertions**|Le Vu Anh et.al.|[2506.21352v1](http://arxiv.org/abs/2506.21352v1)|null|
+|**2025-06-26**|**AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification**|Galvin Brice S. Lim et.al.|[2506.21338v1](http://arxiv.org/abs/2506.21338v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -82,37 +116,3 @@
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260v1](http://arxiv.org/abs/2506.21260v1)|null|
 |**2025-06-26**|**GANet-Seg: Adversarial Learning for Brain Tumor Segmentation with Hybrid Generative Models**|Qifei Cui et.al.|[2506.21245v1](http://arxiv.org/abs/2506.21245v1)|null|
 |**2025-06-26**|**Gravitational Wave Generation and Detection in Gravitational Quantum Field Theory**|Yuan-Kun Gao et.al.|[2506.21225v1](http://arxiv.org/abs/2506.21225v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551v1](http://arxiv.org/abs/2506.21551v1)|null|
-|**2025-06-26**|**ResQ: A Novel Framework to Implement Residual Neural Networks on Analog Rydberg Atom Quantum Computers**|Nicholas S. DiBrita et.al.|[2506.21537v1](http://arxiv.org/abs/2506.21537v1)|null|
-|**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499v1](http://arxiv.org/abs/2506.21499v1)|null|
-|**2025-06-26**|**Scaling solutions for current-carrying cosmic string networks. II. Biased solutions**|F. C. N. Q. Pimenta et.al.|[2506.21494v1](http://arxiv.org/abs/2506.21494v1)|null|
-|**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486v1](http://arxiv.org/abs/2506.21486v1)|null|
-|**2025-06-26**|**TITAN: Query-Token based Domain Adaptive Adversarial Learning**|Tajamul Ashraf et.al.|[2506.21484v1](http://arxiv.org/abs/2506.21484v1)|null|
-|**2025-06-26**|**Reinforcement Learning for Optimal Control of Spin Magnetometers**|Logan W. Cooke et.al.|[2506.21475v1](http://arxiv.org/abs/2506.21475v1)|null|
-|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460v1](http://arxiv.org/abs/2506.21460v1)|null|
-|**2025-06-26**|**Testing a 95 GeV Scalar at the CEPC with Machine Learning**|Yabo Dong et.al.|[2506.21454v1](http://arxiv.org/abs/2506.21454v1)|null|
-|**2025-06-26**|**Learnable Adaptive Time-Frequency Representation via Differentiable Short-Time Fourier Transform**|Maxime Leiber et.al.|[2506.21440v1](http://arxiv.org/abs/2506.21440v1)|null|
-|**2025-06-26**|**HyperSORT: Self-Organising Robust Training with hyper-networks**|Samuel Joutard et.al.|[2506.21430v1](http://arxiv.org/abs/2506.21430v1)|null|
-|**2025-06-26**|**Evolution and determinants of firm-level systemic risk in local production networks**|Anna Mancini et.al.|[2506.21426v1](http://arxiv.org/abs/2506.21426v1)|null|
-|**2025-06-26**|**IDGraphs: Intrusion Detection and Analysis Using Stream Compositing**|Pin Ren et.al.|[2506.21425v1](http://arxiv.org/abs/2506.21425v1)|null|
-|**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414v1](http://arxiv.org/abs/2506.21414v1)|null|
-|**2025-06-26**|**Flowcut Switching: High-Performance Adaptive Routing with In-Order Delivery Guarantees**|Tommaso Bonato et.al.|[2506.21406v1](http://arxiv.org/abs/2506.21406v1)|null|
-|**2025-06-26**|**Analytical Calculation of Viscosity in Rouse Networks Below Gelation Transition**|Bohan Lyu et.al.|[2506.21399v1](http://arxiv.org/abs/2506.21399v1)|null|
-|**2025-06-26**|**Multifaceted Supercooling: From PTA to LIGO**|Satyabrata Datta et.al.|[2506.21397v1](http://arxiv.org/abs/2506.21397v1)|null|
-|**2025-06-26**|**Counter-propagating spontaneous parametric down-conversion source in lithium niobate on insulator**|Jost Kellner et.al.|[2506.21396v1](http://arxiv.org/abs/2506.21396v1)|null|
-|**2025-06-26**|**Hamiltonian laceability with a set of faulty edges in hypercubes**|Abid Ali et.al.|[2506.21391v1](http://arxiv.org/abs/2506.21391v1)|null|
-|**2025-06-26**|**Hybrid Deep Learning and Signal Processing for Arabic Dialect Recognition in Low-Resource Settings**|Ghazal Al-Shwayyat et.al.|[2506.21386v1](http://arxiv.org/abs/2506.21386v1)|null|
-|**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382v1](http://arxiv.org/abs/2506.21382v1)|null|
-|**2025-06-26**|**High-quality metalens enables minimally invasive CFB endoscopy**|Ruixiang Song et.al.|[2506.21379v1](http://arxiv.org/abs/2506.21379v1)|null|
-|**2025-06-26**|**Pay Attention to Small Weights**|Chao Zhou et.al.|[2506.21374v1](http://arxiv.org/abs/2506.21374v1)|null|
-|**2025-06-26**|**MAx-DNN: Multi-Level Arithmetic Approximation for Energy-Efficient DNN Hardware Accelerators**|Vasileios Leon et.al.|[2506.21371v1](http://arxiv.org/abs/2506.21371v1)|null|
-|**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368v1](http://arxiv.org/abs/2506.21368v1)|null|
-|**2025-06-26**|**CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection**|Zhixin Cheng et.al.|[2506.21364v1](http://arxiv.org/abs/2506.21364v1)|null|
-|**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|null|
-|**2025-06-26**|**Bayesian Modeling for Aggregated Relational Data: A Unified Perspective**|Owen G. Ward et.al.|[2506.21353v1](http://arxiv.org/abs/2506.21353v1)|null|
-|**2025-06-26**|**Lipschitz Bounds for Persistent Laplacian Eigenvalues under One-Simplex Insertions**|Le Vu Anh et.al.|[2506.21352v1](http://arxiv.org/abs/2506.21352v1)|null|
-|**2025-06-26**|**AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification**|Galvin Brice S. Lim et.al.|[2506.21338v1](http://arxiv.org/abs/2506.21338v1)|null|
