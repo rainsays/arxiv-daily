@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-30 10:26:14 Asia/Shanghai
+ Automated deployment @ 2025-06-30 21:00:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,6 +14,40 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
+
+### Traffic
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
+|**2025-06-27**|**Spin Seebeck Effect of Triangular-lattice Spin Supersolid**|Yuan Gao et.al.|[2506.22414v1](http://arxiv.org/abs/2506.22414v1)|null|
+|**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413v1](http://arxiv.org/abs/2506.22413v1)|null|
+|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402v1](http://arxiv.org/abs/2506.22402v1)|null|
+|**2025-06-27**|**Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL**|Tong Yang et.al.|[2506.22401v1](http://arxiv.org/abs/2506.22401v1)|null|
+|**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396v1](http://arxiv.org/abs/2506.22396v1)|null|
+|**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389v1](http://arxiv.org/abs/2506.22389v1)|null|
+|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360v1](http://arxiv.org/abs/2506.22360v1)|null|
+|**2025-06-27**|**Concept-Level AI for Telecom: Moving Beyond Large Language Models**|Viswanath Kumarskandpriya et.al.|[2506.22359v1](http://arxiv.org/abs/2506.22359v1)|null|
+|**2025-06-27**|**QuKAN: A Quantum Circuit Born Machine approach to Quantum Kolmogorov Arnold Networks**|Yannick Werner et.al.|[2506.22340v1](http://arxiv.org/abs/2506.22340v1)|null|
+|**2025-06-27**|**Under the Hood of BlotchyQuasar: DLL-Based RAT Campaigns Against Latin America**|Alessio Di Santo et.al.|[2506.22323v1](http://arxiv.org/abs/2506.22323v1)|null|
+|**2025-06-27**|**Recovering the Topology in One Point Interaction Problem on Extended Non-Local Star Graphs**|Lung-Hui Chen et.al.|[2506.22322v1](http://arxiv.org/abs/2506.22322v1)|null|
+|**2025-06-27**|**CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks**|Tao Liu et.al.|[2506.22299v1](http://arxiv.org/abs/2506.22299v1)|null|
+|**2025-06-27**|**Score-Based Model for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2506.22295v1](http://arxiv.org/abs/2506.22295v1)|null|
+|**2025-06-27**|**The Effect of Network Topology on the Equilibria of Influence-Opinion Games**|Yigit Ege Bayiz et.al.|[2506.22293v1](http://arxiv.org/abs/2506.22293v1)|null|
+|**2025-06-27**|**Scalable inference of large-scale random kronecker graphs via tensor decomposition and Einstein summation**|Sanaa Khobizy et.al.|[2506.22292v1](http://arxiv.org/abs/2506.22292v1)|null|
+|**2025-06-27**|**RoomCraft: Controllable and Complete 3D Indoor Scene Generation**|Mengqi Zhou et.al.|[2506.22291v1](http://arxiv.org/abs/2506.22291v1)|null|
+|**2025-06-27**|**The Walk-Length Filtration for Persistent Homology on Weighted Directed Graphs**|David E. Muñoz et.al.|[2506.22263v1](http://arxiv.org/abs/2506.22263v1)|null|
+|**2025-06-27**|**Design and Evaluation of IEEE 802.11ax Uplink Orthogonal Frequency Division Multiple Random Access in ns-3**|Douglas Dziedzorm Agbeve et.al.|[2506.22260v1](http://arxiv.org/abs/2506.22260v1)|null|
+|**2025-06-27**|**On the Feasibility of Distributed Phase Synchronization for Coherent Signal Superposition**|Alphan Sahin et.al.|[2506.22252v1](http://arxiv.org/abs/2506.22252v1)|null|
+|**2025-06-27**|**End-to-end entanglement of quantum network paths with multi-parameter states**|Md Sohel Mondal et.al.|[2506.22245v1](http://arxiv.org/abs/2506.22245v1)|null|
+|**2025-06-27**|**Boosting Classification with Quantum-Inspired Augmentations**|Matthias Tschöpe et.al.|[2506.22241v1](http://arxiv.org/abs/2506.22241v1)|null|
+|**2025-06-27**|**Fine-Tuning MIDI-to-Audio Alignment using a Neural Network on Piano Roll and CQT Representations**|Sebastian Murgul et.al.|[2506.22237v1](http://arxiv.org/abs/2506.22237v1)|null|
+|**2025-06-27**|**Unified Memcapacitor-Memristor Memory for Synaptic Weights and Neuron Temporal Dynamics**|Simone D'Agostino et.al.|[2506.22227v1](http://arxiv.org/abs/2506.22227v1)|null|
+|**2025-06-27**|**A Decade of News Forum Interactions: Threaded Conversations, Signed Votes, and Topical Tags**|Emma Fraxanet et.al.|[2506.22224v1](http://arxiv.org/abs/2506.22224v1)|null|
+|**2025-06-27**|**V2X Intention Sharing for Cooperative Electrically Power-Assisted Cycles**|Felipe Valle Quiroz et.al.|[2506.22223v1](http://arxiv.org/abs/2506.22223v1)|null|
+|**2025-06-27**|**A Matlab-based Toolbox for Automatic EMT Modeling and Small-Signal Stability Analysis of Modern Power Systems**|Josep Arevalo-Soler et.al.|[2506.22201v1](http://arxiv.org/abs/2506.22201v1)|null|
+|**2025-06-27**|**Autonomic Microservice Management via Agentic AI and MAPE-K Integration**|Matteo Esposito et.al.|[2506.22185v1](http://arxiv.org/abs/2506.22185v1)|null|
+|**2025-06-27**|**MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism**|Zheng Zhang et.al.|[2506.22175v1](http://arxiv.org/abs/2506.22175v1)|null|
+|**2025-06-27**|**MCFuser: High-Performance and Rapid Fusion of Memory-Bound Compute-Intensive Operators**|Zheng Zhang et.al.|[2506.22169v1](http://arxiv.org/abs/2506.22169v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
@@ -82,37 +116,3 @@
 |**2025-06-27**|**JADES reveals a large population of low mass black holes at high redshift**|Sophia Geris et.al.|[2506.22147v1](http://arxiv.org/abs/2506.22147v1)|null|
 |**2025-06-27**|**Stationary quasi-periodic pulsations in 20-second cadence TESS flares**|Aadish Joshi et.al.|[2506.22131v1](http://arxiv.org/abs/2506.22131v1)|null|
 |**2025-06-27**|**Narrow beam and low-sidelobe two-dimensional beam steering on thin-film lithium niobate optical phased array**|Yang Li et.al.|[2506.22124v1](http://arxiv.org/abs/2506.22124v1)|null|
-
-### Traffic
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
-|**2025-06-27**|**Spin Seebeck Effect of Triangular-lattice Spin Supersolid**|Yuan Gao et.al.|[2506.22414v1](http://arxiv.org/abs/2506.22414v1)|null|
-|**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413v1](http://arxiv.org/abs/2506.22413v1)|null|
-|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402v1](http://arxiv.org/abs/2506.22402v1)|null|
-|**2025-06-27**|**Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL**|Tong Yang et.al.|[2506.22401v1](http://arxiv.org/abs/2506.22401v1)|null|
-|**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396v1](http://arxiv.org/abs/2506.22396v1)|null|
-|**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389v1](http://arxiv.org/abs/2506.22389v1)|null|
-|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360v1](http://arxiv.org/abs/2506.22360v1)|null|
-|**2025-06-27**|**Concept-Level AI for Telecom: Moving Beyond Large Language Models**|Viswanath Kumarskandpriya et.al.|[2506.22359v1](http://arxiv.org/abs/2506.22359v1)|null|
-|**2025-06-27**|**QuKAN: A Quantum Circuit Born Machine approach to Quantum Kolmogorov Arnold Networks**|Yannick Werner et.al.|[2506.22340v1](http://arxiv.org/abs/2506.22340v1)|null|
-|**2025-06-27**|**Under the Hood of BlotchyQuasar: DLL-Based RAT Campaigns Against Latin America**|Alessio Di Santo et.al.|[2506.22323v1](http://arxiv.org/abs/2506.22323v1)|null|
-|**2025-06-27**|**Recovering the Topology in One Point Interaction Problem on Extended Non-Local Star Graphs**|Lung-Hui Chen et.al.|[2506.22322v1](http://arxiv.org/abs/2506.22322v1)|null|
-|**2025-06-27**|**CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks**|Tao Liu et.al.|[2506.22299v1](http://arxiv.org/abs/2506.22299v1)|null|
-|**2025-06-27**|**Score-Based Model for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2506.22295v1](http://arxiv.org/abs/2506.22295v1)|null|
-|**2025-06-27**|**The Effect of Network Topology on the Equilibria of Influence-Opinion Games**|Yigit Ege Bayiz et.al.|[2506.22293v1](http://arxiv.org/abs/2506.22293v1)|null|
-|**2025-06-27**|**Scalable inference of large-scale random kronecker graphs via tensor decomposition and Einstein summation**|Sanaa Khobizy et.al.|[2506.22292v1](http://arxiv.org/abs/2506.22292v1)|null|
-|**2025-06-27**|**RoomCraft: Controllable and Complete 3D Indoor Scene Generation**|Mengqi Zhou et.al.|[2506.22291v1](http://arxiv.org/abs/2506.22291v1)|null|
-|**2025-06-27**|**The Walk-Length Filtration for Persistent Homology on Weighted Directed Graphs**|David E. Muñoz et.al.|[2506.22263v1](http://arxiv.org/abs/2506.22263v1)|null|
-|**2025-06-27**|**Design and Evaluation of IEEE 802.11ax Uplink Orthogonal Frequency Division Multiple Random Access in ns-3**|Douglas Dziedzorm Agbeve et.al.|[2506.22260v1](http://arxiv.org/abs/2506.22260v1)|null|
-|**2025-06-27**|**On the Feasibility of Distributed Phase Synchronization for Coherent Signal Superposition**|Alphan Sahin et.al.|[2506.22252v1](http://arxiv.org/abs/2506.22252v1)|null|
-|**2025-06-27**|**End-to-end entanglement of quantum network paths with multi-parameter states**|Md Sohel Mondal et.al.|[2506.22245v1](http://arxiv.org/abs/2506.22245v1)|null|
-|**2025-06-27**|**Boosting Classification with Quantum-Inspired Augmentations**|Matthias Tschöpe et.al.|[2506.22241v1](http://arxiv.org/abs/2506.22241v1)|null|
-|**2025-06-27**|**Fine-Tuning MIDI-to-Audio Alignment using a Neural Network on Piano Roll and CQT Representations**|Sebastian Murgul et.al.|[2506.22237v1](http://arxiv.org/abs/2506.22237v1)|null|
-|**2025-06-27**|**Unified Memcapacitor-Memristor Memory for Synaptic Weights and Neuron Temporal Dynamics**|Simone D'Agostino et.al.|[2506.22227v1](http://arxiv.org/abs/2506.22227v1)|null|
-|**2025-06-27**|**A Decade of News Forum Interactions: Threaded Conversations, Signed Votes, and Topical Tags**|Emma Fraxanet et.al.|[2506.22224v1](http://arxiv.org/abs/2506.22224v1)|null|
-|**2025-06-27**|**V2X Intention Sharing for Cooperative Electrically Power-Assisted Cycles**|Felipe Valle Quiroz et.al.|[2506.22223v1](http://arxiv.org/abs/2506.22223v1)|null|
-|**2025-06-27**|**A Matlab-based Toolbox for Automatic EMT Modeling and Small-Signal Stability Analysis of Modern Power Systems**|Josep Arevalo-Soler et.al.|[2506.22201v1](http://arxiv.org/abs/2506.22201v1)|null|
-|**2025-06-27**|**Autonomic Microservice Management via Agentic AI and MAPE-K Integration**|Matteo Esposito et.al.|[2506.22185v1](http://arxiv.org/abs/2506.22185v1)|null|
-|**2025-06-27**|**MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism**|Zheng Zhang et.al.|[2506.22175v1](http://arxiv.org/abs/2506.22175v1)|null|
-|**2025-06-27**|**MCFuser: High-Performance and Rapid Fusion of Memory-Bound Compute-Intensive Operators**|Zheng Zhang et.al.|[2506.22169v1](http://arxiv.org/abs/2506.22169v1)|null|
