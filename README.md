@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-01 10:32:53 Asia/Shanghai
+ Automated deployment @ 2025-07-01 21:00:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -49,40 +49,6 @@
 |**2025-06-30**|**Modeling blazar broadband emission with convolutional neural networks -- III. proton synchrotron and hybrid models**|N. Sahakyan et.al.|[2506.23885v1](http://arxiv.org/abs/2506.23885v1)|null|
 |**2025-06-30**|**URGENT-PK: Perceptually-Aligned Ranking Model Designed for Speech Enhancement Competition**|Jiahe Wang et.al.|[2506.23874v1](http://arxiv.org/abs/2506.23874v1)|null|
 
-### Outlier
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-30**|**Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves**|A. Kaushal et.al.|[2506.23681v1](http://arxiv.org/abs/2506.23681v1)|null|
-|**2025-06-30**|**Enhancing Insider Threat Detection Using User-Based Sequencing and Transformer Encoders**|Mohamed Elbasheer et.al.|[2506.23446v1](http://arxiv.org/abs/2506.23446v1)|null|
-|**2025-06-29**|**A Practical and Secure Byzantine Robust Aggregator**|De Zhang Lee et.al.|[2506.23183v1](http://arxiv.org/abs/2506.23183v1)|null|
-|**2025-06-29**|**MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation**|Vladislav Bargatin et.al.|[2506.23151v1](http://arxiv.org/abs/2506.23151v1)|null|
-|**2025-06-28**|**Kernel Outlier Detection**|Can Hakan Dağıdır et.al.|[2506.22994v1](http://arxiv.org/abs/2506.22994v1)|null|
-|**2025-06-28**|**FuzzCoh: Robust Canonical Coherence-Based Fuzzy Clustering of Multivariate Time Series**|Ziling Ma et.al.|[2506.22861v1](http://arxiv.org/abs/2506.22861v1)|null|
-|**2025-06-27**|**A Self-scaled Approximate $\ell_0$ Regularization Robust Model for Outlier Detection**|Pengyang Song et.al.|[2506.22277v1](http://arxiv.org/abs/2506.22277v1)|null|
-|**2025-06-26**|**CANUCS/Technicolor Data Release 1: Imaging, Photometry, Slit Spectroscopy, and Stellar Population Parameters**|Ghassan T. E. Sarrouh et.al.|[2506.21685v1](http://arxiv.org/abs/2506.21685v1)|null|
-|**2025-06-26**|**Robust Alignment via Partial Gromov-Wasserstein Distances**|Xiaoyun Gong et.al.|[2506.21507v1](http://arxiv.org/abs/2506.21507v1)|null|
-|**2025-06-26**|**Efficient parameter-robust preconditioners for linear poroelasticity and elasticity in the primal formulation**|Weizhang Huang et.al.|[2506.21361v1](http://arxiv.org/abs/2506.21361v1)|null|
-|**2025-06-26**|**Kac-Rice inspired approach to non-Hermitian random matrices**|Yan V Fyodorov et.al.|[2506.21058v1](http://arxiv.org/abs/2506.21058v1)|null|
-|**2025-06-25**|**Model-Based Real-Time Pose and Sag Estimation of Overhead Power Lines Using LiDAR for Drone Inspection**|Alexandre Girard et.al.|[2506.20812v1](http://arxiv.org/abs/2506.20812v1)|null|
-|**2025-06-25**|**On Convolutions, Intrinsic Dimension, and Diffusion Models**|Kin Kwan Leung et.al.|[2506.20705v1](http://arxiv.org/abs/2506.20705v1)|null|
-|**2025-06-25**|**Inference for Error-Prone Count Data: Estimation under a Binomial Convolution Framework**|Yuqiu Yang et.al.|[2506.20596v1](http://arxiv.org/abs/2506.20596v1)|null|
-|**2025-06-25**|**Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds**|Xiang Lan et.al.|[2506.20444v1](http://arxiv.org/abs/2506.20444v1)|null|
-|**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697v1](http://arxiv.org/abs/2506.19697v1)|null|
-|**2025-06-24**|**Automated Image Recognition Framework**|Quang-Binh Nguyen et.al.|[2506.19261v1](http://arxiv.org/abs/2506.19261v1)|null|
-|**2025-06-23**|**Robust Anomaly Detection in Network Traffic: Evaluating Machine Learning Models on CICIDS2017**|Zhaoyang Xu et.al.|[2506.19877v1](http://arxiv.org/abs/2506.19877v1)|null|
-|**2025-06-23**|**PuckTrick: A Library for Making Synthetic Data More Realistic**|Alessandra Agostini et.al.|[2506.18499v1](http://arxiv.org/abs/2506.18499v1)|null|
-|**2025-06-22**|**Multivariate Statistical Analysis of Exoplanet Habitability: Detection Bias and Earth Analog Identification**|Caleb Traxler et.al.|[2506.18200v1](http://arxiv.org/abs/2506.18200v1)|null|
-|**2025-06-22**|**PP-DocBee2: Improved Baselines with Efficient Data for Multimodal Document Understanding**|Kui Huang et.al.|[2506.18023v2](http://arxiv.org/abs/2506.18023v2)|null|
-|**2025-06-21**|**The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages**|Samuel Oluwafemi Adebayo et.al.|[2506.17821v1](http://arxiv.org/abs/2506.17821v1)|null|
-|**2025-06-21**|**Adaptive Multi-prompt Contrastive Network for Few-shot Out-of-distribution Detection**|Xiang Fang et.al.|[2506.17633v1](http://arxiv.org/abs/2506.17633v1)|null|
-|**2025-06-20**|**Spatial-Temporal Pre-Training for Embryo Viability Prediction Using Time-Lapse Videos**|Zhiyi Shi et.al.|[2506.17403v1](http://arxiv.org/abs/2506.17403v1)|null|
-|**2025-06-20**|**Facial Landmark Visualization and Emotion Recognition Through Neural Networks**|Israel Juárez-Jiménez et.al.|[2506.17191v1](http://arxiv.org/abs/2506.17191v1)|null|
-|**2025-06-20**|**Identifying Anomalous DESI Galaxy Spectra with a Variational Autoencoder**|C. Nicolaou et.al.|[2506.17376v1](http://arxiv.org/abs/2506.17376v1)|null|
-|**2025-06-19**|**Semantic Outlier Removal with Embedding Models and LLMs**|Eren Akbiyik et.al.|[2506.16644v1](http://arxiv.org/abs/2506.16644v1)|null|
-|**2025-06-19**|**SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning**|Likhitha Annapurna Kavuri et.al.|[2506.16458v1](http://arxiv.org/abs/2506.16458v1)|null|
-|**2025-06-19**|**On Continuous Monitoring of Risk Violations under Unknown Shift**|Alexander Timans et.al.|[2506.16416v1](http://arxiv.org/abs/2506.16416v1)|[link](https://github.com/alextimans/risk-monitor)|
-|**2025-06-19**|**Microstates : Do the outliers worth**|Olivier Sire et.al.|[2506.16080v1](http://arxiv.org/abs/2506.16080v1)|null|
-
 ### NIDS
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -116,3 +82,37 @@
 |**2025-06-30**|**MadCLIP: Few-shot Medical Anomaly Detection with CLIP**|Mahshid Shiri et.al.|[2506.23810v1](http://arxiv.org/abs/2506.23810v1)|null|
 |**2025-06-30**|**Polarization Probes of New Physics in Lepton-Flavor-Violating Hyperon Production from $e^- N \to τ^- Y$ Scattering**|Xin-Shuai Yan et.al.|[2506.23804v1](http://arxiv.org/abs/2506.23804v1)|null|
 |**2025-06-30**|**Adaptive Out-of-Control Point Pattern Detection in Sequential Random Finite Set Observations**|Konstantinos Bourazas et.al.|[2506.23802v1](http://arxiv.org/abs/2506.23802v1)|null|
+
+### Outlier
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-30**|**Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves**|A. Kaushal et.al.|[2506.23681v1](http://arxiv.org/abs/2506.23681v1)|null|
+|**2025-06-30**|**Enhancing Insider Threat Detection Using User-Based Sequencing and Transformer Encoders**|Mohamed Elbasheer et.al.|[2506.23446v1](http://arxiv.org/abs/2506.23446v1)|null|
+|**2025-06-29**|**A Practical and Secure Byzantine Robust Aggregator**|De Zhang Lee et.al.|[2506.23183v1](http://arxiv.org/abs/2506.23183v1)|null|
+|**2025-06-29**|**MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation**|Vladislav Bargatin et.al.|[2506.23151v1](http://arxiv.org/abs/2506.23151v1)|null|
+|**2025-06-28**|**Kernel Outlier Detection**|Can Hakan Dağıdır et.al.|[2506.22994v1](http://arxiv.org/abs/2506.22994v1)|null|
+|**2025-06-28**|**FuzzCoh: Robust Canonical Coherence-Based Fuzzy Clustering of Multivariate Time Series**|Ziling Ma et.al.|[2506.22861v1](http://arxiv.org/abs/2506.22861v1)|null|
+|**2025-06-27**|**A Self-scaled Approximate $\ell_0$ Regularization Robust Model for Outlier Detection**|Pengyang Song et.al.|[2506.22277v1](http://arxiv.org/abs/2506.22277v1)|null|
+|**2025-06-26**|**CANUCS/Technicolor Data Release 1: Imaging, Photometry, Slit Spectroscopy, and Stellar Population Parameters**|Ghassan T. E. Sarrouh et.al.|[2506.21685v1](http://arxiv.org/abs/2506.21685v1)|null|
+|**2025-06-26**|**Robust Alignment via Partial Gromov-Wasserstein Distances**|Xiaoyun Gong et.al.|[2506.21507v1](http://arxiv.org/abs/2506.21507v1)|null|
+|**2025-06-26**|**Efficient parameter-robust preconditioners for linear poroelasticity and elasticity in the primal formulation**|Weizhang Huang et.al.|[2506.21361v1](http://arxiv.org/abs/2506.21361v1)|null|
+|**2025-06-26**|**Kac-Rice inspired approach to non-Hermitian random matrices**|Yan V Fyodorov et.al.|[2506.21058v1](http://arxiv.org/abs/2506.21058v1)|null|
+|**2025-06-25**|**Model-Based Real-Time Pose and Sag Estimation of Overhead Power Lines Using LiDAR for Drone Inspection**|Alexandre Girard et.al.|[2506.20812v1](http://arxiv.org/abs/2506.20812v1)|null|
+|**2025-06-25**|**On Convolutions, Intrinsic Dimension, and Diffusion Models**|Kin Kwan Leung et.al.|[2506.20705v1](http://arxiv.org/abs/2506.20705v1)|null|
+|**2025-06-25**|**Inference for Error-Prone Count Data: Estimation under a Binomial Convolution Framework**|Yuqiu Yang et.al.|[2506.20596v1](http://arxiv.org/abs/2506.20596v1)|null|
+|**2025-06-25**|**Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds**|Xiang Lan et.al.|[2506.20444v1](http://arxiv.org/abs/2506.20444v1)|null|
+|**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697v1](http://arxiv.org/abs/2506.19697v1)|null|
+|**2025-06-24**|**Automated Image Recognition Framework**|Quang-Binh Nguyen et.al.|[2506.19261v1](http://arxiv.org/abs/2506.19261v1)|null|
+|**2025-06-23**|**Robust Anomaly Detection in Network Traffic: Evaluating Machine Learning Models on CICIDS2017**|Zhaoyang Xu et.al.|[2506.19877v1](http://arxiv.org/abs/2506.19877v1)|null|
+|**2025-06-23**|**PuckTrick: A Library for Making Synthetic Data More Realistic**|Alessandra Agostini et.al.|[2506.18499v1](http://arxiv.org/abs/2506.18499v1)|null|
+|**2025-06-22**|**Multivariate Statistical Analysis of Exoplanet Habitability: Detection Bias and Earth Analog Identification**|Caleb Traxler et.al.|[2506.18200v1](http://arxiv.org/abs/2506.18200v1)|null|
+|**2025-06-22**|**PP-DocBee2: Improved Baselines with Efficient Data for Multimodal Document Understanding**|Kui Huang et.al.|[2506.18023v2](http://arxiv.org/abs/2506.18023v2)|null|
+|**2025-06-21**|**The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages**|Samuel Oluwafemi Adebayo et.al.|[2506.17821v1](http://arxiv.org/abs/2506.17821v1)|null|
+|**2025-06-21**|**Adaptive Multi-prompt Contrastive Network for Few-shot Out-of-distribution Detection**|Xiang Fang et.al.|[2506.17633v1](http://arxiv.org/abs/2506.17633v1)|null|
+|**2025-06-20**|**Spatial-Temporal Pre-Training for Embryo Viability Prediction Using Time-Lapse Videos**|Zhiyi Shi et.al.|[2506.17403v1](http://arxiv.org/abs/2506.17403v1)|null|
+|**2025-06-20**|**Facial Landmark Visualization and Emotion Recognition Through Neural Networks**|Israel Juárez-Jiménez et.al.|[2506.17191v1](http://arxiv.org/abs/2506.17191v1)|null|
+|**2025-06-20**|**Identifying Anomalous DESI Galaxy Spectra with a Variational Autoencoder**|C. Nicolaou et.al.|[2506.17376v1](http://arxiv.org/abs/2506.17376v1)|null|
+|**2025-06-19**|**Semantic Outlier Removal with Embedding Models and LLMs**|Eren Akbiyik et.al.|[2506.16644v1](http://arxiv.org/abs/2506.16644v1)|null|
+|**2025-06-19**|**SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning**|Likhitha Annapurna Kavuri et.al.|[2506.16458v1](http://arxiv.org/abs/2506.16458v1)|null|
+|**2025-06-19**|**On Continuous Monitoring of Risk Violations under Unknown Shift**|Alexander Timans et.al.|[2506.16416v1](http://arxiv.org/abs/2506.16416v1)|[link](https://github.com/alextimans/risk-monitor)|
+|**2025-06-19**|**Microstates : Do the outliers worth**|Olivier Sire et.al.|[2506.16080v1](http://arxiv.org/abs/2506.16080v1)|null|
