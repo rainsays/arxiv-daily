@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-02 10:20:20 Asia/Shanghai
+ Automated deployment @ 2025-07-02 20:59:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,40 +14,6 @@
 |**2024-12-07**|**Enhancing Webshell Detection With Deep Learning-Powered Methods**|Ha L. Viet et.al.|[2412.05532v1](http://arxiv.org/abs/2412.05532v1)|null|
 |**2024-04-28**|**Research and application of artificial intelligence based webshell detection model: A literature review**|Mingrui Ma et.al.|[2405.00066v1](http://arxiv.org/abs/2405.00066v1)|null|
 |**2024-02-12**|**Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples**|Mingrui Ma et.al.|[2402.07408v2](http://arxiv.org/abs/2402.07408v2)|[link](https://github.com/hybridprompt/hybrid-prompt-demo)|
-
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-30**|**Intertextual Parallel Detection in Biblical Hebrew: A Transformer-Based Benchmark**|David M. Smiley et.al.|[2506.24117v2](http://arxiv.org/abs/2506.24117v2)|null|
-|**2025-06-30**|**SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks**|Rahul Kumar et.al.|[2506.24081v1](http://arxiv.org/abs/2506.24081v1)|null|
-|**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063v1](http://arxiv.org/abs/2506.24063v1)|null|
-|**2025-06-30**|**Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space**|Guangyuan Weng et.al.|[2506.24061v1](http://arxiv.org/abs/2506.24061v1)|null|
-|**2025-06-30**|**Dynamical Heterogeneity in Supercooled Water and its Spectroscopic Fingerprints**|Cesare Malosso et.al.|[2506.24055v1](http://arxiv.org/abs/2506.24055v1)|null|
-|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|null|
-|**2025-06-30**|**Quickest Detection of Adversarial Attacks Against Correlated Equilibria**|Kiarash Kazari et.al.|[2506.24040v1](http://arxiv.org/abs/2506.24040v1)|null|
-|**2025-06-30**|**The Gröbner basis for powers of a general linear form in a monomial complete intersection**|Filip Jonsson Kling et.al.|[2506.24028v1](http://arxiv.org/abs/2506.24028v1)|null|
-|**2025-06-30**|**Cosmic Axions Revealed via Amplified Modulation of Ellipticity of Laser (CARAMEL)**|Hooman Davoudiasl et.al.|[2506.24022v1](http://arxiv.org/abs/2506.24022v1)|null|
-|**2025-06-30**|**CoMMiT: Co-informed inference of microbiome-metabolome interactions via transfer learning**|Leiyue Li et.al.|[2506.24013v1](http://arxiv.org/abs/2506.24013v1)|null|
-|**2025-06-30**|**A planet-host ratio relation to synthesize microlensing and transiting exoplanet demography from Roman**|Kathryn Edmondson et.al.|[2506.24004v1](http://arxiv.org/abs/2506.24004v1)|null|
-|**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000v1](http://arxiv.org/abs/2506.24000v1)|null|
-|**2025-06-30**|**STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2506.23995v1](http://arxiv.org/abs/2506.23995v1)|null|
-|**2025-06-30**|**Machine Understanding of Scientific Language**|Dustin Wright et.al.|[2506.23990v1](http://arxiv.org/abs/2506.23990v1)|null|
-|**2025-06-30**|**Deconstructing the Origins of Interfacial Catalysis: Why Electric Fields are Inseparable from Solvation**|Solana Di Pino et.al.|[2506.23988v1](http://arxiv.org/abs/2506.23988v1)|null|
-|**2025-06-30**|**Vortex Detection from Quantum Data**|Chelsea A. Williams et.al.|[2506.23976v1](http://arxiv.org/abs/2506.23976v1)|null|
-|**2025-06-30**|**Learning Constraints Directly from Network Data**|Hongyu Hè et.al.|[2506.23964v1](http://arxiv.org/abs/2506.23964v1)|null|
-|**2025-06-30**|**Variability-finding in Rubin Data Preview 1 with LSDB**|Konstantin Malanchev et.al.|[2506.23955v1](http://arxiv.org/abs/2506.23955v1)|null|
-|**2025-06-30**|**Structural Origins and Real-Time Drivers of Intermittency**|Alessandro Barone et.al.|[2506.23941v1](http://arxiv.org/abs/2506.23941v1)|null|
-|**2025-06-30**|**Sagittarius A* near-infrared flares polarization as a probe of space-time I: Non-rotating exotic compact objects**|Nicolas Aimar et.al.|[2506.23931v1](http://arxiv.org/abs/2506.23931v1)|null|
-|**2025-06-30**|**Leveraging the Potential of Prompt Engineering for Hate Speech Detection in Low-Resource Languages**|Ruhina Tabasshum Prome et.al.|[2506.23930v1](http://arxiv.org/abs/2506.23930v1)|null|
-|**2025-06-30**|**A possible two-fold scenario for the disc-corona of the luminous AGN 1H 0419--577: a high-density disc or a warm corona**|Delphine Porquet et.al.|[2506.23920v1](http://arxiv.org/abs/2506.23920v1)|null|
-|**2025-06-30**|**RawMal-TF: Raw Malware Dataset Labeled by Type and Family**|David Bálik et.al.|[2506.23909v1](http://arxiv.org/abs/2506.23909v1)|null|
-|**2025-06-30**|**Advancing Multi-Step Mathematical Reasoning in Large Language Models through Multi-Layered Self-Reflection with Auto-Prompting**|André de Souza Loureiro et.al.|[2506.23888v1](http://arxiv.org/abs/2506.23888v1)|null|
-|**2025-06-30**|**Modeling blazar broadband emission with convolutional neural networks -- III. proton synchrotron and hybrid models**|N. Sahakyan et.al.|[2506.23885v1](http://arxiv.org/abs/2506.23885v1)|null|
-|**2025-06-30**|**Spurious-Aware Prototype Refinement for Reliable Out-of-Distribution Detection**|Reihaneh Zohrabi et.al.|[2506.23881v1](http://arxiv.org/abs/2506.23881v1)|null|
-|**2025-06-30**|**Breaking Out from the TESSERACT: Reassessing ML-based Malware Detection under Spatio-Temporal Drift**|Theo Chow et.al.|[2506.23814v1](http://arxiv.org/abs/2506.23814v1)|null|
-|**2025-06-30**|**MadCLIP: Few-shot Medical Anomaly Detection with CLIP**|Mahshid Shiri et.al.|[2506.23810v1](http://arxiv.org/abs/2506.23810v1)|null|
-|**2025-06-30**|**Polarization Probes of New Physics in Lepton-Flavor-Violating Hyperon Production from $e^- N \to τ^- Y$ Scattering**|Xin-Shuai Yan et.al.|[2506.23804v1](http://arxiv.org/abs/2506.23804v1)|null|
-|**2025-06-30**|**Adaptive Out-of-Control Point Pattern Detection in Sequential Random Finite Set Observations**|Konstantinos Bourazas et.al.|[2506.23802v1](http://arxiv.org/abs/2506.23802v1)|null|
 
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
@@ -82,6 +48,40 @@
 |**2025-06-30**|**Canonical partial ordering from min-cuts and quantum entanglement in random tensor networks**|Miao Hu et.al.|[2506.23894v1](http://arxiv.org/abs/2506.23894v1)|null|
 |**2025-06-30**|**Modeling blazar broadband emission with convolutional neural networks -- III. proton synchrotron and hybrid models**|N. Sahakyan et.al.|[2506.23885v1](http://arxiv.org/abs/2506.23885v1)|null|
 |**2025-06-30**|**URGENT-PK: Perceptually-Aligned Ranking Model Designed for Speech Enhancement Competition**|Jiahe Wang et.al.|[2506.23874v1](http://arxiv.org/abs/2506.23874v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-30**|**Intertextual Parallel Detection in Biblical Hebrew: A Transformer-Based Benchmark**|David M. Smiley et.al.|[2506.24117v2](http://arxiv.org/abs/2506.24117v2)|null|
+|**2025-06-30**|**SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks**|Rahul Kumar et.al.|[2506.24081v1](http://arxiv.org/abs/2506.24081v1)|null|
+|**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063v1](http://arxiv.org/abs/2506.24063v1)|null|
+|**2025-06-30**|**Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space**|Guangyuan Weng et.al.|[2506.24061v1](http://arxiv.org/abs/2506.24061v1)|null|
+|**2025-06-30**|**Dynamical Heterogeneity in Supercooled Water and its Spectroscopic Fingerprints**|Cesare Malosso et.al.|[2506.24055v1](http://arxiv.org/abs/2506.24055v1)|null|
+|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|null|
+|**2025-06-30**|**Quickest Detection of Adversarial Attacks Against Correlated Equilibria**|Kiarash Kazari et.al.|[2506.24040v1](http://arxiv.org/abs/2506.24040v1)|null|
+|**2025-06-30**|**The Gröbner basis for powers of a general linear form in a monomial complete intersection**|Filip Jonsson Kling et.al.|[2506.24028v1](http://arxiv.org/abs/2506.24028v1)|null|
+|**2025-06-30**|**Cosmic Axions Revealed via Amplified Modulation of Ellipticity of Laser (CARAMEL)**|Hooman Davoudiasl et.al.|[2506.24022v1](http://arxiv.org/abs/2506.24022v1)|null|
+|**2025-06-30**|**CoMMiT: Co-informed inference of microbiome-metabolome interactions via transfer learning**|Leiyue Li et.al.|[2506.24013v1](http://arxiv.org/abs/2506.24013v1)|null|
+|**2025-06-30**|**A planet-host ratio relation to synthesize microlensing and transiting exoplanet demography from Roman**|Kathryn Edmondson et.al.|[2506.24004v1](http://arxiv.org/abs/2506.24004v1)|null|
+|**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000v1](http://arxiv.org/abs/2506.24000v1)|null|
+|**2025-06-30**|**STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2506.23995v1](http://arxiv.org/abs/2506.23995v1)|null|
+|**2025-06-30**|**Machine Understanding of Scientific Language**|Dustin Wright et.al.|[2506.23990v1](http://arxiv.org/abs/2506.23990v1)|null|
+|**2025-06-30**|**Deconstructing the Origins of Interfacial Catalysis: Why Electric Fields are Inseparable from Solvation**|Solana Di Pino et.al.|[2506.23988v1](http://arxiv.org/abs/2506.23988v1)|null|
+|**2025-06-30**|**Vortex Detection from Quantum Data**|Chelsea A. Williams et.al.|[2506.23976v1](http://arxiv.org/abs/2506.23976v1)|null|
+|**2025-06-30**|**Learning Constraints Directly from Network Data**|Hongyu Hè et.al.|[2506.23964v1](http://arxiv.org/abs/2506.23964v1)|null|
+|**2025-06-30**|**Variability-finding in Rubin Data Preview 1 with LSDB**|Konstantin Malanchev et.al.|[2506.23955v1](http://arxiv.org/abs/2506.23955v1)|null|
+|**2025-06-30**|**Structural Origins and Real-Time Drivers of Intermittency**|Alessandro Barone et.al.|[2506.23941v1](http://arxiv.org/abs/2506.23941v1)|null|
+|**2025-06-30**|**Sagittarius A* near-infrared flares polarization as a probe of space-time I: Non-rotating exotic compact objects**|Nicolas Aimar et.al.|[2506.23931v1](http://arxiv.org/abs/2506.23931v1)|null|
+|**2025-06-30**|**Leveraging the Potential of Prompt Engineering for Hate Speech Detection in Low-Resource Languages**|Ruhina Tabasshum Prome et.al.|[2506.23930v1](http://arxiv.org/abs/2506.23930v1)|null|
+|**2025-06-30**|**A possible two-fold scenario for the disc-corona of the luminous AGN 1H 0419--577: a high-density disc or a warm corona**|Delphine Porquet et.al.|[2506.23920v1](http://arxiv.org/abs/2506.23920v1)|null|
+|**2025-06-30**|**RawMal-TF: Raw Malware Dataset Labeled by Type and Family**|David Bálik et.al.|[2506.23909v1](http://arxiv.org/abs/2506.23909v1)|null|
+|**2025-06-30**|**Advancing Multi-Step Mathematical Reasoning in Large Language Models through Multi-Layered Self-Reflection with Auto-Prompting**|André de Souza Loureiro et.al.|[2506.23888v1](http://arxiv.org/abs/2506.23888v1)|null|
+|**2025-06-30**|**Modeling blazar broadband emission with convolutional neural networks -- III. proton synchrotron and hybrid models**|N. Sahakyan et.al.|[2506.23885v1](http://arxiv.org/abs/2506.23885v1)|null|
+|**2025-06-30**|**Spurious-Aware Prototype Refinement for Reliable Out-of-Distribution Detection**|Reihaneh Zohrabi et.al.|[2506.23881v1](http://arxiv.org/abs/2506.23881v1)|null|
+|**2025-06-30**|**Breaking Out from the TESSERACT: Reassessing ML-based Malware Detection under Spatio-Temporal Drift**|Theo Chow et.al.|[2506.23814v1](http://arxiv.org/abs/2506.23814v1)|null|
+|**2025-06-30**|**MadCLIP: Few-shot Medical Anomaly Detection with CLIP**|Mahshid Shiri et.al.|[2506.23810v1](http://arxiv.org/abs/2506.23810v1)|null|
+|**2025-06-30**|**Polarization Probes of New Physics in Lepton-Flavor-Violating Hyperon Production from $e^- N \to τ^- Y$ Scattering**|Xin-Shuai Yan et.al.|[2506.23804v1](http://arxiv.org/abs/2506.23804v1)|null|
+|**2025-06-30**|**Adaptive Out-of-Control Point Pattern Detection in Sequential Random Finite Set Observations**|Konstantinos Bourazas et.al.|[2506.23802v1](http://arxiv.org/abs/2506.23802v1)|null|
 
 ### Outlier
 |Publish Date|Title|Authors|PDF|Code|
