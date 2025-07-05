@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-05 10:16:14 Asia/Shanghai
+ Automated deployment @ 2025-07-05 20:54:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -49,40 +49,6 @@
 |**2025-06-23**|**PuckTrick: A Library for Making Synthetic Data More Realistic**|Alessandra Agostini et.al.|[2506.18499v1](http://arxiv.org/abs/2506.18499v1)|null|
 |**2025-06-22**|**Multivariate Statistical Analysis of Exoplanet Habitability: Detection Bias and Earth Analog Identification**|Caleb Traxler et.al.|[2506.18200v1](http://arxiv.org/abs/2506.18200v1)|null|
 
-### NIDS
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835v1](http://arxiv.org/abs/2507.02835v1)|null|
-|**2025-07-03**|**A Highly Carbon-Rich Dayside and Disequilibrium Chemistry in the Ultra-Hot Jupiter WASP-19b**|Suman Saha et.al.|[2507.02797v1](http://arxiv.org/abs/2507.02797v1)|null|
-|**2025-07-03**|**From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**|Xiangfeng Wang et.al.|[2507.02790v1](http://arxiv.org/abs/2507.02790v1)|null|
-|**2025-07-03**|**New components of Hilbert schemes of points and 2-step ideals**|Franco Giovenzana et.al.|[2507.02789v1](http://arxiv.org/abs/2507.02789v1)|null|
-|**2025-07-03**|**Advanced techniques of searching for flares of ultra-high-energy photons from point sources**|Jaroslaw Stasielak et.al.|[2507.02777v1](http://arxiv.org/abs/2507.02777v1)|null|
-|**2025-07-03**|**Connected k-Median with Disjoint and Non-disjoint Clusters**|Jan Eube et.al.|[2507.02774v1](http://arxiv.org/abs/2507.02774v1)|null|
-|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v1](http://arxiv.org/abs/2507.02773v1)|null|
-|**2025-07-03**|**A Leptonic Interpretation of the UHE Gamma-ray Emission from V4641 Sgr**|Su-Yu Wan et.al.|[2507.02763v1](http://arxiv.org/abs/2507.02763v1)|null|
-|**2025-07-03**|**Multi-agent Auditory Scene Analysis**|Caleb Rascon et.al.|[2507.02755v1](http://arxiv.org/abs/2507.02755v1)|null|
-|**2025-07-03**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al.|[2507.02751v1](http://arxiv.org/abs/2507.02751v1)|null|
-|**2025-07-03**|**On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**|Alena Khokhriakova et.al.|[2507.02750v1](http://arxiv.org/abs/2507.02750v1)|null|
-|**2025-07-03**|**$\textit{Twisted echoes of an odd quartet}$: Scalar-induced gravitational waves as a probe of primordial parity-violation**|H. V. Ragavendra et.al.|[2507.02733v1](http://arxiv.org/abs/2507.02733v1)|null|
-|**2025-07-03**|**RIS-Aided Cooperative ISAC Networks for Structural Health Monitoring**|Jie Yang et.al.|[2507.02731v1](http://arxiv.org/abs/2507.02731v1)|null|
-|**2025-07-03**|**A Systematic Search for Spectral Hardening in Blazar Flares with the Fermi-Large Area Telescope**|Adithiya Dinesh et.al.|[2507.02718v1](http://arxiv.org/abs/2507.02718v1)|null|
-|**2025-07-03**|**A Note on Chaos in Hayward Black Holes with String Fluids**|Aditya Singh et.al.|[2507.02716v1](http://arxiv.org/abs/2507.02716v1)|null|
-|**2025-07-03**|**The ESO SupJup Survey VIII. Chemical fingerprints of young L dwarf twins**|N. Grasser et.al.|[2507.02706v1](http://arxiv.org/abs/2507.02706v1)|null|
-|**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687v1](http://arxiv.org/abs/2507.02687v1)|null|
-|**2025-07-03**|**Detection of Disengagement from Voluntary Quizzes: An Explainable Machine Learning Approach in Higher Distance Education**|Behnam Parsaeifard et.al.|[2507.02681v1](http://arxiv.org/abs/2507.02681v1)|null|
-|**2025-07-03**|**MEGANet-W: A Wavelet-Driven Edge-Guided Attention Framework for Weak Boundary Polyp Detection**|Zhe Yee Tan et.al.|[2507.02668v1](http://arxiv.org/abs/2507.02668v1)|null|
-|**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664v1](http://arxiv.org/abs/2507.02664v1)|null|
-|**2025-07-03**|**Breaking the HBM Bit Cost Barrier: Domain-Specific ECC for AI Inference Infrastructure**|Rui Xie et.al.|[2507.02654v1](http://arxiv.org/abs/2507.02654v1)|null|
-|**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645v1](http://arxiv.org/abs/2507.02645v1)|null|
-|**2025-07-03**|**Optimal boron-doped graphene substrate for glucose Raman signal enhancement**|Jan Komeda et.al.|[2507.02642v1](http://arxiv.org/abs/2507.02642v1)|null|
-|**2025-07-03**|**Pinching-Antenna-Assisted Index Modulation: Channel Modeling, Transceiver Design, and Performance Analysis**|Shuaixin Yang et.al.|[2507.02641v1](http://arxiv.org/abs/2507.02641v1)|null|
-|**2025-07-03**|**SAT-BO: Verification Rule Learning and Optimization for FraudTransaction Detection**|Mao Luo et.al.|[2507.02635v1](http://arxiv.org/abs/2507.02635v1)|null|
-|**2025-07-03**|**MULTI-SCOUT: Multistatic Integrated Sensing and Communications in 5G and Beyond for Moving Target Detection, Positioning, and Tracking**|Yalin E. Sagduyu et.al.|[2507.02613v1](http://arxiv.org/abs/2507.02613v1)|null|
-|**2025-07-03**|**Alleviating Attack Data Scarcity: SCANIA's Experience Towards Enhancing In-Vehicle Cyber Security Measures**|Frida Sundfeldt et.al.|[2507.02607v1](http://arxiv.org/abs/2507.02607v1)|null|
-|**2025-07-03**|**PhenomXPNR: An improved gravitational wave model linking precessing inspirals and NR-calibrated merger-ringdown**|Eleanor Hamilton et.al.|[2507.02604v1](http://arxiv.org/abs/2507.02604v1)|null|
-|**2025-07-03**|**Addressing Camera Sensors Faults in Vision-Based Navigation: Simulation and Dataset Development**|Riccardo Gallon et.al.|[2507.02602v1](http://arxiv.org/abs/2507.02602v1)|null|
-|**2025-07-03**|**LHC and dark matter implications of t-b-τ Yukawa unification in split SUSY GUTs**|Mureed Hussain et.al.|[2507.02566v1](http://arxiv.org/abs/2507.02566v1)|null|
-
 ### Traffic
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -116,3 +82,37 @@
 |**2025-07-03**|**Statistical mechanics of vector Hopfield network near and above saturation**|Flavio Nicoletti et.al.|[2507.02586v1](http://arxiv.org/abs/2507.02586v1)|null|
 |**2025-07-03**|**Scalable Interconnect Learning in Boolean Networks**|Fabian Kresse et.al.|[2507.02585v1](http://arxiv.org/abs/2507.02585v1)|null|
 |**2025-07-03**|**A unifying approach to self-organizing systems interacting via conservation laws**|Frank Barrows et.al.|[2507.02575v1](http://arxiv.org/abs/2507.02575v1)|null|
+
+### NIDS
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835v1](http://arxiv.org/abs/2507.02835v1)|null|
+|**2025-07-03**|**A Highly Carbon-Rich Dayside and Disequilibrium Chemistry in the Ultra-Hot Jupiter WASP-19b**|Suman Saha et.al.|[2507.02797v1](http://arxiv.org/abs/2507.02797v1)|null|
+|**2025-07-03**|**From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**|Xiangfeng Wang et.al.|[2507.02790v1](http://arxiv.org/abs/2507.02790v1)|null|
+|**2025-07-03**|**New components of Hilbert schemes of points and 2-step ideals**|Franco Giovenzana et.al.|[2507.02789v1](http://arxiv.org/abs/2507.02789v1)|null|
+|**2025-07-03**|**Advanced techniques of searching for flares of ultra-high-energy photons from point sources**|Jaroslaw Stasielak et.al.|[2507.02777v1](http://arxiv.org/abs/2507.02777v1)|null|
+|**2025-07-03**|**Connected k-Median with Disjoint and Non-disjoint Clusters**|Jan Eube et.al.|[2507.02774v1](http://arxiv.org/abs/2507.02774v1)|null|
+|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v1](http://arxiv.org/abs/2507.02773v1)|null|
+|**2025-07-03**|**A Leptonic Interpretation of the UHE Gamma-ray Emission from V4641 Sgr**|Su-Yu Wan et.al.|[2507.02763v1](http://arxiv.org/abs/2507.02763v1)|null|
+|**2025-07-03**|**Multi-agent Auditory Scene Analysis**|Caleb Rascon et.al.|[2507.02755v1](http://arxiv.org/abs/2507.02755v1)|null|
+|**2025-07-03**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al.|[2507.02751v1](http://arxiv.org/abs/2507.02751v1)|null|
+|**2025-07-03**|**On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**|Alena Khokhriakova et.al.|[2507.02750v1](http://arxiv.org/abs/2507.02750v1)|null|
+|**2025-07-03**|**$\textit{Twisted echoes of an odd quartet}$: Scalar-induced gravitational waves as a probe of primordial parity-violation**|H. V. Ragavendra et.al.|[2507.02733v1](http://arxiv.org/abs/2507.02733v1)|null|
+|**2025-07-03**|**RIS-Aided Cooperative ISAC Networks for Structural Health Monitoring**|Jie Yang et.al.|[2507.02731v1](http://arxiv.org/abs/2507.02731v1)|null|
+|**2025-07-03**|**A Systematic Search for Spectral Hardening in Blazar Flares with the Fermi-Large Area Telescope**|Adithiya Dinesh et.al.|[2507.02718v1](http://arxiv.org/abs/2507.02718v1)|null|
+|**2025-07-03**|**A Note on Chaos in Hayward Black Holes with String Fluids**|Aditya Singh et.al.|[2507.02716v1](http://arxiv.org/abs/2507.02716v1)|null|
+|**2025-07-03**|**The ESO SupJup Survey VIII. Chemical fingerprints of young L dwarf twins**|N. Grasser et.al.|[2507.02706v1](http://arxiv.org/abs/2507.02706v1)|null|
+|**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687v1](http://arxiv.org/abs/2507.02687v1)|null|
+|**2025-07-03**|**Detection of Disengagement from Voluntary Quizzes: An Explainable Machine Learning Approach in Higher Distance Education**|Behnam Parsaeifard et.al.|[2507.02681v1](http://arxiv.org/abs/2507.02681v1)|null|
+|**2025-07-03**|**MEGANet-W: A Wavelet-Driven Edge-Guided Attention Framework for Weak Boundary Polyp Detection**|Zhe Yee Tan et.al.|[2507.02668v1](http://arxiv.org/abs/2507.02668v1)|null|
+|**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664v1](http://arxiv.org/abs/2507.02664v1)|null|
+|**2025-07-03**|**Breaking the HBM Bit Cost Barrier: Domain-Specific ECC for AI Inference Infrastructure**|Rui Xie et.al.|[2507.02654v1](http://arxiv.org/abs/2507.02654v1)|null|
+|**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645v1](http://arxiv.org/abs/2507.02645v1)|null|
+|**2025-07-03**|**Optimal boron-doped graphene substrate for glucose Raman signal enhancement**|Jan Komeda et.al.|[2507.02642v1](http://arxiv.org/abs/2507.02642v1)|null|
+|**2025-07-03**|**Pinching-Antenna-Assisted Index Modulation: Channel Modeling, Transceiver Design, and Performance Analysis**|Shuaixin Yang et.al.|[2507.02641v1](http://arxiv.org/abs/2507.02641v1)|null|
+|**2025-07-03**|**SAT-BO: Verification Rule Learning and Optimization for FraudTransaction Detection**|Mao Luo et.al.|[2507.02635v1](http://arxiv.org/abs/2507.02635v1)|null|
+|**2025-07-03**|**MULTI-SCOUT: Multistatic Integrated Sensing and Communications in 5G and Beyond for Moving Target Detection, Positioning, and Tracking**|Yalin E. Sagduyu et.al.|[2507.02613v1](http://arxiv.org/abs/2507.02613v1)|null|
+|**2025-07-03**|**Alleviating Attack Data Scarcity: SCANIA's Experience Towards Enhancing In-Vehicle Cyber Security Measures**|Frida Sundfeldt et.al.|[2507.02607v1](http://arxiv.org/abs/2507.02607v1)|null|
+|**2025-07-03**|**PhenomXPNR: An improved gravitational wave model linking precessing inspirals and NR-calibrated merger-ringdown**|Eleanor Hamilton et.al.|[2507.02604v1](http://arxiv.org/abs/2507.02604v1)|null|
+|**2025-07-03**|**Addressing Camera Sensors Faults in Vision-Based Navigation: Simulation and Dataset Development**|Riccardo Gallon et.al.|[2507.02602v1](http://arxiv.org/abs/2507.02602v1)|null|
+|**2025-07-03**|**LHC and dark matter implications of t-b-τ Yukawa unification in split SUSY GUTs**|Mureed Hussain et.al.|[2507.02566v1](http://arxiv.org/abs/2507.02566v1)|null|
